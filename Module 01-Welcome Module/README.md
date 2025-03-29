@@ -1,4 +1,5 @@
 ## Date: 26 March, 2025 - Wendesday
+
 ## Discipline and advice :
 - Foundation make a strong and solid.
 - Data Structure and Algorithm must be understand and 100% complete.
