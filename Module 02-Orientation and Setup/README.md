@@ -44,6 +44,8 @@
 
 ## 7. Setup resources
 
+- [Resources link](https://drive.google.com/drive/folders/1Rihd_w7F5WGk7DM581rx03U8_iNHYGiO?usp=sharing) this link whole setup resources are available
+- Resources link not working then you can follow under the content step by step.
 - Download and install VSCode.
 - Download and install Git.
 - Download and install MinGW.
@@ -241,3 +243,4 @@
             return 0;
         }
         ```
+    
