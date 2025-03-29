@@ -2,9 +2,11 @@
 
 1.CSE fundamentals with Phitron
 - Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.
-<br><br>
+<br>
 
 2.What we will learn from this course
 - All the main subjects of Computer Science, 500+ problem solving, programming contests, unlimited support, software engineering career, you can solve any problem related to the course live by screen sharing on Google Meet three times a day. What else do you need?
+<br><br>
+<hr>
 
-<h2 align="center">Class start: 05 April, 2025</h2>
+<p align="center" style="font-size: 1.5em; font-weight: bold;">Class start: 05 April, 2025</p>
