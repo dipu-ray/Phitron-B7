@@ -8,6 +8,4 @@
 <br><br>
 <hr>
 
-<div style="text-align: center; font-size: 1.5em; font-weight: bold;">
-    Class start: 05 April, 2025
-</div>
+<p align="center">Class start: 05 April, 2025</p>
