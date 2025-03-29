@@ -1,2 +1,10 @@
-# Phitron-B7
-CSE fundamentals with Phitron. 1 year course we will learn and explore to C, Problem Solving, C++, DSA, Competitive Programming and Machine Learning.
+<h1 align="center">Phitron Batch 07</h1>
+
+1.CSE fundamentals with Phitron
+- Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding problems to become an exceptionally well world-class Programmer.
+<br><br>
+
+2.What we will learn from this course
+- All the main subjects of Computer Science, 500+ problem solving, programming contests, unlimited support, software engineering career, you can solve any problem related to the course live by screen sharing on Google Meet three times a day. What else do you need?
+
+<h2 align="center">Class start: 05 April, 2025</h2>
