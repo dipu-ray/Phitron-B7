@@ -1,27 +1,27 @@
 ## Date: 27 March, 2025 - Thursday
 
-## 1. Text Instruction
+## 0. Text Instruction
 - আজ তোমাদের জন্য বিশেষ একটা দিন। কারন আজ থেকে শুরু হলো তোমাদের প্রোগ্রামিং শেখার জার্নি। অনেক এক্সাইটিং এবং লম্বা একটা জার্নি তবে স্টেপ বাই স্টেপ যদি তুমি আগাতে থাকো তাহলে দেখবা গন্তব্যে চলে আসছো। আজকের মডিউলটা হচ্ছে মূলত ওয়ার্মআপ মডিউল। এজন্য এই মডিউলটা হলো মডিউল নাম্বার শূন্য।
 
 - আজকে কিন্তু আমরা কোন প্রোগ্রামিং করবোনা। আজকে দেখবো ফাইট্রনে প্রোগ্রামিং শেখার জার্নি শুরুর আগে কি কি জিনিসগুলো জানা লাগবে সেগুলো প্লাস প্রোগ্রামিং করার বেসিক টুলস গুলোর সেটাপ। এই দুইটা টপিক মিলিয়ে আজকের ওরিয়েন্টেশন মডিউল কিছুটা বড় হয়েছে। এটা দেখে ঘাবড়ে যাওয়ার কিছু নাই। মেইন মডিউল গুলোতে ১০ টার বেশী ভিডিও থাকবেনা। আজকে যাস্ট তোমার কাজ হলো সেটাপ গুলো ঠিকমতো করা। এবং কোন প্রবলেম ফেইস করলে গ্রুপে অথবা সাপোর্ট সেশনের মাধ্যমে হেল্প নেওয়া। আর অবশ্যই ফাইট্রনের সম্পূর্ণ সিস্টেম নিয়ে যে আইডিয়া দেওয়া হয়েছে সেগুলো ভালোভাবে মনে রাখতে হবে।
 
 - সো তোমাদের প্রত্যেকের জন্য শুভ কামনা। সিরিয়াসলি এবং সিনসিয়ারলি শুরু করে দাও। এবং নিজের সাথে ওয়াদা করো যতো যা কিছুই আসুক এই একটা বছর আমি লেগে থাকবো। আর মনে রাখবে যে চেষ্টা করে সে হেরে যায়না। তুমি ডেডিকেটেড ভাবে আমাদের দেখানো রাস্তায় পরিশ্রম করতে থাকো। যাত্রার শেষে বিজয়ের হাসিটা একসাথেই আমরা হাসবো।
 
-## 2. Course urriculumn and weekly module release days
+## 1. Course urriculumn and weekly module release days
 - Weekly 4 days class. Days - saturday, sunday, tuesday, thursday.
 - Thursday wil be get assignment or exam. Like midterm, class test or final exam.
 - Semester break 7 days and cover to all topics.
 
-## 3. Build a routine and adjust a routine besed on your life situation
+## 2. Build a routine and adjust a routine besed on your life situation
 - 24 hours divided by 3 = 8.
 - Routine type = job holder, student and single person.
 
-## 4. Overview of exams deadline and marks
+## 3. Overview of exams deadline and marks
 - Task submit to 24 hours on-time then marks will get 100%.
 - Marks system are 100%, 90% and 80%.
 - Copy for learn and practice not examination.
 
-## 5. Six ways to get support from phitron
+## 4. Six ways to get support from phitron
 - Try to 1-2 hour problem solve. Otherwise go to help desk.
 - Search related problem in phitron help desk.
 - Post to your problem with full screenshot.
@@ -29,14 +29,14 @@
 - A mentor.
 - With phone call or email.
 
-## 6. Five things you need to do to get best out of Phitron
+## 5. Five things you need to do to get best out of Phitron
 - No sacrifice no gain. Likes- hangout, chilling, wasting time and others.
 - Make a dynamic routine. Still 1-2 week workable not for life time.
 - Mood swing likes- up and down. Coutinue with struggle and challenge, never give up.
 - Use to AI then you will banned.
 - Data structure and algorithm is more important with problem-solving.
 
-## 7. Setup resources
+## 6. Setup resources
 - [Resources link](https://drive.google.com/drive/folders/1Rihd_w7F5WGk7DM581rx03U8_iNHYGiO?usp=sharing) this link whole setup resources are available.
 - Resources link not working then you can follow under the content step by step.
 - Download and install VSCode.
@@ -235,7 +235,7 @@
         }
         ```
 
-## 8. How to join support session and uses of meet
+## 7. How to join support session and uses of meet
 - Morning 11:00am-01:00pm.
 - Evening 04:00pm-06:00pm.
 - Night 09:00pm-11:00pm.
@@ -243,7 +243,7 @@
 - Saturday Evening and Night.
 - Click support session, make description and then submit. Then you got the serial.
 
-## 9. Website video not playing issue
+## 8. Website video not playing issue
 - Check your internet connection.
 - Hard reload with Ctrl+Shift+R.
 - Logout and then login.
@@ -251,20 +251,20 @@
 - Try with VPN.
 - Contact to mentor.
 
-## 10. Install VS Code and Git Bash and Zoom in Windows
+## 9. Install VS Code and Git Bash and Zoom in Windows
 
-## 11. VS Code and Compiler Setup in Windows
+## 10. VS Code and Compiler Setup in Windows
 
-## 12. Windows Input_Output_with_text_file
+## 11. Windows Input_Output_with_text_file
 - Go to settings.json and go to under and comment out with text file and comment to without text file.
 - Make a input.txt and output.txt file in same folder. No space into two words.
 
-## 13. Installing Vs Code in Linux
+## 12. Installing Vs Code in Linux
 - Tasks.json file content are copy from phitron rousources and paste.
 
-## 14. How to use helpdesk
+## 13. How to use helpdesk
 - Your description above to 20 words. Then you can sobmit your helpdesk button.
 
-## 15. How to use Phitron book
+## 14. How to use Phitron book
 - Make notes for your own. Like module see and make your personal notes.
 - Whole module finished then you can visit to phitron book.
