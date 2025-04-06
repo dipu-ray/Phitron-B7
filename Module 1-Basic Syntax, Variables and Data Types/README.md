@@ -52,3 +52,22 @@ int main() {
 - \n = New line
 
 ## 7. Variables and Data Types Animated
+- int = Integer (10, -20, 2000)
+- float = Decimal number (3.14, -9.25, 100.75)
+- char = Characterb ('A', 'b', '$', '&')
+- double = Rather than float, decimal places
+- bool = True or False
+
+## 8. Variables in C
+- Variable diclare: Data_type variable_name;
+- Size: Computer know to binary like 0 and 1. They size are 1bit. So, basically computer works to binary code like 0 and 1.
+    - 8 bit = 1 byte
+    - 1024 byte = 1KB
+    - 1024KB = 1MB
+    - 1024MB = 1GB
+    - 1024GB = 1TB
+
+- Variable size:
+    - int = 4 byte
+    - float = 4 byte
+    - char = 1 byte
