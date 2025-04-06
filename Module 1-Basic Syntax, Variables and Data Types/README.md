@@ -36,14 +36,6 @@
     | Header Files | int main() |
 
 ## 4. First C Program Animated 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
-```
 
 ## 5. Running our first code
 
