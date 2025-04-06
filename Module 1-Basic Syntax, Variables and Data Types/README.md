@@ -92,7 +92,7 @@
 - float = 4 bytes
 - double = 8 bytes
 
-## Data type limitations in C
+## 14. Data type limitations in C
 - Program: `limitations.c`
 - 10 to the power 9 = 1000000000
 - int value work to `10 to the power 9`. Beacuse of, limitations.
