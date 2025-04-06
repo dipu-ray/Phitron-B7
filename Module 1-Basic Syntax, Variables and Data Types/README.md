@@ -38,6 +38,7 @@
 ## 4. First C Program Animated 
 
 ## 5. Running our first code
+- Program: `hello_world.c`
 
 ## 6. Printing in C
 - \t = Tab
@@ -51,6 +52,7 @@
 - bool = True or False
 
 ## 8. Variables in C
+- Program: `variable.c`
 - Variable diclare: Data_type variable_name;
 - Size: Computer know to binary like 0 and 1. They size are 1bit. So, basically computer works to binary code like 0 and 1.
     - 8 bit = 1 byte
@@ -65,9 +67,33 @@
     - char = 1 byte
 
 ## 9. Printing variables
+- Program: `printing_variables.c`
 - Format specifiers in C Programming:
     | **Specifier** | **Description** | **Example** |
     |---------------|-----------------|-------------|
     | `%d` | Signed decimal integer (int) | `printf("%d", 42);` |
     | `%f` | Floating point number (float or double) | `printf("%f", 3.14);` |
     | `%c` | Single character | `printf("%c", 'A');` |
+
+## 10. Boolean in C
+- Program: `boolean.c`
+- True or false data types
+
+## 11. Why We Need to Take Input Animated
+- Dynamically input from user to need and change.
+
+## 12. How to take input in C
+- Program: `take_input.c`
+- Use to scanf function
+
+## 13. Data Type Limitations Animation
+- int = 4 bytes
+- long long int = 8 bytes
+- float = 4 bytes
+- double = 8 bytes
+
+## Data type limitations in C
+- Program: `limitations.c`
+- 10 to the power 9 = 1000000000
+- int value work to `10 to the power 9`. Beacuse of, limitations.
+- long long int value work to `10 to the power 18`. Beacuse of, limitations.
