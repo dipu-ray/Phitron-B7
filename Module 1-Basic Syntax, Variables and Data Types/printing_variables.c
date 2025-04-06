@@ -10,5 +10,6 @@ int main() {
     printf("%d\n", age);
     printf("%f\n", pi); // By default it's show six numbers after float
     printf("%.2f\n", pi); //Control float numbers
+
     return 0;
 }
