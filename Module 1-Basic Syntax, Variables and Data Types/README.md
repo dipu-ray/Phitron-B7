@@ -18,3 +18,37 @@
 
 - The history of c programming language?
     - A successor to the programming language B, C was originally developed at Bell Labs by Ritchie between 1972 and 1973 to construct utilities running on Unix. It was applied to re-implementing the kernel of the Unix operating system. During the 1980s, C gradually gained popularity.
+
+## 2. Introduction
+- We will covered:
+    - Basic structure of c program
+    - Printing in c
+    - Taking input in c
+    - Variables and data types
+    - Data types limitations
+    - Variable naming rules
+
+## 3. Basic Structure of C Programming Animated
+- Humnan body have two parts, head and body. Same to in c programming have two part head and body.
+- Basic structure in c programming:
+    | Head | Body |
+    |----------|----------|
+    | Header Files | int main() |
+
+## 4. First C Program Animated 
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+## 5. Running our first code
+
+## 6. Printing in C
+- \t = Tab
+- \n = New line
+
+## 7. Variables and Data Types Animated
