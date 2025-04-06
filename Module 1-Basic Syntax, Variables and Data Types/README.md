@@ -66,8 +66,8 @@
 
 ## 9. Printing variables
 - Format specifiers in C Programming:
-    - | **Specifier** | **Description** | **Example** |
-      |---------------|-----------------|-------------|
-      | `%d` | Signed decimal integer (int) | `printf("%d", 42);` |
-      | `%f` | Floating point number (float or double) | `printf("%f", 3.14);` |
-      | `%c` | Single character | `printf("%c", 'A');` |
+    | **Specifier** | **Description** | **Example** |
+    |---------------|-----------------|-------------|
+    | `%d` | Signed decimal integer (int) | `printf("%d", 42);` |
+    | `%f` | Floating point number (float or double) | `printf("%f", 3.14);` |
+    | `%c` | Single character | `printf("%c", 'A');` |
