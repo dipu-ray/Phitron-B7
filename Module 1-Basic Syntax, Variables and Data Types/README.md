@@ -216,5 +216,34 @@ int main() {
 
 ## Extra Practice Problem (Optional)
 - Explain why we need long long int data type?
+    - We use long long int in C to store very large integer values (up to 18 or 19 digits) that don’t fit in a normal int, which is limited to about 2 billion. It helps avoid overflow for big numbers.
+
 - Write all the rules for naming a variable in C programming.
+    - Must start with a letter or `_`
+    - Can contain letters, digits, and `_`
+    - Cannot start with a digit
+    - No spaces or special characters
+    - Cannot be a C keyword (e.g., `int`, `float`)
+    - Case-sensitive (`num` ≠ `Num`)
+    - Max 31 characters (usually)
+
 - Write a C program that will take 2 numbers from the user and then print the 2nd number first and then first number.
+    - C Program:
+        ```
+        #include <stdio.h>
+
+        int main() {
+            int num1, num2;
+
+            printf("Enter the first number: ");
+            scanf("%d", &num1);
+
+            printf("Enter the second number: ");
+            scanf("%d", &num2);
+
+            printf("Second number: %d\n", num2);
+            printf("First number: %d\n", num1);
+
+            return 0;
+        }
+        ```
