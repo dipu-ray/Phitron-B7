@@ -93,10 +93,10 @@
 - double = 8 bytes
 
 ## 14. Data type limitations in C
-- Program: `limitations.c`
 - 10 to the power 9 = 1000000000
 - int value work to `10 to the power 9`. Beacuse of, limitations.
 - long long int value work to `10 to the power 18`. Beacuse of, limitations.
+- float and double bigger than float
 
 ## 15. Rules for Naming Variables Animated
 - Variable name must start with a letter, digits or underscore. Example: `main_123.c`
