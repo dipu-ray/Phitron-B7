@@ -68,3 +68,20 @@
 
 ## 11. Nested if else
 - Program: `nested_conditions.c`
+
+## 12. Nested if else Animated
+
+## 13. If else variation
+- Multiple ladder conditions use without else
+- They have so many conditions variation
+
+## 14. Summary
+- Knowing some operators
+- Arithmetic operators
+- Modulus operators
+- Relational operators
+- Logical operators
+- Knowing conditional related
+- Conditions variations
+- Nested conditions
+- Conditions ladder
