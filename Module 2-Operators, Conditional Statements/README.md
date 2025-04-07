@@ -54,13 +54,13 @@
 - Example with two conditions
 
 ## 7. If else
-- Program: `if_else.c`
+- Program: `conditions.c`
 
 ## 8. Conditional Statement Type 2 Animated
 - Example with three conditions
 
 ## 9. If else ladder
-- Program: `if_else_ladder.c`
+- Program: `conditions_ladder.c`
 - If else ladder is multiple conditions
 
 ## 10. Conditional Statement Type 3 Animated
