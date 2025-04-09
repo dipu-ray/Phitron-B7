@@ -40,3 +40,6 @@
 
 ## 9. Checking odd even with condition
 - Program: `even_odd.c`
+
+## 10. Loop with condition
+- Program: `loop_condition.c`
