@@ -20,13 +20,13 @@
 - Program: `for_loop.c`
 
 ## 3. For Loop Type-1 Animated
-- Explaination
+- Explaination program to `for_loop.c`
 
 ## 4. For loop II
 - Program: `for_loop2.c`
 
 ## 5. For Loop Type-2 Animated
-- Explaination
+- Explaination program to `for_loop2.c`
 
 ## 6. More for loop
 - Program: `more_for_loop.c`
@@ -34,3 +34,9 @@
 ## 7. Sum from 1 to N
 - Program: `sum_n.c`
 - QS: N number sumation 1 to 100
+
+## 8. Sum from 1 to N Animated
+- Explaination program to `sum_n.c`
+
+## 9. Checking odd even with condition
+- Program: `even_odd.c`
