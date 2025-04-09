@@ -18,3 +18,9 @@
 
 ## 2. For loop
 - Program: `for_loop.c`
+
+## 3. For Loop Type-1 Animated
+- Explaination
+
+## 4. For loop II
+- Program: `for_loop2.c`
