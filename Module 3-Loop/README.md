@@ -57,3 +57,13 @@
 
 ## 14. Continue Animated
 - Explaination continue statement `continue_statements.c`
+
+## 15. While loop
+- Program: `while_loop.c`
+
+## 16. While loop Animated
+- Explaination while loop `while_loop.c`
+
+## 17. Do while loop
+- Program: `do_while_loop.c`
+- 1st one again to run do while loop, then check to condition
