@@ -24,3 +24,9 @@
 
 ## 4. For loop II
 - Program: `for_loop2.c`
+
+## 5. For Loop Type-2 Animated
+- Explaination
+
+## 6. More for loop
+- Program: `more_for_loop.c`
