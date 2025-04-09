@@ -30,3 +30,7 @@
 
 ## 6. More for loop
 - Program: `more_for_loop.c`
+
+## 7. Sum from 1 to N
+- Program: `sum_n.c`
+- QS: N number sumation 1 to 100
