@@ -43,3 +43,17 @@
 
 ## 10. Loop with condition
 - Program: `loop_condition.c`
+
+## 11. Break statement
+- Program: `break_statements.c`
+- Break statements stop a loop
+
+## 12. Break Animated
+- Explaination break statement `break_statements.c`
+
+## 13. Continue statement
+- Program: `continue_statements.c`
+- Continue means to skip
+
+## 14. Continue Animated
+- Explaination continue statement `continue_statements.c`
