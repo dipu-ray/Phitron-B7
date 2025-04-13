@@ -216,6 +216,12 @@ int main() {
 
 ## Extra Practice Problem (Optional)
 - Explain why we need long long int data type?
+- Write all the rules for naming a variable in C programming.
+- Write a C program that will take 2 numbers from the user and then print the 2nd number first and then first number.
+
+<br>
+
+- Explain why we need long long int data type?
     - We use long long int in C to store very large integer values (up to 18 or 19 digits) that don’t fit in a normal int, which is limited to about 2 billion. It helps avoid overflow for big numbers.
 
 - Write all the rules for naming a variable in C programming.
