@@ -302,6 +302,7 @@ int main()
         }
     ```
     - Converted to while loop:
+
     ```
         int j = 5;
         while(j <= 10) {
@@ -313,6 +314,8 @@ int main()
 
 - Write the differences between break and continue
     - Difference Between `break` and `continue` in C
+
+    <br>
 
     | Feature     | `break`                              | `continue`                                |
     |-------------|---------------------------------------|--------------------------------------------|
