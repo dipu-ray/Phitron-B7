@@ -1,4 +1,21 @@
-## Date: 27 March, 2025 - Thursday
+# Date: 27 March, 2025 - Thursday
+
+## Topics:
+0. Text Instruction
+1. Course curriculum and weekly module release days
+2. Build a routine and adjust a routine based on your life situation
+3. Overview of exams deadline and marks
+4. Six ways to get support from phitron
+5. Five things you need to do to get best out of Phitron
+6. Setup resources
+7. How to join support session and uses of meet
+8. Website video not playing issue
+9. Install VS Code and Git Bash and Zoom in Windows
+10. VS Code and Compiler Setup in Windows
+11. Windows Input_Output_with_text_file
+12. Installing Vs Code in Linux
+13. How to use help desk
+14. How to use Phitron book
 
 ## 0. Text Instruction
 - আজ তোমাদের জন্য বিশেষ একটা দিন। কারন আজ থেকে শুরু হলো তোমাদের প্রোগ্রামিং শেখার জার্নি। অনেক এক্সাইটিং এবং লম্বা একটা জার্নি তবে স্টেপ বাই স্টেপ যদি তুমি আগাতে থাকো তাহলে দেখবা গন্তব্যে চলে আসছো। আজকের মডিউলটা হচ্ছে মূলত ওয়ার্মআপ মডিউল। এজন্য এই মডিউলটা হলো মডিউল নাম্বার শূন্য।
@@ -7,12 +24,12 @@
 
 - সো তোমাদের প্রত্যেকের জন্য শুভ কামনা। সিরিয়াসলি এবং সিনসিয়ারলি শুরু করে দাও। এবং নিজের সাথে ওয়াদা করো যতো যা কিছুই আসুক এই একটা বছর আমি লেগে থাকবো। আর মনে রাখবে যে চেষ্টা করে সে হেরে যায়না। তুমি ডেডিকেটেড ভাবে আমাদের দেখানো রাস্তায় পরিশ্রম করতে থাকো। যাত্রার শেষে বিজয়ের হাসিটা একসাথেই আমরা হাসবো।
 
-## 1. Course urriculumn and weekly module release days
+## 1. Course curriculumn and weekly module release days
 - Weekly 4 days class. Days - saturday, sunday, tuesday, thursday.
 - Thursday wil be get assignment or exam. Like midterm, class test or final exam.
 - Semester break 7 days and cover to all topics.
 
-## 2. Build a routine and adjust a routine besed on your life situation
+## 2. Build a routine and adjust a routine based on your life situation
 - 24 hours divided by 3 = 8.
 - Routine type = job holder, student and single person.
 
@@ -262,7 +279,7 @@
 ## 12. Installing Vs Code in Linux
 - Tasks.json file content are copy from phitron rousources and paste.
 
-## 13. How to use helpdesk
+## 13. How to use help desk
 - Your description above to 20 words. Then you can sobmit your helpdesk button.
 
 ## 14. How to use Phitron book
