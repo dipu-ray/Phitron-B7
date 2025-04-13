@@ -17,7 +17,7 @@
 13. If else variation
 14. Summary
 - Quiz: Module 02
-- Extra Practice Problem (Optional):
+- Extra Practice Problem (Optional)
 
 ## 0. Introduction
 - Operators
