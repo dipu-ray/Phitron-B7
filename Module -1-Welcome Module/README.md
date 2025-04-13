@@ -1,5 +1,8 @@
 # Date: 26 March, 2025 - Wednesday
 
+## Topics:
+0. Discipline and advice:
+
 ## Discipline and advice:
 - Foundation make a strong and solid.
 - Data Structure and Algorithm must be understand and 100% complete.
