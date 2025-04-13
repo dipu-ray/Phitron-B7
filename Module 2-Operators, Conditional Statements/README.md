@@ -1,4 +1,23 @@
-## Date: 06 April, 2025 - Sunday
+# Date: 06 April, 2025 - Sunday
+
+## Topics:
+0. Introduction
+1. Arithmetic Operators
+2. Modulus Operators
+3. Relational Operators
+4. Logical Operators
+5. Logical Operator Animated
+6. Conditional Statement Type 1 Animated
+7. If else
+8. Conditional Statement Type 2 Animated
+9. If else ladder
+10. Conditional Statement Type 3 Animated
+11. Nested if else
+12. Nested if else Animated
+13. If else variation
+14. Summary
+- Quiz: Module 02
+- Extra Practice Problem (Optional):
 
 ## 0. Introduction
 - Operators
@@ -39,13 +58,11 @@
     - `T && F = F`
     - `F && T = F`
     - `F && F = F`
-
 - OR 
     - `T || T = T`
     - `T || F = T`
     - `F || T = T`
     - `F || F = F`
-
 - NOT
     - `!T = F`
     - `!F = T`
