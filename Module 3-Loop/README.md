@@ -1,4 +1,28 @@
-## Date: 08 April, 2025 - Tuesday
+# Date: 08 April, 2025 - Tuesday
+
+## Topics:
+0. Introduction
+1. What is loop
+2. For loop
+3. For Loop Type-1 Animated
+4. For loop II
+5. For Loop Type-2 Animated
+6. More for loop
+7. Sum from 1 to N
+8. Sum from 1 to N Animated
+9. Checking odd even with condition
+10. Loop with condition
+11. Break statement
+12. Break Animated
+13. Continue statement
+14. Continue Animated
+15. While loop
+16. While loop Animated
+17. Do while loop
+18. How to save yourself from infinity loop
+19. Summary
+- Quiz: Module 03
+- Extra Practice Problem (Optional)
 
 ## 0. Introduction
 - What is loop?
@@ -339,4 +363,3 @@ int main()
         }
         // Output: 1 2 4 5
     ```
-
