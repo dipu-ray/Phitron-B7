@@ -54,9 +54,7 @@
         <li>Check to support season schedule.</li>
         <li>A mentor.</li>
         <li>With phone call or email.</li>
-        <code>
-            dshadklsfhalksdf
-        </code>
+        <code>printf("Hello world");</code>
     <ul>
 </details>
 
