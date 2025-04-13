@@ -10,3 +10,13 @@
 
 <p align="center">Date of purchase: 18 March, 2025</p>
 <p align="center">Class start: 05 April, 2025</p>
+<br><br>
+
+<details>
+    <summary>
+        <strong>Week 1: Orientation</strong>
+    </summary>
+
+- Welcome Module
+- 
+</details>
