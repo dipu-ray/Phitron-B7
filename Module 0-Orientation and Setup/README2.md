@@ -54,7 +54,17 @@
         <li>Check to support season schedule.</li>
         <li>A mentor.</li>
         <li>With phone call or email.</li>
-        <code>printf("Hello world");</code>
+        <code>
+            #include <stdio.h>
+            int main() {
+                int i = 8;
+                while(i <= 200) {
+                    printf("%d\n", i);
+                    i += 8;
+                }
+                return 0;
+            }
+        </code>
     <ul>
 </details>
 
