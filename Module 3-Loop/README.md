@@ -261,6 +261,13 @@ int main()
 
 ## Extra Practice Problem (Optional):
 - Write a c program to print 8’s time table to 200
+- Write a c program to print all odd number from 100 to 1
+- Practice today’s all problem with while loop
+- Write the differences between break and continue
+
+<br>
+
+- Write a c program to print 8’s time table to 200
     ``` 
         #include <stdio.h>
 
@@ -305,7 +312,7 @@ int main()
     - Try converting all your quiz problems like this for practice!
 
 - Write the differences between break and continue
-- ### Difference Between `break` and `continue` in C
+    - Difference Between `break` and `continue` in C
 
     | Feature     | `break`                              | `continue`                                |
     |-------------|---------------------------------------|--------------------------------------------|
