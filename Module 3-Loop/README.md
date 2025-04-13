@@ -20,23 +20,23 @@
 - Program: `for_loop.c`
 
 ## 3. For Loop Type-1 Animated
-- Explaination program to `for_loop.c`
+- Explanation program to `for_loop.c`
 
 ## 4. For loop II
 - Program: `for_loop2.c`
 
 ## 5. For Loop Type-2 Animated
-- Explaination program to `for_loop2.c`
+- Explanation program to `for_loop2.c`
 
 ## 6. More for loop
 - Program: `more_for_loop.c`
 
 ## 7. Sum from 1 to N
 - Program: `sum_n.c`
-- QS: N number sumation 1 to 100
+- QS: N number summation 1 to 100
 
 ## 8. Sum from 1 to N Animated
-- Explaination program to `sum_n.c`
+- Explanation program to `sum_n.c`
 
 ## 9. Checking odd even with condition
 - Program: `even_odd.c`
@@ -49,20 +49,20 @@
 - Break statements stop a loop
 
 ## 12. Break Animated
-- Explaination break statement `break_statements.c`
+- Explanation break statement `break_statements.c`
 
 ## 13. Continue statement
 - Program: `continue_statements.c`
 - Continue means to skip
 
 ## 14. Continue Animated
-- Explaination continue statement `continue_statements.c`
+- Explanation continue statement `continue_statements.c`
 
 ## 15. While loop
 - Program: `while_loop.c`
 
 ## 16. While loop Animated
-- Explaination while loop `while_loop.c`
+- Explanation while loop `while_loop.c`
 
 ## 17. Do while loop
 - Program: `do_while_loop.c`
