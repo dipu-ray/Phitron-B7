@@ -3,7 +3,7 @@
 ## Topics:
 0. Discipline and advice:
 
-## Discipline and advice:
+## 0. Discipline and advice:
 - Foundation make a strong and solid.
 - Data Structure and Algorithm must be understand and 100% complete.
 - Capable for any problem and solve any problems.
