@@ -54,6 +54,7 @@
         <li>Check to support season schedule.</li>
         <li>A mentor.</li>
         <li>With phone call or email.</li>
+        <pre>
         <code>
             #include <stdio.h>
             int main() {
@@ -65,6 +66,7 @@
                 return 0;
             }
         </code>
+        </pre>
     <ul>
 </details>
 
