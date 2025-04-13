@@ -1,4 +1,12 @@
-## Date: 10 April, 2025 - Thursday
+# Date: 10 April, 2025 - Thursday
+
+## Topics:
+- Exam Instructions [Must Read]
+- Quiz Module 04
+0. Introduction to Hackerrank
+1. Warning Warning Warning (Must Watch)
+2. Exam question explanation
+- Assignment 01
 
 ## Exam Instructions [Must Read]
 - Introduction to Programming Language
@@ -45,4 +53,22 @@
 - Previous statements judgest (Exam Instructions), 5 out 5.
 
 ## 0. Introduction to Hackerrank
-- 
+- Create an account on Hackerrank
+- Then add to email on headline
+- Explanation to problem solve and marks
+- Know to hackerrank leaderboard, ranking and timing.
+
+## 1. Warning Warning Warning (Must Watch)
+- Don't copy others, otherwise you will banned from this course.
+- Problem solve with self understanding.
+
+## 2. Exam question explanation
+- Explanation 5 problems from assignment 1
+
+## Assignment 01
+- There have two buttons
+    - Resubmit
+        - Resubmit with 5 gem or 2 marks
+    - My Submission
+        - Profile Link: `https://www.hackerrank.com/dipu34786
+        - Username: dipu34786
