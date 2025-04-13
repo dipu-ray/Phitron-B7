@@ -1,4 +1,24 @@
-## Date: 05 April, 2025 - Saturday
+# Date: 05 April, 2025 - Saturday
+
+## Topics:
+0. Course Overview
+1. Introduction
+2. Basic Structure of C Programming Animated
+3. First C Program Animated
+4. Running our first code
+5. Printing in C
+6. Variables and Data Types Animated
+7. Variables in C
+8. Printing variables
+9. Boolean in C
+10. Why We Need to Take Input Animated
+11. How to take input in C
+12. Data Type Limitations Animation
+13. Data type limitations in C
+14. Rules for Naming Variables Animated
+15. Summary
+- Quiz: Module 01
+- Extra Practice Problem (Optional)
 
 ## 0. Course Overview
 - What is Programming?
@@ -35,7 +55,7 @@
     |----------|----------|
     | Header Files | int main() |
 
-## 3. First C Program Animated 
+## 3. First C Program Animated
 
 ## 4. Running our first code
 - Program: `hello_world.c`.
