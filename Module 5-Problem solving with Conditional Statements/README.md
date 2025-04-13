@@ -57,14 +57,46 @@
     - Then create a new file `main.c` and type to `snippet` then you will get a c program structure.
 
 ## 1. Welcome for you with conditions
+- Program: `.c`
 - Explain and solve this c program
 
 ## 2. Multiples
+- Program: `.c`
 - Explain and solve this c program
 
 ## 3. First Digit
+- Program: `.c`
 - Explain and solve this c program
 
 ## 4. ASCII value
+- Program: `.c`
 - Each every character `(char)` has a value. They called are `ASCII value`.
-- 
+- The full form of ASCII is `American Standard Code for Information Interchange`.
+- Each every data can't store with a char. They are store to ASCII value.
+- You can seach to google and see this `ASCII table`.
+
+## 5. Char
+- Program: `.c`
+- Explain and solve this c program
+
+## 6. Capital or small or digit
+- Program: `.c`
+- Explain and solve this c program
+
+## 7. Max and min
+- Program: `.c`
+- Explain and solve this c program
+
+## 8. Summary
+- Solve this six problem.
+- Then you have a time go to optional problem solving or extra problem solving and solve it.
+
+## Quiz: Module 05
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## 🧠 C Programming Multiple Choice Questions with Explanations
+
+## Extra Practice Problem and Quiz Explanation Module 05
+
+## Feedback Form Module 05
