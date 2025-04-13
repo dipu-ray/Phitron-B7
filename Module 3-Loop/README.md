@@ -302,6 +302,7 @@ int main()
         }
     ```
     - Converted to while loop:
+    <br>
 
     ```
         int j = 5;
