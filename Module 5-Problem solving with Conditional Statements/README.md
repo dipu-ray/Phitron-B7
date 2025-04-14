@@ -83,7 +83,7 @@
     - You can need more last digits then you can add more modulus 0. 
 
 ## 4. ASCII value
-- Program: `.c`
+- Program: `ascii_value.c`
 - Each every character `(char)` has a value. They called are `ASCII value`.
 - The full form of ASCII is `American Standard Code for Information Interchange`.
 - Each every data can't store with a char. They are store to ASCII value.
