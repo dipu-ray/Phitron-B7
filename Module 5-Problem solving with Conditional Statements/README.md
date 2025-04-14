@@ -90,8 +90,12 @@
 - You can seach to google and see this `ASCII table`.
 
 ## 5. Char
-- Program: `.c`
+![This is a problem number four (4) image](./images/problem_4.png)
+- Program: `problem_4.c`
 - Explain and solve this c program
+- When you find out the `lowercase character` to `uppercase character` then subtraction `-32`.
+- When you find out the `uppercase character` to `lowercase character` then summation `+32`.
+- You can check `ASCII value table` then you can understand.
 
 ## 6. Capital or small or digit
 - Program: `.c`
