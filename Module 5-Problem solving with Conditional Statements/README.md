@@ -98,7 +98,8 @@
 - You can check `ASCII value table` then you can understand.
 
 ## 6. Capital or small or digit
-- Program: `.c`
+![This is a problem number five (5) image](./images/problem_5.png)
+- Program: `problem_5.c`
 - Explain and solve this c program
 
 ## 7. Max and min
