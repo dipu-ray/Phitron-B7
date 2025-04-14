@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    //Problem 1: I. Welcome for you with condition
+    // Problem 1: I. Welcome for you with condition
     int A, B;
     scanf("%d %d", &A, &B);
 

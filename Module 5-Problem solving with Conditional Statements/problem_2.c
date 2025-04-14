@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    //Problem 2: J. Multiples
+    // Problem 2: J. Multiples
     int a, b;
     scanf("%d %d", &a, &b);
 

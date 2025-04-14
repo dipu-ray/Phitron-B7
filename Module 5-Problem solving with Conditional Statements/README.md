@@ -67,7 +67,8 @@
 - Explain and solve this c program
 
 ## 3. First Digit
-- Program: `.c`
+![This is a problem number three (3) image](./images/problem_3.png)
+- Program: `problem_3.c`
 - Explain and solve this c program
 
 ## 4. ASCII value
