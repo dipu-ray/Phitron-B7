@@ -70,6 +70,11 @@
 ![This is a problem number three (3) image](./images/problem_3.png)
 - Program: `problem_3.c`
 - Explain and solve this c program
+- If you digit cut out of the last
+    - 365 = 365
+    - `365 / 10 = 35`
+    - `365 / 100 = 3`
+    - You can add more 0 then you can you cut out more numbers from last digits
 
 ## 4. ASCII value
 - Program: `.c`
