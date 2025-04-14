@@ -57,12 +57,13 @@
     - Then create a new file `main.c` and type to `snippet` then you will get a c program structure.
 
 ## 1. Welcome for you with conditions
-- ![This is a problem number one image](./images/problem_1.png)
+- ![This is a problem number one (1) image](./images/problem_1.png)
 - Program: `problem_1.c`
 - Explain and solve this c program
 
 ## 2. Multiples
-- Program: `.c`
+![This is a problem number two (2) image](./images/problem_2.png)
+- Program: `problem_2.c`
 - Explain and solve this c program
 
 ## 3. First Digit
