@@ -74,7 +74,13 @@
     - 365 = 365
     - `365 / 10 = 35`
     - `365 / 100 = 3`
-    - You can add more 0 then you can you cut out more numbers from last digits
+    - You can add more 0 then you can cut out more numbers from last digits
+- If you need to last digit from 4 digits
+    - 4569 = 4569
+    - `4569 % 10 = 9`
+    - `4569 % 100 = 69`
+    - `4569 % 1000 = 569`
+    - You can need more last digits then you can add more modulus 0. 
 
 ## 4. ASCII value
 - Program: `.c`
