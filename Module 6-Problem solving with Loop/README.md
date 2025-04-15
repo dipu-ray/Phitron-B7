@@ -34,7 +34,14 @@
 - The clear concept of `Nested Loop`
 
 ## 1. Increment Decrement operator
-- 
+- Increment shortcut
+    - `i++` = `i = i + 1` It's only can increment 1
+    - `i+=1` = `i = i + 1`
+    - `i+=2` = `i = i + 2`
+    - `i+=3` = `i = i + 3`
+    <br><br>
+    - `i*=3` = `i = i * 3`
+    - `i/=3` = `i = i / 3`
 
 ## 2. Pre and post increment
 - xyz
