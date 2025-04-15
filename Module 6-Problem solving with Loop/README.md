@@ -50,7 +50,14 @@
 - `Build Logic`: Program thinking then see the output
 
 ## 3. Even Numbers
-- xyz
+- ![This is a problem number one (1) image](./images/problem_1.png)
+- Program: `B_Even_Numbers.c`
+- Explanation problem one (1)
+- You can easily handle input and output with repeat checking with this two step:
+    - `Step 1`: Search to google `competitive companion` Go to `Chrome Web Store` and add to this extension in your web browser and pinned.
+    - `Step 2`: Go to your VSCode and go to extension. Here search to `cph (Competitive Programming H)` and install.
+
+    - Go to problems in the web browser and click to `competitive companion extension` and then back to vscode and set the compiler which you will try.
 
 ## 4. Even odd pos neg I
 - xyz
