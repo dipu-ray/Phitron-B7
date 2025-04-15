@@ -53,7 +53,7 @@
 - ![This is a problem number one (1) image](./images/problem_1.png)
 - Program: `B_Even_Numbers.c`
 - Explanation problem one (1)
-- You can easily handle input and output with repeat checking with this two step:
+- You can easily handle input and output without repeat checking with this two step:
     - `Step 1`: Search to google `competitive companion` Go to `Chrome Web Store` and add to this extension in your web browser and pinned.
     - `Step 2`: Go to your VSCode and go to extension. Here search to `cph (Competitive Programming H)` and install.
 
