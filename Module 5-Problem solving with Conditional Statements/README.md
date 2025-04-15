@@ -103,7 +103,8 @@
 - Explain and solve this c program
 
 ## 7. Max and min
-- Program: `.c`
+![This is a problem number six (6) image](./images/problem_6.png)
+- Program: `problem_6.c`
 - Explain and solve this c program
 
 ## 8. Summary
@@ -116,6 +117,205 @@
 
 ## 🧠 C Programming Multiple Choice Questions with Explanations
 
+## 1. Conditional Comparison
+```c
+if(a > b && b > c) {
+    printf("%d", a);
+} else if(b > a && c > b) {
+    printf("%d", b);
+} else {
+    printf("%d", c);
+}
+```
+**Given:** `a = 5, b = 1, c = 3`
+- `5 > 1 && 1 > 3` → `true && false` → false
+- `1 > 5 && 3 > 1` → `false && true` → false
+- So, `else` block executes → Output: `3`
+
+✅ **Correct Answer:** `C) 3`
+
+---
+
+## 2. Sequential If Statements
+```c
+int x = 1;
+if (x < 5) {
+    printf("hello");
+}
+if (x <= 10) {
+    printf("hi");
+} else {
+    printf("no");
+}
+```
+**Output:** `hellohi`
+- Both conditions are true, so both `hello` and `hi` print.
+
+✅ **Correct Answer:** `C) hellohi`
+
+---
+
+## 3. Even or Odd, Positive or Negative
+```c
+if(x % 2 != 0) {
+    printf("Odd ");
+} else {
+    printf("Even ");
+}
+if(x > 0) {
+    printf("Positive ");
+} else {
+    printf("Negative ");
+}
+```
+**Given:** `x = 4`
+- `4 % 2 != 0` → false → "Even "
+- `4 > 0` → true → "Positive "
+
+✅ **Correct Answer:** `B) Even Positive`
+
+---
+
+## 4. Nested If-Else
+```c
+int x = 0;
+if (x == 1) {
+    if (x == 0) {
+        printf("inside if if\n");
+    } else {
+        printf("inside if else\n");
+    }
+} else {
+    printf("inside else\n");
+}
+```
+- `x == 1` → false → else block executes
+
+✅ **Correct Answer:** `C) inside else`
+
+---
+
+## 5. Grading Logic (Else-If)
+```c
+if(marks >= 80) {
+    printf("A+");
+} else if(marks >= 70) {
+    printf("A");
+} else if(marks >= 70) {
+    printf("A-");
+}
+```
+**Given:** `marks = 76`
+- First condition false
+- Second condition true → "A"
+- Third `else if` is skipped
+
+✅ **Correct Answer:** `B) A`
+
+---
+
+## 6. Greater, Less or Equal to 10
+```c
+int num = 5;
+if (num > 10) {
+    printf("Greater than 10");
+} else if (num < 10) {
+    printf("Less than 10");
+} else {
+    printf("Equal to 10");
+}
+```
+- `5 < 10` → true → "Less than 10"
+
+✅ **Correct Answer:** `B) Less than 10`
+
+---
+
+## 7. Grading Logic (Multiple Ifs)
+```c
+if(marks >= 80) {
+    printf("A+");
+}
+if(marks >= 70) {
+    printf("A");
+}
+if(marks >= 70) {
+    printf("A-");
+}
+```
+**Given:** `marks = 92`
+- All conditions true → prints all: A+ A A-
+
+✅ **Correct Answer:** `D) A+AA-`
+
+---
+
+## 8. No Output Case
+```c
+int x = 0;
+if (x == 1) {
+    if (x >= 0) {
+        printf("true\n");
+    } else {
+        printf("false\n");
+    }
+}
+```
+- Outer `if (x == 1)` is false → No output
+
+✅ **Correct Answer:** `D) No output`
+
+---
+
+## 9. Nested Ifs with Compound Conditions
+```c
+int x = 5;
+int y = 4;
+if(x >= y && x < y + 4) {
+    if(y < 5) {
+        printf("hi ");
+    }
+    if(y < 10) {
+        printf("hi ");
+    }
+} else {
+    printf("hello ");
+}
+```
+- Both inner conditions true → "hi hi"
+
+✅ **Correct Answer:** `D) hi hi`
+
+---
+
+## 10. Nested If-Else with Else-If
+```c
+int x = 5;
+int y = 4;
+if(x >= y && x < y + 4) {
+    if(y < 5) {
+        printf("hi ");
+    } else if(y < 10) {
+        printf("hi ");
+    }
+} else {
+    printf("hello ");
+}
+```
+- First inner `if(y < 5)` is true → Only one "hi " printed
+
+✅ **Correct Answer:** `A) hi`
+
+---
+
 ## Extra Practice Problem and Quiz Explanation Module 05
+- Problem C: Simple Calculator
+    - ![This is a optional problem no c image](./images/problem_c.png)
+- Problem D: Difference
+    - ![This is a optional problem no d image](./images/problem_d.png)
+
+- Or [Problem Link C](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C), [Problem Link D](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D)
 
 ## Feedback Form Module 05
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Link](https://forms.gle/DH5mjuGD1x2EZ4z29)
