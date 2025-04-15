@@ -44,7 +44,10 @@
     - `i/=3` = `i = i / 3`
 
 ## 2. Pre and post increment
-- xyz
+- Pre increment `++i`
+- Post increment `i++`
+- Program: `pre_post.c`
+- `Build Logic`: Program thinking then see the output
 
 ## 3. Even Numbers
 - xyz
