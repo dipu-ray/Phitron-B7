@@ -21,13 +21,20 @@
 - Feedback Form Module 06
 
 ## Text Instructions: Module 6 [Must Read]
-- xyz
+- [মডিউলের প্রবলেম লিংক-](https://docs.google.com/document/d/1NDdqTi6fvbM2AZxl8B17XKizAMo2EkbXKOqC5-SXI9o/edit?usp=sharing)
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Feedback Form Link](https://forms.gle/DH5mjuGD1x2EZ4z29)
 
 ## 0. Introduction
-- xyz
+- Problem solving with Loop
+- One more clear to `increment` and `decrement operator`
+    - Have two variation:
+        - `Pre increment/decrement`
+        - `Post increment/decrement`
+- The clear concept of `Nested Loop`
 
 ## 1. Increment Decrement operator
-- xyz
+- 
 
 ## 2. Pre and post increment
 - xyz
