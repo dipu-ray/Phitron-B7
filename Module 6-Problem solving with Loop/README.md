@@ -305,13 +305,20 @@ for(int i=0; i<=10; i++)
 **C)** 9  
 **D)** 10  
 > **Explanation:** লুপটি i=0,1,2 (৩ বার) চলবে এবং প্রতিবার "hi " প্রিন্ট করবে। তারপরও লুপ চলতে থাকবে i=3 থেকে i=10 পর্যন্ত, কিন্তু i এর মান 2 এর চেয়ে বড় হওয়ায় সবসময় continue স্টেটমেন্ট কাজ করবে যার ফলে বাকি লুপের জন্য  আর "hi " প্রিন্ট করা হবে না।
-
-
 ---
 
+## Practice Extra Problem
+- Problem 1
+    - ![This is a problem number three (3) image](./images/extra_problem1.png)
 
+- Problem 2
+    - ![This is a problem number three (3) image](./images/extra_problem2.png)
 
-## Practice Extra Problem 
+- Problem 3
+    - ![This is a problem number three (3) image](./images/extra_problem3.png)
+
+- [Extra Problems Link](https://docs.google.com/document/d/1k3-3nSz-zHxwdsa1cPcFR9KfFFJdAQIeAQfkdsVoXVI/edit?usp=sharing)
 
 ## Feedback Form Module 06
-- xyz
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
