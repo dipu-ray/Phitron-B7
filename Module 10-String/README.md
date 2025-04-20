@@ -1,0 +1,48 @@
+# Date: 20 April, 2025 - Sunday
+
+## Topics:
+- Text Instructions
+0. Introduction
+1. What is string Animated
+2. What is string
+3. String input and output
+4. Null character
+5. String input with space
+6. String input Animated
+7. String initialization
+8. String initialization Animated
+9. Length of a string
+10. Length of a string Animated
+11. Length of a string using strlen
+12. Lets use getline
+13 Count
+14 Summary
+- Quiz: Module 10
+- Extra practice problem and quiz explanation module 10
+- Feedback form module 10
+
+## Text Instructions
+- [মডিউলের প্রবলেম লিংক-](https://docs.google.com/document/d/1fPnGTrZ_zKMtYs52WO7bNyG7vAdZdQaTBW6N5wPu-Qs/edit?usp=sharing)
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব। [Feedback Form:](https://forms.gle/DH5mjuGD1x2EZ4z29)
+
+## 0. Introduction
+- What is string?
+    - String is a character array
+- String input and output
+- Length of a string
+- Problem solving with strings
+
+## 1. What is string Animated
+- String is character type of array
+- `char a[5];` - `a = {'a', 'B', '{', ',' '#'};`
+- index are same. 0 to start.
+
+## 2. What is string
+- Program: `string.c`
+- Character string space give to 1 index.
+- `%d %lld %f %lf` they are do not give to space`-`
+- `%c` are give in to space in index.
+- Space is a character value.
+
+## 3. String input and output
+- 
