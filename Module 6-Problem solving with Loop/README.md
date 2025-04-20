@@ -65,7 +65,8 @@
 - Explanation problem two (2)
 
 ## 5. Even odd pos neg II
-- xyz
+- Part I had done 50% code
+- And part II have done 50%. Then == 100%
 
 ## 6. Fixed Password
 - xyz
