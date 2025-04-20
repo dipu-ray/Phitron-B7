@@ -41,11 +41,11 @@
 - Variable --> ar[0], ar[1], ar[2], ar[3], ar[4]
 - Memory --> 530, 534, 538, 542, 546
 
-## 4 Accessing elements of an array
+## 4. Accessing elements of an array
 - Program: `array.c`
 - Explanation this program in video
 
-## 5 Memory management of an array
+## 5. Memory management of an array
 - `int x = 10;` Can be size are 4 bytes
     - `1056`
     - `1057`
@@ -62,13 +62,21 @@
     - `540 + 12`
     - `552`
 
-## 6 Array input output Animated
+## 6. Array input output Animated
 - Array using with loop
 - loop start 0 when it's for array. Because, array index are 0 start.
 
-## 7 Array input and output
+## 7. Array input and output
 - Program: `array_io.c`
 - Explanation this program in video
 
-## 8 Reverse printing of an array
+## 8. Reverse printing of an array
 - Program: `reverse_array.c`
+
+## 9. Reverse printing of an array Animated
+- Explanation `reverse_array.c` this program
+
+## 10. Array initialization
+- Program: `array_initialization.c`
+- Array size of 5. You type only 3. then others 2 two index are auto 0. Then `6` number of index are `garbage` value.
+- Try to yourself `array initialization`.
