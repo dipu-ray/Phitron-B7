@@ -43,3 +43,24 @@
 
 ## 4 Accessing elements of an array
 - Program: `array.c`
+- Explanation this program in video
+
+## 5 Memory management of an array
+- `int x = 10;` Can be size are 4 bytes
+    - `1056`
+    - `1057`
+    - `1058`
+    - `1059`
+- `int y = 20;` Can be size are 4 bytes
+    - `1060`
+    - `1061`
+    - `1062`
+    - `1063`
+- `x` and `y` variable store `4 + 4 = 8 bytes`
+- `a[3] = 20;`
+    - `540 + (3 * 4)`
+    - `540 + 12`
+    - `552`
+
+## 6 Array input output Animated
+- 
