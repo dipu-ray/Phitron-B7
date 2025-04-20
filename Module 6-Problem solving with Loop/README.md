@@ -69,7 +69,7 @@
 - And part II have done 50%. Then == 100%
 
 ## 6. Fixed Password
-- ![This is a problem number two (2) image](./images/problem_3.png)
+- ![This is a problem number three (3) image](./images/problem_3.png)
 - Program: `problem_3.c`
 - Explanation problem three (3)
 
@@ -78,7 +78,9 @@
 - It's a example video.
 
 ## 8. Max and Min
-- xyz
+- ![This is a problem number four (4) image](./images/problem_4.png)
+- Program: `problem_4.c`
+- Explanation problem four (4)
 
 ## 9. Multiplication Table
 - xyz
