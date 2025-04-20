@@ -69,7 +69,9 @@
 - And part II have done 50%. Then == 100%
 
 ## 6. Fixed Password
-- xyz
+- ![This is a problem number two (2) image](./images/problem_3.png)
+- Program: `problem_3.c`
+- Explanation problem three (3)
 
 ## 7. Finding maximum value Animated
 - xyz
