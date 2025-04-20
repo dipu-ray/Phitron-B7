@@ -74,7 +74,8 @@
 - Explanation problem three (3)
 
 ## 7. Finding maximum value Animated
-- xyz
+- Check every value and find the maximum value
+- It's a example video.
 
 ## 8. Max and Min
 - xyz
