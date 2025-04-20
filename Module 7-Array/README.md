@@ -63,4 +63,8 @@
     - `552`
 
 ## 6 Array input output Animated
-- 
+- Array using with loop
+- loop start 0 when it's for array. Because, array index are 0 start.
+
+## 7 Array input and output
+- Program: `array_io.c`
