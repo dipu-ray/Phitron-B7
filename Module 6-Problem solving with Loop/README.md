@@ -93,10 +93,10 @@
 - Explanation problem six (6)
 
 ## 11. Nested loop Animated
-- xyz
+- Explanation nested loop in short video
 
 ## 12. Nested loop
-- xyz
+- Program: `nested_loop.c`
 
 ## 13. Summary
 - xyz
