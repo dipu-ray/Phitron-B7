@@ -308,7 +308,7 @@ if(x >= y && x < y + 4) {
 
 ---
 
-## Extra Practice Problem and Quiz Explanation Module 05
+## Extra Practice Problem
 - Problem C: Simple Calculator
     - ![This is a optional problem no c image](./images/problem_c.png)
 - Problem D: Difference
