@@ -83,12 +83,14 @@
 - Explanation problem four (4)
 
 ## 9. Multiplication Table
-- ![This is a problem number four (4) image](./images/problem_5.png)
+- ![This is a problem number five (5) image](./images/problem_5.png)
 - Program: `problem_5.c`
 - Explanation problem five (5)
 
 ## 10. Digits
-- xyz
+- ![This is a problem number six (6) image](./images/problem_5.png)
+- Program: `problem_6.c`
+- Explanation problem six (6)
 
 ## 11. Nested loop Animated
 - xyz
