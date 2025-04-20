@@ -83,7 +83,9 @@
 - Explanation problem four (4)
 
 ## 9. Multiplication Table
-- xyz
+- ![This is a problem number four (4) image](./images/problem_5.png)
+- Program: `problem_5.c`
+- Explanation problem five (5)
 
 ## 10. Digits
 - xyz
