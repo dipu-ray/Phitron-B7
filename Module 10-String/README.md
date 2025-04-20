@@ -45,4 +45,7 @@
 - Space is a character value.
 
 ## 3. String input and output
-- 
+- Program: `string_input.c`
+- When `%s` character find the null (0) then they have stop.
+- Like `a[7]`. `[Hello` - `0, 1, 2, 3, 4`] Hello have 4 index. `[5, 6]` They are `5` is a null value and `6` is a garbage value.
+- Null character ASCII value is `0`.
