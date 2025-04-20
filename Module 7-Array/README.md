@@ -68,3 +68,7 @@
 
 ## 7 Array input and output
 - Program: `array_io.c`
+- Explanation this program in video
+
+## 8 Reverse printing of an array
+- Program: `reverse_array.c`
