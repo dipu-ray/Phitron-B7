@@ -81,4 +81,5 @@
 - Explanation this program `string_length.c` in video
 
 ## 11. Length of a string using strlen
-- 
+- Find the string length, have a build in function in c. `strlen()`
+- Add to header file `#include <string.h>`
