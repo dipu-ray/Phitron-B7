@@ -75,4 +75,10 @@
 - Explanation string initialization with video
 
 ## 9. Length of a string
+- Program: `string_length.c`
+
+## 10. Length of a string Animated
+- Explanation this program `string_length.c` in video
+
+## 11. Length of a string using strlen
 - 
