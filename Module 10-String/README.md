@@ -83,3 +83,7 @@
 ## 11. Length of a string using strlen
 - Find the string length, have a build in function in c. `strlen()`
 - Add to header file `#include <string.h>`
+
+## 12. Lets use getline
+- ![Problem 1: Let's use getline in Array ](./images/problem1.png)
+- Program: `problem_1.c`
