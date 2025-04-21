@@ -66,4 +66,13 @@
 - `fgets()`: If there have space in string then we are use to fgets() function.
 
 ## 6. String input Animated
+- Explanation with `scanf()` and `fgets()` string input.
+
+## 7. String initialization
+- Program: `str_initialize.c`
+
+## 8. String initialization Animated
+- Explanation string initialization with video
+
+## 9. Length of a string
 - 
