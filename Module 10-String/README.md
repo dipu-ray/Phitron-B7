@@ -54,6 +54,7 @@
 - Program: `null_character.c`
 - String means every string end have a null character
 - String have a space then they are stop are print. `Dipu Ray` they are print to `Dipu` then they are not print. Because they find out the space.
+- The null character is `'\0'`
 
 ## 5. String input with space
 - Program: `string_space.c`
@@ -102,3 +103,4 @@
 - String with 2 problem in codeforces:
     - Getline
     - Count
+- The null character is `'\0'`
