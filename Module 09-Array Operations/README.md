@@ -49,5 +49,6 @@
 - The logic build with image: 
     ![Inserting array draw 3](./images/draw3.png)
 
-## 6 Removing a value in an array Implementation
+## 6. Removing a value in an array Implementation
 - Program are same `remove_array.c` - `100%`
+- Thinking the logic and build the program.
