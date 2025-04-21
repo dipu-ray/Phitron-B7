@@ -17,13 +17,13 @@
         <strong>Week 1: Orientation</strong>
     </summary>
 
-- Module -1-Welcome Module
-- Module 0-Orientation and Setup
-- Module 1-Basic Syntax, Variables and Data Types
-- Module 2-Operators, Conditional Statements
-- Module 3-Loop
-- Module 3.5-Practice Day
-- Module 4-Assignment 01
+- Module -1: Welcome Module
+- Module 0: Orientation and Setup
+- Module 1: Basic Syntax, Variables and Data Types
+- Module 2: Operators, Conditional Statements
+- Module 3: Loop
+- Module 3.5: Practice Day
+- Module 4: Assignment 01
 </details>
 
 <details>
@@ -31,6 +31,20 @@
         <strong>Week 2: Recap and Array</strong>
     </summary>
 
-- Module 5-Problem solving with Conditional Statements
-- Module 6-Problem solving with Loop
+- Module 5: Problem solving with Conditional Statements
+- Module 6: Problem solving with Loop
+- Module 6.5: Practice Day 01
+- Module 7: Array
+- Module 7.5: Practice Day 02
+- Module 8: Assignment 02
+</details>
+
+<details>
+    <summary>
+        <strong>Week 3: Array and String Operations</strong>
+    </summary>
+
+- Module 9: Array Operations
+- Module 10: String
+- Module 10.5: Practice Day 01
 </details>
