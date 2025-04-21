@@ -104,3 +104,138 @@
     - Getline
     - Count
 - The null character is `'\0'`
+
+## Quiz: Module 10
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 10
+- [Quiz Explanation Link](https://docs.google.com/document/d/11y0nEoD0c0b5h2YAmo4Qsog1NY_8qWUJn5ouDp87ZT0/edit?usp=sharing)
+#### 1. How do you declare a string in C programming?
+**a)** int str[];  
+**b)** char name[size]; ✅  
+**c)** char name;  
+**d)** All of the above  
+> **Explanation:** C প্রোগ্রামিংয়ে স্ট্রিং ডিক্লেয়ার করতে char টাইপের অ্যারে ব্যবহার করা হয়, যেমন: `char name[size];`। এখানে name স্ট্রিং ভেরিয়েবল এবং size হল সর্বোচ্চ ক্যারেক্টার সাইজ।
+
+---
+
+#### 2. What is the null character in C programming?
+**a)** The character '0'  
+**b)** The character '\0' ✅  
+**c)** The character ''  
+**d)** The character '\'  
+> **Explanation:** C প্রোগ্রামিংয়ে NULL ক্যারেক্টার ('\0') হলো স্ট্রিংয়ের শেষ নির্দেশকারী বিশেষ ক্যারেক্টার, যার ASCII মান 0। এটি কম্পাইলারকে বুঝায় যে স্ট্রিংটি এখানেই শেষ।
+
+---
+
+#### 3. What is the purpose of the null character in string?
+**a)** To indicate the end of a string ✅  
+**b)** To indicate the beginning of a string  
+**c)** To indicate a space in a string  
+**d)** To indicate a special character in a string  
+> **Explanation:** C প্রোগ্রামিংয়ে NULL ক্যারেক্টার ('\0') স্ট্রিংয়ের শেষ নির্দেশ করে।
+
+---
+
+#### 4. Which of the functions is used to input a string in C programming (with space)?
+**a)** gets()  
+**b)** fgets()  
+**c)** puts()  
+**d)** Both a and b ✅  
+> **Explanation:** C প্রোগ্রামিংয়ে স্পেস সহ স্ট্রিং ইনপুট এর জন্য gets() এবং fgets() ব্যবহার করা যায়।
+
+---
+
+#### 5. What is the escape sequence for (\) in C programming?
+**a)** \\ ✅  
+**b)** //  
+**c)** \t  
+**d)** None of the above  
+> **Explanation:** C প্রোগ্রামিংয়ে ব্যাকস্ল্যাশ (\) লিখতে `\\` ব্যবহার করা হয়, কারণ এটি একটি এস্কেপ সিকোয়েন্স। উদাহরণ: `printf("\\");` আউটপুট দেবে \
+
+---
+
+#### 6. What will be the output of the following C program?
+```c
+#include<stdio.h>
+int main() {
+    char str[20] = "HelloW\0rld";
+    printf("%s", str);
+    return 0;
+}
+```
+**a)** HelloWorld  
+**b)** No output. error.  
+**c)** HelloW ✅  
+**d)** None of the above  
+> **Explanation:** NULL ক্যারেক্টার ('\0') স্ট্রিংয়ের শেষ নির্দেশ করে, তাই `printf("%s",str);` শুধুমাত্র HelloW প্রিন্ট করবে।
+
+---
+
+#### 7. What will be the minimum size of character array to hold "phitron" with null character?
+**a)** char str[8]; ✅  
+**b)** char str[7];  
+**c)** char str[10];  
+**d)** char str[12];  
+> **Explanation:** "phitron" স্ট্রিংয়ের দৈর্ঘ্য 7 ক্যারেক্টার + 1 NULL ক্যারেক্টার ('\0') = মোট 8 ক্যারেক্টার।
+
+---
+
+#### 8. Which format specifier is used to work with string?
+**a)** %c  
+**b)** %s ✅  
+**c)** %d  
+**d)** %str  
+> **Explanation:** C প্রোগ্রামিংয়ে স্ট্রিংয়ের জন্য `%s` ফরম্যাট স্পেসিফায়ার ব্যবহার করা হয়।
+
+---
+
+#### 9. What will be the output of the following code, if we input "Hello World"?
+```c
+#include<stdio.h>
+int main() {
+    char str[20];
+    scanf("%s", str);
+    printf("%s", str);
+    return 0;
+}
+```
+**a)** Hello World  
+**b)** Hello ✅  
+**c)** error  
+**d)** None of the above  
+> **Explanation:** `scanf("%s",str);` শুধুমাত্র স্পেসের আগ পর্যন্ত ইনপুট নেয়। তাই আউটপুট: **Hello**
+
+---
+
+#### 10. What will be the output of the following code, if we input "Hello World"?
+```c
+#include<stdio.h>
+int main() {
+    char str[20];
+    scanf("%c", &str);
+    printf("%s", str);
+    return 0;
+}
+```
+**a)** Hello World  
+**b)** Hello  
+**c)** hello  
+**d)** None of the above ✅  
+> **Explanation:** `scanf("%c", &str);` শুধুমাত্র একটি ক্যারেক্টার ইনপুট নেয় ('H'), আর `%s` দিয়ে স্ট্রিং প্রিন্ট করার চেষ্টা করলে অপ্রত্যাশিত ফলাফল দেখা দিতে পারে বা গার্বেজ প্রিন্ট হতে পারে। তাই সঠিক উত্তর: None of the above.
+
+## Extra Practice Problem (Optional):
+- [Extra Practice Problem Link](https://docs.google.com/document/d/1VmGUxd3sRCILjR0AHYY8SiRxDztTiTSjMtYZ7nZtxmk/edit?usp=sharing)
+- Problem 1
+    - ![Problem 1 image](./images/extra_problem1.png)
+- Problem 2
+    - ![Problem 2 image](./images/extra_problem2.png)
+- Problem 3
+    - ![Problem 3 image](./images/extra_problem3.png)
+- Problem 4
+    - ![Problem 4 image](./images/extra_problem4.png)
+
+## Feedback Form Module 10
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
