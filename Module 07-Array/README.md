@@ -80,3 +80,6 @@
 - Program: `array_initialization.c`
 - Array size of 5. You type only 3. then others 2 two index are auto 0. Then `6` number of index are `garbage` value.
 - Try to yourself `array initialization`.
+
+## 11. Sum of all values of an array
+- Program: `sum_array.c`
