@@ -39,4 +39,6 @@
 - Program are same `insert_array.c` - `100%`
 - The logic build with image: 
     ![Inserting array draw 2](./images/draw2.png)
+
+## 4. Remove element from an Array Animated
 - 
