@@ -15,8 +15,8 @@
 10. Length of a string Animated
 11. Length of a string using strlen
 12. Lets use getline
-13 Count
-14 Summary
+13. Count
+14. Summary
 - Quiz: Module 10
 - Extra practice problem and quiz explanation module 10
 - Feedback form module 10
