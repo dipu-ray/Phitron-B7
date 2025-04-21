@@ -53,3 +53,17 @@
 ## 4. Null character
 - Program: `null_character.c`
 - String means every string end have a null character
+- String have a space then they are stop are print. `Dipu Ray` they are print to `Dipu` then they are not print. Because they find out the space.
+
+## 5. String input with space
+- Program: `string_space.c`
+- Two ways to print including space
+    - `gets()`
+    - `fgets()` - [This is standard]
+- If `gets()` and `fgets()` not working then you can add a header file `#include <string.h>`. Then can run easily.
+- `gets()` and `fgets()` user input have any `enter` then they are stop the printing. But they can give into input `enter`.
+- `scanf()`: if there are no space in string then we are use to scanf() function.
+- `fgets()`: If there have space in string then we are use to fgets() function.
+
+## 6. String input Animated
+- 
