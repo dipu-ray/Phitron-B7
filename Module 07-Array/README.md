@@ -83,3 +83,52 @@
 
 ## 11. Sum of all values of an array
 - Program: `sum_array.c`
+
+## 12. Sum of all values of an array Animated
+- Explanation `sum_array.c` this program in video
+
+## 13. Summary
+- Array fundamentals.
+- Known and understand why need to array.
+- Understand what is array.
+- Understand how to array work.
+- Understand array input output.
+- Understand array initialization.
+- Understand how to reverse print in array.
+- Understand how to array all element are summation.
+
+## Quiz: Module 07
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 07
+- [Quiz Explanation Link](https://docs.google.com/document/d/1RU9Y-TJ7LsrTb3Ww90Fb5-ol51dU_lkytRYejc5tBH4/edit?usp=drivesdk)
+#### 1.  What is an array in the C programming language?
+**a)** A group of similar type of data elements ✅ <br>
+**b)** A group of different type of data elements  
+**c)** An integer  
+**d)** An alien data type  
+> **Explanation:** একই টাইপের অনেকগুলো ডাটা একসাথে স্টোর করে রাখার স্টোরেজকে Array বলা হয়।
+---
+#### 2.  Which of the following is the correct syntax for declaring an array of integers?
+**a)** int arrayName[size]; ✅ <br>
+**b)**  int arrayName;  
+**c)** array arrayName[int];  
+**d)** array arrayName[size];  
+> **Explanation:** Array ডিক্লেয়ার করার নিয়মঃ  data_type Array_name [ size ]. এক্ষেত্রে integer এর array ডিক্লেয়ার এর জন্য Array এর ডাটা টাইপ হিসেবে int লিখা হয়েছে।
+--- 
+#### 3. What is the index number of the first element in an array in the C programming language?
+**a)** 0 ✅ <br>
+**b)**  1  
+**c)** -1  
+**d)** 2  
+> **Explanation:** Array এর ইন্ডেক্সিং 0 (zero) থেকে শুরু হয়ে থাকে। তাই Array এর প্রথম ইলিমেন্ট টি এর 0 নাম্বার ইন্ডেক্সে থাকে।
+---
+#### 4.  What will be the output of the following C code?
+    int arr[4] = {10, 20, 30, 40};
+    printf("%d", arr[2]);
+**a)** 0 ✅ <br>
+**b)**  1  
+**c)** -1  
+**d)** 2  
+> **Explanation:** Array এর ইন্ডেক্সিং 0 (zero) থেকে শুরু হয়ে থাকে। তাই Array এর প্রথম ইলিমেন্ট টি এর 0 নাম্বার ইন্ডেক্সে থাকে।
