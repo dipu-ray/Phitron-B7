@@ -24,6 +24,7 @@
 
 ## 1. Insert element in an array Animated
 - Now my index are 5. If add a value then my index are 6.
+- Insert start with ending.
 
 ## 2. Insert a value in an array idea
 - Program: `insert_array.c` - `50%`
@@ -41,4 +42,12 @@
     ![Inserting array draw 2](./images/draw2.png)
 
 ## 4. Remove element from an Array Animated
-- 
+- Inserting opposite remove. Remove can start with starting
+
+## 5. Removing a value in an array idea
+- Program: `remove_array.c` - `50%`
+- The logic build with image: 
+    ![Inserting array draw 3](./images/draw3.png)
+
+## 6 Removing a value in an array Implementation
+- Program are same `remove_array.c` - `100%`
