@@ -27,7 +27,9 @@
 
 ## 2. Copy elements from 2 arrays to another array Animated
 - Copy from 2 array value in one new array with animations explanation
-    ![Problem 6 image](./images/draw.png)
+    ![Draw 1 image](./images/draw.png)
 
 ## 3. Copy elements from 2 arrays to another array
-- Program: ``
+- Program: `concat_array.c`
+- Copy from 2 array value in one new array with animations explanation
+    ![Draw 2 image](./images/draw2.png)
