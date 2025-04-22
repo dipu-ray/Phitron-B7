@@ -47,4 +47,5 @@
 - Module 9: Array Operations
 - Module 10: String
 - Module 10.5: Practice Day 01
+- Module 11: String Operations
 </details>
