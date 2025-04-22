@@ -56,3 +56,13 @@
 ## 7. Swapping two values
 - Program: `swap_value.c`
 - Swap a value with two variables
+
+## 8. Reverse an array Animated
+- Reverse an array with `Two Pointer Technique`
+- Two men with right and left. Then value right to left and left to right. So, this way go to two men are center. This technique name is two pointer technique
+
+## 9. Reverse an array
+- Program: `reversing_array.c`
+- `Two Pointer Technique` is very famous. This technique follow and solve to 100k+ problem solving.
+- The logic build with image: 
+    ![Inserting array draw 4](./images/draw4.png)
