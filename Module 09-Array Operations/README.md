@@ -52,3 +52,7 @@
 ## 6. Removing a value in an array Implementation
 - Program are same `remove_array.c` - `100%`
 - Thinking the logic and build the program.
+
+## 7. Swapping two values
+- Program: `swap_value.c`
+- Swap a value with two variables
