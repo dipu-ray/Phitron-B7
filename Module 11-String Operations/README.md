@@ -31,4 +31,13 @@
 - Call this function `strlen()` then you will add a header file name is `#include <string.h>`
 
 ## 2. String copy Animated
+- Explanation this `string_copy.c` program.
+
+## 3. String copy using strcpy
+- Program: `string_copy2.c`
+- This is build in functions `strcpy`
+- Where put = `a` and Which do `b`.
+- Build in function can do whole array print not a single or 2 index array. Therefore, need to build your own logic. Then you can `everything`.
+
+## 4. String concat( I+II)
 - 
