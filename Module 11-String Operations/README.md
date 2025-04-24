@@ -82,3 +82,12 @@ Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary 
 - 1st string are small then show to `-1`
 - 2nd string are small then show to `1`
 - Both strings are same or equal then show to `0`
+
+## 11. Summary
+- 3 type of strings operations:
+    - How to strings copy
+    - How to strings concat
+    - How to strings compare
+- Operations understand with drawing and build logics. Then this logic build implement with coding or programming. 
+- 3 type of strings operations build in functions: `strcpy` `strcat` and `strcmp`.
+- Build logic and code implementations
