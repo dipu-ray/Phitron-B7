@@ -44,4 +44,3 @@
 - The logic build image:
     ![Draw 1](./images/draw2.png)
 - Concat mean two array summation. Like `a + b`
-- 
