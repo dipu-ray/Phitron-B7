@@ -40,4 +40,8 @@
 - Build in function can do whole array print not a single or 2 index array. Therefore, need to build your own logic. Then you can `everything`.
 
 ## 4. String concat( I+II)
+- Program: `string_concat.c`
+- The logic build image:
+    ![Draw 1](./images/draw2.png)
+- Concat mean two array summation. Like `a + b`
 - 

@@ -4,10 +4,12 @@
 int main() {
     char a[101], b[101];
     scanf("%s %s", &a, &b);
-    int length = strlen(b);
 
-    for(int i = 0; i <= length; i++) {
-        a[i] = b[i];
+    int length_a = strlen(a);
+    int length_b = strlen(b);
+
+    for(int i = 0; i <= length_b; i++) {
+        a[i + length_a] = b[i];
     }
 
     printf("%s %s", a, b);

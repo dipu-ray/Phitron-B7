@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    int a[101], b[101];
+    char a[101], b[101];
     scanf("%s %s", &a, &b);
 
     // This is build in function for array copy.
