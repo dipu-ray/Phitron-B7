@@ -71,3 +71,14 @@ Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary 
     ![draw 3 image](./images/draw3.png)
 - Example analysis, question analysis and login build are make it `80%`. Code are `20%`.
 - `True` or `False` use then you will add you header file `#include <stdbool.h>`
+
+## 9. String compare Animated
+- Explanation this `string_comparison.c` program.
+
+## 10. String compare using strcmp
+- Program: `string_comparison2.c`
+- This is build in functions `strcmp`
+- Where put = `a` and Which do = `b`.
+- 1st string are small then show to `-1`
+- 2nd string are small then show to `1`
+- Both strings are same or equal then show to `0`
