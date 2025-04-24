@@ -166,4 +166,18 @@ Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary 
 **c)** int ar[size];   
 **d)** int ar[size] = {‘0’};  
 > **Explanation:** এটি একটি previous quiz. যা array এর মডিউলে দেখানো হয়েছে। এইভাবে আমরা একটি array ডিক্লেয়ার করে তার প্রত্যেকটি ইন্ডেক্স ০ দিয়ে ইনিশিয়ালাইজ করতে পারি।
----
+
+## Extra Practice Problem (Optional):
+- [Extra Practice Problem Link](https://docs.google.com/document/d/18EseP6qkjwiJy3DGXUJQwsRq1PQkXCaqFJ5kgY11fHQ/edit?usp=sharing)
+- The Problems:
+    ![The problems image](./images/the_extra_problems.png)
+- Problem 1
+    ![Problem 1 image](./images/extra_problem1.png)
+- Problem 2
+    ![Problem 2 image](./images/extra_problem2.png)
+- Problem 3
+    - Copy a string into another string without using strcpy()
+
+## Feedback Form Module 11
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
