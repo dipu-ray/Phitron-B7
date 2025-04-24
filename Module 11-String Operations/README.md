@@ -54,4 +54,18 @@
 - Where put = `a` and Which do = `b`.
 
 ## 7. What is lexicographical comparison
-- 
+- Which one bigger array from two array. With this comparison name is `lexicographical comparison`
+- Alphabet wise compare or dictionary wise to compare.
+- Example: Which one bigger `apple` or `cat` = `cat`. Because of dictionary wise comparison.
+Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary wise comparison.
+
+## 8. String compare
+- Examples:
+    - `apple` < `apply`
+    - `bat` < `cat`
+    - `abd` > `abc`
+    - `abcd` > `ab`
+    - `ba` < `bad`
+- What will see in comparison:
+    ![draw 3 image](./images/draw3.png)
+- Example analysis, question analysis and login build are make it `80%`. Code are `20%`.
