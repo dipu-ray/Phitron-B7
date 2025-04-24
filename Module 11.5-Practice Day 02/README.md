@@ -9,4 +9,16 @@
 5. Practice instructions
 
 ## Practice Problem Module 11.5
+- [Practice Problem Set :](https://docs.google.com/document/d/1FLggcwY4YLUkk6RpOWnePSCXBq0iZZdo4tsq6eUXz5s/edit?tab=t.0)
+- Topics:
+    - Strings
+    - Frequency Array
+- Problem Link
+    1. [C. Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)
+    2. [V. Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)
+    3. [K. Sum Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)
+    4. [J. Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)
+    5. [K. I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
+
+## 1. Frequency Array I
 - xyz
