@@ -60,6 +60,7 @@
 Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary wise comparison.
 
 ## 8. String compare
+- Program: `string_comparison.c`
 - Examples:
     - `apple` < `apply`
     - `bat` < `cat`
@@ -69,3 +70,4 @@ Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary 
 - What will see in comparison:
     ![draw 3 image](./images/draw3.png)
 - Example analysis, question analysis and login build are make it `80%`. Code are `20%`.
+- `True` or `False` use then you will add you header file `#include <stdbool.h>`
