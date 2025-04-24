@@ -44,3 +44,11 @@
 - The logic build image:
     ![Draw 1](./images/draw2.png)
 - Concat mean two array summation. Like `a + b`
+
+## 5. String concat Animated
+- Explanation this `string_concat.c` program.
+
+## 6. String concat with strcat
+- Program: `string_concat2.c`
+- This is build in functions `strcat`
+- Where put = `a` and Which do = `b`.
