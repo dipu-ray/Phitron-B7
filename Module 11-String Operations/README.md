@@ -52,3 +52,6 @@
 - Program: `string_concat2.c`
 - This is build in functions `strcat`
 - Where put = `a` and Which do = `b`.
+
+## 7. What is lexicographical comparison
+- 
