@@ -16,3 +16,19 @@
 - Quiz: Module 11
 - Extra Practice Problem and Quiz Explanation Module 11
 - Feedback Form Module 11
+
+## 0. Introduction
+- String Operations
+    - String copy
+    - String concatination
+    - String compare
+
+## 1. String copy
+- Program: `string_copy.c`
+- The logic build image:
+    ![Draw 1](./images/draw.png)
+- `a[i] = b[i]`
+- Call this function `strlen()` then you will add a header file name is `#include <string.h>`
+
+## 2. String copy Animated
+- 
