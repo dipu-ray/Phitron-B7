@@ -49,4 +49,14 @@
 - Module 10.5: Practice Day 01
 - Module 11: String Operations
 - Module 11.5: Practice Day 02
+- Module 12: Mid Term Exam
+</details>
+
+<details>
+    <summary>
+        <strong>Week 4: Nested Loop Recap, Function and Pointer</strong>
+    </summary>
+
+- Module 13: Nested Loop and pattern
+- Module 14: Function
 </details>
