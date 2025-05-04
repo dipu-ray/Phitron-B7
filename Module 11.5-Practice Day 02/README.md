@@ -31,3 +31,6 @@
     - `5 -> 1`
 - There is `3 -> 1`. This `1` have frequency of `3`.
 - Frequency array means do counting of array.
+
+## 2. Frequency Array II
+- Program: `.c`
