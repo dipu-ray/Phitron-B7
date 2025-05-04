@@ -21,4 +21,13 @@
     5. [K. I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
 
 ## 1. Frequency Array I
-- xyz
+- Program: `frequency_array.c`
+- Counting or frequency array
+- How much time the value, then we will call to frequency array.
+    - `1 -> 2`
+    - `2 -> 3`
+    - `3 -> 1`
+    - `4 -> 0`
+    - `5 -> 1`
+- There is `3 -> 1`. This `1` have frequency of `3`.
+- Frequency array means do counting of array.
