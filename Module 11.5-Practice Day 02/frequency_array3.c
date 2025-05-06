@@ -10,9 +10,8 @@ int main() {
 
     int frequency[6] = {0};
     for(int i = 0; i < n; i++) {
-        if(a[i] == 0) {
-            frequency[ a[i] ]++;
-        }
+        int value = a[i];
+        frequency[value]++;
     }
 
     for(int i = 0; i < n; i++) {

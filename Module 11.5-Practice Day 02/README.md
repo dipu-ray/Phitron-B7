@@ -41,3 +41,6 @@
     - Int was 6. Then take with one single array.
     - Conditions was 6. Then take one condition.
     - Print was 6. Then make was into for loop with one print.
+
+## 4. Frequency Array Animated
+- 
