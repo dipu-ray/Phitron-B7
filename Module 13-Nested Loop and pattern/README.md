@@ -1,0 +1,24 @@
+# Date: 03 May, 2025 - Saturday
+
+## Topics:
+- Text Instructions Module 13
+0. Introduction
+1. Star Pattern 1
+2. Star Pattern 2
+3. Pyramid Pattern
+4. More Pattern
+5. Sum of 2 values equal X Animation
+6. Sum of 2 values equal x
+7. Flag variable
+8. Selection sort Animated
+9. Selection sort
+10. Summary
+- Quiz: Module 13
+- Extra Practice Problem and Quiz Explanation Module 13
+- Feedback Form Module 13
+
+## Text Instructions Module 13
+- Welcome to the Module 13 of week 04.
+
+## 0. Introduction
+- abc
