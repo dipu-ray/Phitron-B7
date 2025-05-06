@@ -39,3 +39,12 @@
 ## 4. More Pattern
 - Program: `pattern4.c`
 - Program: `pattern5.c`
+
+## 5. Sum of 2 values equal X Animation
+- Any two values summation can equal to x value.
+- Example: `a[i] + a[j] = x?`
+- ![Draw](./images/draw.png)
+
+## 6. Sum of 2 values equal x
+- Program: `main.c`
+- ![Program drawing](./images/draw2.png)
