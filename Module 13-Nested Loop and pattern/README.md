@@ -21,4 +21,10 @@
 - Welcome to the Module 13 of week 04.
 
 ## 0. Introduction
-- abc
+- Practice to nested loop and how they work.
+- Make pattern with nested loop. Like- star pattern, pyramid pattern etc.
+- How think a pattern how to build a pattern with code.
+- Some problem solving with nested loop.
+- Using nested loop with shorting algorithms
+
+## 
