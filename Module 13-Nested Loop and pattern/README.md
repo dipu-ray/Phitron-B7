@@ -53,3 +53,18 @@
 - Program: `main2.c`
 - Flag is simple variable, nothing else.
 - Flag using with conditions
+
+## 8. Selection sort Animated
+- Short are 2 ways:
+    - Min to max (Ascending order)
+    - Max to min (Descending order)
+- ![Shorted draw](./images/draw3.png)
+- Ascending order:
+    - `a[i] > a[j]`
+- Descending order:
+    - `a[i] < a[j]`
+
+## 9. Selection sort
+- Using nested loop with shorting algorithm
+- I will learn to selection short
+- Program: `selection_short.c`
