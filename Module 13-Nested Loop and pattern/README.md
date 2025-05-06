@@ -48,3 +48,8 @@
 ## 6. Sum of 2 values equal x
 - Program: `main.c`
 - ![Program drawing](./images/draw2.png)
+
+## 7. Flag variable
+- Program: `main2.c`
+- Flag is simple variable, nothing else.
+- Flag using with conditions
