@@ -28,4 +28,4 @@
 - Using nested loop with shorting algorithms
 
 ## 1. Star Pattern 1
-- 
+- Program: `star_pattern.c`
