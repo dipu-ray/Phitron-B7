@@ -68,3 +68,11 @@
 - Using nested loop with shorting algorithm
 - I will learn to selection short
 - Program: `selection_short.c`
+
+## 10. Summary
+- Mainly work to nested loop.
+- Pattern with nested loop. Like- start pattern, pyramid pattern etc.
+- Problem solve with nested loop.
+- Sorting algorithm (array shorting, string shorting etc.)
+
+## 
