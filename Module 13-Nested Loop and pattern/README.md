@@ -29,3 +29,6 @@
 
 ## 1. Star Pattern 1
 - Program: `star_pattern.c`
+
+## 2. Star Pattern 2
+- Program: `star_pattern2.c`
