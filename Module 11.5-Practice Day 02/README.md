@@ -14,11 +14,11 @@
     - Strings
     - Frequency Array
 - Problem Link
-    1. [C. Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)
-    2. [V. Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)
-    3. [K. Sum Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)
-    4. [J. Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)
-    5. [K. I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
+    - [C. Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)
+    - [V. Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)
+    - [K. Sum Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)
+    - [J. Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)
+    - [K. I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
 
 ## 1. Frequency Array I
 - Program: `frequency_array.c`
