@@ -37,4 +37,12 @@
 - The quiz or questions range are 5.
 
 ## 1. Mid term instructions
-- 
+- We are finished first course on half.
+- C programming course have 5 weeks.
+- Are had 3 weeks of done.
+- Some days are closed after midterm exam and deadline will increase.
+- To get more information then read to exam instructions.
+- Explanation the mid term exam problems.
+
+## Mid Term (Submit)
+- This is sumit section.
