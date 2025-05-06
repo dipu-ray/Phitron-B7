@@ -32,3 +32,6 @@
 
 ## 2. Star Pattern 2
 - Program: `star_pattern2.c`
+
+## 3. Pyramid Pattern
+- Program: `pyramid_pattern.c`
