@@ -34,3 +34,10 @@
 
 ## 2. Frequency Array II
 - Program: `frequency_array2.c`
+
+## 3. Frequency Array III
+- Program: `frequency_array3.c`
+- Short with 3 (three) step:
+    - Int was 6. Then take with one single array.
+    - Conditions was 6. Then take one condition.
+    - Print was 6. Then make was into for loop with one print.
