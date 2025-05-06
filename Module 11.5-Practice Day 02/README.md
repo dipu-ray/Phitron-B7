@@ -43,4 +43,7 @@
     - Print was 6. Then make was into for loop with one print.
 
 ## 4. Frequency Array Animated
-- 
+- Explanation with `frequency_array3.c` this program.
+
+## 5. Practice instructions
+- Explanation practice problems.
