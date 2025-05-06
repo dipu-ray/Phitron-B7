@@ -33,4 +33,4 @@
 - Frequency array means do counting of array.
 
 ## 2. Frequency Array II
-- Program: `.c`
+- Program: `frequency_array2.c`
