@@ -35,3 +35,7 @@
 
 ## 3. Pyramid Pattern
 - Program: `pyramid_pattern.c`
+
+## 4. More Pattern
+- Program: `pattern4.c`
+- Program: `pattern5.c`
