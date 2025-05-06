@@ -7,7 +7,7 @@ int main() {
     // 1 2 3 4
     int n;
     scanf("%d", &n);
-    int star = 1;
+    int value = 1;
     int space = n - 1;
 
     for(int i = 1; i <= n; i++) {
@@ -15,12 +15,12 @@ int main() {
             printf(" ");
         }
 
-        for(int j = 1; j <= star; j++) {
-            printf("*");
+        for(int j = 1; j <= value; j++) {
+            printf("%d", j);
         }
 
         printf("\n");
-        star++;
+        value++;
         space--;
     }
 
