@@ -27,4 +27,5 @@
 - Some problem solving with nested loop.
 - Using nested loop with shorting algorithms
 
-## 
+## 1. Star Pattern 1
+- 
