@@ -60,3 +60,6 @@
 
 ## 7. Function with no return + parameter Animated
 - Explanation the first program.
+
+## 8. Function with no return + no parameter
+- abc
