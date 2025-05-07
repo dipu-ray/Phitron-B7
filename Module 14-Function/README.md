@@ -46,4 +46,9 @@
 
 ## 3. Function with return + parameter Animated
 - Explanation the fifth program.
-- Program to many ways solve it and work.
+
+## 4. Function with return + no parameter
+- Program: `return_plus_no_parameter.c`
+
+## 5. Function with return + no parameter Animated
+- Explanation the first program.
