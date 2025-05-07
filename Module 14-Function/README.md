@@ -75,3 +75,18 @@
 
 ## 11. Variable scope
 - Program: `variable_scope.c`
+- Scope means that specific int value access.
+
+## 12. Useful math functions
+- Program: `math_function.c`
+- Functions:
+    - Build-in function
+    - User defined function
+- `ceil()` function. Example: `4.5` = `5`
+- `floor()` function. Example: `4.5` = `4`
+- Add to header file is `#include <math.h>`
+- `round()` function. Example: `4.5` = `5`
+- `round()` function. Example: `4.4` = `4`
+- `sqrt()` function. Example: `16` = `4`
+- `pow()` function. Example: `3,2` = `6`
+- `abs()` function. Example: `-10` = `10` [Absolute function]
