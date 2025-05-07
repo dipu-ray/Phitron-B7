@@ -21,4 +21,9 @@
 - Feedback Form Module 14
 
 ## 0. Introduction
-- abc
+- What is function and functions variations?
+- Function return type and parameter, divide by 4.
+- Variable scope in c programming.
+- Build in math function need to problem solving
+- Why int `main()` and `return 0`?
+
