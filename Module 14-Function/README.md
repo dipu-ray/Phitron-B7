@@ -63,3 +63,15 @@
 
 ## 8. Function with no return + no parameter
 - Program: `no_return_plus_no_parameter.c`
+- Program to 1 ways solve it and work. You can try more ways.
+
+## 9. Function with no return + no parameter Animated
+- Explanation the `no_return_plus_no_parameter.c` program.
+
+## 10. Usage of all types of functions
+- One questions have, when which function to use?
+    - There have no fix rule, If you work to just requirement.
+- You just practice more, then you find out or realized.
+
+## 11. Variable scope
+- Program: `variable_scope.c`
