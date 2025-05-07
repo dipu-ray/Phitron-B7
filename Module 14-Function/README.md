@@ -49,6 +49,11 @@
 
 ## 4. Function with return + no parameter
 - Program: `return_plus_no_parameter.c`
+- Program to 2 ways solve it and work. You can try more ways.
 
 ## 5. Function with return + no parameter Animated
 - Explanation the first program.
+
+## 6. Function with no return + parameter
+- Program: `no_return_plus_parameter.c`
+- Program to 2 ways solve it and work. You can try more ways.
