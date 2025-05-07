@@ -90,3 +90,16 @@
 - `sqrt()` function. Example: `16` = `4`
 - `pow()` function. Example: `3,2` = `6`
 - `abs()` function. Example: `-10` = `10` [Absolute function]
+
+## 13. Why int main and return 0
+- If `return 0` that means code successfully run.
+- If `return 0` not pass that means there have and error.
+
+## 14. Summary
+- Known to function and understand it.
+- We have see to `4 function type`.
+- Known to how to function work.
+- Known to how to function memory access.
+- Known to variable scope.
+- We have to useful mathematical functions.
+- We have see to why use to `return 0` or `main function`.
