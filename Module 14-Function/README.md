@@ -39,3 +39,7 @@
     - `return + no parameter`
     - `no return + parameter`
     - `no return + parameter`
+
+## 2. Function with return + parameter
+- Program: `return_plus_parameter.c`
+- Program to many ways solve it and work.
