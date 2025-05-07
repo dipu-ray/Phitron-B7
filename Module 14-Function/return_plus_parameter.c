@@ -45,15 +45,32 @@
 
 
 // Fourth Program. The output: 15 300
+// int summation(int num1, int num2) {
+//     int ans = num1 + num2;
+//     return ans;
+// }
+
+// int main() {
+//     int value = summation(10, 5);
+//     int value2 = summation(100, 200);
+//     printf("%d %d", value, value2);
+
+//     return 0;
+// }
+
+
+
+// Fifth Program. The output: Depend on user
 int summation(int num1, int num2) {
     int ans = num1 + num2;
     return ans;
 }
 
 int main() {
-    int value = summation(10, 5);
-    int value2 = summation(100, 200);
-    printf("%d %d", value, value2);
+    int a, b;
+    scanf("%d %d", &a, &b);
+    int value = sum(a, b);
+    printf("%d", value);
 
     return 0;
 }
