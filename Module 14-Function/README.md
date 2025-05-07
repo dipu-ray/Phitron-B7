@@ -27,3 +27,15 @@
 - Build in math function need to problem solving
 - Why int `main()` and `return 0`?
 
+## 1. What is function
+- Function work with some instructions based.
+- Function syntax:
+    - `return_type function_name(parameters){...}`
+- Function write `int main()` function above.
+- `int function` is `return type function`.
+- One function can do it one return not multiple.
+- We have work with function with 4 ways:
+    - `return + parameter`
+    - `return + no parameter`
+    - `no return + parameter`
+    - `no return + parameter`
