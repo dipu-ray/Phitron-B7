@@ -59,4 +59,7 @@
 
 - Module 13: Nested Loop and pattern
 - Module 14: Function
+- Module 14.5: Practice Day 01
+- Module 15: Pointer
+- Module 15.5: Practice Day 02
 </details>
