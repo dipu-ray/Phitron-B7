@@ -36,4 +36,9 @@
     - `data_type* pointer_variable_name;`
 
 ## 2. Dereferencing a pointer
-- abc
+- Pointer variable size can `8 bytes`.
+- Program: `dereferencing_pointer.c`
+- Access with address a specific variable with `dereferencing a pointer`.
+    - Example: `printf("%d", &variable_name);`
+- Go to address to value, this called to dereference.
+- Go to value to address, this called to reference.
