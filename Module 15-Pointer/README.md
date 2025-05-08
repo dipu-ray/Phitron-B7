@@ -71,3 +71,20 @@
     - `variable` - `pass by value`
     - `array` - `pass by reference`
 - Try many way to understand the logics.
+
+## 10. Function with array Animated
+- Explanation to pass array in function.
+
+## 11. Function with string
+- Program: `function_with_string.c`
+
+## 12. Summary
+- Learn to pointer and pointer concept.
+- Function have 2 way value pass:
+    - `pass by value`
+    - `pass by reference`
+- We know to why we use `scanf()` function `& - address of` and why we don't use to `printf()` function `& - address of`.
+- Array have a pointer and learn how they work.
+- Function with array and learn to how to pass array in function. By default pass to reference.
+- When array pass in function then declare to size of array.
+- Known to function with string.
