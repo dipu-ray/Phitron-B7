@@ -57,4 +57,9 @@
 - Explanation `pass by value` and `pass by reference` concept.
 
 ## 7. Why we use reference in scanf
-- 
+- Program: `scan_function.c`
+- `scanf()` function variable address are always changing. That's it, we use to `& - reference or address of`.
+- `printf()` function variable address are not changing. That's it, we don't use to `& - reference or address of`.
+
+## 8. Pointer in array
+- abc
