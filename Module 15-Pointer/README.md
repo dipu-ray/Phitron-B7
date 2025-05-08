@@ -62,4 +62,4 @@
 - `printf()` function variable address are not changing. That's it, we don't use to `& - reference or address of`.
 
 ## 8. Pointer in array
-- abc
+- Program: `pointer_array.c`
