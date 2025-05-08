@@ -88,3 +88,9 @@
 - Function with array and learn to how to pass array in function. By default pass to reference.
 - When array pass in function then declare to size of array.
 - Known to function with string.
+
+## Quiz: Module 15
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 15

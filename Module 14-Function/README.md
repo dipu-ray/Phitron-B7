@@ -109,7 +109,7 @@
 - `Total Marks: 10`
 
 ## Quiz Explanation Module 14
-- - [Quiz Explanation Link](https://docs.google.com/document/d/1pzXu4-wp0fbTfq5NN53WMTxg_im8lyWvc2jNdQffwVk/edit?usp=sharing)
+- [Quiz Explanation Link](https://docs.google.com/document/d/1pzXu4-wp0fbTfq5NN53WMTxg_im8lyWvc2jNdQffwVk/edit?usp=sharing)
 #### 1. Which of the following is a correct format for declaration of function?
 **a)** return-type function-name (parameters); ✅  
 **b)** function-name (parameter name) return-type;   
