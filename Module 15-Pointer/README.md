@@ -25,3 +25,12 @@
 - `Pass by value` vs `pass by reference`.
 - Pointers in array: Natural connection.
 - Function with array: Practical Applications.
+
+## 1. Pointer
+- Pointer variable is normal variable
+- Every variable have an address with hexadecimal.
+- Program: `pointers.c`
+- A variable address access with `%p` format specifier.
+- `%p` came from pointers.
+- How to pointer variable syntax:
+    - `data_type* pointer_variable_name;`
