@@ -63,3 +63,11 @@
 
 ## 8. Pointer in array
 - Program: `pointer_array.c`
+- Array also a pointer.
+
+## 9. Function with array
+- Program: `function_with_array.c`
+- Any data type variable gone `pass by value` always.
+    - `variable` - `pass by value`
+    - `array` - `pass by reference`
+- Try many way to understand the logics.
