@@ -42,3 +42,14 @@
     - Example: `printf("%d", &variable_name);`
 - Go to address to value, this called to dereference.
 - Go to value to address, this called to reference.
+
+## 3. Pointer Animated
+- Explanation pointer
+
+## 4. Pass by value
+- Program: `pass_by_value.c`
+- They have two different variable and no access.
+
+## 5. Pass by reference
+- Program: `pass_by_reference.c`
+- 
