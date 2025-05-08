@@ -52,4 +52,9 @@
 
 ## 5. Pass by reference
 - Program: `pass_by_reference.c`
+
+## 6. Pass by value VS Pass by reference Animated
+- Explanation `pass by value` and `pass by reference` concept.
+
+## 7. Why we use reference in scanf
 - 

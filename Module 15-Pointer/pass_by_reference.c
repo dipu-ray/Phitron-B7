@@ -1,15 +1,13 @@
 #include <stdio.h>
 
-void func(int x) {
-    int x = 20;
-    printf("Func function x variable address: %p\n", x);
+void func(int* p) {
+    *p = 20;
 }
 
 int main() {
     int x = 10;
-    func(x);
-    // printf("%d", x);
-    printf("Main function x variable address: %p\n", x);
+    func(&x);
+    printf("%d", x); // The output: 20
 
     return 0;
 }
