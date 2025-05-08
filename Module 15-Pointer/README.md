@@ -34,3 +34,6 @@
 - `%p` came from pointers.
 - How to pointer variable syntax:
     - `data_type* pointer_variable_name;`
+
+## 2. Dereferencing a pointer
+- abc
