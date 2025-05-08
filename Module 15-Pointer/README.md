@@ -94,3 +94,11 @@
 - `Total Marks: 10`
 
 ## Quiz Explanation Module 15
+- [Quiz Explanation Link]()
+#### 1. abcd?
+**a)** a ✅  
+**b)** b   
+**c)** c  
+**d)** d  
+> **Explanation:** abc
+---
