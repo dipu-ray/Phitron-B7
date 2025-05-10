@@ -64,3 +64,11 @@
 - Module 15.5: Practice Day 02
 - Module 16: Assignment 03
 </details>
+
+<details>
+    <summary>
+        <strong>Week 5: 2D Array and Recursion</strong>
+    </summary>
+
+- Module 17: Recursion
+</details>
