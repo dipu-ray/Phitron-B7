@@ -71,4 +71,5 @@
     </summary>
 
 - Module 17: Recursion
+- Module 18: 2D Array
 </details>
