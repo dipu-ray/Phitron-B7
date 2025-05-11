@@ -31,4 +31,10 @@
 - Example: stack of chair.
 
 ## 2. What is recursion
+- Program: `recursion.c`
+- What is recursion?
+    - Function call to himself.
+- When storage are fulled then call the `stack overflow`
+
+## 3. Recursion Animated
 - 
