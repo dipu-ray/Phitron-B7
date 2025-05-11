@@ -46,4 +46,4 @@
 - Explanation the `1_5.c` program.
 
 ## 6. Print from N to 1 using recursion
-- 
+- Program: `5_1.c`
