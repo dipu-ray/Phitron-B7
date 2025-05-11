@@ -47,3 +47,12 @@
 
 ## 6. Print from N to 1 using recursion
 - Program: `5_1.c`
+
+## 7. Print from N to 1 in reverse way
+- Program: `reverse_way.c`
+
+## 8. Print from N to 1 using recursion Animated
+- Explanation the `reverse_way.c` program.
+
+## 9. Printing an array using recursion
+- Program: `recursion_array.c`
