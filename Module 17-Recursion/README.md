@@ -27,3 +27,8 @@
 
 ## 1. Call stack
 - Program: `call_stack.c`
+- The topic of stack.
+- Example: stack of chair.
+
+## 2. What is recursion
+- 
