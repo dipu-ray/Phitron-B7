@@ -36,5 +36,9 @@
 - Then we need to `2D arrays`
 - `1D means` - They have 1 (one) dimension `Length`. Example: A Line size have one part, length.
 - `2D means` - They have 2 (two) dimension `Length` and `Width`. Example: A Square size have two part, length and width.
-- `3D means` They have 3 (three) dimension `Length`, `Width` and `Height`. Example: A Box size have three part, length, width and height.
-- 
+- `3D means` - They have 3 (three) dimension `Length`, `Width` and `Height`. Example: A Box size have three part, length, width and height.
+- `2D array` - There have fixed array in 2D arrays.
+    - `0 index arrays - 5 size of array`
+    - `1 index arrays - 5 size of array`
+    - `2 index arrays - 5 size of array`
+    - `nth index arrays - 5 size of array`
