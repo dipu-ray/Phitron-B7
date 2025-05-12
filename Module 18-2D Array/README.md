@@ -64,3 +64,17 @@
 
 ## 7. Printing specific row and column Animated
 - Explanation this `row_column.c` program.
+
+## 8. Types of matrix
+- Image with example matrix
+- Order of matrix
+- Type of matrix:
+    - Row matrix
+    - Column matrix or Vector matrix
+    - Zero matrix or Null matrix
+    - Diagonal matrix
+    - Scalar matrix
+    - Unit matrix
+
+## 9. Checking row, column and square matrix
+- Program: `checking_row_matrix.c`
