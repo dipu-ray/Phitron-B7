@@ -46,3 +46,6 @@
 ## 2. What is 2D array
 - 2D Array Draw:
     ![2D arrays draw image](./images/draw.png)
+- How to declare 2D arrays:
+    - a[row_number][column_number]
+- It's also similar to matrix concept
