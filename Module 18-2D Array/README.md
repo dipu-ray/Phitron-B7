@@ -49,3 +49,6 @@
 - How to declare 2D arrays:
     - a[row_number][column_number]
 - It's also similar to matrix concept
+
+## 3. Declaring 2D array
+- Program: `2d_array.c`
