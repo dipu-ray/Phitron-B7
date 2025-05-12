@@ -52,3 +52,6 @@
 
 ## 3. Declaring 2D array
 - Program: `2d_array.c`
+
+## 4. 2D array input and output
+- `2d_array2.c`
