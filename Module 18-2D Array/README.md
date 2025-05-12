@@ -55,3 +55,12 @@
 
 ## 4. 2D array input and output
 - `2d_array2.c`
+
+## 5. 2D array input and output Animated
+- Explanation this `2d_array2.c` program.
+
+## 6. Printing specific row and column
+- Program: `row_column.c`
+
+## 7. Printing specific row and column Animated
+- Explanation this `row_column.c` program.
