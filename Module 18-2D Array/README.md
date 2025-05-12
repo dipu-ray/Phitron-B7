@@ -42,3 +42,6 @@
     - `1 index arrays - 5 size of array`
     - `2 index arrays - 5 size of array`
     - `nth index arrays - 5 size of array`
+
+## 2. What is 2D array
+- ![2D arrays draw image](./images/draw.png)
