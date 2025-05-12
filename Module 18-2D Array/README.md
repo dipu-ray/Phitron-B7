@@ -78,3 +78,9 @@
 
 ## 9. Checking row, column and square matrix
 - Program: `checking_row_matrix.c`
+
+## 10. Checking zero matrix
+- Program: `checking_zero_matrix.c`
+
+## 11. Checking primary diagonal matrix
+- abc
