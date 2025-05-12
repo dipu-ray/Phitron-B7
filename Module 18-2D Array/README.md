@@ -20,4 +20,14 @@
 - Feedback Form Module 18
 
 ## 0. Introduction
+- 2D Arrays & Matrix
+- Understanding 2D Arrays
+- Why we need to learn 2D Arrays
+- 2D Array Input and Output
+- Accessing Specific Rows and Columns
+- Introduction to Matrices
+- Types of Matrix
+- Checking row, column and square Matrix
+- Checking Zero and Diagonal Matrix
+- Identifying Scalar and Unit Matrix
 - 
