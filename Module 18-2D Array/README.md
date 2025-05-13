@@ -84,3 +84,6 @@
 
 ## 11. Checking primary diagonal matrix
 - Program: `diagonal_matrix.c`
+
+## 12. Checking secondary diagonal matrix
+- Program: `diagonal_matrix2.c`
