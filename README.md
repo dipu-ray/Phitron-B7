@@ -72,4 +72,5 @@
 
 - Module 17: Recursion
 - Module 18: 2D Array
+- Module 18.5: Practice Day 01
 </details>
