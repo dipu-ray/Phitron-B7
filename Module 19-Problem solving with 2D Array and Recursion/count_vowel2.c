@@ -1,13 +1,17 @@
 #include <stdio.h>
 
-// Not finished to the code. Go to 'count_vowel2.c' program
 int rec(char s[], int i) {
     if(s[i] == '\0') {
         return 0;
     }
 
     int cnt = rec(s, i+1);
-    return cnt+1;
+    if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u' || s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U') {
+        return cnt+1;
+    }
+    else {
+        return cnt;
+    }
 }
 
 int main() {

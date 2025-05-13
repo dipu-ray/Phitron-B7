@@ -28,3 +28,10 @@
 
 ## 3. Count length of a string using recursion
 - Program: `count_vowel.c`
+- Not finished to the program.
+- `[Same Program]`
+
+## 4 Count vowels
+- Program: `count_vowel2.c`
+- Finished to the program.
+- `[Same Program]`
