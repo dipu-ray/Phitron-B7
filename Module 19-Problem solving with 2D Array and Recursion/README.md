@@ -35,3 +35,6 @@
 - Program: `count_vowel2.c`
 - Finished to the program.
 - `[Same Program]`
+
+## 5. Factorial
+- Program: `factorial_recursion.c`
