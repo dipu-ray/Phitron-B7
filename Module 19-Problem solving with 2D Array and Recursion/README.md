@@ -22,3 +22,6 @@
 
 ## 1. Mirror Array
 - Program: `mirror_array.c`
+
+## 2. Print digits using recursion
+- Program: `digit_recursion.c`
