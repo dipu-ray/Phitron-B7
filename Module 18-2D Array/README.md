@@ -83,4 +83,4 @@
 - Program: `checking_zero_matrix.c`
 
 ## 11. Checking primary diagonal matrix
-- abc
+- Program: `diagonal_matrix.c`
