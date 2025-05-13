@@ -12,6 +12,7 @@
 
 ## Text Instructions: Module 19 [Must Read]
 - [মডিউলের প্রবলেম লিংক -](https://docs.google.com/document/d/1xToszvGxaImhClKvkx4vpnhfXW6icqXkVL66D3hSNA8/edit?usp=sharing)
+- ![The problems image](./images/problems.png)
 - The Problems:
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)
     - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D)
@@ -41,6 +42,7 @@
 
 ## Extra Practice Problem Module 19
 - [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1rN0SXUPf5kpXejNKsy9b1mH8velf7IC0tFdUJwu1hOA/edit?usp=sharing)
+- ![The extra practice problems image](./images/extra_practice_problems.png)
 - The problems:
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K)
     - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L)
