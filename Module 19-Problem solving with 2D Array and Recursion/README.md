@@ -25,3 +25,6 @@
 
 ## 2. Print digits using recursion
 - Program: `digit_recursion.c`
+
+## 3. Count length of a string using recursion
+- Program: `count_vowel.c`
