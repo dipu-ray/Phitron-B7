@@ -87,3 +87,11 @@
 
 ## 12. Checking secondary diagonal matrix
 - Program: `diagonal_matrix2.c`
+
+## 13. Summary
+- Know to 2D arrays
+- How to store memory and how to declare
+- 2D arrays input and output
+- Print to fixed row and column
+- Idea to matrix
+- Implement with 2D array for matrix
