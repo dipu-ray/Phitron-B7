@@ -19,3 +19,8 @@
     - [Problem 5](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/J)
     - [Problem 6](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/N)
     - [Problem 7](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P)
+
+## Practice Instructions
+- Idea to final exam of introduction to c programming.
+- Disguised with final exam mark system.
+- How to prepared for final exam and practice all before from learn.
