@@ -11,6 +11,7 @@
         - Frequency array
         - Sorting
         - Recursion
+    - ![The problems image](./images/problems.png)
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B)
     - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/C)
     - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J)
