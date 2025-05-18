@@ -5,3 +5,6 @@
 - Quiz Module 20
 - Final Exam Instructions
 - Final Exam
+
+## Exam Text Instruction: Module 20 [Must Read]
+- abc
