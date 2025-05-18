@@ -75,4 +75,5 @@
 - Module 18.5: Practice Day 01
 - Module 19: Problem solving with 2D Array and Recursion
 - Module 19.5: Practice Day 02
+- Module 20: Final Exam
 </details>
