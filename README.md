@@ -12,7 +12,19 @@
 <p align="center">Class start: 05 April, 2025</p>
 <br><br>
 
-<!-- <details>
+<details>
+    <summary>
+        <strong>Introduction to C Programming</strong>
+    </summary>
+
+- Week 1: Orientation
+- Week 2: Recap and Array
+- Week 3: Array and String Operations
+- Week 4: Nested Loop Recap, Function and Pointer
+- Week 5: 2D Array and Recursion
+</details>
+
+<details>
     <summary>
         <strong>Week 1: Orientation</strong>
     </summary>
@@ -24,7 +36,7 @@
 - Module 3: Loop
 - Module 3.5: Practice Day
 - Module 4: Assignment 01
-</details> -->
+</details>
 
 <details>
     <summary>
@@ -76,68 +88,4 @@
 - Module 19: Problem solving with 2D Array and Recursion
 - Module 19.5: Practice Day 02
 - Module 20: Final Exam
-</details>
-
-<details>
-    <summary>
-        <strong>Introduction to C Programming</strong>
-    </summary>
-    <details>
-        <summary>
-            <strong>Week 1: Orientation</strong>
-        </summary>
-        <ul>
-            <li>Module -1: Welcome Module</li>
-            <li>Module 0: Orientation and Setup</li>
-            <li>Module 1: Basic Syntax, Variables and Data Types</li>
-            <li>Module 2: Operators, Conditional Statements</li>
-            <li>Module 3: Loop</li>
-            <li>Module 3.5: Practice Day</li>
-            <li>Module 4: Assignment 01</li>
-        </ul>
-    </details>
-
-    <details>
-        <summary>
-            <strong>Week 2: Recap and Array</strong>
-        </summary>
-        <ul>
-            <li>Module -1: Welcome Module</li>
-            <li>Module 0: Orientation and Setup</li>
-            <li>Module 1: Basic Syntax, Variables and Data Types</li>
-            <li>Module 2: Operators, Conditional Statements</li>
-            <li>Module 3: Loop</li>
-            <li>Module 3.5: Practice Day</li>
-            <li>Module 4: Assignment 01</li>
-        </ul>
-    </details>
-</details>
-
-
-
-
-
-<details>
-  <summary><strong>Week 1: Orientation</strong></summary>
-
-  <ul>
-    <li>Module -1: Welcome Module</li>
-    <li>Module 0: Orientation and Setup</li>
-    <li>Module 1: Basic Syntax, Variables and Data Types</li>
-    <li>Module 2: Operators, Conditional Statements</li>
-    <li>Module 3: Loop</li>
-    <li>Module 3.5: Practice Day</li>
-    <li>Module 4: Assignment 01</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Week 2: Recap and Array</strong></summary>
-
-  <ul>
-    <li>Module 5: Array Introduction</li>
-    <li>Module 6: Array Operations</li>
-    <li>Module 6.5: Practice Day</li>
-    <li>Module 7: Assignment 02</li>
-  </ul>
 </details>
