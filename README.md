@@ -88,11 +88,11 @@
             <strong>Week 1: Orientation</strong>
         </summary>
         <p>Module -1: Welcome Module</p>
-        - Module 0: Orientation and Setup
-        - Module 1: Basic Syntax, Variables and Data Types
-        - Module 2: Operators, Conditional Statements
-        - Module 3: Loop
-        - Module 3.5: Practice Day
-        - Module 4: Assignment 01
+        <p>Module 0: Orientation and Setup</p>
+        <p>Module 1: Basic Syntax, Variables and Data Types</p>
+        <p>Module 2: Operators, Conditional Statements</p>
+        <p>Module 3: Loop</p>
+        <p>Module 3.5: Practice Day</p>
+        <p>Module 4: Assignment 01</p>
     </details>
 </details>
