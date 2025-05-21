@@ -87,6 +87,9 @@
         <summary>
             <strong>Week 1: Orientation</strong>
         </summary>
+        <ul>
+            <li>Module -1: Welcome Module</li>
+        </ul>
         <p>Module -1: Welcome Module</p>
         <p>Module 0: Orientation and Setup</p>
         <p>Module 1: Basic Syntax, Variables and Data Types</p>
