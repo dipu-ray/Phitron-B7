@@ -18,7 +18,7 @@
 ## Courses:
 - Introduction to C Programming
 - Pending...
-<br>
+<hr>
 
 
 
