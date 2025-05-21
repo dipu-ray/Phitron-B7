@@ -12,7 +12,7 @@
 <p align="center">Class start: 05 April, 2025</p>
 <br><br>
 
-<details>
+<!-- <details>
     <summary>
         <strong>Week 1: Orientation</strong>
     </summary>
@@ -24,7 +24,7 @@
 - Module 3: Loop
 - Module 3.5: Practice Day
 - Module 4: Assignment 01
-</details>
+</details> -->
 
 <details>
     <summary>
@@ -78,7 +78,6 @@
 - Module 20: Final Exam
 </details>
 
-
 <details>
     <summary>
         <strong>Introduction to C Programming</strong>
@@ -95,6 +94,42 @@
             <li>Module 3: Loop</li>
             <li>Module 3.5: Practice Day</li>
             <li>Module 4: Assignment 01</li>
+        </ul>
+    </details>
+
+    <details>
+        <summary>
+            <strong>Week 2: Recap and Array</strong>
+        </summary>
+        <ul>
+            <li>Module -1: Welcome Module</li>
+            <li>Module 0: Orientation and Setup</li>
+            <li>Module 1: Basic Syntax, Variables and Data Types</li>
+            <li>Module 2: Operators, Conditional Statements</li>
+            <li>Module 3: Loop</li>
+            <li>Module 3.5: Practice Day</li>
+            <li>Module 4: Assignment 01</li>
+        </ul>
+    </details>
+</details>
+
+
+<details>
+    <summary><strong>Introduction to C Programming</strong></summary>
+
+    <details>
+        <summary><strong>Week 1: Orientation</strong></summary>
+        <ul>
+            <li>Module 1: Welcome</li>
+            <li>Module 2: Setup</li>
+        </ul>
+    </details>
+
+    <details>
+        <summary><strong>Week 2: Recap and Array</strong></summary>
+        <ul>
+            <li>Module 1: Array Introduction</li>
+            <li>Module 2: Array Practice</li>
         </ul>
     </details>
 </details>
