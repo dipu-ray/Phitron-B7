@@ -83,11 +83,19 @@
     <summary>
         <strong>Introduction to C Programming</strong>
     </summary>
+    <details>
+        <summary>
+            <strong>Week 1: Orientation</strong>
+        </summary>
 
-- Week 1: Orientation
-- Week 2: Recap and Array
-- Module 18.5: Practice Day 01
-- Module 19: Problem solving with 2D Array and Recursion
-- Module 19.5: Practice Day 02
-- Module 20: Final Exam
+        - Module -1: Welcome Module
+        - Module 0: Orientation and Setup
+        - Module 1: Basic Syntax, Variables and Data Types
+        - Module 2: Operators, Conditional Statements
+        - Module 3: Loop
+        - Module 3.5: Practice Day
+        - Module 4: Assignment 01
+    </details>
+
+
 </details>
