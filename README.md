@@ -24,7 +24,7 @@
 
 <details>
     <summary>
-        <strong style="font-size: 30px;">Introduction to C Programming</strong>
+        <strong>Introduction to C Programming</strong>
     </summary>
 
 - Week 1: Orientation
