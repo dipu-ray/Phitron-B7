@@ -8,16 +8,19 @@
 <hr>
 
 
-
-<p align="center">Date of purchase: 18 March, 2025</p>
-<p align="center">Class start: 05 April, 2025</p>
+<br>
+<p align="center">Date of Purchase: 18 March, 2025</p>
+<p align="center">Class Start: 05 April, 2025</p>
+<br>
 <hr>
 
 
+<br>
 
 ## Courses:
 - ### Introduction to C Programming
 - ### Pending...
+<br>
 <hr>
 
 
