@@ -99,3 +99,14 @@
 - Module 19.5: Practice Day 02
 - Module 20: Final Exam
 </details>
+<br><br><br>
+
+
+
+<details>
+    <summary>
+        <strong>Pending...</strong>
+    </summary>
+
+- Module 21: Pending
+</details>
