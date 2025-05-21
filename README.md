@@ -89,13 +89,12 @@
         </summary>
         <ul>
             <li>Module -1: Welcome Module</li>
+            <li>Module 0: Orientation and Setup</li>
+            <li>Module 1: Basic Syntax, Variables and Data Types</li>
+            <li>Module 2: Operators, Conditional Statements</li>
+            <li>Module 3: Loop</li>
+            <li>Module 3.5: Practice Day</li>
+            <li>Module 4: Assignment 01</li>
         </ul>
-        <p>Module -1: Welcome Module</p>
-        <p>Module 0: Orientation and Setup</p>
-        <p>Module 1: Basic Syntax, Variables and Data Types</p>
-        <p>Module 2: Operators, Conditional Statements</p>
-        <p>Module 3: Loop</p>
-        <p>Module 3.5: Practice Day</p>
-        <p>Module 4: Assignment 01</p>
     </details>
 </details>
