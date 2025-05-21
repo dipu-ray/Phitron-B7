@@ -16,15 +16,15 @@
 
 
 ## Courses:
-- Introduction to C Programming
-- Pending...
+- ### Introduction to C Programming
+- ### Pending...
 <hr>
 
 
 
 <details>
     <summary>
-        <strong>Introduction to C Programming</strong>
+        <strong style="font-size: 18px;">Introduction to C Programming</strong>
     </summary>
 
 - Week 1: Orientation
