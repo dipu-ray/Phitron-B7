@@ -15,26 +15,28 @@
 <br><br>
 
 
-- ## Courses:
-    - Introduction to C Programming
+
+## Courses:
+- Introduction to C Programming
+<br>
+
+
 
 <details>
     <summary>
         <strong>Introduction to C Programming</strong>
     </summary>
-
-- Week 1: Orientation
-- Week 2: Recap and Array
-- Week 3: Array and String Operations
-- Week 4: Nested Loop Recap, Function and Pointer
-- Week 5: 2D Array and Recursion
+    - Week 1: Orientation
+    - Week 2: Recap and Array
+    - Week 3: Array and String Operations
+    - Week 4: Nested Loop Recap, Function and Pointer
+    - Week 5: 2D Array and Recursion
 </details>
 
 <details>
     <summary>
         <strong>Week 1: Orientation</strong>
     </summary>
-
 - Module -1: Welcome Module
 - Module 0: Orientation and Setup
 - Module 1: Basic Syntax, Variables and Data Types
@@ -48,7 +50,6 @@
     <summary>
         <strong>Week 2: Recap and Array</strong>
     </summary>
-
 - Module 5: Problem solving with Conditional Statements
 - Module 6: Problem solving with Loop
 - Module 6.5: Practice Day 01
@@ -61,7 +62,6 @@
     <summary>
         <strong>Week 3: Array and String Operations</strong>
     </summary>
-
 - Module 9: Array Operations
 - Module 10: String
 - Module 10.5: Practice Day 01
@@ -74,7 +74,6 @@
     <summary>
         <strong>Week 4: Nested Loop Recap, Function and Pointer</strong>
     </summary>
-
 - Module 13: Nested Loop and pattern
 - Module 14: Function
 - Module 14.5: Practice Day 01
@@ -87,7 +86,6 @@
     <summary>
         <strong>Week 5: 2D Array and Recursion</strong>
     </summary>
-
 - Module 17: Recursion
 - Module 18: 2D Array
 - Module 18.5: Practice Day 01
