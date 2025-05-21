@@ -18,6 +18,7 @@
 
 ## Courses:
 - Introduction to C Programming
+- Pending...
 <br>
 
 
@@ -26,6 +27,7 @@
     <summary>
         <strong>Introduction to C Programming</strong>
     </summary>
+
 - Week 1: Orientation
 - Week 2: Recap and Array
 - Week 3: Array and String Operations
