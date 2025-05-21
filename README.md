@@ -99,7 +99,7 @@
 - Module 19.5: Practice Day 02
 - Module 20: Final Exam
 </details>
-<br><br><br>
+<br>
 
 
 
