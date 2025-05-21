@@ -114,22 +114,30 @@
 </details>
 
 
+
+
+
 <details>
-    <summary><strong>Introduction to C Programming</strong></summary>
+  <summary><strong>Week 1: Orientation</strong></summary>
 
-    <details>
-        <summary><strong>Week 1: Orientation</strong></summary>
-        <ul>
-            <li>Module 1: Welcome</li>
-            <li>Module 2: Setup</li>
-        </ul>
-    </details>
+  <ul>
+    <li>Module -1: Welcome Module</li>
+    <li>Module 0: Orientation and Setup</li>
+    <li>Module 1: Basic Syntax, Variables and Data Types</li>
+    <li>Module 2: Operators, Conditional Statements</li>
+    <li>Module 3: Loop</li>
+    <li>Module 3.5: Practice Day</li>
+    <li>Module 4: Assignment 01</li>
+  </ul>
+</details>
 
-    <details>
-        <summary><strong>Week 2: Recap and Array</strong></summary>
-        <ul>
-            <li>Module 1: Array Introduction</li>
-            <li>Module 2: Array Practice</li>
-        </ul>
-    </details>
+<details>
+  <summary><strong>Week 2: Recap and Array</strong></summary>
+
+  <ul>
+    <li>Module 5: Array Introduction</li>
+    <li>Module 6: Array Operations</li>
+    <li>Module 6.5: Practice Day</li>
+    <li>Module 7: Assignment 02</li>
+  </ul>
 </details>
