@@ -15,9 +15,9 @@
 
 
 
-### Courses:
-- Introduction to C Programming
-- Pending...
+## Courses:
+- <strong> Introduction to C Programming </strong>
+- <strong> Pending... </strong>
 <hr>
 
 
