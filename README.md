@@ -16,8 +16,8 @@
 
 
 ## Courses:
-- <strong> Introduction to C Programming </strong>
-- <strong> Pending... </strong>
+- <strong>Introduction to C Programming</strong>
+- <strong>Introduction to C++ for DSA</strong>
 <hr>
 
 
@@ -105,7 +105,7 @@
 
 <details>
     <summary>
-        <strong>Pending...</strong>
+        <strong>Introduction to C++ for DSA</strong>
     </summary>
 
 - Module 21: Pending
