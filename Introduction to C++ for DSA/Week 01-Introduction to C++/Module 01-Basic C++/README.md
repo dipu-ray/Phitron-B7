@@ -24,5 +24,23 @@
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
     - https://forms.gle/DH5mjuGD1x2EZ4z29
 
-## Introduction
-- abc
+## 0. Introduction
+- Some basics of C++
+- How to get input
+- How to print output
+- Conditions of C++
+- Shortcut of C++ conditions - `Ternary operators`
+- Switch case in C++
+- Build in advanced function in C++
+    - `main() function`
+    - `min() function`
+    - `max() function`
+    - `swap() function`
+- String in C++
+
+## 1. C++ Setup for Windows
+- If setup was module 0. Then you have already setup for C++ program in your vscode.
+- Then test program on your vscode.
+- Program: `text.cpp`
+
+## 
