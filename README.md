@@ -11,11 +11,3 @@
 
 <p align="center">Date of Purchase: 18 March, 2025</p>
 <p align="center">Class Start: 05 April, 2025</p>
-<hr>
-
-
-
-## Courses:
-- <strong>Introduction to C Programming</strong>
-- <strong>Introduction to C++ for DSA</strong>
-<hr>
