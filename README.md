@@ -108,5 +108,6 @@
         <strong>Introduction to C++ for DSA</strong>
     </summary>
 
-- Module 21: Pending
+- Module 01: Basic C++
+- Module 02: Dynamic Memory Allocation
 </details>
