@@ -43,4 +43,5 @@
 - Then test program on your vscode.
 - Program: `text.cpp`
 
-## 
+## 2. How to Print in C++
+- abc
