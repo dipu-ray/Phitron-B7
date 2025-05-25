@@ -108,6 +108,13 @@
         <strong>Introduction to C++ for DSA</strong>
     </summary>
 
+- Week 01: Introduction to C++
+</details>
+<details>
+    <summary>
+        <strong>Week 01: Introduction to C++</strong>
+    </summary>
+
 - Module 01: Basic C++
 - Module 02: Dynamic Memory Allocation
 </details>
