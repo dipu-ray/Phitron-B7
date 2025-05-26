@@ -69,3 +69,23 @@
 - Ternary operator work on single condition not nested conditions workable.
 - Ternary operator structure:
     - `(conditions) ? True : False;`
+
+## 6. Ternary Operator Animated
+- Explanation this program `ternary_operator.cpp`
+
+## 7. Switch in C++
+- Program: `switch_case.cpp`
+- Switch case are also similar from conditions.
+- Examaple:
+    - `x == 10 ✅`
+    - `x == 20 ✅`
+    - `x == 30 ✅`
+    - Like this format of conditions, then we have use to switch case.
+- Example 2:
+    - `x >= 10 ❌`
+    - `x >= 20 ❌`
+    - `x >= 30 ❌`
+    - Like this format of conditions, then we do not use to switch case. It's also tub to control.
+
+## 8. Switch case Animated
+- Explanation this program `switch_case.cpp`
