@@ -45,3 +45,9 @@
 
 ## 2. How to Print in C++
 - Program: `print.cpp`
+- How to print a c++ program.
+
+## 3. How to take input in C++, Typecasting
+- Program: `input.cpp`
+- How to take a input from user in C++.
+- You can add header file `using namespace std`. Then you can not repeat writing `std::` in C++.

@@ -1,17 +1,13 @@
 #include <iostream>
 
-// int main() {
-//     std::cout << "Hello world!";
-//     return 0;
-// }
-
-// int main() {
-//     int x = 100;
-//     std::cout <<x;
-//     return 0;
-// }
-
 int main() {
+    // std::cout << "Hello world!";
+
+
+    // int x = 100;
+    // std::cout <<x;
+
+
     int x = 100;
     char y = 'A';
     double z = 50.56;
