@@ -33,3 +33,16 @@
 ![difference 1 drawing](./images/drawing.png)
 - Dynamic and Static memory difference 2:
 ![difference 2 drawing](./images/drawing2.png)
+
+## 2. Dynamic Variable
+- How to declare dynamic variable in C++
+- Program: `dynamic_variable.cpp`
+- `new` keyword access to heap memory.
+    - Syntax: `new datatype`
+- Pointer use in dynamic variable.
+- Pointer store another variable address.
+- Pointer syntax:
+    - `datatype *variable_name = new int;`
+    - Like: `int *x = new int;`
+- Stack memory are auto delete.
+- Heap memory are not auto delete.
