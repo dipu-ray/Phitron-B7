@@ -101,4 +101,13 @@
 - Swap a value using with function.
 
 ## 10. String in C++
-- abc
+- Program: `string.cpp`
+- Whole string print using `cin.getline(var_name, var_size);`.
+- When need to print with space a string then use to `cin.getline(var_name, var_size);`.
+- When need to print without space or one string then use to `cin >> var_name;`
+- `cin.ignore()`- This function ignore a int variable then print to a string variable.
+- C++ have a class, name is `string string_name;`
+- Like a int variable declare right same to declare a string variable or class.
+
+## 11. Summary and bits header file
+- 
