@@ -25,6 +25,15 @@ int main() {
     // cout << x << " " << c << endl << d << endl;
 
     // How to print ascii value in c++
-    
+    // char c = 'A';
+    // int ascii = c;
+    // cout << ascii << endl;
+
+    // Using Typecasting
+    char c = 'A';
+    cout << (int)c << endl;
+
+    int y = 65;
+    cout << (char)y << endl;
     return 0;
 }

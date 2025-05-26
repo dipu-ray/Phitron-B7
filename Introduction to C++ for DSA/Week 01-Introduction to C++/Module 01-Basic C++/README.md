@@ -51,3 +51,5 @@
 - Program: `input.cpp`
 - How to take a input from user in C++.
 - You can add header file `using namespace std`. Then you can not repeat writing `std::` in C++.
+- Find out the ASCII value in C++.
+- Using Typecasting in C++ for ASCII value find out.
