@@ -44,4 +44,4 @@
 - Program: `text.cpp`
 
 ## 2. How to Print in C++
-- abc
+- Program: `print.cpp`
