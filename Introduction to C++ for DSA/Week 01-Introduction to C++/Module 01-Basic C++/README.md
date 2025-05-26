@@ -110,4 +110,18 @@
 - Like a int variable declare right same to declare a string variable or class.
 
 ## 11. Summary and bits header file
-- 
+- This course will 2 weeks. There was whole C++ course not learning. Enough for `DSA` to learning C++. C++ is a `Object Oriented Programming Language`. Learn to basic C++ for DSA.
+- How to print in C++
+- How to take input in C++
+- Setprecision in C++
+- Conditions in C++
+- Ternary operator in C++
+- Switch case in C++
+- Advanced function in C++. `min()`, `max()` and `swap()`
+- String in C++
+- There have a shortcut in C++ for header file additing:
+    - There have one header file for whole header file additing. This header file name is `#include <bits/stdc++.h>`
+- This header file also `problem` into `maxOS`.
+
+## Quiz: Module 01
+- abc
