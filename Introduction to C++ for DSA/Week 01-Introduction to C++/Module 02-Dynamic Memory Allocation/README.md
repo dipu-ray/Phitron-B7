@@ -46,3 +46,9 @@
     - Like: `int *x = new int;`
 - Stack memory are auto delete.
 - Heap memory are not auto delete.
+
+## 3. Dynamic variable Animated
+- Explanation dynamic variable program. Like `dynamic_variable.cpp` this program.
+
+## 4. Dynamic Array
+- abc
