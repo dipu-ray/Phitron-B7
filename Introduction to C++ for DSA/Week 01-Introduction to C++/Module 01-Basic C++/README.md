@@ -61,4 +61,11 @@
 - `Setprecision` - That means how much digits print after double variable. Like, `50.56789`. When work on `Setprecision` then you can add header file `#include <iomanip>`. `<iomanip>` Full form are `inout output manipulation`.
 
 ## 5. If else and Ternary Operator
-- abc
+- Program: `conditions.cpp`
+- Also similar from C programming in C++.
+- Program: `ternary_operator.cpp`
+- Ternary operator in C++
+- Ternary operator are shortcut from conditions.
+- Ternary operator work on single condition not nested conditions workable.
+- Ternary operator structure:
+    - `(conditions) ? True : False;`
