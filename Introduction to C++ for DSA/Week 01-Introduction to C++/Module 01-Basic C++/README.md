@@ -59,3 +59,6 @@
 - Program: `eof_setprecision.cpp`
 - `EOF` - That means depend on user input. Input = Loop == Print.
 - `Setprecision` - That means how much digits print after double variable. Like, `50.56789`. When work on `Setprecision` then you can add header file `#include <iomanip>`. `<iomanip>` Full form are `inout output manipulation`.
+
+## 5. If else and Ternary Operator
+- abc
