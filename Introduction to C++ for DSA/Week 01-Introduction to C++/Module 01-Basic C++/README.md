@@ -124,4 +124,23 @@
 - This header file also `problem` into `maxOS`.
 
 ## Quiz: Module 01
-- abc
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 01
+- [Quiz Explanation Link](https://docs.google.com/document/d/1NE34UsjcipdLPyIFfm6xyrjtNfdNzMVAidlx9vqOsws/edit?tab=t.0)
+#### 1. Which header file should be included to use the min() and max() functions in C++?
+**a)** utility   
+**b)** cmath  
+**c)** algorithm ✅  
+**d)** iomanip  
+> **Explanation:** min() এবং max() ফাংশন দুটি C++ এর <algorithm> হেডার ফাইলের অন্তভুক্ত। min() ফাংশন: দুটি মানের মধ্যে যেটি ছোট সেটি রিটার্ন করে। max() ফাংশন: দুটি মানের মধ্যে যেটি বড় সেটি রিটার্ন করে।
+---
+
+## Extra Practice Problem (Optional):
+- [Extra Practice Problem Link](https://docs.google.com/document/d/1Tz47Ov10x7l5d7IIAs4w_fCVVPl11koa4db8FSzcngU/edit?usp=sharing)
+- [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A)
+
+## Feedback Form Module 01
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
