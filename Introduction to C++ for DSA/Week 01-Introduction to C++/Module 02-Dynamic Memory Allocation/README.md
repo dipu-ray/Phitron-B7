@@ -21,3 +21,15 @@
 - How to declare dynamic array in C++
 - Array return from function in C++
 - How to delete dynamic memory in C++
+
+## 1. Static vs Dynamic Memory
+- Stack memory in C++. It's also call to `Static` or `Compile Time` memory.
+- Heap memory in C++. It's also call to `Dynamic` or `Runtime` memory.
+- What is the difference between `stack memory` and `heap memory`?
+    - Stack memory have limited memory.
+    - Heap memory have more memory.
+- Dynamic array and static array syntax are different.
+- Dynamic and Static memory difference 1:
+![difference 1 drawing](./images/drawing.png)
+- Dynamic and Static memory difference 2:
+![difference 2 drawing](./images/drawing2.png)
