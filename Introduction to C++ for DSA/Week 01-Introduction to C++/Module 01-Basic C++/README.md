@@ -89,3 +89,13 @@
 
 ## 8. Switch case Animated
 - Explanation this program `switch_case.cpp`
+
+## 9. Min, Max, Swap
+- Program: `main.cpp`
+- There are three functions `min()`, `max()` and `swap()`.
+- When you will min, max and swap function work, then you will add a header file `#include <algorithm>`
+- You can find out min value from infinite value using min or max functions.
+    - Demo:
+    - `cout << min({10, 20, 30, 40, 50}) << endl;`
+    - `cout << max({10, 20, 30, 40, 50}) << endl;`
+- Swap a value using with function.
