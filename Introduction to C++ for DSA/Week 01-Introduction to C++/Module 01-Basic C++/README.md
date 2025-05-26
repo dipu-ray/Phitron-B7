@@ -99,3 +99,6 @@
     - `cout << min({10, 20, 30, 40, 50}) << endl;`
     - `cout << max({10, 20, 30, 40, 50}) << endl;`
 - Swap a value using with function.
+
+## 10. String in C++
+- abc
