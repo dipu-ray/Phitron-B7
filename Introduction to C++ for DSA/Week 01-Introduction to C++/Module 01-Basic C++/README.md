@@ -53,3 +53,9 @@
 - You can add header file `using namespace std`. Then you can not repeat writing `std::` in C++.
 - Find out the ASCII value in C++.
 - Using Typecasting in C++ for ASCII value find out.
+
+## 4. EOF and Setprecision in C++
+- `EOF` - `End of File` and `Setprecision` in C++.
+- Program: `eof_setprecision.cpp`
+- `EOF` - That means depend on user input. Input = Loop == Print.
+- `Setprecision` - That means how much digits print after double variable. Like, `50.56789`. When work on `Setprecision` then you can add header file `#include <iomanip>`. `<iomanip>` Full form are `inout output manipulation`.
