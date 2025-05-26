@@ -16,4 +16,8 @@
 - Feedback Form and Quiz Explanation
 
 ## 0. Introduction
-- abc
+- `Dynamic` and `Static` memory in C++
+- How to declare dynamic variable in C++
+- How to declare dynamic array in C++
+- Array return from function in C++
+- How to delete dynamic memory in C++
