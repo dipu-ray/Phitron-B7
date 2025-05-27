@@ -68,3 +68,18 @@
 - Program: `size_increase.cpp`
 - You can delete a dynamic variable or dynamic array with this `delete var_name/arr_name` keyword using.
 - Static variable or static array you can not delete.
+
+## 9. Why We Need Dynamic Memory Allocation Animated
+- Explanation dynamic memory allocation to the whole process 02 to 08 videos examples.
+- `Problem 1`: Stack memory are auto delete when he return from a function
+- `Problem 02`: You can not delete a stack memory variable or array.
+- These two problem are solved with `Dynamic Variable/Array`
+
+## 10. Summary
+- Understand the dynamic memory allocation
+- Understand what is the difference between dynamic or static memory.
+- Understand dynamic variable and dynamic array.
+- Static memory are auto delete data after return from function.
+- Static memory size not increase but dynamic memory size are increase.
+- C++ structure shortcut with snippet:
+    - Copy C++ structure and then go to `snippet generator`. Paste to your structure and copy `VSCode` copy then go to your `VSCode software`. Click on `setting icon` go to snippet select on your languages then paste your copied generator copy code.
