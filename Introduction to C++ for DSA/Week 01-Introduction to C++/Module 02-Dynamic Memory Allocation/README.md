@@ -51,4 +51,9 @@
 - Explanation dynamic variable program. Like `dynamic_variable.cpp` this program.
 
 ## 4. Dynamic Array
-- abc
+- Program: `dynamic_array.cpp`
+- Dynamic array structure:
+    - `datatype array_name = new datatype[array_size]`
+
+## 5. Dynamic array Animated
+- Explanation this `dynamic_array.cpp` program.
