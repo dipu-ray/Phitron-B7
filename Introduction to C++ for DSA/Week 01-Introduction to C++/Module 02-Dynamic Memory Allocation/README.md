@@ -66,3 +66,5 @@
 
 ## 8. Increase Size of Dynamic Array
 - Program: `size_increase.cpp`
+- You can delete a dynamic variable or dynamic array with this `delete var_name/arr_name` keyword using.
+- Static variable or static array you can not delete.
