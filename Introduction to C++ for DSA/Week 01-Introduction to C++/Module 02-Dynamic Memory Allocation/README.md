@@ -57,3 +57,12 @@
 
 ## 5. Dynamic array Animated
 - Explanation this `dynamic_array.cpp` program.
+
+## 6. Dynamic Array Return From Function
+- Program: `dynamic_arr_func.cpp`
+
+## 7. Return Array From Function Animated
+- Explanation this `dynamic_arr_func.cpp` program.
+
+## 8. Increase Size of Dynamic Array
+- Program: `size_increase.cpp`
