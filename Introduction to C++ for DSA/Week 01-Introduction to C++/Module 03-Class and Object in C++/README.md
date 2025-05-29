@@ -72,3 +72,32 @@
 - There have two type of datatype:
     - Build-in Datatype. `Variable`
     - User-define Datatype. `Object`
+
+## 2. How to declare class and object
+- Class structure are:
+    ```
+    class Student {
+        Access Modifier
+    };
+    ```
+    - Access modifier has 3 types:
+        - Private
+        - Protected
+        - Public ✅
+- We are using `Public access modifier`
+    ```
+    class Student {
+            Public:
+                char name[100];
+                int roll;
+                char section;
+                double gpa;
+        };
+    ```
+- We need to this class a make a object. Then structure:
+    ```
+    int main() {
+        int x;
+        Student x; // This is a object
+    }
+    ```
