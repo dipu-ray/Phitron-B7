@@ -67,4 +67,8 @@
 - Using sort() function for array sorting in C++
 
 ## 1. What is Class and Object
-- 
+- Class - `There have so many datatype include. Likes: name, roll, section, gpa etc.`
+- Object - `Build-in datatype call to variable and user-define datatype call to Object.`
+- There have two type of datatype:
+    - Build-in Datatype. `Variable`
+    - User-define Datatype. `Object`
