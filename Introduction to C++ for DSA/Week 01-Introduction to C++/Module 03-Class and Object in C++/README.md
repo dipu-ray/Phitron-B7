@@ -104,3 +104,6 @@
 
 ## 3. Working with class and object
 - Program: `class_object.cpp`
+
+## 4. Class and Object Animated
+- abc
