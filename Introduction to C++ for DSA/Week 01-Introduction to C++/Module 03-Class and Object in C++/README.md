@@ -87,7 +87,7 @@
 - We are using `Public access modifier`
     ```
     class Student {
-            Public:
+            public:
                 char name[100];
                 int roll;
                 char section;
@@ -101,3 +101,6 @@
         Student x; // This is a object
     }
     ```
+
+## 3. Working with class and object
+- Program: `class_object.cpp`
