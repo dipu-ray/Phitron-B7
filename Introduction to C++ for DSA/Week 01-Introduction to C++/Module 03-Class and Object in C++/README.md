@@ -97,8 +97,9 @@
 - We need to this class a make a object. Then structure:
     ```
     int main() {
-        Student x; // "Student are class name and x is variable"
+        Student x;
     }
+    // Student are class and x is variable. "Student x = Object"
     ```
 
 ## 3. Working with class and object
