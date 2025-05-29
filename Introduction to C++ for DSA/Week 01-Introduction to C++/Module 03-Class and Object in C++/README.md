@@ -106,4 +106,26 @@
 - Program: `class_object.cpp`
 
 ## 4. Class and Object Animated
-- abc
+- Explain this `Classes` and `Objects`
+
+## 5. Constructor and its Simulation
+- Program: `constructor.cpp`
+- Multiple classes shortcut is `Constructor`. `Constructor` it's a function but it's a special type of function.
+- Constructor three properties:
+    1. It's have or work into classes
+    2. Constructor don't have a return type
+    3. Constructor name is classes name
+- Example:
+    ```
+    class Student {
+        public:
+        int roll;
+        int cls;
+        double gpa;
+
+        // This is a Constructor
+        Student() {
+            // code
+        }
+    };
+```
