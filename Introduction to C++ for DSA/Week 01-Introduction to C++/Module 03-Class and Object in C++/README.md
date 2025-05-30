@@ -132,3 +132,8 @@
 
 ## 6. This keyword and Arrow sign
 - Program: `keywords.cpp`
+- `(*this).roll = roll;` - Full Form
+- `this->roll = roll;` - Short Form
+
+## 7. Return object from function
+- Program: `object_return.cpp`
