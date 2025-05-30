@@ -143,4 +143,6 @@
 - This `dynamic_objects.cpp` program have output a gerbase value. Because of, static value have always auto clear or delete. That's why value not found output have a gerbase value.
 
 ## 9. Dynamic Object
-- Program: ``
+- Program: `dynamic_objects2.cpp`
+- Normally return a static array or object can find the value but return with pointer then static object can't find the value.
+- Dynamic object find the value with function return.
