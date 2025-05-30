@@ -151,3 +151,11 @@
 - Program: `sort_function.cpp`
 - How to declares sort function. The syntax:
     - `sort(starting, ending+1);`
+
+## 11. Summary
+- Understand how to classes work and objects
+- Understand constructor in C++
+- Understand this keyword and arrow sign in C++
+- Understand object return from function in C++
+- Understand static object and dynamic object in C++
+- Understand sorting function, ascending and descending in C++
