@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Static object return from function
+// Dynamic object return from function
 class Student {
     public:
     int roll;
@@ -15,14 +15,15 @@ class Student {
     }
 };
 
-Student fun() {
+Student* fun() {
     Student karim(2, 5, 5.00);
-    return karim;
+    Student* p = &karim;
+    return p;
 }
 
 int main() {
-    Student obj = fun();
-    cout << obj.roll << " " << obj.cls << " " << obj.gpa << endl;
+    Student* p = fun();
+    cout << p->roll << " " << p->cls << " " << p->gpa << endl;
 
     return 0;
 }

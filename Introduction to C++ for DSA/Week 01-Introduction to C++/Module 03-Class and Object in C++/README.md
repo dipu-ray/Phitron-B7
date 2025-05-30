@@ -137,3 +137,10 @@
 
 ## 7. Return object from function
 - Program: `object_return.cpp`
+
+## 8. Why we need dynamic object
+- Program: `dynamic_objects.cpp`
+- This `dynamic_objects.cpp` program have output a gerbase value. Because of, static value have always auto clear or delete. That's why value not found output have a gerbase value.
+
+## 9. Dynamic Object
+- Program: ``
