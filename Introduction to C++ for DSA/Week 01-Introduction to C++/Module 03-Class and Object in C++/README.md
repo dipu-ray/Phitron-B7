@@ -146,3 +146,8 @@
 - Program: `dynamic_objects2.cpp`
 - Normally return a static array or object can find the value but return with pointer then static object can't find the value.
 - Dynamic object find the value with function return.
+
+## 10. Sort function in C++
+- Program: `sort_function.cpp`
+- How to declares sort function. The syntax:
+    - `sort(starting, ending+1);`
