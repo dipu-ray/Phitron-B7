@@ -39,4 +39,5 @@
 - Program: `string.cpp`
 
 ## 2. String Capacity Functions
-- abc
+- Program: `string_capacity.cpp`
+- `string` is a build-in class in c++.
