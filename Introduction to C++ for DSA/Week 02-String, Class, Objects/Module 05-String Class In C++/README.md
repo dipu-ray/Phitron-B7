@@ -51,3 +51,6 @@
 
 ## 5. String Modifiers Part II
 - Program: `string_modifiers2.cpp`
+
+## 6. String Iterators
+- Program: `string_iterators.cpp`
