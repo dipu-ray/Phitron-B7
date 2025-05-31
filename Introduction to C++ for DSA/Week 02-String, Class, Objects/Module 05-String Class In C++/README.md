@@ -28,4 +28,9 @@
     - [Problem 2](https://codeforces.com/problemset/problem/734/A)
 
 ## 0. Introduction
-- abc
+- String in C++
+- Build-in Functions of String - `size()`, `clear()`, `empty()`, `append()` etc.
+- Taking Input with Space - `getline()` and `cin.get()`.
+- Stringstream in C++
+- Iterator in C++
+- String Iterators - `begin()`, `end()`, `rbegin()`, `rend()`.
