@@ -45,6 +45,9 @@
 ## 3. String Element Access
 - Program: `element_access.cpp`
 
-## 4 String Modifiers Part I
+## 4. String Modifiers Part I
 - Program: `string_modifiers.cpp`
 - `append()` and `push_back()` function are expand memory and adding new character.
+
+## 5. String Modifiers Part II
+- Program: `string_modifiers2.cpp`
