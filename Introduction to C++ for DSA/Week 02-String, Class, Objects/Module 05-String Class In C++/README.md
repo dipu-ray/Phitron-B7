@@ -46,4 +46,5 @@
 - Program: `element_access.cpp`
 
 ## 4 String Modifiers Part I
-- abc
+- Program: `string_modifiers.cpp`
+- `append()` and `push_back()` function are expand memory and adding new character.
