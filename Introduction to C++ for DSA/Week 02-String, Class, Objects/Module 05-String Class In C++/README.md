@@ -54,3 +54,4 @@
 
 ## 6. String Iterators
 - Program: `string_iterators.cpp`
+- `begin()` and `end()` function also a pointer.
