@@ -2,17 +2,30 @@
 
 ## Topics:
 - Important Links
-5_0 Introduction
-5_1 String in C++
-5_2 String Capacity Functions
-5_3 String Element Access
-5_4 String Modifiers Part I
-5_5 String Modifiers Part II
-5_6 String Iterators
-5_7 String iterator Animated
-5_8 String input with spaces
-5_9 Stringstream
-5_10 Stringstream Animated
-5_11 Summary
+0. Introduction
+1. String in C++
+2. String Capacity Functions
+3. String Element Access
+4. String Modifiers Part I
+5. String Modifiers Part II
+6. String Iterators
+7. String iterator Animated
+8. String input with spaces
+9. Stringstream
+10. Stringstream Animated
+11. Summary
 - Quiz: Module 05
 - Feedback Form and Quiz Explanation
+
+## Important Links
+- [String Built In Functions:](https://docs.google.com/document/d/1nxFrcoG_t-hMbeuAw6A5r_CV7I1lYvKLwEpupTQqkrM/edit?usp=sharing)
+    - ![String built-in functions:](./images/functions.png)
+
+
+- [Extra Practice (Optional):](https://docs.google.com/document/d/14sdQIgBZV29d8cSMPfMasotAc_jhZNgxaqRSOG_yR1c/edit?usp=sharing)
+    - ![Try to solve these problems using string:](./images/extra_problems.png)
+    - [Problem 1](https://codeforces.com/problemset/problem/71/A)
+    - [Problem 2](https://codeforces.com/problemset/problem/734/A)
+
+## 0. Introduction
+- abc
