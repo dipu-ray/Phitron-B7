@@ -55,3 +55,5 @@
 ## 6. String Iterators
 - Program: `string_iterators.cpp`
 - `begin()` and `end()` function also a pointer.
+- If we give value from a pointer then use to dereference like `*`.
+- abx and xyz
