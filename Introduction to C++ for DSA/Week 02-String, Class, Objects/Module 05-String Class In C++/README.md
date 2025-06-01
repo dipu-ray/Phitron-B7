@@ -91,16 +91,6 @@
 - We using `getline()` function
 - We using `stringstream` in String
 
-
-
-
-
-
-
-
-
-
-
 ## Quiz: Module 05
 - `Total Questions: 10`
 - `Total Marks: 10`
