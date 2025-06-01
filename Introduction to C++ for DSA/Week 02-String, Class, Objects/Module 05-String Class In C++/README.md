@@ -57,3 +57,6 @@
 - `begin()` and `end()` function also a pointer.
 - If we give value from a pointer then use to dereference like `*`.
 - Iterator basically work on a loops nothing ending point. Then use to iterator in loops.
+
+## 7. String iterator Animated
+- Explanation `string_iterators.cpp` this program. Just iterator explained.
