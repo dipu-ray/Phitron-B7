@@ -36,3 +36,9 @@
 
 ## 4. Reverse function in C++
 - Program: `reverse_functions.cpp`
+
+## 5. Reverse word codeforces solution
+- Program: `reverse_words.cpp`
+
+## 6. Function inside class
+- abc
