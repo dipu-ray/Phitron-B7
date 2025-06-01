@@ -89,7 +89,7 @@
 - String iterators functions
 - Input with spaces in String
 - We using `getline()` function
-- We using `stringstream` in Strings
+- We using `stringstream` in String
 
 ## Quiz: Module 05
 - `Total Questions: 10`
