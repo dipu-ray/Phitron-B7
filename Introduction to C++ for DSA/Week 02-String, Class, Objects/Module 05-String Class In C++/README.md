@@ -83,4 +83,10 @@
     ```
 
 ## 11. Summary
-- abc
+- String capacity functions
+- String element access functions
+- String modifiers functions
+- String iterators functions
+- Input with spaces in String
+- We using `getline()` function
+- We using `stringstream` in String
