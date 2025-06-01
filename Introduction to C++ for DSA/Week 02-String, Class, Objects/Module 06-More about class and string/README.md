@@ -24,3 +24,6 @@
 - Understanding to `reverse word printing`
 - Understanding to `functions inside classes`
 - Understanding to `copying dynamic object`
+
+## 1. String Constructor
+- Program: `string_constructor.cpp`
