@@ -17,4 +17,10 @@
 - Feedback Form Module 06
 
 ## 0. Introduction
-- abc
+- Repeat and explore string and class
+- Understanding to `string constructor`
+- Understanding to `sorting string`
+- Understanding to `range-based for loop`
+- Understanding to `reverse word printing`
+- Understanding to `functions inside classes`
+- Understanding to `copying dynamic object`
