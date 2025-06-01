@@ -60,3 +60,10 @@
 
 ## 7. String iterator Animated
 - Explanation `string_iterators.cpp` this program. Just iterator explained.
+
+## 8. String input with spaces
+- Program: `string_space.cpp`
+- Using `getline()` function for string.
+
+## 9. Stringstream
+- abc
