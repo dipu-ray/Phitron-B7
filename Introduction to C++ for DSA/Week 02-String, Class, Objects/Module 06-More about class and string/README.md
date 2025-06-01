@@ -29,4 +29,4 @@
 - Program: `string_constructor.cpp`
 
 ## 2. Sort string using sort() function
-- abc
+- Program: `sort_string.cpp`
