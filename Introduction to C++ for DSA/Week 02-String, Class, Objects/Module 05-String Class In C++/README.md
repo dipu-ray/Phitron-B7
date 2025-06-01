@@ -67,3 +67,17 @@
 
 ## 9. Stringstream
 - Program: `stringstream.cpp`
+
+## 10. Stringstream Animated
+- Explanation this code
+    ```
+    string s;
+    getline(cin, s);
+    cout << s << endl;
+
+    stringstream ss(s);
+    string word;
+    while(ss >> word) {
+        cout << word << endl;
+    }
+    ```
