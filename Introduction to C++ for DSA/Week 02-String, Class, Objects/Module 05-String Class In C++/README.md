@@ -81,3 +81,6 @@
         cout << word << endl;
     }
     ```
+
+## 11. Summary
+- abc
