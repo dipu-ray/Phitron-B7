@@ -27,3 +27,6 @@
 
 ## 1. String Constructor
 - Program: `string_constructor.cpp`
+
+## 2. Sort string using sort() function
+- 
