@@ -78,3 +78,6 @@
 ## 8. Copy dynamic object
 - Program: `dynamic_object.cpp`
 - `Segmentation fault` - When we access a memory location they have not exits.
+
+## 9. Copy dynamic object Animated
+- Explanation this `dynamic_object.cpp`program code.
