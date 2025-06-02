@@ -74,3 +74,7 @@
         return 0;
     }
     ```
+
+## 8. Copy dynamic object
+- Program: `dynamic_object.cpp`
+- `Segmentation fault` - When we access a memory location they have not exits.
