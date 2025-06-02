@@ -42,3 +42,35 @@
 
 ## 6. Function inside class
 - Program: `function_class.cpp`
+
+## 7. Function inside class Animated
+- Explanation to this code:
+    ```
+    #include <bits/stdc++.h>
+    using namespace std;
+
+    class Student {
+        public:
+        string name;
+        int roll;
+
+        Student(string name, int roll) {
+            this->name = name;
+            this->roll = roll;
+        }
+
+        void hello() {
+            cout << "Hello from " << name << endl;
+        }
+    };
+
+    int main() {
+        Student sakib("Sakib Ahmed", 5);
+        cout << sakib.name << endl;
+        sakib.hello();
+        Student rakib("Rakib Ahmed", 5);
+        rakib.hello();
+
+        return 0;
+    }
+    ```
