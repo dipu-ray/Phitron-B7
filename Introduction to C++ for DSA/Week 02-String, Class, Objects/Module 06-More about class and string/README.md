@@ -41,4 +41,4 @@
 - Program: `reverse_words.cpp`
 
 ## 6. Function inside class
-- abc
+- Program: `function_class.cpp`
