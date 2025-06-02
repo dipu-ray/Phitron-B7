@@ -81,3 +81,13 @@
 
 ## 9. Copy dynamic object Animated
 - Explanation this `dynamic_object.cpp`program code.
+
+## 10. Summary
+- Explore to `class` and `string`
+- String constructor
+- Sorting a string
+- Range based for loop
+- C++ build-in reverse function
+- Problem solve from codeforces - reverse word
+- Function inside class
+- How to copy dynamic objects
