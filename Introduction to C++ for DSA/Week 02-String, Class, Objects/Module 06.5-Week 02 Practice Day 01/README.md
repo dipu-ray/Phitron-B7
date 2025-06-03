@@ -16,3 +16,6 @@
     - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/V)
     - [Problem 4](https://codeforces.com/contest/1676/problem/A)
     - [Problem 5](https://codeforces.com/contest/1703/problem/B)
+
+## 1. Practice
+- Explanation those whole problems
