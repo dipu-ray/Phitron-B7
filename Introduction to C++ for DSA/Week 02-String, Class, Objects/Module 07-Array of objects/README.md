@@ -22,3 +22,6 @@
 
 ## 1. Array of objects
 - Program: `array_objects.cpp`
+
+## 2. Array of objects Animated
+- Explanation this `array_objects.cpp` program.
