@@ -21,4 +21,4 @@
 - Custom sort
 
 ## 1. Array of objects
-- abc
+- Program: `array_objects.cpp`
