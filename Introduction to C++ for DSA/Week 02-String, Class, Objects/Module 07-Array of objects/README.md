@@ -15,4 +15,7 @@
 - Extra Practice Problem and Quiz Explanation Module 07
 
 ## 0. Introduction
-- abc
+- Array of objects
+- Minimum and maximum in array of objects
+- Sort array of objects
+- Custom sort
