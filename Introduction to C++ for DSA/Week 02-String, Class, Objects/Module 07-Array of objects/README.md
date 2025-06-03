@@ -19,3 +19,6 @@
 - Minimum and maximum in array of objects
 - Sort array of objects
 - Custom sort
+
+## 1. Array of objects
+- abc
