@@ -25,3 +25,6 @@
 
 ## 2. Array of objects Animated
 - Explanation this `array_objects.cpp` program.
+
+## 3. Min or Max from array of objects
+- abc
