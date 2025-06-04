@@ -27,4 +27,4 @@
 - Explanation this `array_objects.cpp` program.
 
 ## 3. Min or Max from array of objects
-- abc
+- Program: `min_max.cpp`
