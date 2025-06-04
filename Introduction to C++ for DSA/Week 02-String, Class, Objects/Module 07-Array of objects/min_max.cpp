@@ -16,13 +16,16 @@ int main() {
         cin >> a[i].name >> a[i].roll >> a[i].marks;
     }
 
-    int minimum = INT_MAX;
+    Student minimum;
+    minimum.marks = INT_MAX;
 
     for(int i = 0; i < n; i++) {
-        minimum = min(a[i].marks, minimum);
+        if(a[i].marks < minimum.marks) {
+            minimum = a[i];
+        }
     }
 
-    cout << minimum << endl;
+    cout << minimum.name << " " << minimum.roll << " " << minimum.marks << endl;
 
     return 0;
 }
