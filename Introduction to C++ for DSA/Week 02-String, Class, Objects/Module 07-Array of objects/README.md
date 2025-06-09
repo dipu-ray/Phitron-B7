@@ -30,4 +30,4 @@
 - Program: `min_max.cpp`
 
 ## 4. Sort array of objects part I
-- abc
+- 
