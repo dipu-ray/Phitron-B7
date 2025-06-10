@@ -46,3 +46,6 @@
 
 ## 8. Sort array of objects part IV
 - Program: `sort_array3.cpp`
+
+## 9. Summary
+- abc
