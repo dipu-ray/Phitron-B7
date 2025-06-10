@@ -36,3 +36,6 @@
 ## 5. Sort array of objects part II
 - Explanation this `sort_array.cpp` program sort function also a `custom compare function` function explanation.
 - `custom compare function` function work similarity also 99%.
+
+## 6. Sort array of objects Animated
+- Explanation with animated way `sort_array.cpp` this program whole code.
