@@ -39,3 +39,6 @@
 
 ## 6. Sort array of objects Animated
 - Explanation with animated way `sort_array.cpp` this program whole code.
+
+## 7. Sort array of objects part III
+- 

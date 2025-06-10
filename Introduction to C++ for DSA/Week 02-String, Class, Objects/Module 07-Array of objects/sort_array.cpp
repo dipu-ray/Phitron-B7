@@ -17,6 +17,7 @@ bool cmp(Student l, Student r) {
     }
 }
 
+// Sort with ascending order
 int main() {
     int n;
     cin >> n;
