@@ -31,3 +31,4 @@
 
 ## 4. Sort array of objects part I
 - Program: `sort_array.cpp`
+- Make a `custom compare function`. That means we write itself to a function and return type are `bool`.

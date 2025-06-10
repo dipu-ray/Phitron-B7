@@ -8,6 +8,15 @@ class Student {
     int marks;
 };
 
+bool cmp(Student l, Student r) {
+    if(l.marks < r.marks) {
+        return true;
+    }
+    else {
+        return false;
+    }
+}
+
 int main() {
     int n;
     cin >> n;
@@ -16,9 +25,9 @@ int main() {
         cin >> a[i].name >> a[i].roll >> a[i].marks;
     }
 
-    sort(a, a+n);
+    sort(a, a+n, cmp);
     for(int i = 0; i < n; i++) {
-        cout << " " << a[i].name << " " << a[i].roll << " " << a[i].marks << endl;
+        cout << a[i].name << " " << a[i].roll << " " << a[i].marks << endl;
     }
 
     return 0;
