@@ -43,3 +43,6 @@
 ## 7. Sort array of objects part III
 - Program: `sort_array2.cpp`
 - The logic of sorting array - `When need this order make to true`
+
+## 8. Sort array of objects part IV
+- Program: `sort_array3.cpp`
