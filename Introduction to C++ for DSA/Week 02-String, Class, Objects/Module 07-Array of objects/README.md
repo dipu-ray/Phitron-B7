@@ -48,4 +48,11 @@
 - Program: `sort_array3.cpp`
 
 ## 9. Summary
-- 
+- Array of objects
+- Sorting array of objects with different ways
+- Minimum and maximum find out from an objects
+- Custom compare function in array of objects
+- Mark ascending order or mark descending order
+- Roll ascending order or roll descending order
+- See those shortcut way
+- Use to ternary operators in array of objects
