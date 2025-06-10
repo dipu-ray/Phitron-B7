@@ -32,3 +32,7 @@
 ## 4. Sort array of objects part I
 - Program: `sort_array.cpp`
 - Make a `custom compare function`. That means we write itself to a function and return type are `bool`.
+
+## 5. Sort array of objects part II
+- Explanation this `sort_array.cpp` program sort function also a `custom compare function` function explanation.
+- `custom compare function` function work similarity also 99%.
