@@ -48,4 +48,4 @@
 - Program: `sort_array3.cpp`
 
 ## 9. Summary
-- abc
+- 
