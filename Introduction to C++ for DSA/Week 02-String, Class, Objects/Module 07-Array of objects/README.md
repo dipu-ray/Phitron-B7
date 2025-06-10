@@ -41,4 +41,5 @@
 - Explanation with animated way `sort_array.cpp` this program whole code.
 
 ## 7. Sort array of objects part III
-- 
+- Program: `sort_array2.cpp`
+- The logic of sorting array - `When need this order make to true`
