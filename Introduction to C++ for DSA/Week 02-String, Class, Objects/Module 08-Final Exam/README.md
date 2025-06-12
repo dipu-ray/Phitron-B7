@@ -1,5 +1,7 @@
 # Date: 12 June, 2025 - Thursday
 
 ## Topics:
-- abc
-1. abc
+- Exam Instruction: Module 08
+- Quiz Module 08
+- Final Exam Instructions
+- Final Exam
