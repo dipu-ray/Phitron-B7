@@ -5,3 +5,6 @@
 - Quiz Module 08
 - Final Exam Instructions
 - Final Exam
+
+## Exam Instruction: Module 08
+- abc
