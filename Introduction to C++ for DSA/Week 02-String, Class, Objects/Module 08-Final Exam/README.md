@@ -28,7 +28,7 @@
     - ৮) এক্সামের মার্ক্স রিলেটেড ডাউট থাকলে সাপোর্ট সেশনে গিয়ে ডাউট ক্লিয়ার করে নিবে, পোস্ট না করাই উত্তম।
 
 ## Quiz Module 08
-- Simple five question from exam instructions
+- Simple 5 MCQ question from exam instructions. 5 out of 5.
 
 ## Final Exam Instructions
 - Explanation those 5 question of Final Exam
