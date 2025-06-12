@@ -28,4 +28,4 @@
     - ৮) এক্সামের মার্ক্স রিলেটেড ডাউট থাকলে সাপোর্ট সেশনে গিয়ে ডাউট ক্লিয়ার করে নিবে, পোস্ট না করাই উত্তম।
 
 ## Quiz Module 08
-- abc
+- Simple five question from exam instructions
