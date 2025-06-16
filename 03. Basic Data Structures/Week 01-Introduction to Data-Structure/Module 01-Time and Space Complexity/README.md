@@ -35,3 +35,14 @@
 - Week 05 - Binary Trees: Hierarchical Data Organization
 - Week 06 - Binary Search Trees: Efficient Searching
 - Week 07 - Heaps: Priority Queue Implementation
+
+## 0. Introduction
+- Understanding Time and Space Complexity
+- What is Time Complexity?
+- Calculating Time from Complexity
+- Linear Time Complexity: `O(N)`
+- Logarithmic Time Complexity: `O(Log N)`
+- Quadratic Time Complexity: `O(N*N)`
+- Linearithmic Time and Complexity: `O(N log N)`
+- Square Root Time Complexity: `O(sqrt(N))`
+- What is Space Complexity?
