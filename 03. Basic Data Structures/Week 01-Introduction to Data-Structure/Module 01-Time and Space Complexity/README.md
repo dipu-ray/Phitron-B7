@@ -46,3 +46,6 @@
 - Linearithmic Time and Complexity: `O(N log N)`
 - Square Root Time Complexity: `O(sqrt(N))`
 - What is Space Complexity?
+
+## 1. Why we need to learn time complexity
+- abc
