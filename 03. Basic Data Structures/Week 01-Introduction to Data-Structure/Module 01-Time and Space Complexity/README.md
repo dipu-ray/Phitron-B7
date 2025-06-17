@@ -60,4 +60,15 @@
     - When you know the `Time Complexity` then you will understand with problems input, which way to solve it.
 
 ## 2. What is time complexity
-- abc
+- `Time Complexity` are not work with time. Means how much time to need this run. There haven't this logic. `Time Complexity` are work step or operations.
+```
+for(int i = 0; i < n; i++) {
+    cout << "Hello world";
+}
+```
+How much time to repeat this loops
+- `1000` - `1000 OP`
+- `20` - `20 OP`
+- `10` - `10 OP`
+- `n` - `n OP`
+- `0(N)`
