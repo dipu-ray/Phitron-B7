@@ -48,4 +48,6 @@
 - What is Space Complexity?
 
 ## 1. Why we need to learn time complexity
-- 
+- Program: `sum.cpp`
+- Two way to solve this program. Which one the better way?
+    - Solve to `Time Complexity`
