@@ -71,7 +71,7 @@ How much time to repeat this loops
 - `20` - `20 OP`
 - `10` - `10 OP`
 - `n` - `n OP`
-- `0(N)`
+- `0(n)`
 
 ## 3. How to calculate time complexity
 - `Time Complexity` when you calculate then you have must to known this `Asymptotic notations`
@@ -85,3 +85,24 @@ How much time to repeat this loops
     - Always take the worst case
     - Ignore the constant
 - `O(n)` - When a code going on last line or nth line, then we work or take to `worst case` and `worst case` symble is the `big O`. Also called to `order of n`
+```
+for(int i = 0; i < n-1; i++) {
+    cout << "Hello world";
+}
+```
+- OR
+```
+for(int i = 0; i < n-2; i++) {
+    cout << "Hello world";
+}
+```
+- OR
+```
+for(int i = 0; i < 2n; i++) {
+    cout << "Hello world";
+}
+```
+- Then you can `ignore the constant`. That's means use to `O(n) - Order of n`
+
+## 4. Linear Complexity O(N)
+- abc
