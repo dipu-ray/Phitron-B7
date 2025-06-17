@@ -58,3 +58,6 @@
     - `TLE` means code logic was right but do not this better way. Make sure it better way.
     - This `TLE` got remove to know `Time Complexity`.
     - When you know the `Time Complexity` then you will understand with problems input, which way to solve it.
+
+## 2. What is time complexity
+- abc
