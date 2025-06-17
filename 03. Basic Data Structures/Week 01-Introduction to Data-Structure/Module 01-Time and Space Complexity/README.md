@@ -72,3 +72,16 @@ How much time to repeat this loops
 - `10` - `10 OP`
 - `n` - `n OP`
 - `0(N)`
+
+## 3. How to calculate time complexity
+- `Time Complexity` when you calculate then you have must to known this `Asymptotic notations`
+- `Asymptotic notations` have 3 types:
+    - `Omega notation (Ω)` - Best case
+    - `Theta notation (θ)` - Average case
+    - `Big O notation (O)` - Worst case
+- Example with Drawing:
+![Asymptotic notations](./images/draw.png)
+- Rules of calculate time complexity:
+    - Always take the worst case
+    - Ignore the constant
+- `O(n)` - When a code going on last line or nth line, then we work or take to `worst case` and `worst case` symble is the `big O`. Also called to `order of n`
