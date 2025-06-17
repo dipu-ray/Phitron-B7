@@ -50,4 +50,5 @@
 ## 1. Why we need to learn time complexity
 - Program: `sum.cpp`
 - Two way to solve this program. Which one the better way?
-    - Solve to `Time Complexity`
+    - Solve to `Time Complexity`. Formula way was better. Because of, formula just do it one single line and loops was repeat 100 times.
+- 
