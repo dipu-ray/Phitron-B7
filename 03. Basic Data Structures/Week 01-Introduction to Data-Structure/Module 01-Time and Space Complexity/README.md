@@ -51,4 +51,10 @@
 - Program: `sum.cpp`
 - Two way to solve this program. Which one the better way?
     - Solve to `Time Complexity`. Formula way was better. Because of, formula just do it one single line and loops was repeat 100 times.
-- 
+- For another example for better understand `Why we need to learn time complexity`
+    - Program: `binary_search.cpp`
+    - That's problem was almost solve. But this program have an error of - `Time limit exceeded (TLE)`
+    - Now, the target was not problem solve, to solve better way or optimized.
+    - `TLE` means code logic was right but do not this better way. Make sure it better way.
+    - This `TLE` got remove to know `Time Complexity`.
+    - When you know the `Time Complexity` then you will understand with problems input, which way to solve it.
