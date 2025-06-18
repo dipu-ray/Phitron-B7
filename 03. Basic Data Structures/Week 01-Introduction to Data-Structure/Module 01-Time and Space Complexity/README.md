@@ -105,4 +105,6 @@ for(int i = 0; i < 2n; i++) {
 - Then you can `ignore the constant`. That's means use to `O(n) - Order of n`
 
 ## 4. Linear Complexity O(N)
-- abc
+- Program: `linear_complexity.cpp`
+    - This program final complexity of `O(n) - order of n`. And ingore the constant.
+    - `O(n+n+4) = O(n+n) = O(2n) = O(n)`. We will ingore constant.
