@@ -108,3 +108,8 @@ for(int i = 0; i < 2n; i++) {
 - Program: `linear_complexity.cpp`
     - This program final complexity of `O(n) - order of n`. And ingore the constant.
     - `O(n+n+4) = O(n+n) = O(2n) = O(n)`. We will ingore constant.
+
+## 5. Logarithmic Complexity O(logN)
+- Program: `logarithmic_complexity.cpp`
+    - They have also similar Substraction and Division. That means complexity is `O(n)`.
+    - `(O(log n))` indicates that the number of operations grows very slowly as the input size increases.
