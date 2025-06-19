@@ -351,7 +351,7 @@ int main() {
     return 0;
 }
 ```
-**a)** O(N*logN) ✅       
+**a)** `O(N*logN)` ✅       
 **b)** O(N*N)    
 **c)** O(sqrtN)     
 **d)** O(log(N))   
