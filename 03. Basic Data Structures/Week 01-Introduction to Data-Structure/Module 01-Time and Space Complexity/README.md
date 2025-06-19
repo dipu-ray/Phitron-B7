@@ -117,4 +117,5 @@ for(int i = 0; i < 2n; i++) {
 - Program: `sqrt_complexity.cpp`
 
 ## 7. Quadratic complexity O(N_N)
-- abc
+- Program: `quadratic_complexity.cpp`
+- Complexity calculate by we need and customize. There have so many complexity.
