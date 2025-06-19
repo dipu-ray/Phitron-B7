@@ -127,4 +127,25 @@ for(int i = 0; i < 2n; i++) {
 - Program: `best_worst_complexity.cpp`
 
 ## 10. Solving time complexity related problems
-- abc
+- Problem 1:
+    ```
+    int i = 0, sum = 0;
+    while(i<n) {    // O(N)
+        int j = 0;
+        while(j<n) {    // O(N)
+            sum += i;
+            j += 2;
+        }
+        i++;
+    }
+    ```
+    - Time Complexity: `O(N*N)`
+
+- Problem 2:
+    ```
+    for(int i = 0; i < n; i++) {    // O(N)
+        cin >> a[i];
+    }
+    sort(a, a+1);   // O(NlogN)
+    ```
+    - Time Complexity: `O(NlogN)`
