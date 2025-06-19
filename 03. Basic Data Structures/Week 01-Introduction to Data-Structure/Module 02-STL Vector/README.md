@@ -15,3 +15,6 @@
 - Quiz: Module 02
 - Extra Problems and Quiz Explanation
 - Feedback Form
+
+## Vector Built-in Functions
+- Abc
