@@ -111,7 +111,7 @@ for(int i = 0; i < 2n; i++) {
 
 ## 5. Logarithmic Complexity O(logN)
 - Program: `logarithmic_complexity.cpp`
-    - Best way to understand `logarithmic complexity` when a loops increment or decrement part evolution with `substraction` or `division` then you understand this is `logarithmic complexity`.
+    - Best way to understand `logarithmic complexity` when a loops increment part evolution with `substraction` and decrement part of `division` then you understand this is `logarithmic complexity`.
 
 ## 6. Sqrt complexity O(sqrt(N))
 - Program: `sqrt_complexity.cpp`
@@ -119,3 +119,6 @@ for(int i = 0; i < 2n; i++) {
 ## 7. Quadratic complexity O(N_N)
 - Program: `quadratic_complexity.cpp`
 - Complexity calculate by we need and customize. There have so many complexity.
+
+## 8. Linearithmic complexity O(NlogN)
+- Program: `linearithmic_complexity.cpp`
