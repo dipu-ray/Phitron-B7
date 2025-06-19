@@ -164,3 +164,11 @@ for(int i = 0; i < 2n; i++) {
 - Program: `space_complexity.cpp`
 - `Time complexity` that's means how much time to operations it and `Space complexity` is how much memory size or space need to it.
 - `Time complexity` changed are loops and `Space complexity` changed are array.
+
+## 13. Summary
+- Understanding what is `time complexity`
+- Why we need to time complexity and how to calculate this.
+- Then we `5 or 6` type of time complexity explore and learn
+- Better and bad time complexity
+- Relationship with `real time` and `time complexity`
+- At last we learned `space complexity`
