@@ -122,3 +122,6 @@ for(int i = 0; i < 2n; i++) {
 
 ## 8. Linearithmic complexity O(NlogN)
 - Program: `linearithmic_complexity.cpp`
+
+## 9. Best to Worst Complexity
+- Program: `best_worst_complexity.cpp`
