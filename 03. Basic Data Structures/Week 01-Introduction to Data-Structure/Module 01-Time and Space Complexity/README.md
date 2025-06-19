@@ -115,3 +115,6 @@ for(int i = 0; i < 2n; i++) {
 
 ## 6. Sqrt complexity O(sqrt(N))
 - Program: `sqrt_complexity.cpp`
+
+## 7. Quadratic complexity O(N_N)
+- abc
