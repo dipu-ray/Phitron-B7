@@ -140,7 +140,6 @@ for(int i = 0; i < 2n; i++) {
     }
     ```
     - Time Complexity: `O(N*N)`
-
 - Problem 2:
     ```
     for(int i = 0; i < n; i++) {    // O(N)
@@ -149,3 +148,14 @@ for(int i = 0; i < 2n; i++) {
     sort(a, a+1);   // O(NlogN)
     ```
     - Time Complexity: `O(NlogN)`
+
+## 11. How to calculate time from time complexity
+- Online judge can `1s` done `10^7-10^8` operations. That is not fixed.
+    - `1s = 10^7`
+    - `2s = 2 * 10^7`
+    - `3s = 3 * 10^7`
+    - And
+    - `1s = 10^7`
+    - `10s = 10^8`
+    - `100s = 10^9`
+    - `1000s = 10^10`
