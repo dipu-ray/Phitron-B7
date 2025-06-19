@@ -125,3 +125,6 @@ for(int i = 0; i < 2n; i++) {
 
 ## 9. Best to Worst Complexity
 - Program: `best_worst_complexity.cpp`
+
+## 10. Solving time complexity related problems
+- abc
