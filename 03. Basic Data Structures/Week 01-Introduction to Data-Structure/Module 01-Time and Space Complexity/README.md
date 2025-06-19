@@ -179,7 +179,6 @@ for(int i = 0; i < 2n; i++) {
 
 ## Quiz Explanation Module 01
 - [Quiz Explanation Link](https://docs.google.com/document/d/1HSGZzL_FK6rhXePW_79GzBuyWLe_wvObfAm9A8XZ5qU/edit?usp=sharing)
-- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1i2zJTPCAImx0bPmCijqBeCP5-C_D-VVuJPdI68w-5RA/edit?usp=sharing)
 #### 1. What will be the final outcome of the following complexity?
 ```
 O(N*N+N+N/2)
@@ -358,3 +357,10 @@ int main() {
 **d)** O(log(N))   
 > **Explanation:** উক্ত কোডের ক্ষেত্রে , কোডটি একটি নেস্টেড লুপের। এর ভিতরের লুপটি N থেকে শুরু করে 1 পর্যন্ত চলছে এবং প্রতিক্ষেত্রে i এর মান ২ দ্বারা ভাগ হয়ে ছোট হয়ে যাচ্ছে। আমরা জানি , increment এর পার্ট কোনো একটি মান দ্বারা গুণ হয়ে বাড়লে / ভাগ হয়ে ছোট হলে তার টাইম কমপ্লেক্সিটি O(logN). এর বাইরের লুপটি 0 থেকে শুরু করে N-1 পর্যন্ত চলছে। তাই এই কোডের টাইম কমপ্লেক্সিটি N . যেহেতু এটি একটি নেস্টেড লুপ , তাই আমরা জানি নেস্টেড লুপের ক্ষেত্রে বাইরের লুপের টাইম কমপ্লেক্সিটি এর সাথে ভিতরের লুপের টাইম কমপ্লেক্সিটি গুণ হয়। সুতারাং উক্ত কোডের টাইম কমপ্লেক্সিটি O(N*logN)।
 ---
+
+### Extra Practice Problem (Optional):
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1i2zJTPCAImx0bPmCijqBeCP5-C_D-VVuJPdI68w-5RA/edit?usp=sharing)
+    - ![Extra Practice Problem SS](./images/extra-problems.png)
+    - ![Extra Practice Problem SS](./images/extra-problems2.png)
+    - ![Extra Practice Problem SS](./images/extra-problems3.png)
+    - ![Extra Practice Problem Answer SS](./images/extra-problems-ans.png)
