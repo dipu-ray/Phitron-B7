@@ -172,3 +172,21 @@ for(int i = 0; i < 2n; i++) {
 - Better and bad time complexity
 - Relationship with `real time` and `time complexity`
 - At last we learned `space complexity`
+
+## Quiz: Module 01
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 01
+- [Quiz Explanation Link](https://docs.google.com/document/d/1HSGZzL_FK6rhXePW_79GzBuyWLe_wvObfAm9A8XZ5qU/edit?usp=sharing)
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1i2zJTPCAImx0bPmCijqBeCP5-C_D-VVuJPdI68w-5RA/edit?usp=sharing)
+#### 1. What will be the final outcome of the following complexity?
+```
+O(N*N+N+N/2)
+```
+**a)** O(N)     
+**b)** O(N/2)   
+**c)** `O(N*N)` ✅   
+**d)** O(N*N+N)  
+> **Explanation:** আমরা জানি টাইম কমপ্লেক্সিটি এর ক্ষেত্রে আমরা সবসময় সবচেয়ে বড় ফ্যাক্টর নিয়ে চিন্তা করবো। এক্ষেত্রে N*N , N , N/2 => N এর মধ্যে সবচেয়ে worst কমপ্লেক্সিটি হলো N*N . তাই এর টাইম কমপ্লেক্সিটি O(N*N)।
+---
