@@ -159,3 +159,6 @@ for(int i = 0; i < 2n; i++) {
     - `10s = 10^8`
     - `100s = 10^9`
     - `1000s = 10^10`
+
+## 12. Space Complexity
+- Program: `space_complexity.cpp`
