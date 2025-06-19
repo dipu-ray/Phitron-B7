@@ -162,3 +162,5 @@ for(int i = 0; i < 2n; i++) {
 
 ## 12. Space Complexity
 - Program: `space_complexity.cpp`
+- `Time complexity` that's means how much time to operations it and `Space complexity` is how much memory size or space need to it.
+- `Time complexity` changed are loops and `Space complexity` changed are array.
