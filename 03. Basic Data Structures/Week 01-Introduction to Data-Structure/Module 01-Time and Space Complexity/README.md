@@ -113,3 +113,8 @@ for(int i = 0; i < 2n; i++) {
 - Program: `logarithmic_complexity.cpp`
     - They have also similar Substraction and Division. That means complexity is `O(n)`.
     - `(O(log n))` indicates that the number of operations grows very slowly as the input size increases.
+    - `(O(log n)) - Order of LogN`
+    - Best way to understand `logarithmic complexity` when a loops increment or decrement part evolution with `substraction` or `division` then you understand this is `logarithmic complexity`.
+
+## 6. Sqrt complexity O(sqrt(N))
+- abc
