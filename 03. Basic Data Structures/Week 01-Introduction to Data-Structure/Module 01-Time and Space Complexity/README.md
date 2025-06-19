@@ -234,3 +234,69 @@ for(int i = 1; i*2 <= N; i++)
 **d)** O(log(N))   
 > **Explanation:** কন্ডিশনের পার্টটুকু যদি আমরা সাজিয়ে লিখি তাহলে দেখা যায় , i*2<=N -> i<=N/2 . অর্থাৎ লুপটি ১ থেকে শুরু করে N/2 বার চলছে। সুতারাং এই কোডের টাইম কমপ্লেক্সিটি O(N)।
 ---
+#### 6. What will be the time complexity of the following loop?
+```
+for(int i = 1; i*i <= N; i++)
+```
+**a)** O(N)       
+**b)** O(N*N)    
+**c)** O(sqrt(N)) ✅    
+**d)** O(log(N))   
+> **Explanation:** sqrt টাইম কমপ্লেক্সিটি এর মডিউলে এই কোডের টাইম কমপ্লেক্সিটি সম্পর্কে দেখানো হয়েছে  । উক্ত কোডের টাইম কমপ্লেক্সিটি O(sqrt(N))।
+---
+#### 7. What will be the time complexity of the following loop?
+```
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    int a[n];
+
+    for(int i = 0; i < n; i++) {
+        cin >> a[i];
+    }
+    sort(a, a+n);
+
+    for(int i = 0; i < n; i++) {
+        cout << a[i] << " ";
+    }
+
+    return 0;
+}
+```
+**a)** O(N)       
+**b)** O(N*N)    
+**c)** O(Nlog(N)) ✅    
+**d)** O(log(N))   
+> **Explanation:** উক্ত কোডের ক্ষেত্রে , প্রথম লুপের টাইম কমপ্লেক্সিটি O(N) , এরপর বিল্ট ইন sort function ব্যবহার করা হয়েছে যার টাইম কমপ্লেক্সিটি O(NlogN) , এরপরে প্রিন্টিং এর লুপটির টাইম কমপ্লেক্সিটি O(N). টোটাল টাইম কমপ্লেক্সিটি : O(N + NlogN + N)। যার মধ্যে bigger time complexity হলো O(NlogN)  সুতারাং উক্ত কোডের টাইম কমপ্লেক্সিটি O(NlogN)।
+---
+#### 8. What will be the space complexity of the following loop?
+```
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    int a[n];
+
+    for(int i = 0; i < n; i++) {
+        cin >> a[i];
+    }
+    sort(a, a+n);
+
+    for(int i = 0;i < n; i++) {
+        cout << a[i] << " ";
+    }
+
+    return 0;
+}
+```
+**a)** O(N) ✅       
+**b)** O(N*N)    
+**c)** O(Nlog(N))     
+**d)** O(log(N))   
+> **Explanation:** sqrt টাইম কমপ্লেক্সিটি এর মডিউলে এই কোডের টাইম কমপ্লেক্সিটি সম্পর্কে দেখানো হয়েছে  । উক্ত কোডের টাইম কমপ্লেক্সিটি O(sqrt(N))।
+---
