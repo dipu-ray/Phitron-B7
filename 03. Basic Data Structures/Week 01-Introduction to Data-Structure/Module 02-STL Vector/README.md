@@ -109,3 +109,22 @@ vector<int> v(a, a+4);
 **d)** clear()   
 > **Explanation:** empty() ফাংশনটি একটি vector এর ভিতরে কোনও উপাদান আছে কিনা তা চেক করে। যদি vector খালি থাকে, এটি true রিটার্ন করে; অন্যথায় false রিটার্ন করে।
 ---
+#### 4. What will be the output of the following code if we print the vector?
+```
+vector<int> v = {1, 2, 3, 4};
+v.resize(2);
+v.resize(4);
+```
+**a)** 1 2 3 4     
+**b)** 1 2 3 0   
+**c)** 1 2 0 0 ✅    
+**d)** 0 0 0 0   
+> **Explanation:** `1.` প্রথমে v ভেক্টরটি {1, 2, 3, 4} দিয়ে শুরু হয়। <br> `2.` v.resize(2) কল করার পর, ভেক্টরের আকার ২ এ পরিবর্তিত হয়, এবং এখন এটি {1, 2} হবে। অতিরিক্ত উপাদানগুলো (৩ ও ৪) মুছে ফেলা হয়। <br> `3.` এরপর v.resize(4) কল করা হয়, যা ভেক্টরের আকার ৪ হয়। কিন্তু এখানে কোনো নতুন উপাদান সরাসরি প্রদান করা হয়নি, তাই স্বয়ংক্রিয়ভাবে নতুন উপাদানগুলির মান 0 হয়ে যাবে। ফলে ভেক্টরটি {1, 2, 0, 0} হবে। <br> `উত্তর: 1 2 0 0 `
+---
+#### 5. Which function would you use to delete the last element of a vector in C++?
+**a)** erase()     
+**b)** pop_back() ✅   
+**c)** clear()     
+**d)** remove()   
+> **Explanation:** pop_back() ফাংশনটি vector এর শেষ উপাদানটি মুছে ফেলে। এটি vector এর আকার এক করে কমিয়ে দেয়।
+---
