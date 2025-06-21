@@ -33,3 +33,6 @@
 
 ## 3. Range sum Query prefix sum solution I
 - Abc
+
+## 4. Range Sum Query prefix sum solution II
+- Abc
