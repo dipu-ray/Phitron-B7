@@ -58,7 +58,9 @@
 ## 11. Binary Search solution
 - Abc
 
-12. Summary
+## 12. Summary
+- Abc
+
 - Quiz: Module 03
 - Quiz Explanation and Practice Problem Set
 - Feedback Form: Module 03
