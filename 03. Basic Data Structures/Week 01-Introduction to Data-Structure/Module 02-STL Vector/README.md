@@ -78,10 +78,34 @@
 
 
 - [Quiz Explanation Link](https://docs.google.com/document/d/11R5lR-YMVVmkB4hs7xkMV9Vw9qrOwjiRgFtxRWdafNw/edit?usp=drivesdk)
-#### 1. 
-**a)** O(N)     
-**b)** O(N/2)   
-**c)** `O(N*N)` ✅   
-**d)** O(N*N+N)  
-> **Explanation:** ।
+#### 1. What will be the output of the v[3] of the following code snippet?
+```
+int a[4] = {12, 13, 14, 15};
+vector<int> v(a, a+4);
+```
+**a)** 12     
+**b)** 14   
+**c)** 13    
+**d)** 15 ✅  
+> **Explanation:** এখানে, a একটি অ্যারে যার মান {12, 13, 14, 15}। এরপর v নামে একটি vector তৈরি করা হয়, যা a অ্যারের প্রথম উপাদান থেকে শুরু হয়ে শেষ উপাদান পর্যন্ত (অর্থাৎ a+4 পর্যন্ত) মান গুলি ধারণ করবে। <br>
+`v[0] = 12` <br>
+`v[1] = 13` <br>
+`v[2] = 14` <br>
+`v[3] = 15` <br>
+তাহলে, v[3] এর মান হবে 15, কারণ v[3] তে a অ্যারের চতুর্থ উপাদান থাকবে, যা 15। <br>
+`উত্তর: 15`
+---
+#### 2. How do you add an element to the end of a vector in C++?
+**a)** v.add(element);     
+**b)** v.insert(element);   
+**c)** v.push_back(element); ✅    
+**d)** v.append(element);   
+> **Explanation:** push_back() ফাংশনটি একটি vector এর শেষে একটি নতুন উপাদান যোগ করে।
+---
+#### 3. Which of the following functions is used to check if a vector is empty?
+**a)** size()     
+**b)** capacity()   
+**c)** empty() ✅    
+**d)** clear()   
+> **Explanation:** empty() ফাংশনটি একটি vector এর ভিতরে কোনও উপাদান আছে কিনা তা চেক করে। যদি vector খালি থাকে, এটি true রিটার্ন করে; অন্যথায় false রিটার্ন করে।
 ---
