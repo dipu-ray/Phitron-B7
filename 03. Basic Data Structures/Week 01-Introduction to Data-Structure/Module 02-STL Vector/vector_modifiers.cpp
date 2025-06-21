@@ -10,7 +10,7 @@ int main() {
     //     cout << v2[i] << " ";
     // }
 
-    // // Shortcut way or range based for loops
+    // // = or assign() function - range based for loops
     // vector<int> v = {1, 2, 3, 4, 5};
     // vector<int> v2;
     // v2 = v;
@@ -31,12 +31,25 @@ int main() {
 
 
 
-    // insert() function
-    vector<int> v = {1, 2, 3, 4, 5};
-    v.insert(v.begin()+2, 100);
-    for(int x:v) {
-        cout << x << " ";
-    }
+    // // insert() function
+    // vector<int> v = {1, 2, 3, 4, 5};
+    // v.insert(v.begin()+2, 100);
+    // for(int x:v) {
+    //     cout << x << " ";
+    // }
+    
+    // // insert() function - To add multiple elements
+    // vector<int> v = {1, 2, 3, 4, 5};
+    // vector<int> v2 = {100, 200, 300};
+    // v.insert(v.begin()+2, v2.begin(), v2.end());
+    // for(int x:v) {
+    //     cout << x << " ";
+    // }
+
+
+
+    // erase() function
+    
 
     return 0;
 }
