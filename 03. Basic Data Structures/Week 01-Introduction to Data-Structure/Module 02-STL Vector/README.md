@@ -51,4 +51,4 @@
 - Program: `vector_iterators.cpp`
 
 ## 7. Vector input and output
-- abc
+- Program: `vector_input.cpp`
