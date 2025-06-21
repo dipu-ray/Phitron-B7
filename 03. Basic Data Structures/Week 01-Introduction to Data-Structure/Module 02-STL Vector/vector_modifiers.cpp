@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // // = or assign() function
+    // // = or assign() function - O(N)
     // vector<int> v = {1, 2, 3, 4, 5};
     // vector<int> v2;
     // v2 = v;
@@ -21,7 +21,7 @@ int main() {
 
 
 
-    // // pop_back() function
+    // // pop_back() function - O(1)
     // vector<int> v = {1, 2, 3, 4, 5};
     // v.pop_back();
     // for(int x:v) {
@@ -31,7 +31,7 @@ int main() {
 
 
 
-    // // insert() function
+    // // insert() function - O(N+K) where K is the number of elements to be inserted.
     // vector<int> v = {1, 2, 3, 4, 5};
     // v.insert(v.begin()+2, 100);
     // for(int x:v) {
@@ -48,7 +48,7 @@ int main() {
 
 
 
-    // // erase() function
+    // // erase() function - O(N+K) where K is the number of elements to be deleted.
     // vector<int> v = {1, 2, 3, 4, 5};
     // v.erase(v.begin()+2);
     // for(int x:v) {
