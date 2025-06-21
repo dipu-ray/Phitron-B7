@@ -175,3 +175,7 @@ for(auto element : v) {
 **d)** O(N*N)    
 > **Explanation:** C++ এ ort() ফাংশন এর টাইম কমপ্লেক্সিটি O(N log N)। 
 ---
+
+## Feedback Form
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
