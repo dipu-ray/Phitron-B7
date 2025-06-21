@@ -31,4 +31,6 @@
 - Vector of strings
 
 ## 1. Vector initialization
-- abc
+- `STL` - `Standard Template Library`
+- `Vector` work with dynamic array.
+- Program: `vector_initialization.cpp`
