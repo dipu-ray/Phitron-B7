@@ -55,3 +55,13 @@
 
 ## 8. Vector of String
 - Program: `string_vector.cpp`
+
+## 9. Summary
+- Known to STL vector
+- How to vector initialization
+- Known to capacity functions
+- Known to modifiers functions
+- Learn to every function time complexity
+- Known to element access functions
+- Known to iterators functions
+- Learn how to get input in vector and vector of string
