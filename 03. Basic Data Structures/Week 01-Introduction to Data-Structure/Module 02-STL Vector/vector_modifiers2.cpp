@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // // replace() function
+    // // replace() function - O(N)
     // vector<int> v = {1, 2, 3, 2, 5, 2};
     // replace(v.begin(), v.end(), 2, 100);
     // for(int x:v) {
@@ -19,7 +19,7 @@ int main() {
 
 
 
-    // // find() function
+    // // find() function - O(N)
     // vector<int> v = {1, 2, 3, 2, 5, 2};
     // auto it = find(v.begin(), v.end(), 100);
     // if(it == v.end()) {
