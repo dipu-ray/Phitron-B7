@@ -39,3 +39,14 @@
 
 ## 5. Prefix Sum Animated
 - Abc
+
+6. Binary Search Bruteforce solution
+7. Idea of Binary Search
+8. Steps of Binary Search
+9. Binary Search Animated
+10. Binary Search Implementation
+11. Binary Search solution
+12. Summary
+- Quiz: Module 03
+- Quiz Explanation and Practice Problem Set
+- Feedback Form: Module 03
