@@ -42,12 +42,3 @@
 
 ## 6. Binary Search Bruteforce solution
 - Abc
-
-## 7. Idea of Binary Search
-- Abc
-
-## 8. Steps of Binary Search
-- Abc
-
-## 9. Binary Search Animated
-- Abc
