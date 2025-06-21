@@ -49,3 +49,6 @@
 
 ## 6. Vector Iterators
 - Program: `vector_iterators.cpp`
+
+## 7. Vector input and output
+- abc
