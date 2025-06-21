@@ -19,4 +19,8 @@
 - Feedback Form: Module 03
 
 ## 0. Introduction
-- abc
+- New two technique - `Prefix sum` and `Binary search`
+- Understand the `prefix sum`
+- Power of binary search
+- Binary search in action
+- Mastering data structure
