@@ -71,7 +71,13 @@
 - `Total Marks: 10`
 
 ## Quiz Explanation Module 02
-- [Quiz Explanation Link]()
+- [Extra Problem Link](https://docs.google.com/document/d/1zCtGILmwz3TTS35Y9PPE3kqZ_O8NIPcov6Sz_QIB94c/edit?usp=drivesdk)
+    - ![Problems SS](./images/problems.png)
+    - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)
+    - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)
+
+
+- [Quiz Explanation Link](https://docs.google.com/document/d/11R5lR-YMVVmkB4hs7xkMV9Vw9qrOwjiRgFtxRWdafNw/edit?usp=drivesdk)
 #### 1. 
 **a)** O(N)     
 **b)** O(N/2)   
