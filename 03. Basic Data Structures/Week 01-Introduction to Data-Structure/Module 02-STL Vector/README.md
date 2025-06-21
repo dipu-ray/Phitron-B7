@@ -22,3 +22,13 @@
 ![image 2](./images/image2.png)
 ![image 3](./images/image3.png)
 ![image 4](./images/image4.png)
+
+## 0. Introduction
+- STL vector basic
+- Vector modifiers function
+- Vector capacity function
+- Vector accessing and input
+- Vector of strings
+
+## 1. Vector initialization
+- abc
