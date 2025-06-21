@@ -63,9 +63,3 @@
 
 ## Quiz: Module 03
 - Abc
-
-## Quiz Explanation and Practice Problem Set
-- Abc
-
-## Feedback Form: Module 03
-- Abc
