@@ -36,3 +36,6 @@
 
 ## 4. Range Sum Query prefix sum solution II
 - Abc
+
+## 5. Prefix Sum Animated
+- Abc
