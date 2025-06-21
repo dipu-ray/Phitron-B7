@@ -52,7 +52,9 @@
 ## 9. Binary Search Animated
 - Abc
 
-10. Binary Search Implementation
+## 10. Binary Search Implementation
+- Abc
+
 11. Binary Search solution
 12. Summary
 - Quiz: Module 03
