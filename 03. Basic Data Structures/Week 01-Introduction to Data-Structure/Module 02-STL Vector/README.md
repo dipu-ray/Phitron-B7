@@ -156,3 +156,22 @@ v.erase(v.begin()+2, v.end());
 **d)** Option b and c ✅   
 > **Explanation:** <br> `1.` v[v.size() - 1]: এটি সঠিক। v.size() - 1 হল ভেক্টরের শেষ উপাদানের ইনডেক্স। তাই এটি শেষ উপাদানটি রিটার্ন করবে। <br> `2.` v.back(): এটি আরও সঠিক ও সহজ উপায়। back() ফাংশনটি সরাসরি ভেক্টরের শেষ উপাদানটি রিটার্ন করে।
 ---
+#### 9. How do you iterate over the elements of a vector using a range-based for loop in C++?
+**a)** for (int i = 0; i < v.size(); i++)     
+**b)** for (data_type element : v) ✅    
+**c)** for (int i = 0; i <= v.size(); i++)     
+**d)** None of the above    
+> **Explanation:** রেঞ্জ-বেসড ফর লুপে, data_type হল ভেক্টরের উপাদানের টাইপ, এবং element হল প্রতিটি উপাদান যা ভেক্টর v থেকে এক এক করে নেয়া হয়। <br>
+```
+for(auto element : v) {
+    // code
+}
+```
+---
+#### 10. What will be the time complexity of sorting a vector using the built in sort() function?
+**a)** O(1)     
+**b)** O(NlogN) ✅    
+**c)** O(logN)     
+**d)** O(N*N)    
+> **Explanation:** C++ এ ort() ফাংশন এর টাইম কমপ্লেক্সিটি O(N log N)। 
+---
