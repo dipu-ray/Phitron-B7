@@ -55,7 +55,9 @@
 ## 10. Binary Search Implementation
 - Abc
 
-11. Binary Search solution
+## 11. Binary Search solution
+- Abc
+
 12. Summary
 - Quiz: Module 03
 - Quiz Explanation and Practice Problem Set
