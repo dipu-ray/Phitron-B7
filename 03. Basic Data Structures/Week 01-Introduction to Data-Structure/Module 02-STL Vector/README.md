@@ -17,4 +17,8 @@
 - Feedback Form
 
 ## Vector Built-in Functions
-- Abc
+- [Link](https://docs.google.com/document/d/1nxpbS-5RKFSwcJ6mHv3P2Vru9HTqXOeB/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
+![image 1](./images/image.png)
+![image 2](./images/image2.png)
+![image 3](./images/image3.png)
+![image 4](./images/image4.png)
