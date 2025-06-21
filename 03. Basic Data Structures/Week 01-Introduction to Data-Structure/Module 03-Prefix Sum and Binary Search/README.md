@@ -57,9 +57,3 @@
 
 ## 11. Binary Search solution
 - Abc
-
-## 12. Summary
-- Abc
-
-## Quiz: Module 03
-- Abc
