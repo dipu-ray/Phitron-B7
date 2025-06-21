@@ -46,7 +46,8 @@
 ## 7. Idea of Binary Search
 - Abc
 
-8. Steps of Binary Search
+## 8. Steps of Binary Search
+- Abc
 9. Binary Search Animated
 10. Binary Search Implementation
 11. Binary Search solution
