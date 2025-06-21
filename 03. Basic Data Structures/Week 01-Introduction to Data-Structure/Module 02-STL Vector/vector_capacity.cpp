@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // // capacity() function
+    // // capacity() function - O(1)
     // vector<int> v;
     // cout << v.capacity() << endl;
 
@@ -25,7 +25,7 @@ int main() {
 
 
 
-    // // clear() function
+    // // clear() function - O(N)
     // vector<int> v;
 
     // v.push_back(10);
@@ -44,7 +44,7 @@ int main() {
 
 
 
-    // // empty() function
+    // // empty() function  - O(1)
     // vector<int> v;
     // if(v.empty()) {
     //     cout << "True" << endl;
@@ -56,7 +56,7 @@ int main() {
 
 
 
-    // // resize() function
+    // // resize() function  - O(K) where K is the difference between new size and current size
     // vector<int> v;
     // v.push_back(10);
     // v.push_back(20);
