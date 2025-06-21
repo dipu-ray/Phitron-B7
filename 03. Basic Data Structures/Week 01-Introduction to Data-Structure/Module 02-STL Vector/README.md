@@ -34,3 +34,6 @@
 - `STL` - `Standard Template Library`
 - `Vector` work with dynamic array.
 - Program: `vector_initialization.cpp`
+
+## 2. Vector Capacity functions
+- Program: `vector_capacity.cpp`
