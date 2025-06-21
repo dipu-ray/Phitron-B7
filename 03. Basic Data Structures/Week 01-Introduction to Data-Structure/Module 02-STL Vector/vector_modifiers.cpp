@@ -21,9 +21,19 @@ int main() {
 
 
 
-    // pop_back() function
+    // // pop_back() function
+    // vector<int> v = {1, 2, 3, 4, 5};
+    // v.pop_back();
+    // for(int x:v) {
+    //     cout << x << " ";
+    // }
+
+
+
+
+    // insert() function
     vector<int> v = {1, 2, 3, 4, 5};
-    v.pop_back();
+    v.insert(v.begin()+2, 100);
     for(int x:v) {
         cout << x << " ";
     }
