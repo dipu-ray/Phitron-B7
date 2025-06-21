@@ -51,9 +51,3 @@
 
 ## 9. Binary Search Animated
 - Abc
-
-## 10. Binary Search Implementation
-- Abc
-
-## 11. Binary Search solution
-- Abc
