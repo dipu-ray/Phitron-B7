@@ -43,3 +43,6 @@
 
 ## 4. Vector Modifiers II
 - Program: `vector_modifiers2.cpp`
+
+## 5. Vector Element Access
+- Program: `vector_element.cpp`
