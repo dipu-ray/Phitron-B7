@@ -52,3 +52,6 @@
 
 ## 7. Vector input and output
 - Program: `vector_input.cpp`
+
+## 8. Vector of String
+- Program: `string_vector.cpp`
