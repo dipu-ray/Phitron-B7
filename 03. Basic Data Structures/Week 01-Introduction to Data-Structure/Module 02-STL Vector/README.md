@@ -65,3 +65,17 @@
 - Known to element access functions
 - Known to iterators functions
 - Learn how to get input in vector and vector of string
+
+## Quiz: Module 02
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 02
+- [Quiz Explanation Link]()
+#### 1. 
+**a)** O(N)     
+**b)** O(N/2)   
+**c)** `O(N*N)` ✅   
+**d)** O(N*N+N)  
+> **Explanation:** ।
+---
