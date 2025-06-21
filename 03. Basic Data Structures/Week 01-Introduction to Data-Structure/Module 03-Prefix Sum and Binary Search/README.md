@@ -24,9 +24,3 @@
 - Power of binary search
 - Binary search in action
 - Mastering data structure
-
-## 1. Range Sum Query Bruteforce solution
-- Abc
-
-## 2. Idea of Prefix Sum
-- Abc
