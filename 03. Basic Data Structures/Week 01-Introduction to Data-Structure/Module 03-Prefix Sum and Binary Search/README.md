@@ -30,3 +30,6 @@
 
 ## 2. Idea of Prefix Sum
 - Abc
+
+## 3. Range sum Query prefix sum solution I
+- Abc
