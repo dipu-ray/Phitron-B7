@@ -26,4 +26,4 @@
 - Mastering data structure
 
 ## 1. Range Sum Query Bruteforce solution
-- abc
+- Abc
