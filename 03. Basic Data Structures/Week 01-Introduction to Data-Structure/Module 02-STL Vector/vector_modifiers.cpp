@@ -48,8 +48,19 @@ int main() {
 
 
 
-    // erase() function
-    
+    // // erase() function
+    // vector<int> v = {1, 2, 3, 4, 5};
+    // v.erase(v.begin()+2);
+    // for(int x:v) {
+    //     cout << x << " ";
+    // }
+
+    // erase() function - start to end
+    vector<int> v = {1, 2, 3, 4, 5, 6};
+    v.erase(v.begin()+1, v.begin()+4);
+    for(int x:v) {
+        cout << x << " ";
+    }
 
     return 0;
 }
