@@ -40,7 +40,9 @@
 ## 5. Prefix Sum Animated
 - Abc
 
-6. Binary Search Bruteforce solution
+## 6. Binary Search Bruteforce solution
+- Abc
+
 7. Idea of Binary Search
 8. Steps of Binary Search
 9. Binary Search Animated
