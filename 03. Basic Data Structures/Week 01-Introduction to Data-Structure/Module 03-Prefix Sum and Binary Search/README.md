@@ -61,6 +61,8 @@
 ## 12. Summary
 - Abc
 
-- Quiz: Module 03
+## Quiz: Module 03
+- Abc
+
 - Quiz Explanation and Practice Problem Set
 - Feedback Form: Module 03
