@@ -31,3 +31,6 @@
 - ![Problem image](./images/problem.png)
 - Problem solve program: `main.cpp`
 - This problem solving have done `main.cpp`. Not error but TLE that's means time complexity.
+
+## 2. Idea of Prefix Sum
+- 
