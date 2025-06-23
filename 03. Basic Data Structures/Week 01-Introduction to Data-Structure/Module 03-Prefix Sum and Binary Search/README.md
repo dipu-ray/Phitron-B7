@@ -61,3 +61,7 @@
 
 ## 8. Steps of Binary Search
 - Once more understand to `Binary Search`
+- `middle = (left+right)/2`
+
+## 9. Binary Search Animated
+- Explanation `binary search` with animation way
