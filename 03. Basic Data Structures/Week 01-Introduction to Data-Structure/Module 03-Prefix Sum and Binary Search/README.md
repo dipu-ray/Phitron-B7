@@ -65,3 +65,6 @@
 
 ## 9. Binary Search Animated
 - Explanation `binary search` with animation way
+
+## 10. Binary Search Implementation
+- Abc
