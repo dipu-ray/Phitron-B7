@@ -39,3 +39,6 @@
 ## 3. Range sum Query prefix sum solution I
 - Program: `main3.cpp`
 - Solved the next module...
+
+## 4. Range Sum Query prefix sum solution II
+- Program: `main4.cpp`
