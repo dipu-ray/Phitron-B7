@@ -78,3 +78,23 @@
 - There have this module two problem solve `prefix sum` and `binary search`.
 - Understand deeply what is `prefix sum`
 - Understand deeply what is `binary search`
+
+## Quiz: Module 02
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 02
+- [Extra Problem Link](https://docs.google.com/document/d/1zCtGILmwz3TTS35Y9PPE3kqZ_O8NIPcov6Sz_QIB94c/edit?usp=drivesdk)
+    - ![Problems SS](./images/problems.png)
+    - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)
+    - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)
+
+
+- [Quiz Explanation Link](https://docs.google.com/document/d/11R5lR-YMVVmkB4hs7xkMV9Vw9qrOwjiRgFtxRWdafNw/edit?usp=drivesdk)
+#### 1. What will be the output of the v[3] of the following code snippet?
+**a)** 12     
+**b)** 14   
+**c)** 13    
+**d)** 15 ✅  
+> **Explanation:** এখানে, a একটি অ্যারে যার মান {12, 13, 14, 15}। এরপর v নামে একটি vector তৈরি করা হয়, যা a অ্যারের প্রথম উপাদান থেকে শুরু হয়ে শেষ উপাদান পর্যন্ত (অর্থাৎ a+4 পর্যন্ত) মান গুলি ধারণ করবে।
+---
