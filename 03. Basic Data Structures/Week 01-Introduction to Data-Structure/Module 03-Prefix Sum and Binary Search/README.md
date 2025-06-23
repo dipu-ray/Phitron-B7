@@ -73,3 +73,8 @@
 ## 11. Binary Search solution
 - Program: `binary_search3.cpp`
 - Problem solve from link or image with `binary search` using.
+
+## 12. Summary
+- There have this module two problem solve `prefix sum` and `binary search`.
+- Understand deeply what is `prefix sum`
+- Understand deeply what is `binary search`
