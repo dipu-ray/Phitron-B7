@@ -104,3 +104,36 @@
 **d)** O(1)   
 > **Explanation:** 2 থেকে n পর্যন্ত একটি for loop চালানোর মাধ্যমে prefix sum array টি generate করা হয়ে থাকে।
 ---
+#### 3. What is the time complexity of calculating a range based sum from L to R using a prefix sum array?
+**a)** O(n)     
+**b)** O(logn)    
+**c)** O(n^2)    
+**d)** O(1) ✅   
+> **Explanation:** প্রিফিক্স সাম array টি generate করার পর শুধুমাত্র ঐ array টির ইন্ডেক্স এক্সেস করার মাধ্যমে আমরা একটি রেঞ্জের যোগফল O(1) কমপ্লেক্সিটি তে বের করে আনতে পারি।
+---
+#### 4. What is the time complexity of binary search in the worst case?
+**a)** O(n)     
+**b)** O(logn) ✅    
+**c)** O(n^2)    
+**d)** O(1)    
+> **Explanation:** Binary search এর ক্ষেত্রে ম্যাক্সিমাম logN বার লুপ চললে একটি মান খুজে নেয়া যায়।
+---
+#### 5. Binary search can be applied to which of the following?
+**a)** Sorted arrays ✅     
+**b)** Unsorted arrays    
+> **Explanation:** যেহেতু একটি iteration এর পর ভ্যালুটি খুজে না পেলে আমরা ভ্যালুটির মান ছোট নাকি বড় তা কম্পেয়ার করে আমাদের সার্চ স্পেসটির বাম সাইড / ডান সাইড ইগ্নোর করি , তাই sorted array না হলে কোন সাইড ইগ্নোর করবো তা সিদ্ধান্ত নেয়া যাবে না।
+---
+#### 6. In binary search, what is the index of the middle element in each iteration?
+**a)** (start + end) / 2 ✅     
+**b)** (start + end) / 4     
+**c)** (start + end) / 8    
+**d)** (start + end) / (start - end)    
+> **Explanation:** মিডল ইন্ডেক্স পাওয়া যাবে start+end কে ২ দ্বারা ভাগ করার মাধ্যমে।
+---
+#### 7. In binary search, what is the condition for terminating the search if the target element is not found?
+**a)** When the start index becomes greater than the end index. ✅     
+**b)** When the start index becomes equal to the end index.     
+**c)** When the middle element becomes equal to the target value.    
+**d)** When the middle element becomes greater than the target value.    
+> **Explanation:** start index থেকে end index বড় হয়ে যাওয়া মানে হলো এই রেঞ্জ টি valid নয়। valid search space না হলে আমরা আমাদের সার্চ টি বন্ধ করে দিবো।
+---
