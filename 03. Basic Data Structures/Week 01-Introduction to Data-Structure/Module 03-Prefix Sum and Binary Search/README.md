@@ -97,3 +97,10 @@
 **d)** Reversing an array ✅  
 > **Explanation:** ক্রমযোজিত যোগফল (cumulative sum) বের করার মাধ্যমে কোনো রেঞ্জের যোগফল সহজে বের করার জন্য prefix sum algorithm ব্যবহার করা হয়।
 ---
+#### 2. What is the time complexity of calculating a prefix sum using a loop?
+**a)** O(n)     
+**b)** O(logn) ✅   
+**c)** O(n^2)    
+**d)** O(1)   
+> **Explanation:** 2 থেকে n পর্যন্ত একটি for loop চালানোর মাধ্যমে prefix sum array টি generate করা হয়ে থাকে।
+---
