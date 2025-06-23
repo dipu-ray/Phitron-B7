@@ -47,4 +47,8 @@
 - Explanation this program `prefix_sum4.cpp` with prefix sum
 
 ## 6. Binary Search Bruteforce solution
-- Program: 
+- `Brute force` - A problem solve with simple way not optimize or better way to solve, that's brute force.
+- [Problem Link](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+- ![Problem image](./images/problem2.png)
+- Problem solve program: `binary_search.cpp`
+- This problem solving have done `binary_search.cpp`. Not error but TLE that's means time complexity.
