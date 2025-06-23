@@ -14,9 +14,13 @@
     - ![Problem 3](./images/problem3.png)
 - Problem 4:
     - ![Problem 4](./images/problem4.png)
+
+- Ans sheet:
+    - ![Ans](./images/ans.png)
+
 - Problem 5:
     - ![Problem 1](./images/problem5.png)
     - [Link:](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
 
-## 
-- 
+## 1. Practice
+- Explanation this whole problems. `1` to `5` problems.
