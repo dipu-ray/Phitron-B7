@@ -68,6 +68,8 @@
 
 ## 10. Binary Search Implementation
 - Program: `binary_search2.cpp`
+- This problem normally solve with binary search
 
 ## 11. Binary Search solution
-- 
+- Program: `binary_search3.cpp`
+- Problem solve from link or image with `binary search` using.
