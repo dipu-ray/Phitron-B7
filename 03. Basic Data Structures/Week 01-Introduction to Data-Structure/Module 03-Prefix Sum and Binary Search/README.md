@@ -35,3 +35,7 @@
 ## 2. Idea of Prefix Sum
 - Program: `main2.cpp`
 - Not done idea of prefix some this module
+
+## 3. Range sum Query prefix sum solution I
+- Program: `main3.cpp`
+- Solved the next module...
