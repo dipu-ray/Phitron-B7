@@ -29,19 +29,22 @@
 - `Brute force` - A problem solve with simple way not optimize or better way to solve, that's brute force.
 - [Problem Link](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
 - ![Problem image](./images/problem.png)
-- Problem solve program: `main.cpp`
-- This problem solving have done `main.cpp`. Not error but TLE that's means time complexity.
+- Problem solve program: `prefix_sum.cpp`
+- This problem solving have done `prefix_sum.cpp`. Not error but TLE that's means time complexity.
 
 ## 2. Idea of Prefix Sum
-- Program: `main2.cpp`
+- Program: `prefix_sum2.cpp`
 - Not done idea of prefix some this module
 
 ## 3. Range sum Query prefix sum solution I
-- Program: `main3.cpp`
+- Program: `prefix_sum3.cpp`
 - Solved the next module...
 
 ## 4. Range Sum Query prefix sum solution II
-- Program: `main4.cpp`
+- Program: `prefix_sum4.cpp`
 
 ## 5. Prefix Sum Animated
-- Explanation this program `main4.cpp` with prefix sum
+- Explanation this program `prefix_sum4.cpp` with prefix sum
+
+## 6. Binary Search Bruteforce solution
+- Program: 
