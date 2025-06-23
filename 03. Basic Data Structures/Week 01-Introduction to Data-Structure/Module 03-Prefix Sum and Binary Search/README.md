@@ -60,4 +60,4 @@
 - When array are unsorted then you apply `linear search`
 
 ## 8. Steps of Binary Search
-- Abc
+- Once more understand to `Binary Search`
