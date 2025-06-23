@@ -137,3 +137,28 @@
 **d)** When the middle element becomes greater than the target value.    
 > **Explanation:** start index থেকে end index বড় হয়ে যাওয়া মানে হলো এই রেঞ্জ টি valid নয়। valid search space না হলে আমরা আমাদের সার্চ টি বন্ধ করে দিবো।
 ---
+#### 8. According to the module, what is the value of the first element in the prefix sum array?
+**a)** The sum of all elements in the original array      
+**b)** 0     
+**c)** The first element of the original array ✅    
+**d)** The last element of the original array    
+> **Explanation:** first index এর আগে যেহেতু কোনো ভ্যালু নেই , তাই এর আগের ভ্যালু থেকে শুরু করে ঐ ইন্ডেক্স এর ভ্যালুর যোগফল শুধুমাত্র প্রথম ইন্ডেক্স এর ভ্যালুই।
+---
+#### 9. In prefix sum, what is the value of the last element in the prefix sum array?
+**a)** The sum of all elements in the original array ✅      
+**b)** 0     
+**c)** The first element of the original array     
+**d)** The last element of the original array    
+> **Explanation:** যেহেতু লাস্ট ইন্ডেক্স এ থাকবে ১ম ইন্ডেক্স থেকে শুরু করে last index এর যোগফল , তাই পুরো array এর যোগফলটি last index এ স্টোর করা থাকে।
+---
+#### 10. How can you tell if you found the target value in binary search?
+**a)** Check if the middle element is equal to the target value in every iteration. ✅      
+**b)** Count the number of iterations performed.     
+**c)** Print all the elements of the array.     
+**d)** Iterate over all of the elements and check.    
+> **Explanation:** middle element টি যদি কাঙ্খিত ভ্যালুটি হয় তবে আমরা বুঝতে পারবো আমাদের কাঙ্খিত ভ্যালুটি পাওয়া গেছে।
+---
+
+## Feedback Form: Module 03
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
