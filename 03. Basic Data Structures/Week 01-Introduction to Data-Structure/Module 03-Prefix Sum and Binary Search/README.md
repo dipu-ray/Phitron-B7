@@ -33,4 +33,5 @@
 - This problem solving have done `main.cpp`. Not error but TLE that's means time complexity.
 
 ## 2. Idea of Prefix Sum
-- 
+- Program: `main2.cpp`
+- Not done idea of prefix some this module
