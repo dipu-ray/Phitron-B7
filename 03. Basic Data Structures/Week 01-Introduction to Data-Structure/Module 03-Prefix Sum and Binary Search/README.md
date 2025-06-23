@@ -52,3 +52,9 @@
 - ![Problem image](./images/problem2.png)
 - Problem solve program: `binary_search.cpp`
 - This problem solving have done `binary_search.cpp`. Not error but TLE that's means time complexity.
+
+## 7. Idea of Binary Search
+- Learn to explore `binary search` and this is very powerful algorithms
+- Different between `binary search` and `linear search`
+- When array are sorted then you apply `binary search`
+- When array are unsorted then you apply `linear search`
