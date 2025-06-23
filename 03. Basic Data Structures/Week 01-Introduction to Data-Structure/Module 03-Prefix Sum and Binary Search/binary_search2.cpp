@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// That is not problem solving from the image or link. It' just normally binary search uses
 int main() {
     int n;
     cin >> n;

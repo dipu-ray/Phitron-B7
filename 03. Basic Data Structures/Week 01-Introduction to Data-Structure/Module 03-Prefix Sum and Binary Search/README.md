@@ -68,3 +68,6 @@
 
 ## 10. Binary Search Implementation
 - Program: `binary_search2.cpp`
+
+## 11. Binary Search solution
+- 
