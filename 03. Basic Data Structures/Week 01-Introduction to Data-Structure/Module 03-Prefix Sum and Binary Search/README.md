@@ -58,3 +58,6 @@
 - Different between `binary search` and `linear search`
 - When array are sorted then you apply `binary search`
 - When array are unsorted then you apply `linear search`
+
+## 8. Steps of Binary Search
+- Abc
