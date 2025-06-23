@@ -42,3 +42,6 @@
 
 ## 4. Range Sum Query prefix sum solution II
 - Program: `main4.cpp`
+
+## 5. Prefix Sum Animated
+- Explanation this program `main4.cpp` with prefix sum
