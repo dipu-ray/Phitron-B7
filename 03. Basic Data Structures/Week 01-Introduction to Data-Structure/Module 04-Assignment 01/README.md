@@ -34,3 +34,6 @@
 
 ## 1. Assignment 01 Instruction
 - Explanation this whole assignments problems
+
+## Assignment 01
+- Submission assignment 01 with `profile link` and `username`
