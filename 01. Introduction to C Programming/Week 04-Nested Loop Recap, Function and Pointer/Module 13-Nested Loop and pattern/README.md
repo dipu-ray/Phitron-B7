@@ -43,11 +43,11 @@
 ## 5. Sum of 2 values equal X Animation
 - Any two values summation can equal to x value.
 - Example: `a[i] + a[j] = x?`
-- ![Draw](./images/draw.png)
+- <img src="./images/draw.png" width=500>
 
 ## 6. Sum of 2 values equal x
 - Program: `main.c`
-- ![Program drawing](./images/draw2.png)
+- <img src="./images/draw2.png" width=500>
 
 ## 7. Flag variable
 - Program: `main2.c`
@@ -58,7 +58,7 @@
 - Short are 2 ways:
     - Min to max (Ascending order)
     - Max to min (Descending order)
-- ![Shorted draw](./images/draw3.png)
+- <img src="./images/draw3.png" width=500>
 - Ascending order:
     - `a[i] > a[j]`
 - Descending order:
@@ -243,9 +243,9 @@ i=1 হলে  j (1 থেকে 1) পর্যন্ত → 1 টি * প্�
 
 ## Extra Practice Problem (Optional):
 - [Extra Practice Problem Link](https://docs.google.com/document/d/1KyUB7JrpN3tinY1C1epwbG4nfK5uAuGZG_da36ksnl0/edit?usp=sharing)
-- ![Extra Practice Problem Images](./images/problems1-2.png)
-- ![Extra Practice Problem Images](./images/problems3-4.png)
-- ![Extra Practice Problem Images](./images/problems5.png)
+- <img src="./images/problems1-2.png" width=500>
+- <img src="./images/problems3-4.png" width=500>
+- <img src="./images/problems5.png" width=500>
 
 ## Feedback Form Module 13
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
