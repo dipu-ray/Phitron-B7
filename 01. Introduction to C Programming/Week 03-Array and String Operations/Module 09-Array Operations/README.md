@@ -33,21 +33,21 @@
     - `a[4]` = `a[3]`
     - `a[3]` = `a[2]`
     - `a[2]` = `a[1]`
-- The logic build with image: 
-    ![Inserting array draw](./images/draw.png)
+- The logic build with image:
+    - <img src="./images/draw.png" width=500>
 
 ## 3. Insert a value in an array implementation
 - Program are same `insert_array.c` - `100%`
-- The logic build with image: 
-    ![Inserting array draw 2](./images/draw2.png)
+- The logic build with image:
+    - <img src="./images/draw2.png" width=500>
 
 ## 4. Remove element from an Array Animated
 - Inserting opposite remove. Remove can start with starting
 
 ## 5. Removing a value in an array idea
 - Program: `remove_array.c` - `50%`
-- The logic build with image: 
-    ![Inserting array draw 3](./images/draw3.png)
+- The logic build with image:
+    - <img src="./images/draw3.png" width=500>
 
 ## 6. Removing a value in an array Implementation
 - Program are same `remove_array.c` - `100%`
@@ -64,8 +64,8 @@
 ## 9. Reverse an array
 - Program: `reversing_array.c`
 - `Two Pointer Technique` is very famous. This technique follow and solve to 100k+ problem solving.
-- The logic build with image: 
-    ![Inserting array draw 4](./images/draw4.png)
+- The logic build with image:
+    - <img src="./images/draw4.png" width=500>
 
 ## 10. Summary
 - How to an array insert new element.
