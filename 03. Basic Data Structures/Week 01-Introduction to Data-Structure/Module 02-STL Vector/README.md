@@ -18,10 +18,10 @@
 
 ## Vector Built-in Functions
 - [Link](https://docs.google.com/document/d/1nxpbS-5RKFSwcJ6mHv3P2Vru9HTqXOeB/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
-![image 1](./images/image.png)
-![image 2](./images/image2.png)
-![image 3](./images/image3.png)
-![image 4](./images/image4.png)
+- <img src="./images/image.png" width=500>
+- <img src="./images/image2.png" width=500>
+- <img src="./images/image3.png" width=500>
+- <img src="./images/image4.png" width=500>
 
 ## 0. Introduction
 - STL vector basic
@@ -72,7 +72,7 @@
 
 ## Quiz Explanation Module 02
 - [Extra Problem Link](https://docs.google.com/document/d/1zCtGILmwz3TTS35Y9PPE3kqZ_O8NIPcov6Sz_QIB94c/edit?usp=drivesdk)
-    - ![Problems SS](./images/problems.png)
+    - <img src="./images/problems.png" width=500>
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)
     - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)
 
