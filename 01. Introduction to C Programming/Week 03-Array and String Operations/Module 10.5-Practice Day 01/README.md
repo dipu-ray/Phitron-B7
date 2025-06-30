@@ -10,26 +10,26 @@
 - [Practice Problem Set :](https://docs.google.com/document/d/1BZ4EmlT9VnXCIWcsbU8wAdFk0RH2xjybs7Vzfqflggk/edit?tab=t.0#heading=h.1tiup1mwqtlu)
 - Problem topic with Array and String.
 - Problem 1:
-    - ![Problem 1 image](./images/problem1.png)
+    - <img src="./images/problem1.png" width=500>
 - Problem 2:
-    - ![Problem 2 image](./images/problem2.png)
+    - <img src="./images/problem2.png" width=500>
 - Problem 3:
-    - ![Problem 3 image](./images/problem3.png)
+    - <img src="./images/problem3.png" width=500>
 - Problem 4:
-    - ![Problem 4 image](./images/problem4.png)
+    - <img src="./images/problem4.png" width=500>
 - Problem 5:
-    - ![Problem 5 image](./images/problem5.png)
+    - <img src="./images/problem5.png" width=500>
 - Problem 6:
-    - ![Problem 6 image](./images/problem6.png)
+    - <img src="./images/problem6.png" width=500>
 
 ## 1. Practice Instructions
 - Explanation all practice problems
 
 ## 2. Copy elements from 2 arrays to another array Animated
 - Copy from 2 array value in one new array with animations explanation
-    ![Draw 1 image](./images/draw.png)
+    - <img src="./images/draw.png" width=500>
 
 ## 3. Copy elements from 2 arrays to another array
 - Program: `concat_array.c`
 - Copy from 2 array value in one new array with animations explanation
-    ![Draw 2 image](./images/draw2.png)
+    - <img src="./images/draw2.png" width=500>
