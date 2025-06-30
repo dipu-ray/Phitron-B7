@@ -57,6 +57,7 @@
     - Then create a new file `main.c` and type to `snippet` then you will get a c program structure.
 
 ## 1. Welcome for you with conditions
+- <img src="./images/problem_1.png" width=500>
 - ![This is a problem number one (1) image](./images/problem_1.png)
 - Program: `problem_1.c`
 - Explain and solve this c program
