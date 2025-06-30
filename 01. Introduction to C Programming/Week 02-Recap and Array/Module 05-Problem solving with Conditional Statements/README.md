@@ -103,7 +103,7 @@
 - Explain and solve this c program
 
 ## 7. Max and min
-<img src="./images/problem_6.png" width=500>
+- <img src="./images/problem_6.png" width=500>
 - Program: `problem_6.c`
 - Explain and solve this c program
 
