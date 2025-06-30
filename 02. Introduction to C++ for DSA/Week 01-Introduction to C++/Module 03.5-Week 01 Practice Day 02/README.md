@@ -15,8 +15,8 @@
     - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)
     - [Problem 4](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)
     - [Problem 5](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H)
-    - ![Practice problem 1](./images/practice_problem.png)
-    - ![Practice problem 2](./images/practice_problem2.png)
+    - <img src="./images/practice_problem.png" width=500>
+    - <img src="./images/practice_problem2.png" width=500>
 
 ## 1. Practice
 - Explanation all the problems include practice problems.
