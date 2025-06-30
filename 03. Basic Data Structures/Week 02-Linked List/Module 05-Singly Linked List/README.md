@@ -15,3 +15,11 @@
 - Quiz: Module 05
 - Quiz Explanation and Extra Practice Problems
 - Feedback Form: Module 05
+
+## 0. Introduction
+- Learn and understand to `Linked List`.
+- Why learn linked list?
+- Understand the basics of `linked lists`
+- Creating a `singly linked list`
+- Visualizing the `linked list`
+- Printing the `linked list`
