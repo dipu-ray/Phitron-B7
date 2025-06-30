@@ -360,10 +360,10 @@ int main() {
 
 ### Extra Practice Problem (Optional):
 - [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1i2zJTPCAImx0bPmCijqBeCP5-C_D-VVuJPdI68w-5RA/edit?usp=sharing)
-    - ![Extra Practice Problem SS](./images/extra-problems.png)
-    - ![Extra Practice Problem SS](./images/extra-problems2.png)
-    - ![Extra Practice Problem SS](./images/extra-problems3.png)
-    - ![Extra Practice Problem Answer SS](./images/extra-problems-ans.png)
+    - <img src="./images/extra-problems.png" width=500>
+    - <img src="./images/extra-problems2.png" width=500>
+    - <img src="./images/extra-problems3.png" width=500>
+    - <img src="./images/extra-problems-ans.png" width=500>
 
 ## Feedback Form
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
