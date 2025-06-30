@@ -185,7 +185,7 @@ for (char ch : s) {
 - [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1P10bN99yHVTCJ-Pz3_PC-Ie_WESe5Hl_JEMvdiQl6do/edit?usp=sharing)
 - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Q)
 - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)
-- ![Extra problems ss](./images/extra_problems.png)
+- <img src="./images/extra_problems.png" width=500>
 
 ## Feedback Form Module 06
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
