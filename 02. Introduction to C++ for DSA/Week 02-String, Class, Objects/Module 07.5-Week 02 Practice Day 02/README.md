@@ -13,9 +13,9 @@
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G)
     - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)
 - Extra Practice Problems:
-    - ![Practice Problem](./images/practice.png)
-    - ![Practice Problem](./images/practice2.png)
-    - ![Practice Problem](./images/practice3.png)
+    - <img src="./images/practice.png" width=500>
+    - <img src="./images/practice2.png" width=500>
+    - <img src="./images/practice3.png" width=500>
 
 ## 1. Practice
 - Explanation this whole practice problem set
