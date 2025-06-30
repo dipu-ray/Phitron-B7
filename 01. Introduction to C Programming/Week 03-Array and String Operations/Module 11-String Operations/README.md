@@ -175,7 +175,7 @@ Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary 
     - <img src="./images/extra_problem1.png" width=500>
 - Problem 2
     - <img src="./images/extra_problem2.png" width=500>
-- Problem 2
+- Problem 3
     - Copy a string into another string without using strcpy()
 
 ## Feedback Form Module 11
