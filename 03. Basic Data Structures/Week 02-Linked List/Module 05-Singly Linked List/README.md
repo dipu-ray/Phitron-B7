@@ -33,7 +33,7 @@
 - Program: `linked_list.cpp`
 - Drawing `Sequential Memory Allocation`:
     - ![Drawing](./images/draw.png)
-    - <img src="./images/draw.png" width=200>
+    - <img src="./images/draw.png" width=500>
 - Memory are not empty with serial or sequential, then `array` or `vector` memory not access. This is the problem of `Sequential Memory Allocation`.
 
 ## 2. Idea of a Linked list
