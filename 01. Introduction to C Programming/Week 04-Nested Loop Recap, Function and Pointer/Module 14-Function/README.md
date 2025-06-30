@@ -249,7 +249,7 @@ int main() {
 
 ## Extra Practice Problem (Optional):
 - [Extra Practice Problem Link](https://docs.google.com/document/d/1ezSmXcT4woRw3NeAGW04NCljZ7zwIokHVw_sgfYmJ3U/edit?usp=sharing)
-- ![Extra Practice Problem Images](./images/extra_practice_problem.png)
+- <img src="./images/extra_practice_problem.png" width=500>
 
 ## Feedback Form Module 14
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
