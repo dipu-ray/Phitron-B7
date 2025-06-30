@@ -62,7 +62,7 @@
 - Explain and solve this c program
 
 ## 2. Multiples
-<img src="./images/problem_2.png" width=500>
+- <img src="./images/problem_2.png" width=500>
 - Program: `problem_2.c`
 - Explain and solve this c program
 
@@ -90,7 +90,7 @@
 - You can seach to google and see this `ASCII table`.
 
 ## 5. Char
-<img src="./images/problem_4.png" width=500>
+- <img src="./images/problem_4.png" width=500>
 - Program: `problem_4.c`
 - Explain and solve this c program
 - When you find out the `lowercase character` to `uppercase character` then subtraction `-32`.
@@ -98,7 +98,7 @@
 - You can check `ASCII value table` then you can understand.
 
 ## 6. Capital or small or digit
-<img src="./images/problem_5.png" width=500>
+- <img src="./images/problem_5.png" width=500>
 - Program: `problem_5.c`
 - Explain and solve this c program
 
