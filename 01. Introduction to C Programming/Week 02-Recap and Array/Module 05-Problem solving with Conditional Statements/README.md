@@ -310,9 +310,9 @@ if(x >= y && x < y + 4) {
 
 ## Extra Practice Problem
 - Problem C: Simple Calculator
-    - ![This is a optional problem no c image](./images/problem_c.png)
+    - <img src="./images/problem_c.png" width=500>
 - Problem D: Difference
-    - ![This is a optional problem no d image](./images/problem_d.png)
+    - <img src="./images/problem_d.png" width=500>
 
 - Or [Problem Link C](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C), [Problem Link D](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D)
 
