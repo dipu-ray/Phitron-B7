@@ -6,7 +6,7 @@
 
 ## Practice Problem Set: Module 2.5
 - [Link](https://docs.google.com/document/d/1rdykcfh-PZ0hFrnXYgGFDkZlMkvMCe-a/edit?usp=drivesdk&ouid=112433310488936743525&rtpof=true&sd=true)
-- ![Problem Set SS](./images/problems_set.png)
+- <img src="./images/problems_set.png" width=500>
 - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)
 - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)
 - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/D)
