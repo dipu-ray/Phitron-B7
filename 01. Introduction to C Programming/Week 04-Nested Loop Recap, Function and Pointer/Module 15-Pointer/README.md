@@ -232,7 +232,7 @@ int main()
 
 ## Extra Practice Problem (Optional):
 - [Extra Practice Problem Link](https://docs.google.com/document/d/1qZpI8UZ1ddpCvHszj2uUC61rpeNTUi_ERTrhTVObNZA/edit?usp=sharing)
-- ![Extra Practice Problem Images](./images/extra_problem.png)
+- <img src="./images/extra_problem.png" width=500>
 
 ## Feedback Form Module 15
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
