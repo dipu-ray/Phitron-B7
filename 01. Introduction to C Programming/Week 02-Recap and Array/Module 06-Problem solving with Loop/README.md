@@ -309,13 +309,13 @@ for(int i=0; i<=10; i++)
 
 ## Practice Extra Problem
 - Problem 1
-    - ![This is a problem number three (3) image](./images/extra_problem1.png)
+    - <img src="./images/extra_problem1.png" width=500>
 
 - Problem 2
-    - ![This is a problem number three (3) image](./images/extra_problem2.png)
+    - <img src="./images/extra_problem2.png" width=500>
 
 - Problem 3
-    - ![This is a problem number three (3) image](./images/extra_problem3.png)
+    - <img src="./images/extra_problem3.png" width=500>
 
 - [Extra Problems Link](https://docs.google.com/document/d/1k3-3nSz-zHxwdsa1cPcFR9KfFFJdAQIeAQfkdsVoXVI/edit?usp=sharing)
 
