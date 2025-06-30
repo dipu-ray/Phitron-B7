@@ -15,7 +15,7 @@
         - `https://www.hackerrank.com/DemoName`
         - `@DemoName`
 - [Contest Link:](https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-07/challenges)
-- ![Assignment image](./images/assignment.png)
+- <img src="./images/assignment.png" width=500>
 - এক্সাম দেওয়ার ডেড লাইনঃ
     - `9 May 11:59 PM BDT এর মধ্যে সাবমিট করলে তোমার সর্বোচ্চ মার্কস হবে 100`
     - `10 April 11:59 PM BDT এর মধ্যে সাবমিট করলে তোমার সর্বোচ্চ মার্কস হবে 90`
