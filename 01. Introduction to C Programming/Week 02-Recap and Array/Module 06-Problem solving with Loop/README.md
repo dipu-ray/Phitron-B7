@@ -50,7 +50,7 @@
 - `Build Logic`: Program thinking then see the output
 
 ## 3. Even Numbers
-- ![This is a problem number one (1) image](./images/problem_1.png)
+- <img src="./images/problem_1.png" width=500>
 - Program: `problem_1.c`
 - Explanation problem one (1)
 - You can easily handle input and output without repeat checking with this two step:
