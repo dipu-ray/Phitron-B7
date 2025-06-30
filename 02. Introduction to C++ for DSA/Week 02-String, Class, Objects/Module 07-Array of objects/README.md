@@ -158,7 +158,7 @@ bool cmp(Student a, Student b) {
 > **Explanation:** স্ট্রিং থেকে কোনো ছোট হাতের অক্ষরের ফ্রিকোয়েন্সি খুঁজতে হলে, আমরা c-'a' বা c-97 ব্যবহার করতে পারি। এটি c অক্ষরের ASCII মান থেকে 'a' বা ৯৭ বাদ দিয়ে তার সঠিক ইন্ডেক্স নির্ধারণ করে।
 ---
 [Extra Practice Problem (Optional):](https://docs.google.com/document/d/15rYM3MJapotWUND4XENMVHnduPzIoSqLVqTPgg7goJE/edit?usp=sharing)
-![Extra Practice Problem](./images/extra_problem.png)
+- <img src="./images/extra_problem.png" width=500>
 
 ## Feedback Form Module 07
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
