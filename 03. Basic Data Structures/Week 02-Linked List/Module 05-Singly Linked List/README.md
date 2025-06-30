@@ -32,7 +32,6 @@
 - `Fixed size` problem also solve with `array` and `vector` but `Sequential Memory Allocation` this problem not solving with `array` and `vector`
 - Program: `linked_list.cpp`
 - Drawing `Sequential Memory Allocation`:
-    - ![Drawing](./images/draw.png)
     - <img src="./images/draw.png" width=500>
 - Memory are not empty with serial or sequential, then `array` or `vector` memory not access. This is the problem of `Sequential Memory Allocation`.
 
