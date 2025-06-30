@@ -28,7 +28,7 @@
 ## 1. Range Sum Query Bruteforce solution
 - `Brute force` - A problem solve with simple way not optimize or better way to solve, that's brute force.
 - [Problem Link](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
-- ![Problem image](./images/problem.png)
+- <img src="./images/problem.png" width=500>
 - Problem solve program: `prefix_sum.cpp`
 - This problem solving have done `prefix_sum.cpp`. Not error but TLE that's means time complexity.
 
@@ -49,7 +49,7 @@
 ## 6. Binary Search Bruteforce solution
 - `Brute force` - A problem solve with simple way not optimize or better way to solve, that's brute force.
 - [Problem Link](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
-- ![Problem image](./images/problem2.png)
+- <img src="./images/problem2.png" width=500>
 - Problem solve program: `binary_search.cpp`
 - This problem solving have done `binary_search.cpp`. Not error but TLE that's means time complexity.
 
@@ -86,7 +86,7 @@
 ## Quiz Explanation Module 03
 - [Quiz Explanation Link](https://docs.google.com/document/d/1iw2V33H1N6SJVkUQd3DDbG7h7ct2UV5lbuusSBwv4ho/edit?usp=drivesdk)
 - [Extra Problem Link](https://docs.google.com/document/d/1LMFyd4rQ5Gpyc48Ht5b9RFBc3A2ycqEP/edit?usp=drivesdk&ouid=112433310488936743525&rtpof=true&sd=true)
-    - ![Problems SS](./images/extra_problems.png)
+    - <img src="./images/extra_problems.png" width=500>
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
 
