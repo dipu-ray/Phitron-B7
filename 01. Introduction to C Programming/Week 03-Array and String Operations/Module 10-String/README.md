@@ -86,11 +86,11 @@
 - Add to header file `#include <string.h>`
 
 ## 12. Lets use getline
-- ![Problem 1: B. Let's use getline in Array ](./images/problem1.png)
+- <img src="./images/problem1.png" width=500>
 - Program: `problem_1.c`
 
 ## 13. Count
-- ![Problem 2: E. Count ](./images/problem2.png)
+- <img src="./images/problem2.png" width=500>
 - Program: `problem_2.c`
 
 ## 14. Summary
@@ -228,13 +228,13 @@ int main() {
 ## Extra Practice Problem (Optional):
 - [Extra Practice Problem Link](https://docs.google.com/document/d/1VmGUxd3sRCILjR0AHYY8SiRxDztTiTSjMtYZ7nZtxmk/edit?usp=sharing)
 - Problem 1
-    - ![Problem 1 image](./images/extra_problem1.png)
+    - <img src="./images/extra_problem1.png" width=300>
 - Problem 2
-    - ![Problem 2 image](./images/extra_problem2.png)
+    - <img src="./images/extra_problem2.png" width=300>
 - Problem 3
-    - ![Problem 3 image](./images/extra_problem3.png)
+    - <img src="./images/extra_problem3.png" width=300>
 - Problem 4
-    - ![Problem 4 image](./images/extra_problem4.png)
+    - <img src="./images/extra_problem4.png" width=300>
 
 ## Feedback Form Module 10
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
