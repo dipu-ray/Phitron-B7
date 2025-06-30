@@ -10,7 +10,7 @@
     - String Class 
     - Stringstream
 - Codeforces Problem Links:
-    - ![Problems image](./images/problems.png)
+    - <img src="./images/problems.png" width=500>
     - [Problem 1](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/U)
     - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)
     - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/V)
