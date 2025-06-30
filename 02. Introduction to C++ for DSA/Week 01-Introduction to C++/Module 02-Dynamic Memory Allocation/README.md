@@ -30,9 +30,9 @@
     - Heap memory have more memory.
 - Dynamic array and static array syntax are different.
 - Dynamic and Static memory difference 1:
-![difference 1 drawing](./images/drawing.png)
+- <img src="./images/drawing.png" width=500>
 - Dynamic and Static memory difference 2:
-![difference 2 drawing](./images/drawing2.png)
+- <img src="./images/drawing2.png" width=500>
 
 ## 2. Dynamic Variable
 - How to declare dynamic variable in C++
