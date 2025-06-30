@@ -26,7 +26,7 @@
 ## 1. String copy
 - Program: `string_copy.c`
 - The logic build image:
-    ![Draw 1](./images/draw.png)
+    - <img src="./images/draw.png" width=500>
 - `a[i] = b[i]`
 - Call this function `strlen()` then you will add a header file name is `#include <string.h>`
 
@@ -42,7 +42,7 @@
 ## 4. String concat( I+II)
 - Program: `string_concat.c`
 - The logic build image:
-    ![Draw 1](./images/draw2.png)
+    - <img src="./images/draw2.png" width=500>
 - Concat mean two array summation. Like `a + b`
 
 ## 5. String concat Animated
@@ -68,7 +68,7 @@ Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary 
     - `abcd` > `ab`
     - `ba` < `bad`
 - What will see in comparison:
-    ![draw 3 image](./images/draw3.png)
+    - <img src="./images/draw3.png" width=500>
 - Example analysis, question analysis and login build are make it `80%`. Code are `20%`.
 - `True` or `False` use then you will add you header file `#include <stdbool.h>`
 
@@ -170,12 +170,12 @@ Example 2: Which one bigger `apple` or `apply` = `apply`. Because of dictionary 
 ## Extra Practice Problem (Optional):
 - [Extra Practice Problem Link](https://docs.google.com/document/d/18EseP6qkjwiJy3DGXUJQwsRq1PQkXCaqFJ5kgY11fHQ/edit?usp=sharing)
 - The Problems:
-    ![The problems image](./images/the_extra_problems.png)
+    - <img src="./images/the_extra_problems.png" width=500>
 - Problem 1
-    ![Problem 1 image](./images/extra_problem1.png)
+    - <img src="./images/extra_problem1.png" width=500>
 - Problem 2
-    ![Problem 2 image](./images/extra_problem2.png)
-- Problem 3
+    - <img src="./images/extra_problem2.png" width=500>
+- Problem 2
     - Copy a string into another string without using strcpy()
 
 ## Feedback Form Module 11
