@@ -45,7 +45,7 @@
 
 ## 2. What is 2D array
 - 2D Array Draw:
-    ![2D arrays draw image](./images/draw.png)
+    - <img src="./images/draw.png" width=500>
 - How to declare 2D arrays:
     - a[row_number][column_number]
 - It's also similar to matrix concept
@@ -260,7 +260,7 @@
 - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S)
 - [Problem 3]()
 - [Problem 4]()
-- ![Extra Practice Problem Images](./images/extra_problems.png)
+- <img src="./images/extra_problems.png" width=500>
 
 ## Feedback Form Module 18
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
