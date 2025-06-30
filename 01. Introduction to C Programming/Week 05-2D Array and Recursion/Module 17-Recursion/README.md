@@ -202,7 +202,7 @@ int main() {
 - [Problem 2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)
 - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)
 - [Problem 4](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)
-- <img src="./images/extra_problem.png" width=200>
+- <img src="./images/extra_problem.png" width=500>
 
 ## Feedback Form Module 17
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
