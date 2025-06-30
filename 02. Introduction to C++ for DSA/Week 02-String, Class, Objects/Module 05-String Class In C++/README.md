@@ -19,11 +19,10 @@
 
 ## Important Links
 - [String Built In Functions:](https://docs.google.com/document/d/1nxFrcoG_t-hMbeuAw6A5r_CV7I1lYvKLwEpupTQqkrM/edit?usp=sharing)
-    - ![String built-in functions:](./images/functions.png)
-
+    - <img src="./images/functions.png" width=500>
 
 - [Extra Practice (Optional):](https://docs.google.com/document/d/14sdQIgBZV29d8cSMPfMasotAc_jhZNgxaqRSOG_yR1c/edit?usp=sharing)
-    - ![Try to solve these problems using string:](./images/extra_problems.png)
+    - <img src="./images/extra_problems.png" width=500>
     - [Problem 1](https://codeforces.com/problemset/problem/71/A)
     - [Problem 2](https://codeforces.com/problemset/problem/734/A)
 
