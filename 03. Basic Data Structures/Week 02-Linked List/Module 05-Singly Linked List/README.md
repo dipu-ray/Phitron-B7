@@ -23,3 +23,12 @@
 - Creating a `singly linked list`
 - Visualizing the `linked list`
 - Printing the `linked list`
+
+## 1. Another limitation of array
+- Array also a data structure and array have main two problems are:
+    - `Fixed size`
+    - `Sequential Memory Allocation`
+- This problem solve and covered with `Linked List`
+- `Fixed size` problem also solve with `array` and `vector` but `Sequential Memory Allocation` this problem not solving with `array` and `vector`
+- Program: `linked_list.cpp`
+- Memory are not empty with serial or sequential, then `array` or `vector` memory not access. This is the problem of `Sequential Memory Allocation`.
