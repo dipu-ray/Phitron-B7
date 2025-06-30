@@ -32,7 +32,7 @@
     - এক্সাম মার্কস রিলেটেড কোন কুয়েরি থাকলে ইমেইল করে দিতে হবে। গ্রুপে পোস্ট করলে ৫ মার্কস কেটে রাখা হবে।
 
 ## Quiz Module 16
-- Exam Instructions related quiz out of 5.
+- Exam Instructions related quiz 5 out of 5.
 
 ## Assignment 03 Instructions
 - Explanation assignment all problems.
