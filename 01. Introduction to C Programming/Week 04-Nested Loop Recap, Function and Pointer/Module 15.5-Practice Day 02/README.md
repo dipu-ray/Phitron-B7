@@ -14,11 +14,11 @@
 - [Problem 3](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)
 - [Problem 4](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T)
 - More practice problems:
-    - ![Problem 1 image](./images/problem1.png)
-    - ![Problem 2 image](./images/problem2.png)
-    - ![Problem 3 image](./images/problem3.png)
-    - ![Problem 4 image](./images/problem4.png)
-    - ![Problem 5 image](./images/problem5.png)
+    - <img src="./images/problem1.png" width=500>
+    - <img src="./images/problem2.png" width=500>
+    - <img src="./images/problem3.png" width=500>
+    - <img src="./images/problem4.png" width=500>
+    - <img src="./images/problem5.png" width=500>
 
 ## Practice Instructions
 - Explanations extra practice problems and more practice problems.
