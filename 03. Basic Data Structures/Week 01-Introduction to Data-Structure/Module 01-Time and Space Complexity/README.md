@@ -80,7 +80,6 @@ How much time to repeat this loops
     - `Theta notation (θ)` - Average case
     - `Big O notation (O)` - Worst case
 - Example with Drawing:
-![Asymptotic notations](./images/draw.png)
 - <img src="./images/draw.png" width=500>
 - Rules of calculate time complexity:
     - Always take the worst case
