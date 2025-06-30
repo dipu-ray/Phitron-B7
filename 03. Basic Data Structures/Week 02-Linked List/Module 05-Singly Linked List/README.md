@@ -36,4 +36,6 @@
 - Memory are not empty with serial or sequential, then `array` or `vector` memory not access. This is the problem of `Sequential Memory Allocation`.
 
 ## 2. Idea of a Linked list
-- 
+- Array memory allocate are serially and sequentially.
+- <img src="./images/draw2.png" width=500>
+- `Linked list` value are connect to each others with his address that's why it called to `linked list` and `linked list` end eas `null` address using.
