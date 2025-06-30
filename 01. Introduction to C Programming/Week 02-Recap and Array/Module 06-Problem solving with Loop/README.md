@@ -60,7 +60,7 @@
     - Go to problems in the web browser and click to `competitive companion extension` and then back to vscode and set the compiler which you will try.
 
 ## 4. Even odd pos neg I
-- ![This is a problem number two (2) image](./images/problem_2.png)
+- <img src="./images/problem_2.png" width=500>
 - Program: `problem_2.c`
 - Explanation problem two (2)
 
@@ -69,7 +69,7 @@
 - And part II have done 50%. Then == 100%
 
 ## 6. Fixed Password
-- ![This is a problem number three (3) image](./images/problem_3.png)
+- <img src="./images/problem_3.png" width=500>
 - Program: `problem_3.c`
 - Explanation problem three (3)
 
@@ -78,17 +78,17 @@
 - It's a example video.
 
 ## 8. Max and Min
-- ![This is a problem number four (4) image](./images/problem_4.png)
+- <img src="./images/problem_4.png" width=500>
 - Program: `problem_4.c`
 - Explanation problem four (4)
 
 ## 9. Multiplication Table
-- ![This is a problem number five (5) image](./images/problem_5.png)
+- <img src="./images/problem_5.png" width=500>
 - Program: `problem_5.c`
 - Explanation problem five (5)
 
 ## 10. Digits
-- ![This is a problem number six (6) image](./images/problem_5.png)
+- <img src="./images/problem_6.png" width=500>
 - Program: `problem_6.c`
 - Explanation problem six (6)
 
