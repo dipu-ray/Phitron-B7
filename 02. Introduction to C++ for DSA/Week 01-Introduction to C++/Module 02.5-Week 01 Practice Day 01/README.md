@@ -17,8 +17,8 @@
         - [Problem 4](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)
         - [Problem 5](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)
     - Extra Practice Problems:
-        ![Practice problem 1](./images/problem1.png)
-        ![Practice problem 2](./images/problem2.png)
+        - <img src="./images/problem1.png" width=500>
+        - <img src="./images/problem2.png" width=500>
 
 ## 1. Practice Instructions
 - Explanation extra practice problems.
