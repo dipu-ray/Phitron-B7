@@ -228,13 +228,13 @@ int main() {
 ## Extra Practice Problem (Optional):
 - [Extra Practice Problem Link](https://docs.google.com/document/d/1VmGUxd3sRCILjR0AHYY8SiRxDztTiTSjMtYZ7nZtxmk/edit?usp=sharing)
 - Problem 1
-    - <img src="./images/extra_problem1.png" width=300>
+    - <img src="./images/extra_problem1.png" width=500>
 - Problem 2
-    - <img src="./images/extra_problem2.png" width=300>
+    - <img src="./images/extra_problem2.png" width=500>
 - Problem 3
-    - <img src="./images/extra_problem3.png" width=300>
+    - <img src="./images/extra_problem3.png" width=500>
 - Problem 4
-    - <img src="./images/extra_problem4.png" width=300>
+    - <img src="./images/extra_problem4.png" width=500>
 
 ## Feedback Form Module 10
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
