@@ -58,17 +58,16 @@
 
 ## 1. Welcome for you with conditions
 - <img src="./images/problem_1.png" width=500>
-- ![This is a problem number one (1) image](./images/problem_1.png)
 - Program: `problem_1.c`
 - Explain and solve this c program
 
 ## 2. Multiples
-![This is a problem number two (2) image](./images/problem_2.png)
+<img src="./images/problem_2.png" width=500>
 - Program: `problem_2.c`
 - Explain and solve this c program
 
 ## 3. First Digit
-![This is a problem number three (3) image](./images/problem_3.png)
+- <img src="./images/problem_3.png" width=500>
 - Program: `problem_3.c`
 - Explain and solve this c program
 - If you digit cut out of the last
@@ -91,7 +90,7 @@
 - You can seach to google and see this `ASCII table`.
 
 ## 5. Char
-![This is a problem number four (4) image](./images/problem_4.png)
+<img src="./images/problem_4.png" width=500>
 - Program: `problem_4.c`
 - Explain and solve this c program
 - When you find out the `lowercase character` to `uppercase character` then subtraction `-32`.
@@ -99,12 +98,12 @@
 - You can check `ASCII value table` then you can understand.
 
 ## 6. Capital or small or digit
-![This is a problem number five (5) image](./images/problem_5.png)
+<img src="./images/problem_5.png" width=500>
 - Program: `problem_5.c`
 - Explain and solve this c program
 
 ## 7. Max and min
-![This is a problem number six (6) image](./images/problem_6.png)
+<img src="./images/problem_6.png" width=500>
 - Program: `problem_6.c`
 - Explain and solve this c program
 
