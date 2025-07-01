@@ -108,4 +108,9 @@
     ```
 
 ## 10. Summary
-- Abc
+- Learn to `Linked List` data structure
+- Why need to `Linked List`
+- How to create a `node` in `Linked List`
+- Then use to `Constructor` in `node`
+- Then learn to `Dynamic Node`
+- How to print a `Linked List`
