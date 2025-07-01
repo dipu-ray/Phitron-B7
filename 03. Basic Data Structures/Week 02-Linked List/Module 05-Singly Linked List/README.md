@@ -114,3 +114,20 @@
 - Then use to `Constructor` in `node`
 - Then learn to `Dynamic Node`
 - How to print a `Linked List`
+
+## Quiz: Module 05
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation and Extra Practice Problems
+- [Quiz Explanation Link](https://docs.google.com/document/d/1DbwQuXaihsNJh5VlggPDJOccDr_C0HsZL2sCLMxROaw/edit?usp=sharing)
+- [Extra Problem Link](https://docs.google.com/document/d/1mBmbTd2A0r2GYV50GkweULyN-TqKZSmx7UVM4-NX5cs/edit?tab=t.0)
+#### 1. What is a node in a linked list?
+**a)** It is a pointer to the previous node     
+**b)** It is a pointer to the next node   
+**c)** It stores the data and a pointer to the next node ✅    
+**d)** It is the head of the linked list   
+> **Explanation:** একটি node লিংকড লিস্টে দুইটি অংশ নিয়ে গঠিত - <br>
+Data: যে তথ্য সংরক্ষণ করা হয়। <br>
+Pointer: এটি পরবর্তী নোডকে নির্দেশ করে।
+---
