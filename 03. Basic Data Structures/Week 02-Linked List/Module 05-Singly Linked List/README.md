@@ -75,3 +75,7 @@
 
 ## 6. Dynamic Node
 - Program: `dynamic_node.cpp`
+- Create a dynamic objects or node.
+
+## 7. Dynamic Node Animated
+- 
