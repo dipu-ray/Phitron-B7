@@ -39,3 +39,11 @@
 - Array memory allocate are serially and sequentially.
 - <img src="./images/draw2.png" width=500>
 - `Linked list` value are connect to each others with his address that's why it called to `linked list` and `linked list` end eas `null` address using.
+
+## 3. Creating a Node
+- Program: `creating_node.cpp`
+- In an array value and address then they called to `node`
+    - <img src="./images/draw3.png" width=500>
+- A `node` going to next `node` then use to `node` address not array element address.
+    - <img src="./images/draw4.png" width=500>
+- A `first node` also called to `head node`
