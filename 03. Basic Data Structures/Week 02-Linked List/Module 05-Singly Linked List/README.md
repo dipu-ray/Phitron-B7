@@ -71,3 +71,7 @@
 
 ## 5. Node with Constructor
 - Program: `creating_node2.cpp`
+- Using a constructor in Node
+
+## 6. Dynamic Node
+- Program: `dynamic_node.cpp`
