@@ -131,3 +131,72 @@
 Data: যে তথ্য সংরক্ষণ করা হয়। <br>
 Pointer: এটি পরবর্তী নোডকে নির্দেশ করে।
 ---
+#### 2. How do you create a dynamic node in a linked list?
+**a)** Using the new keyword ✅     
+**b)** Using the malloc function   
+**c)** Using the delete keyword     
+**d)** Using the free function   
+> **Explanation:** C++ তে dynamic memory allocation এর জন্য new keyword ব্যবহার করা হয়। এটি heap মেমোরিতে একটি নতুন নোড তৈরি করে।
+---
+#### 3. What is the purpose of a constructor in a node class?
+**a)** To initialize the data in the node ✅     
+**b)** To allocate memory for the node   
+**c)** To delete the node from memory     
+**d)** To point to the previous node in the list   
+> **Explanation:** Constructor হলো একটি বিশেষ ফাংশন যা স্বয়ংক্রিয়ভাবে কল হয়। Constructor একটি class এর জন্য initial values সেট করে দেয়।  নোড তৈরি হলে, constructor এর মাধ্যমে automatically data এবং next পয়েন্টার সেট হয়।
+---
+#### 4. Which of the following statements about a singly linked list is true?
+**a)** It contains a pointer to the previous node      
+**b)** It contains a pointer to the next node ✅   
+**c)** It contains both a pointer to the previous and next node     
+**d)** It does not contain any pointers   
+> **Explanation:** Singly linked list এ প্রতিটি নোড শুধু পরবর্তী নোড এর একটি পয়েন্টার ধারণ করে। পূর্ববর্তী নোডের কোন রেফারেন্স থাকে না।
+---
+#### 5. How can you check if a singly linked list is empty?
+**a)** if (head == NULL) ✅      
+**b)** if (head->next == NULL)    
+**c)** if (head.empty())     
+**d)** if (head->val == NULL)   
+> **Explanation:** একটি linked list ফাঁকা হলে head pointer NULL থাকে। এই শর্তটি ব্যবহার করেই চেক করা হয়।
+---
+#### 6. What was the condition to print the linked list?
+**a)** while(temp != NULL) ✅      
+**b)** while(temp == NULL)    
+**c)** while(temp->next == NULL)     
+**d)** while(temp->next != NULL)   
+> **Explanation:** Linked list এর প্রতিটি নোড traverse করতে হলে আমরা একটি temp পয়েন্টার ব্যবহার করি। লুপ চলবে যতক্ষণ না temp পয়েন্টার NULL হয়।
+---
+#### 7. What is the purpose of the head pointer in a linked list?
+**a)** It points to the last node in the list       
+**b)** It points to the first node in the list ✅    
+**c)** It points to a random node in the list     
+**d)** It is not used in linked lists   
+> **Explanation:** Head pointer linked list এর প্রথম নোডের ঠিকানা সংরক্ষণ করে। এটি লিস্ট traverse এর জন্য অত্যন্ত গুরুত্বপূর্ণ।
+---
+#### 8. Which of the following code snippets correctly creates a new dynamic node in a singly linked list using a class?
+**a)** Node newNode();       
+**b)** Node* newNode = new Node(); ✅    
+**c)** Node newNode = Node();     
+**d)** Node* newNode();   
+> **Explanation:** new keyword ব্যবহার করে heap মেমোরিতে dynamic node তৈরি করা হয়।
+---
+#### 9. What is the output of the following code snippet? Assume that the class and main function are implemented.
+```
+Node* node = new Node(5);
+cout << node->val << endl;
+```
+**a)** 5 ✅       
+**b)** 0     
+**c)** Garbage value     
+**d)** Compilation error   
+> **Explanation:** new Node(5) এর মাধ্যমে ডেটা 5 দিয়ে ইনিশিয়ালাইজ করা হয়। node->val প্রিন্ট করলে 5 দেখাবে।
+---
+#### 10. In a singly linked list, the "->" operator is used to:
+**a)** Access the previous node        
+**b)** Access the properties of a node ✅     
+**c)** Access the head node     
+**d)** Access the tail node   
+> **Explanation:** -> অপারেটর পয়ন্টার দিয়ে নোডের প্রপার্টি (যেমন ডেটা বা next পয়ন্টার) অ্যাক্সেস করার জন্য ব্যবহৃত হয়।
+---
+- Extra Practice Problems Image:
+    - <img src="./images/extra_practice.png" width=500>
