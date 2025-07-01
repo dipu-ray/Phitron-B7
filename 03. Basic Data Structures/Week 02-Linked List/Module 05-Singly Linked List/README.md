@@ -78,4 +78,17 @@
 - Create a dynamic objects or node.
 
 ## 7. Dynamic Node Animated
-- 
+- How to work dynamic array with singly linked list
+- Explanation this program:
+    ```
+    int main() {
+        Node* head = new Node(10);
+        Node* a = new Node(20);
+        Node* b = new Node(30);
+
+        head->next = a;
+        a->next = b;
+
+        return 0;
+    }
+    ```
