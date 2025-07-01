@@ -68,3 +68,6 @@
         c.next = NULL;
     }
     ```
+
+## 5. Node with Constructor
+- Abc
