@@ -95,3 +95,14 @@
 
 ## 8. Printing Linked List
 - Program: `print_linked_list.cpp`
+
+## 9. Printing Linked List Animated
+- Explanation this program:
+    ```
+    // Node or value with 10, 20, 30, 40
+    tmp = head;
+    while(tmp != NULL) {
+        cout << tmp->value << endl;
+        tmp = tmp->next;
+    }
+    ```
