@@ -60,3 +60,9 @@
         head = newNode;
     }
     ```
+
+## 4. Insert at tail
+- Program: `tail_insert.cpp`
+- `Tail` that's means the last node are tail
+- When a `pointer` have change then you add to `reference` and when a `pointer` will not change then you will not use to `reference`.
+- When you will use `reference` everywhere that's a big problem. You can use `reference` everywhere.
