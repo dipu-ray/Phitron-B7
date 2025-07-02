@@ -16,3 +16,12 @@
 - Complexity of every operations
 - Quiz Explanation
 - Feedback Form: Module 07
+
+## 0. Introduction
+- Linked list operations:
+    - `Insertion`
+    - `Deletion`
+    - `Printing`
+    - `Sorting`
+- Understand the `Deletion` operations
+- Understand the `Sorting` operations
