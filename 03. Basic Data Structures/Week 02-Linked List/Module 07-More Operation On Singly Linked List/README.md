@@ -25,3 +25,6 @@
     - `Sorting`
 - Understand the `Deletion` operations
 - Understand the `Sorting` operations
+
+## 1. Input a linked list
+- Program: `input.cpp`
