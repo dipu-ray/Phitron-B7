@@ -50,3 +50,13 @@
 - After make a function logic with draw:
     - <img src="./images/draw2.png" width="500">
     - <img src="./images/draw3.png" width="500">
+
+## 3. Insert at Head Animated
+- Explanation this code:
+    ```
+    void insert_at_head(Node* &head, int value) {
+        Node* newNode = new Node(value);
+        newNode->next = head;
+        head = newNode;
+    }
+    ```
