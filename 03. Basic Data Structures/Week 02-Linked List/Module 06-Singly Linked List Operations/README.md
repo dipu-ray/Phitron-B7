@@ -18,4 +18,21 @@
 - Feedback Form: Module 06
 
 ## 0. Introduction
-- 
+- Linked List Operations:
+    - `Insertion`:
+        - at head
+        - at tail
+        - at any position
+    - `Deletion`:
+        - at head
+        - at tail
+        - at any position
+    - `Printing`:
+        - forward
+        - backward
+    - `Sorting`:
+        - ascending
+        - descending
+- These topics we will covered two modules - `Module 06` and `Module 07`
+- `Module 06` topics will `Insertion` and `Printing`
+- `Module 07` topics will `Deletion` and `Sorting`
