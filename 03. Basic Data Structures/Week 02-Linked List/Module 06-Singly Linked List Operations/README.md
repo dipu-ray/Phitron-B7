@@ -44,4 +44,6 @@
 - When `reference (&)` are not use to `fun()` function parameter then can't access to `fun()` function.
 
 ## 2. Insert at head
-- Abc
+- Program: `head_insert.cpp`
+- Draw the logic:
+    - <img src="./images/draw.png" width="500">
