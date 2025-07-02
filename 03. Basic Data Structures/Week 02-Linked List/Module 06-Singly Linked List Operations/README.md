@@ -47,3 +47,6 @@
 - Program: `head_insert.cpp`
 - Draw the logic:
     - <img src="./images/draw.png" width="500">
+- After make a function logic with draw:
+    - <img src="./images/draw2.png" width="500">
+    - <img src="./images/draw3.png" width="500">
