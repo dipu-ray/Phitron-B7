@@ -90,7 +90,26 @@
 
 ## 6. Insert at any position
 - Understand to linked list add to any position
+- `Linked list` don't have index. We just thinking.
 - Draw the logic:
     - <img src="./images/draw4.png" width="500">
 - Program: `any_position.cpp`
 - <img src="./images/draw5.png" width="500">
+- `Linked list` don't have index. We just thinking.
+
+## 7. Insert at any Position Animated
+- Explanation this program:
+    ```
+        void insert_at_any_position(Node* &head, int index, int value) {
+        Node* newNode = new Node(value);
+        Node* tmp = head;
+
+        for(int i = 0; i < index-1; i++) {
+            tmp = tmp->next;
+        }
+
+        newNode->next = tmp->next;
+        tmp->next = newNode;
+    }
+    ```
+- `Linked list` don't have index. We just thinking.
