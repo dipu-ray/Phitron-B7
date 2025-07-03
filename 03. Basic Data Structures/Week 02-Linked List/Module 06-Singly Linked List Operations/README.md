@@ -113,3 +113,6 @@
     }
     ```
 - `Linked list` don't have index. We just thinking.
+
+## 8. Complexity analysis of insertion operations
+- Abc
