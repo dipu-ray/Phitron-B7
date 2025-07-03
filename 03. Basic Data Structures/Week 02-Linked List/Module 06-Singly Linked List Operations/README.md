@@ -115,4 +115,7 @@
 - `Linked list` don't have index. We just thinking.
 
 ## 8. Complexity analysis of insertion operations
-- Abc
+- `Time complexity` of head insertion, tail insertion and any position insertion.
+- `Head Insertion` - `O(1)`
+- `Any Position Insertion` - `O(N)`
+- `Tail Insertion` - `O(N)`
