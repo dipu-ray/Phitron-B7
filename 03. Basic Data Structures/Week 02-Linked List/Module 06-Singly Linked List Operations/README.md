@@ -67,3 +67,23 @@
 - When a `pointer` have change then you add to `reference` and when a `pointer` will not change then you will not use to `reference`.
 - When you will use `reference` everywhere that's a big problem. You can use `reference` everywhere.
 - If linked list are empty and head or tail insert a value then this program: `empty_node.cpp`
+
+## 5. Insert at Tail Animated
+- Explanation this code:
+    ```
+    void insert_at_tail(Node* &head, int value) {
+        Node* newNode = new Node(value);
+
+        if(head == NULL) {
+            head = newNode;
+            return;
+        }
+
+        Node* tmp = head;
+        while(tmp->next != NULL) {
+            tmp = tmp->next;
+        }
+
+        tmp->next = newNode;
+    }
+    ```
