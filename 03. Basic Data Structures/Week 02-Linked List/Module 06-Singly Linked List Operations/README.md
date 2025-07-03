@@ -87,3 +87,10 @@
         tmp->next = newNode;
     }
     ```
+
+## 6. Insert at any position
+- Understand to linked list add to any position
+- Draw the logic:
+    - <img src="./images/draw4.png" width="500">
+- Program: `any_position.cpp`
+- <img src="./images/draw5.png" width="500">
