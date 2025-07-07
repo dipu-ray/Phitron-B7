@@ -64,3 +64,21 @@
     }
     ```
 - <img src="./images/draw2.png" width="500">
+
+## 3. Doubly linked list Animated
+- Explanation this program:
+    ```
+    int main() {
+        Node* head = new Node(10);
+        Node* a = new Node(20);
+        Node* b = new Node(30);
+
+        head->next = a;
+        a->previous = head;
+
+        a->next = b;
+        b->previous = a;
+
+        return 0;
+    }
+    ```
