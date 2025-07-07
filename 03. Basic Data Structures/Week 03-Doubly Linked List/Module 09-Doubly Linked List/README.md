@@ -49,10 +49,18 @@
 
 ## 1. Doubly linked list
 - Doubly linked list can go to the backward and forward that means two connections. That's why call to doubly linked list.
+- Doubly linked list logic:
 - <img src="./images/draw.png" width="500">
 - Program: `doubly.cpp`
 
 ## 2. Printing Doubly Linked list
 - Program: `doubly_printing.cpp`
 - Printing a doubly linked list with forward and backward.
-- 
+- Condition Logic:
+    ```
+    while(tmp != NULL) {
+        cout << tmp->value << " ";
+        tmp = tmp->previous;
+    }
+    ```
+- <img src="./images/draw2.png" width="500">
