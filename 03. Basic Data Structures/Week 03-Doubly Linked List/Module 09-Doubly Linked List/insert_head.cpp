@@ -24,7 +24,7 @@ void print_forward(Node* head) {
 }
 
 void insert_head(Node* &head, int value) {
-    Node* newNode = new Node(value);
+    Node* newNode = new Node(value); // Make new node
     newNode->next = head;
     head->previous = newNode;
     head = newNode;
@@ -41,6 +41,7 @@ int main() {
     a->next = b;
     b->previous = a;
 
+    // Call to functions
     insert_head(head, 100);
     insert_head(head, 200);
     print_forward(head);
