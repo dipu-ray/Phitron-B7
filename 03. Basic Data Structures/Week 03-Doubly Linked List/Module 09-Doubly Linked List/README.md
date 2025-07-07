@@ -91,3 +91,6 @@
 ## 5. Insert at head
 - Build program with the previous logics
 - Program: `insert_head.cpp`
+
+## 6. Insert at tail Animated
+- Abc
