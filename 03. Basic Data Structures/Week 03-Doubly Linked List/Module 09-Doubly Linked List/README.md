@@ -86,3 +86,4 @@
 ## 4. Insert at head Animated
 - Let's start the `insertion operations`
 - Explanation with animated how to `insert at head`
+- <img src="./images/draw3.png" width="500">
