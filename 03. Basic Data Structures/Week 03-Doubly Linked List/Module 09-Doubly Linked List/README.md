@@ -85,15 +85,19 @@
 
 ## 4. Insert at head Animated
 - Let's start the `insertion operations`
-- `Insertion in head`
+- `Insertion at head`
 - Explanation with animated how to `insert at head`
 - <img src="./images/draw3.png" width="500">
 
 ## 5. Insert at head
-- Build program with the previous logics
+- Build program with the previous logics - `insertion at head`
 - Program: `insert_head.cpp`
 
 ## 6. Insert at tail Animated
-- `Insertion in tail`
-- Explanation with animated how to `insert at head`
+- `Insertion at tail`
+- Explanation with animated how to `insert at tail`
 - <img src="./images/draw4.png" width="500">
+
+## 7. Insert at tail
+- Build program with the previous logics - `insert at tail`
+- Program: `insert_tail.cpp`
