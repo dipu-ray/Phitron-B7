@@ -87,3 +87,7 @@
 - Let's start the `insertion operations`
 - Explanation with animated how to `insert at head`
 - <img src="./images/draw3.png" width="500">
+
+## 5. Insert at head
+- Build program with the previous logics
+- Program: `insert_head.cpp`
