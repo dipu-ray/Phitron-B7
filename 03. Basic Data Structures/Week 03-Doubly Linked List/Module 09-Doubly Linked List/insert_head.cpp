@@ -23,8 +23,11 @@ void print_forward(Node* head) {
     cout << endl;
 }
 
-void insert_head(Node* &head) {
-    
+void insert_head(Node* &head, int value) {
+    Node* newNode = new Node(value);
+    newNode->next = head;
+    head->previous = newNode;
+    head = newNode;
 }
 
 int main() {
@@ -38,6 +41,8 @@ int main() {
     a->next = b;
     b->previous = a;
 
+    insert_head(head, 100);
+    insert_head(head, 200);
     print_forward(head);
 
     return 0;
