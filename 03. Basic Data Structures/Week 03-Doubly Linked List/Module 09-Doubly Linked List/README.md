@@ -46,3 +46,7 @@
         - backward
     - Input
         - Array vs Singly vs Doubly
+
+## 1. Doubly linked list
+- Doubly linked list can go to the backward and forward. That's why call to doubly linked list
+- 
