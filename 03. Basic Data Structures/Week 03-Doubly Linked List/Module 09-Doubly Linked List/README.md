@@ -48,5 +48,6 @@
         - Array vs Singly vs Doubly
 
 ## 1. Doubly linked list
-- Doubly linked list can go to the backward and forward. That's why call to doubly linked list
-- 
+- Doubly linked list can go to the backward and forward that means two connections. That's why call to doubly linked list.
+- <img src="./images/draw.png" width="500">
+- Program: `doubly.cpp`
