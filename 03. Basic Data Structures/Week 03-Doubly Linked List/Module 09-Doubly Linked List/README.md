@@ -51,3 +51,8 @@
 - Doubly linked list can go to the backward and forward that means two connections. That's why call to doubly linked list.
 - <img src="./images/draw.png" width="500">
 - Program: `doubly.cpp`
+
+## 2. Printing Doubly Linked list
+- Program: `doubly_printing.cpp`
+- Printing a doubly linked list with forward and backward.
+- 
