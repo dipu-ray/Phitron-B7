@@ -25,6 +25,14 @@ void print_forward(Node* head) {
 
 void insert_tail(Node* &head, Node* &tail, int value) {
     Node* newNode = new Node(value); // Make new node
+
+    // When node was empty
+    if(head == NULL) {
+        head = newNode;
+        tail = newNode;
+        return;
+    }
+
     tail->next = newNode;
     newNode->previous = tail;
     tail = newNode;
