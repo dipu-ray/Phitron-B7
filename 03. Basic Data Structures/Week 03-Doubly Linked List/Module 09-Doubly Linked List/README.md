@@ -85,6 +85,7 @@
 
 ## 4. Insert at head Animated
 - Let's start the `insertion operations`
+- `Insertion in head`
 - Explanation with animated how to `insert at head`
 - <img src="./images/draw3.png" width="500">
 
@@ -93,4 +94,6 @@
 - Program: `insert_head.cpp`
 
 ## 6. Insert at tail Animated
-- Abc
+- `Insertion in tail`
+- Explanation with animated how to `insert at head`
+- <img src="./images/draw4.png" width="500">
