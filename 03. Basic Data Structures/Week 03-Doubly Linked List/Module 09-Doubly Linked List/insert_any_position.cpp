@@ -31,6 +31,8 @@ void insert_any_position(Node* &head, int index, int value) {
     }
     newNode->next = tmp->next;
     tmp->next->previous = newNode;
+    tmp->next = newNode;
+    newNode->previous = tmp;
 }
 
 int main() {
@@ -44,6 +46,8 @@ int main() {
     a->next = tail;
     tail->previous = a;
 
+    insert_any_position(head, 2, 100);
+    insert_any_position(head, 1, 500);
     print_forward(head);
 
     return 0;
