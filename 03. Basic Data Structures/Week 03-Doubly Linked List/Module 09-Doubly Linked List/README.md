@@ -106,3 +106,9 @@
 - `Insertion at any position`
 - Explanation with animated how to `insert at any position`
 - <img src="./images/draw5.png" width="500">
+
+## 9. Insert at any position
+- `any position` that's means head and tail without `any position`.
+- Build program with this logics:
+    - <img src="./images/draw6.png" width="500">
+- Program: `insert_any_position.cpp`
