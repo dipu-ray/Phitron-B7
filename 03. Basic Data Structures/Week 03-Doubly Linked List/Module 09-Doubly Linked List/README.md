@@ -115,3 +115,6 @@
     - <img src="./images/draw8.png" width="500">
     - `Skip that big "after" in image`
 - Program: `insert_any_position.cpp`
+
+## 10. Delete at head Animated
+- Abc
