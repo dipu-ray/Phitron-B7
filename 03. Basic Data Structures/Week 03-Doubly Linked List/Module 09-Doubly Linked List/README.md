@@ -111,4 +111,6 @@
 - `any position` that's means head and tail without `any position`.
 - Build program with this logics:
     - <img src="./images/draw6.png" width="500">
+    - <img src="./images/draw7.png" width="500">
+    - `Skip that big "after" in image`
 - Program: `insert_any_position.cpp`
