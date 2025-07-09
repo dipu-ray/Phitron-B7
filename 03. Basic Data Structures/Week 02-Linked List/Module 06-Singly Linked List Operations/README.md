@@ -121,5 +121,5 @@
 - `Tail Insertion` - `O(N)`
 
 ## 9. Insert at tail Optimized
-- Program: `tail_optimized.cpp`
+- Program: `tail_insert_optimized.cpp`
 - Optimized to insert a tail. Which time complexity is `O(1)`.
