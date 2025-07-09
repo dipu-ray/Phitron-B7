@@ -155,4 +155,5 @@
     - <img src="./images/draw21.png" width="500">
     - <img src="./images/draw22.png" width="500">
     - <img src="./images/draw23.png" width="500">
+    - <img src="./images/draw24.png" width="500">
 - Program: `delete_any_position.cpp`
