@@ -235,3 +235,20 @@ next: পরবর্তী নোড নির্দেশ করে। <br>
 **d)** Check if both the head and tail are non-null    
 > **Explanation:** Doubly Linked List   খালি হলে head এবং tail পয়েন্টার NULL হবে।
 ---
+#### 7. The process of inserting a new node after a specific node in a doubly linked list involves:
+**a)** Changing the link of the previous node      
+**b)** Changing the link of the next node    
+**c)** Changing the links of both the previous and next nodes ✅       
+**d)** No change in the links of other nodes    
+> **Explanation:** একটি নির্দিষ্ট নোডের পরে নতুন নোড যোগ করার জন্য: <br>
+নতুন নোডের prev বর্তমান নোডের দিকে সেট করা হয়। <br>
+নতুন নোডের next বর্তমান নোডের পরবর্তী নোডের দিকে সেট করা হয়। <br>
+বর্তমান নোডের next এবং পরবর্তী নোডের prev নতুন নোডের দিকে সেট করা হয়। <br>
+---
+#### 8. Which of the following is not an advantage of using a doubly linked list over a singly linked list?
+**a)** Can be traversed in both directions      
+**b)** Supports efficient insertion and deletion at the beginning    
+**c)** Requires less memory space ✅       
+**d)** Allows easy removal of a node without traversing the entire list    
+> **Explanation:** Doubly Linked List  এর প্রতিটি নোডে দুটি পয়েন্টার থাকে (prev এবং next), যা অতিরিক্ত মেমরি দখল করে। এই কারণে এটি singly linked list থেকে বেশি মেমরি ব্যবহার করে।
+---
