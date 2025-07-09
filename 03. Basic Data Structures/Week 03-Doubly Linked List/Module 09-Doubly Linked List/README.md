@@ -148,3 +148,9 @@
 - `Delete at any position`
 - Explanation with animated how to `delete at any position`
 - <img src="./images/draw19.png" width="500">
+
+## 15. Delete at any position
+- Build program with this logics and how to connection to each others:
+    - <img src="./images" width="500">
+    - <img src="./images" width="500">
+- Program: `delete_any_position.cpp`
