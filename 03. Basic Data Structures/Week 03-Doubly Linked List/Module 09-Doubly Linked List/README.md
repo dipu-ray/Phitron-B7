@@ -228,3 +228,10 @@ next: পরবর্তী নোড নির্দেশ করে। <br>
 **d)** O(n^2) time    
 > **Explanation:** Doubly Linked List  এ  শেষ নোডে সরাসরি অ্যাক্সেস করা সম্ভব যদি আমাদের কাছে tail pointer থাকে। prev পয়েন্টার ব্যবহার করে এর আগের নোডের next পয়েন্টারটি NULL সেট করে, এবং শেষ নোডটি মুছে ফেলা হয়। এটি constant time-এ করা যায়, তাই টাইম কমপ্লেক্সিটি O(1)।
 ---
+#### 6. Which of the following is the correct way to check if a doubly linked list is empty?
+**a)** Check if the head is null      
+**b)** Check if the tail is null    
+**c)** Both a and b ✅       
+**d)** Check if both the head and tail are non-null    
+> **Explanation:** Doubly Linked List   খালি হলে head এবং tail পয়েন্টার NULL হবে।
+---
