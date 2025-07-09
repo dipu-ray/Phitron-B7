@@ -21,3 +21,10 @@
 - Quiz: Module 10
 - Quiz Explanation
 - Feedback Form: Module 10
+
+## List Build-in Functions
+- [Link](https://docs.google.com/document/d/1IbS-qmFx6oRO-GyIG55yavdDUHpfHTNM/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
+- <img src="./images/image.png" width="500">
+- <img src="./images/image2.png" width="500">
+- <img src="./images/image3.png" width="500">
+- <img src="./images/image4.png" width="500">
