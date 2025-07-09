@@ -139,3 +139,14 @@
         tail = tail->next;
     }
     ```
+
+## 11. Summary
+- Today work on `linked list operations`
+- Insertion - `insert at head`
+- Insertion - `insert at tail`
+- Insertion - `insert at tail` optimized way
+- Insertion - `insert at any position`
+- Build logic with `draw`, this whole module build to `logic` with `drawing` not only `code or programming`. `Build drawing and build the logics`.
+- Practices `code to make drawing` and `drawing to make code`.
+- `Visualize` and make code or program.
+- Understand to reference of a pointer.
