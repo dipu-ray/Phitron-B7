@@ -180,3 +180,7 @@
     - `delete at any position`
 - How to `input from user` in `doubly linked list`.
 - This whole operations `time complexity` comparison.
+
+## Quiz: Module 09
+- `Total Questions: 10`
+- `Total Marks: 10`
