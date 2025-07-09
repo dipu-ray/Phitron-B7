@@ -150,3 +150,7 @@
 - Practices `code to make drawing` and `drawing to make code`.
 - `Visualize` and make code or program.
 - Understand to reference of a pointer.
+
+## Quiz: Module 06
+- `Total Questions: 10`
+- `Total Marks: 10`
