@@ -175,6 +175,7 @@ int main() {
     int *ptr = &val;
     fun(ptr);
     cout << *ptr << endl;
+
     return 0;
 }
 ```
@@ -198,6 +199,7 @@ int main() {
     int *ptr = &val;
     fun(ptr);
     cout << *ptr << endl;
+
     return 0;
 }
 ```
@@ -244,4 +246,30 @@ tmp->next = newNode;
 **c)** Delete the head node   
 **d)** Insert a node only at tail ✅   
 > **Explanation:** লুপটি লিংকড লিস্টের শেষ পর্যন্ত চলে এবং tmp কে last node এ সেট করে। এরপর tmp->next = newNode করলে নতুন নোডটি লিস্টের টেইলে যোগ হয়।
+---
+#### 5. What will the following code snippet do?
+```
+newNode->next = head;
+head = newNode;
+```
+**a)** Insert a node at head ✅  
+**b)** Insert a node at any position    
+**c)** Delete the head node   
+**d)** Insert a node only at tail    
+> **Explanation:** কোডটি একটি নতুন নোডকে লিস্টের হেড হিসাবে সেট করে। প্রথমে newNode->next = head, বর্তমান হেড নোডকে নতুন নোডের পরবর্তী হিসেবে সেট করে। তারপর head = newNode, নতুন নোডকে হেড হিসাবে আপডেট করে।
+---
+#### 6. What will the following code snippet do?
+```
+Node *tmp = head;
+for(int i = 1; i <= pos - 1; i++) {
+    tmp = tmp->next;
+}
+newNode->next = tmp->next;
+tmp->next = newNode;
+```
+**a)** Insert a node at head   
+**b)** Insert a node at any position ✅    
+**c)** Delete the head node   
+**d)** Insert a node only at tail    
+> **Explanation:** কোডটি নির্দিষ্ট অবস্থানে একটি নোড যোগ করার জন্য ব্যবহৃত হয়। লুপটি tmp কে পজিশনের আগের নোডে নিয়ে যায়। এরপর newNode->next = tmp->next এবং tmp->next = newNode ব্যবহার করে নতুন নোড যোগ করা হয়।
 ---
