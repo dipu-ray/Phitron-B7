@@ -154,3 +154,10 @@
 ## Quiz: Module 06
 - `Total Questions: 10`
 - `Total Marks: 10`
+
+## Quiz Explanation & Extra Practice Problem
+- [Extra Problems -](https://docs.google.com/document/d/1P9adF6lPRgQcQFZH0Bq4e8tPxa5pdiBlxuJlS7p8jXg/edit?usp=sharing)
+- <img src="./images/extra_problem.png" width="500">
+<br>
+
+- [Quiz Explanation -](https://docs.google.com/document/d/12T11zTkSCgryQKJx8J89L4h1hkjn276GsnPuYXHW8AI/edit?tab=t.0)
