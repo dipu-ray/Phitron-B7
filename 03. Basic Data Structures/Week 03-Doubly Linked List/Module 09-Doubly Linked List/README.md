@@ -163,3 +163,7 @@
 - <img src="./images/notes.png" width="500">
 - `Array` one time better than `singly linked list` - `Delete at Tail` in time complexity.
 - Others time always best to time complexity `Doubly Linked List`.
+
+## 17. Input Doubly linked list
+- Program: `input_doubly.cpp`
+- Same to same also `singly linked list input` and `doubly linked list input`
