@@ -207,3 +207,41 @@ int main() {
 **d)** Compiler error   
 > **Explanation:** কোডে, fun ফাংশনের মধ্যে p = NULL করলে শুধু local pointer( fun ফাংশনের মধ্যে ) p NULL হয়ে যায়। ptr এর সাথে এর কোনো সম্পর্ক নেই। তাই, ptr এখনো val এর ঠিকানায় পয়েন্ট করছে, যার ভ্যালু 10।
 ---
+#### 3. What will be the output of the following code?
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+void fun(int *&p) {
+    p = NULL;
+}
+
+int main() {
+    int val = 10;
+    int *ptr = &val;
+    fun(ptr);
+    cout << ptr << endl;
+
+    return 0;
+}
+```
+**a)** 10      
+**b)** 20    
+**c)** 0 ✅  
+**d)** Compiler error   
+> **Explanation:** সি++-এ NULL মেমরি খালি এড্রেস হিসেবে বোঝানো হয়। যখন এটি cout দিয়ে প্রিন্ট করা হয়, তখন 0 আউটপুট হয়। int*& ব্যবহার করার ফলে ফাংশনের ভেতরে করা পরিবর্তন সরাসরি মূল পয়েন্টারে প্রতিফলিত হয়।
+---
+#### 4. What will the following code snippet do?
+```
+Node *tmp = head;
+while(tmp->next != NULL) {
+    tmp = tmp->next;
+}
+tmp->next = newNode;
+```
+**a)** Insert a node at head      
+**b)** Insert a node at any position    
+**c)** Delete the head node   
+**d)** Insert a node only at tail ✅   
+> **Explanation:** লুপটি লিংকড লিস্টের শেষ পর্যন্ত চলে এবং tmp কে last node এ সেট করে। এরপর tmp->next = newNode করলে নতুন নোডটি লিস্টের টেইলে যোগ হয়।
+---
