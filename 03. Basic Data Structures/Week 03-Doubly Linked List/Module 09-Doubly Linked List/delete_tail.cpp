@@ -23,10 +23,14 @@ void print_forward(Node* head) {
     cout << endl;
 }
 
-void delete_at_tail(Node* head, Node* tail) {
+void delete_at_tail(Node* &head, Node* &tail) {
     Node* deleteNode = tail;
     tail = tail->previous;
     delete deleteNode;
+    if(tail == NULL) {
+        head = NULL;
+        return;
+    }
     tail->next = NULL;
 }
 
@@ -41,6 +45,8 @@ int main() {
     a->next = tail;
     tail->previous = a;
 
+    delete_at_tail(head, tail);
+    delete_at_tail(head, tail);
     print_forward(head);
 
     return 0;
