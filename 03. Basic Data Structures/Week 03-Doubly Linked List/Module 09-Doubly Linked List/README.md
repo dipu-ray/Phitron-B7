@@ -134,4 +134,8 @@
 - <img src="./images/draw13.png" width="500">
 
 ## 13. Delete at Tail
-- 
+- - Build program with this logics and how to connection to each others:
+    - <img src="./images" width="500">
+    - <img src="./images" width="500">
+    - <img src="./images" width="500">
+- Program: `delete_tail.cpp`
