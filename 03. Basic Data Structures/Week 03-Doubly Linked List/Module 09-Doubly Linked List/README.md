@@ -160,4 +160,6 @@
 - Program: `delete_any_position.cpp`
 
 ## 16. Complexity Analysis of Array vs Singly vs Doubly
-- 
+- <img src="./images/notes.png" width="500">
+- `Array` one time better than `singly linked list` - `Delete at Tail` in time complexity.
+- Others time always best to time complexity `Doubly Linked List`.
