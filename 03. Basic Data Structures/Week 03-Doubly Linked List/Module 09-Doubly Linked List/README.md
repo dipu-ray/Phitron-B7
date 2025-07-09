@@ -204,3 +204,27 @@
 **d)** none of the above   
 > **Explanation:** Doubly Linked List  এ শেষ নোডের পরে কোনো নোড থাকে না। তাই শেষ নোডের next পয়েন্টারটি NULL সেট করা হয়। তবে prev পয়েন্টারটি শেষ নোডের আগের নোডকে নির্দেশ করে।
 ---
+#### 3. In a doubly linked list, each node contains:
+**a)** Only a link to the next node.     
+**b)** Only a link to the previous node.    
+**c)** Both a link to the next and previous nodes. ✅     
+**d)** A link to the first node in the list.   
+> **Explanation:** Doubly Linked List  এ  প্রতিটি নোডে দুটি পয়েন্টার থাকে: <br>
+prev: আগের নোড নির্দেশ করে। <br>
+next: পরবর্তী নোড নির্দেশ করে। <br>
+এই কারণে Doubly Linked List  এ  উভয় দিক থেকে ট্রাভার্স করা যায় এবং বিভিন্ন অপারেশন সহজ হয়।
+---
+#### 4. Which of the following is the time complexity for inserting a node at the beginning of a doubly linked list?
+**a)** O(1) ✅     
+**b)** O(n)    
+**c)** O(logn)      
+**d)** O(n^2)   
+> **Explanation:** Doubly Linked List  এ insertion এর সময় head পয়েন্টারকে নতুন নোডের দিকে point করা হয় এবং নতুন নোডের next পয়েন্টার পুরানো head-এর দিকে সেট করা হয়। এই অপারেশনটি constant time-এ সম্পন্ন হয়। তাই টাইম কমপ্লেক্সিটি O(1)।
+---
+#### 5. Deleting the last node in a doubly linked list takes:
+**a)** O(1) time ✅     
+**b)** O(n) time    
+**c)** O(logn) time       
+**d)** O(n^2) time    
+> **Explanation:** Doubly Linked List  এ  শেষ নোডে সরাসরি অ্যাক্সেস করা সম্ভব যদি আমাদের কাছে tail pointer থাকে। prev পয়েন্টার ব্যবহার করে এর আগের নোডের next পয়েন্টারটি NULL সেট করে, এবং শেষ নোডটি মুছে ফেলা হয়। এটি constant time-এ করা যায়, তাই টাইম কমপ্লেক্সিটি O(1)।
+---
