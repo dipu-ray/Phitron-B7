@@ -117,7 +117,7 @@
 - Program: `insert_any_position.cpp`
 
 ## 10. Delete at head Animated
-- - `Delete at head`
+- `Delete at head`
 - Explanation with animated how to `delete at head`
 - <img src="./images/draw9.png" width="500">
 
@@ -127,3 +127,8 @@
     - <img src="./images/draw11.png" width="500">
     - <img src="./images/draw12.png" width="500">
 - Program: `delete_head.cpp`
+
+## 12. Delete at tail Animated
+- `Delete at tail`
+- Explanation with animated how to `delete at tail`
+- <img src="./images/draw13.png" width="500">
