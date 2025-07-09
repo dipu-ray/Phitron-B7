@@ -187,3 +187,13 @@
 
 ## Quiz Explanation
 - [Link](https://docs.google.com/document/d/1gbo1Mm3fn2PRe4ciyq3JaFP6VCOSKoDGaFlb-WwuqY8/edit?usp=sharing)
+#### 1. Which of the following statements is true about a doubly linked list?
+**a)** It can only be traversed in one direction.     
+**b)** It can be traversed in both directions. ✅   
+**c)** It can only store integers.     
+**d)** It has a fixed size.   
+> **Explanation:** Doubly Linked List একটি বিশেষ লিংকড লিস্ট যেখানে প্রতিটি নোডে দুইটি পয়েন্টার থাকে: <br>
+একটি আগের নোডে (prev) নির্দেশ করে। <br>
+অন্যটি পরবর্তী নোডে (next) নির্দেশ করে। <br>
+এই কারণে ডাবলি লিংকড লিস্ট উভয় দিক থেকে ট্রাভার্স করা সম্ভব হয়। এটি integer ছাড়াও যেকোনো ডেটা টাইপ ধারণ করতে পারে এবং এর সাইজ fixed নয়।
+---
