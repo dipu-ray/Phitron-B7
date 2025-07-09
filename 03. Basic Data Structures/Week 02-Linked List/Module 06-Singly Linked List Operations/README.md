@@ -287,3 +287,18 @@ tmp->next = newNode;
 **d)** O(logN)    
 > **Explanation:** আমরা singly linked list এর tail এ একটি নোড যুক্ত করতে হলে প্রথমে শেষ নোড পর্যন্ত ট্রাভের্স করে যেতে হবে। তারপর শেষ নোডের সাথে নতুন নোড যুক্ত করতে হবে। এখানে শেষ নোড পর্যন্ত যেতে N সংখ্যক নোড ট্রাভের্স করতে টাইম কপ্লেক্সিটি হবে - O(N)।
 ---
+#### 9. What is the time complexity of traversing a singly linked list?
+**a)** O(1)    
+**b)** O(N) ✅   
+**c)** O(N*N)   
+**d)** O(logN)    
+> **Explanation:** লুপ চালিয়ে লিস্টের প্রতিটি নোড একবার করে ভিজিট করতে হয়। যদি N নোড থাকে, তাহলে ট্রাভার্সের জন্য N বার অপারেশন লাগে।
+---
+#### 10. What is the time complexity of inserting an element at head in a singly linked list?
+**a)** O(N)    
+**b)** O(1) ✅   
+**c)** O(N*N)   
+**d)** O(logN)    
+> **Explanation:** হেডে নতুন ভ্যালু যোগ করতে কোনো লুপ চালাতে হয় না। নতুন নোডের next হেডে সেট করা এবং
+নতুন নোডকে হেডে সেট করা। এটি কনস্ট্যান্ট টাইমে সম্পন্ন হয়।
+---
