@@ -26,6 +26,8 @@ void print_forward(Node* head) {
 void delete_at_tail(Node* head, Node* tail) {
     Node* deleteNode = tail;
     tail = tail->previous;
+    delete deleteNode;
+    tail->next = NULL;
 }
 
 int main() {

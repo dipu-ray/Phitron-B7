@@ -138,6 +138,8 @@
     - <img src="./images/draw14.png" width="500">
     - <img src="./images/draw15.png" width="500">
     - <img src="./images/draw16.png" width="500">
+    - <img src="./images/draw17.png" width="500">
+    - <img src="./images/draw18.png" width="500">
 - Program: `delete_tail.cpp`
 - `delete at tail in doubly linked list` time complexity of O(1). Because of, there was no loops and easily can move on backward.
 - `delete at tail in singly linked list` time complexity of O(N). Because of, there was using with loops and can't move on backward.
