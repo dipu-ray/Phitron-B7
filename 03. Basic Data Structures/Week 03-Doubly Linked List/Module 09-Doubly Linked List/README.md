@@ -132,3 +132,6 @@
 - `Delete at tail`
 - Explanation with animated how to `delete at tail`
 - <img src="./images/draw13.png" width="500">
+
+## 13. Delete at Tail
+- 
