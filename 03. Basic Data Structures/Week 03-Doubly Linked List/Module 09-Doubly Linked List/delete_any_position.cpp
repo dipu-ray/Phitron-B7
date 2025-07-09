@@ -23,6 +23,16 @@ void print_forward(Node* head) {
     cout << endl;
 }
 
+void delete_at_any_position(Node* head, int index) {
+    Node* tmp = head;
+    for(int i = 1; i < index; i++) {
+        tmp = tmp->next;
+    }
+    Node* deleteNode = tmp->next;
+    tmp->next = tmp->next->next;
+    tmp->next->previous = tmp;
+}
+
 int main() {
     Node* head = new Node(10);
     Node* a = new Node(20);
