@@ -117,4 +117,6 @@
 - Program: `insert_any_position.cpp`
 
 ## 10. Delete at head Animated
-- Abc
+- - `Delete at head`
+- Explanation with animated how to `delete at head`
+- <img src="./images/draw9.png" width="500">
