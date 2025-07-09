@@ -23,6 +23,11 @@ void print_forward(Node* head) {
     cout << endl;
 }
 
+void delete_at_tail(Node* head, Node* tail) {
+    Node* deleteNode = tail;
+    tail = tail->previous;
+}
+
 int main() {
     Node* head = new Node(10);
     Node* a = new Node(20);
