@@ -30,4 +30,9 @@
 - <img src="./images/image4.png" width="500">
 
 ## 0. Introduction
-- 
+- Exploring linked list with STL in C++
+- STL list: A flexible container
+- Mastering STL list functions
+- Reversing a singly linked list
+- Reversing a doubly linked list
+- Detecting cycles in linked list
