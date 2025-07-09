@@ -252,3 +252,20 @@ next: পরবর্তী নোড নির্দেশ করে। <br>
 **d)** Allows easy removal of a node without traversing the entire list    
 > **Explanation:** Doubly Linked List  এর প্রতিটি নোডে দুটি পয়েন্টার থাকে (prev এবং next), যা অতিরিক্ত মেমরি দখল করে। এই কারণে এটি singly linked list থেকে বেশি মেমরি ব্যবহার করে।
 ---
+#### 9. The process of inserting a new node at the end of a doubly linked list involves:
+**a)** Insert new node before the tail node      
+**b)** Insert new node after the tail node ✅    
+**c)** Insert new node before the head node        
+**d)** No change in the links of other nodes    
+> **Explanation:** নতুন নোড tail পয়েন্টারের পরে ইনসার্ট করা হয় এবং tail pointer নতুন নোডের দিকে নির্দেশ করা হয়।
+---
+#### 10. The process of deleting a node from a doubly linked list involves:
+**a)** Changing the link of the previous node      
+**b)** Changing the link of the next node     
+**c)** Changing the links of both the previous and next nodes ✅       
+**d)** No change in the links of other nodes    
+> **Explanation:** ডাবলি লিংকড লিস্টে একটি নোড মুছে ফেলার জন্য: <br>
+prev পয়েন্টার পরিবর্তন করে আগের নোডকে পরবর্তী নোডের সাথে যুক্ত করা হয়।
+next পয়েন্টার পরিবর্তন করে পরবর্তী নোডকে আগের নোডের সাথে যুক্ত করা হয়।
+অবশেষে নির্দিষ্ট নোডটি ডিলিট করা হয়।
+---
