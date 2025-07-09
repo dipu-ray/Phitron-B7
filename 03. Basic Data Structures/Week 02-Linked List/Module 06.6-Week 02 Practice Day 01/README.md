@@ -1,4 +1,5 @@
 # Date: 30 June, 2025 - Monday
 
 ## Topics:
-- Abc
+- Practice Problem Set: Module 6.5
+1. Practice
