@@ -123,3 +123,19 @@
 ## 9. Insert at tail Optimized
 - Program: `tail_insert_optimized.cpp`
 - Optimized to insert a tail. Which time complexity is `O(1)`.
+
+## 10. Insert at tail (Optimized) Animated
+- Explanation this code:
+    ```
+    void insert_at_tail(Node* &head, Node* &tail, int value) {
+        Node* newNode = new Node(value);
+
+        if(head == NULL) {
+            head = newNode;
+            return;
+        }
+
+        tail->next = newNode;
+        tail = tail->next;
+    }
+    ```
