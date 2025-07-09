@@ -273,3 +273,17 @@ tmp->next = newNode;
 **d)** Insert a node only at tail    
 > **Explanation:** কোডটি নির্দিষ্ট অবস্থানে একটি নোড যোগ করার জন্য ব্যবহৃত হয়। লুপটি tmp কে পজিশনের আগের নোডে নিয়ে যায়। এরপর newNode->next = tmp->next এবং tmp->next = newNode ব্যবহার করে নতুন নোড যোগ করা হয়।
 ---
+#### 7. What is the time complexity of inserting an element at any position in a singly linkedlist?
+**a)** O(1)   
+**b)** O(N) ✅  
+**c)** O(N*N)   
+**d)** O(logN)    
+> **Explanation:** আমরা singly linked list এর যেকোনো position এ একটি নোড যুক্ত করতে হলে প্রথমে ওই position এর আগের নোড পর্যন্ত ট্রাভের্স করে যেতে হবে। তারপর, ওই নোডের সাথে নতুন নোড যুক্ত করতে হবে এবং নতুন নোডের সাথে আগে position এ যেই নোড ছিলো যেটা যুক্ত করে দিতে হবে। এখানে, position শুরুর নোড থেকে শেষের (N) নোড পর্যন্ত যেকোনো সংখ্যক নোড ট্রাভের্স করতে হতে পারে, তাই টাইম কপ্লেক্সিটি হবে - O(N)।
+---
+#### 8. What is the time complexity of inserting an element at tail in a singly linkedlist? (Without tail track)
+**a)** O(N) ✅   
+**b)** O(1)   
+**c)** O(N*N)   
+**d)** O(logN)    
+> **Explanation:** আমরা singly linked list এর tail এ একটি নোড যুক্ত করতে হলে প্রথমে শেষ নোড পর্যন্ত ট্রাভের্স করে যেতে হবে। তারপর শেষ নোডের সাথে নতুন নোড যুক্ত করতে হবে। এখানে শেষ নোড পর্যন্ত যেতে N সংখ্যক নোড ট্রাভের্স করতে টাইম কপ্লেক্সিটি হবে - O(N)।
+---
