@@ -184,3 +184,26 @@ int main() {
 **d)** Compiler error   
 > **Explanation:** কোডে, fun ফাংশনে একটি পয়েন্টার পাস করা হয়েছে। পয়েন্টারটি val এর এড্রেস নির্দেশ করছে। *p = 20; এই লাইনটি val এর ভ্যালু পরিবর্তন করে 20 করে। cout << *ptr প্রিন্ট করার সময় ptr পয়েন্ট করছে val এর ঠিকানায়। তাই আউটপুট হবে 20।
 ---
+#### 2. What will be the output of the following code?
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+void fun(int *p) {
+    p = NULL;
+}
+
+int main() {
+    int val = 10;
+    int *ptr = &val;
+    fun(ptr);
+    cout << *ptr << endl;
+    return 0;
+}
+```
+**a)** 10 ✅     
+**b)** 20    
+**c)** Segmentation Fault     
+**d)** Compiler error   
+> **Explanation:** কোডে, fun ফাংশনের মধ্যে p = NULL করলে শুধু local pointer( fun ফাংশনের মধ্যে ) p NULL হয়ে যায়। ptr এর সাথে এর কোনো সম্পর্ক নেই। তাই, ptr এখনো val এর ঠিকানায় পয়েন্ট করছে, যার ভ্যালু 10।
+---
