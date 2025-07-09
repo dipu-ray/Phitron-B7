@@ -120,3 +120,10 @@
 - - `Delete at head`
 - Explanation with animated how to `delete at head`
 - <img src="./images/draw9.png" width="500">
+
+## 11. Delete at head
+- Build program with this logics and how to connection to each others:
+    - <img src="./images/draw10.png" width="500">
+    - <img src="./images/draw11.png" width="500">
+    - <img src="./images/draw12.png" width="500">
+- Program: `delete_head.cpp`
