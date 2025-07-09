@@ -167,3 +167,16 @@
 ## 17. Input Doubly linked list
 - Program: `input_doubly.cpp`
 - Same to same also `singly linked list input` and `doubly linked list input`
+
+## 18. Summary
+- What is `doubly linked list` and how they work?
+- Doubly linked can print `backward` and `forward`.
+- Doubly linked list operations:
+    - `insert at head`
+    - `insert at tail`
+    - `insert at any position`
+    - `delete at head`
+    - `delete at tail`
+    - `delete at any position`
+- How to `input from user` in `doubly linked list`.
+- This whole operations `time complexity` comparison.
