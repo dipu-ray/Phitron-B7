@@ -184,3 +184,6 @@
 ## Quiz: Module 09
 - `Total Questions: 10`
 - `Total Marks: 10`
+
+## Quiz Explanation
+- [Link](https://docs.google.com/document/d/1gbo1Mm3fn2PRe4ciyq3JaFP6VCOSKoDGaFlb-WwuqY8/edit?usp=sharing)
