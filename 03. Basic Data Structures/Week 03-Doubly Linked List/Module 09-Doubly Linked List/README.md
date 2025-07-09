@@ -197,3 +197,10 @@
 অন্যটি পরবর্তী নোডে (next) নির্দেশ করে। <br>
 এই কারণে ডাবলি লিংকড লিস্ট উভয় দিক থেকে ট্রাভার্স করা সম্ভব হয়। এটি integer ছাড়াও যেকোনো ডেটা টাইপ ধারণ করতে পারে এবং এর সাইজ fixed নয়।
 ---
+#### 2. In a doubly linked list, which pointer of the last node is NULL?
+**a)** prev     
+**b)** next ✅   
+**c)** both prev and next     
+**d)** none of the above   
+> **Explanation:** Doubly Linked List  এ শেষ নোডের পরে কোনো নোড থাকে না। তাই শেষ নোডের next পয়েন্টারটি NULL সেট করা হয়। তবে prev পয়েন্টারটি শেষ নোডের আগের নোডকে নির্দেশ করে।
+---
