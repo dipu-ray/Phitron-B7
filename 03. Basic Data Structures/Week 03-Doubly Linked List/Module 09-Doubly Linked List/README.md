@@ -30,6 +30,7 @@
 - আজকে তোমাদের শেখানো হবে ডাবলি লিংড লিস্ট। ডাবলি লিংকড লিস্ট কিভাবে ডিক্লেয়ার করতে হয়। কিভাবে ইনপুট নিতে হয়, আউটপুট দেখাতে হয় এবং এর বেসিক অপারেশন গুলো স্টেপ বাই স্টেপ তোমাদের শেখানো হবে। সাথে কপ্লেক্সিটিও বুঝিয়ে দেওয়া হবে।
 - প্রতি সপ্তাহে মাত্র তিনদিন তোমাদের এরকম লেকচার মডিউল গুলো আসে। সো তোমরা ইউটিলাইজ করতে পারলে এনাফ টাইম কিন্তু পাবে। একটু ভেবে দেখো কোথায় কোথায় তোমাদের মূল্যবান সময়গুলো অথযা ব্যয় হচ্ছে। সেগুলো কাট করে কোর্সের মডিউলগুলো আরো ভালোভাবে প্র্যাক্টিস করার জন্য দাও।
 - [Comparison of all operation's complexity -](https://docs.google.com/document/d/1McYLCx7BcrMBsqTCuioWK2FnopEBgXzG1B35Hfwlfzk/edit?usp=sharing)
+- <img src="./images/notes.png" width="500">
 
 ## 0. Introduction
 - Doubly Linked List Operations:
@@ -157,3 +158,6 @@
     - <img src="./images/draw23.png" width="500">
     - <img src="./images/draw24.png" width="500">
 - Program: `delete_any_position.cpp`
+
+## 16. Complexity Analysis of Array vs Singly vs Doubly
+- 
