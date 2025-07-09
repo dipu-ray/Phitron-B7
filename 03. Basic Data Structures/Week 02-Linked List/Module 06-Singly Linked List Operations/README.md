@@ -161,3 +161,26 @@
 <br>
 
 - [Quiz Explanation -](https://docs.google.com/document/d/12T11zTkSCgryQKJx8J89L4h1hkjn276GsnPuYXHW8AI/edit?tab=t.0)
+#### 1. What will be the output of the following code?
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+void fun(int *p) {
+    *p = 20;
+}
+
+int main() {
+    int val = 10;
+    int *ptr = &val;
+    fun(ptr);
+    cout << *ptr << endl;
+    return 0;
+}
+```
+**a)** 10     
+**b)** 20 ✅   
+**c)** Segmentation Fault     
+**d)** Compiler error   
+> **Explanation:** কোডে, fun ফাংশনে একটি পয়েন্টার পাস করা হয়েছে। পয়েন্টারটি val এর এড্রেস নির্দেশ করছে। *p = 20; এই লাইনটি val এর ভ্যালু পরিবর্তন করে 20 করে। cout << *ptr প্রিন্ট করার সময় ptr পয়েন্ট করছে val এর ঠিকানায়। তাই আউটপুট হবে 20।
+---
