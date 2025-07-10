@@ -83,7 +83,7 @@
     ```
 
 ## 10. Reverse Doubly linked list
-- Abc
+- 
 
 
 
