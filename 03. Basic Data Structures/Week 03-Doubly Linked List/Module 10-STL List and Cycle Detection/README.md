@@ -97,22 +97,22 @@
 - [Link](https://docs.google.com/document/d/12TDWvvOyXQSB3tkcFv1eMZxhifiwCG0apN7GM1Nrz0Q/edit?usp=sharing)
 #### 1. What is the purpose of a C++ list?
 **a)** To store elements in a sequential order     
-**c)** To store elements in a sorted order     
-**b)** To store elements in a queue-like structure    
+**b)** To store elements in a sorted order     
+**c)** To store elements in a queue-like structure    
 **d)** To store elements in a doubly linked-list data structure ✅  
 > **Explanation:** C++ এর লিস্ট list হল একটি ডেটা স্ট্রাকচার যা ডাবলি লিঙ্কড লিস্ট (Doubly Linked List) ব্যবহার করে তৈরি। এটি এমন একটি স্ট্রাকচার যেখানে প্রতিটি নোডে দুটি লিঙ্ক থাকে - একটি পূর্ববর্তী নোডের জন্য এবং অন্যটি পরবর্তী নোডের জন্য। এটি দ্রুত ইনসারশন এবং ডিলিশনের জন্য উপযোগী।
 ---
 #### 2. Which of the following operations can be performed on a C++ list?
 **a)** Insertion and deletion at the beginning     
-**c)** Insertion and deletion at the end     
-**b)** Insertion and deletion at a specific position    
+**b)** Insertion and deletion at the end     
+**c)** Insertion and deletion at a specific position    
 **d)** All of the above ✅  
 > **Explanation:** C++ লিস্টে লিখিত সব অপারেশনগুলো করা যায়। এটি push_front, push_back, এবং insert এর মতো ফাংশনের মাধ্যমে করা যায়।
 ---
 #### 3. Which function is used to insert an element at the beginning of a C++ list?
 **a)** push_back()     
-**c)** push_front() ✅   
-**b)** front()    
+**b)** push_front() ✅   
+**c)** front()    
 **d)** add()   
 > **Explanation:** push_front() ফাংশনটি একটি এলিমেন্টকে লিস্টের শুরুতে যোগ করার জন্য ব্যবহৃত হয়। এটি O(1) সময়ে কাজ করে কারণ এটি সরাসরি শুরুতে ডাটা যোগ করে।
 ---
