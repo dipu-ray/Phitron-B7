@@ -86,6 +86,7 @@
 - Using `two pointer` techniques.
 - <img src="./images/drawing5.png" width="500">
 - <img src="./images/drawing6.png" width="500">
+- Now it's time to implementation code with those drawing and logics.
 
 
 
