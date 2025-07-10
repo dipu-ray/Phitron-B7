@@ -23,7 +23,7 @@ int main() {
     //     cout << value << endl;
     // }
 
-    // Find the value V. Not under
+    // Find the value V. Not under a list STL
     list<int> l = {10, 20, 30, 20, 20, 20, 20, 80};
     auto it = find(l.begin(), l.end(), 200);
     if(it == l.end()) {
