@@ -86,8 +86,6 @@
 - Using `two pointer` techniques.
 - <img src="./images/drawing5.png" width="500">
 
-
-
 ## Quiz: Module 10
 - `Total Questions: 10`
 - `Total Marks: 10`
