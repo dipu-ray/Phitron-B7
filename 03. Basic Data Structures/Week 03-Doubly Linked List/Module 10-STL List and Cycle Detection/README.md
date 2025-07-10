@@ -90,7 +90,14 @@
 - Program: `reverse_doubly.cpp`
 
 ## 11. Reverse doubly linked list Animated
-- 
+- Explanation this code in this video:
+    ```
+    void reverse_doubly(Node* head, Node* tail) {
+        for(Node *i=head,*j=tail; i!=j && i->previous!=j; i=i->next,j=j->previous) {
+            swap(i->value, j->value);
+        }
+    }
+    ```
 
 
 
