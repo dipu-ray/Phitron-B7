@@ -92,3 +92,6 @@
 ## Quiz: Module 10
 - `Total Questions: 10`
 - `Total Marks: 10`
+
+## Quiz Explanation
+- [Link](https://docs.google.com/document/d/12TDWvvOyXQSB3tkcFv1eMZxhifiwCG0apN7GM1Nrz0Q/edit?usp=sharing)
