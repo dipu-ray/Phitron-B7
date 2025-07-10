@@ -90,7 +90,7 @@
 - Nothing just only push on github.
 - Then github activity are grow up.
 - For a job apply as a fresher make a projects.
-- You can make a strong project. Then you will got the big tech.
+
 
 
 
