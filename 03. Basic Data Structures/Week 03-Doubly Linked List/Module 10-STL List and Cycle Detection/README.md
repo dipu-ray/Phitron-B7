@@ -65,3 +65,4 @@
 
 ## 8. Reverse singly linked list Implementation
 - Program: `reverse.cpp`
+- Implementation this program of those four image logics.
