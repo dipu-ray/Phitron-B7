@@ -54,3 +54,6 @@
 
 ## 6. List element access and iterators
 - Program: `list_functions.cpp`
+
+## 7. Idea of reversing singly linked list
+- <img src="./images/drawing.png" width="500">
