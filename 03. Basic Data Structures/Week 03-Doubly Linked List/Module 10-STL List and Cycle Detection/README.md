@@ -42,3 +42,6 @@
 
 ## 2. List Capacity functions
 - Program: `stl_list2.cpp`
+
+## 3. List Modifiers functions
+- Abc
