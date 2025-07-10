@@ -29,6 +29,19 @@ int main() {
     //     }
     // }
 
+    // // Change the size of the list
+    // list<int> l = {10, 20, 30, 40, 50};
+    // l.resize(3);
+    // for(int value : l) {
+    //     cout << value << endl;
+    // }
+
+    // Change the size of the list 2
+    list<int> l = {10, 20, 30, 40, 50};
+    l.resize(10, 100);
+    for(int value : l) {
+        cout << value << endl;
+    }
 
     return 0;
 }
