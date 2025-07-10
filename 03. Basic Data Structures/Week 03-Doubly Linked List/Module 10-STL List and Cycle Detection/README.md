@@ -66,3 +66,18 @@
 ## 8. Reverse singly linked list Implementation
 - Program: `reverse.cpp`
 - Implementation this program of those four image logics.
+
+## 9. Reverse singly linked list Animated
+- Explanation this code:
+    ```
+    void reverse_linked_list(Node* &head, Node* &tail, Node* tmp) {
+        if(tmp->next == NULL) {
+            head = tmp;
+            return;
+        }
+        reverse_linked_list(head, tail, tmp->next);
+        tmp->next->next = tmp;
+        tmp->next = NULL;
+        tail = tmp;
+    }
+    ```
