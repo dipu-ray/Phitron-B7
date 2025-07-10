@@ -48,3 +48,6 @@
 
 ## 4. List Modifiers functions II
 - Program: `list_modifiers2.cpp`
+
+## 5. List operation functions
+- Abc
