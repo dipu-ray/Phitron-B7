@@ -109,6 +109,13 @@
 **d)** All of the above ✅  
 > **Explanation:** C++ লিস্টে লিখিত সব অপারেশনগুলো করা যায়। এটি push_front, push_back, এবং insert এর মতো ফাংশনের মাধ্যমে করা যায়।
 ---
+#### 3. Which function is used to insert an element at the beginning of a C++ list?
+**a)** push_back()     
+**c)** push_front() ✅   
+**b)** front()    
+**d)** add()   
+> **Explanation:** push_front() ফাংশনটি একটি এলিমেন্টকে লিস্টের শুরুতে যোগ করার জন্য ব্যবহৃত হয়। এটি O(1) সময়ে কাজ করে কারণ এটি সরাসরি শুরুতে ডাটা যোগ করে।
+---
 
 
 
