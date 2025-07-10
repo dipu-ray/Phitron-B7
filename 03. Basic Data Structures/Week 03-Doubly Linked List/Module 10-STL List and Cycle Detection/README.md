@@ -81,3 +81,6 @@
         tail = tmp;
     }
     ```
+
+## 10. Reverse Doubly linked list
+- Abc
