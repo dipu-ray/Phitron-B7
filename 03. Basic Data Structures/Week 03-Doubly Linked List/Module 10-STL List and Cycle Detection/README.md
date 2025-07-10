@@ -39,3 +39,6 @@
 
 ## 1. List Constructors
 - Program: `stl_list.cpp`
+
+## 2. List Capacity functions
+- Program: `stl_list2.cpp`
