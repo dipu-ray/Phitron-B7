@@ -51,3 +51,6 @@
 
 ## 5. List operation functions
 - Program: `list_operations.cpp`
+
+## 6. List element access and iterators
+- Program: `list_functions.cpp`
