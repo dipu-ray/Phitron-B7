@@ -21,7 +21,7 @@ int main() {
     // }
 
     // Using range based loops: Construct a list with N elements and the value will be V
-    list<int> l(10, 3);
+    list<int> l(10, 5);
     for(int value : l) {
         cout << value << endl;
     }
