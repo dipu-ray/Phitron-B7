@@ -118,22 +118,22 @@
 ---
 #### 4. Which function is used to remove a value from C++ list using the value only?
 **a)** remove() ✅    
-**c)** delete()    
-**b)** erase()    
+**b)** delete()    
+**c)** erase()    
 **d)** pop_front()   
 > **Explanation:** remove() ফাংশনটি লিস্টের প্রতিটি নোড স্ক্যান করে এবং নির্দিষ্ট মান পাওয়া গেলে তা মুছে ফেলে। এটি O(n) সময়ে কাজ করে কারণ এটি প্রতিটি নোড চেক করতে হয়।
 ---
 #### 5. What is the time complexity for accessing an element in a C++ list by index (without head and tail)?
 **a)** O(1)     
-**c)** O(log n)    
-**b)** O(n) ✅   
+**b)** O(log n)    
+**c)** O(n) ✅   
 **d)** O(n^2)   
 > **Explanation:** C++ লিস্ট একটি ডাবলি লিঙ্কড লিস্ট হওয়ায় এটি এলিমেন্ট সরাসরি ইনডেক্সের মাধ্যমে অ্যাক্সেস করতে পারে না। এটি প্রথম নোড থেকে শুরু করে ইনডেক্স অনুযায়ী এলিমেন্ট খুঁজে বের করে।
 ---
 #### 6. Which function is used to sort a C++ list in ascending order?
 **a)** sort() ✅    
-**c)** merge_sort()    
-**b)** bubble_sort()    
+**b)** merge_sort()    
+**c)** bubble_sort()    
 **d)** reverse()   
 > **Explanation:** sort() ফাংশনটি একটি লিস্টকে এসেন্ডিং অর্ডারে সাজানোর জন্য ব্যবহৃত হয়। এটি একটি ইন-বিল্ট মেথড এবং এটি O(n log n) সময়ে কাজ করে।
 ---
