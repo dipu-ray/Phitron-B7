@@ -57,3 +57,4 @@
 
 ## 7. Idea of reversing singly linked list
 - <img src="./images/drawing.png" width="500">
+- <img src="./images/drawing2.png" width="500">
