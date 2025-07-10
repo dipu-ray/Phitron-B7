@@ -139,29 +139,29 @@
 ---
 #### 7. Which function is used to reverse the order of elements in a C++ list?
 **a)** reverse() ✅    
-**c)** sort()    
-**b)** rotate()    
+**b)** sort()    
+**c)** rotate()    
 **d)** shuffle()   
 > **Explanation:** reverse() ফাংশনটি একটি লিস্টের এলিমেন্টগুলোর ক্রম (order) উল্টাতে ব্যবহৃত হয়। এটি O(n) সময়ে কাজ করে।
 ---
 #### 8. What is the time complexity for inserting an element at the end of a C++ list?
 **a)** O(1) ✅    
-**c)** O(logn)    
-**b)** O(n)    
+**b)** O(logn)    
+**c)** O(n)    
 **d)** O(n^2)   
 > **Explanation:** C++ লিস্টের শেষে একটি এলিমেন্ট যোগ করা খুবই কার্যকর কারণ এটি সরাসরি টেইলে একটি নতুন নোড যোগ করে।
 ---
 #### 9. Which function is used to remove duplicate elements from a C++ list?
 **a)** unique() ✅    
-**c)** erase()    
-**b)** remove()    
+**b)** erase()    
+**c)** remove()    
 **d)** delete()   
 > **Explanation:** unique() ফাংশনটি ধারাবাহিকভাবে থাকা সমান মানগুলোকে ফিল্টার করে এবং একবার মাত্র রেখে বাকিগুলো মুছে ফেলে। এটি কার্যকর করার জন্য লিস্টটি প্রথমে sort() করে নিতে হয়।
 ---
 #### 10. Which function is used to check if a C++ list is empty?
 **a)** empty() ✅    
-**c)** size()    
-**b)** is_empty()    
+**b)** size()    
+**c)** is_empty()    
 **d)** check_empty()   
 > **Explanation:** empty() ফাংশনটি একটি লিস্ট খালি কিনা তা পরীক্ষা করার জন্য ব্যবহৃত হয়। এটি একটি বুলিয়ান ভ্যালু রিটার্ন করে।
 ---
