@@ -10,9 +10,13 @@ int main() {
     // list<int> l(10);
     // cout << l.size() << endl;
 
-    // Construct a list with N elements and the value will be V
+    // // Construct a list with N elements and the value will be V
+    // list<int> l(10, 3);
+    // cout << *l.begin() << endl; // Because iterator l with dereference
     list<int> l(10, 3);
-    cout << l.size() << endl;
+    for(auto it = l.begin(); it != l.end(); it++) {
+        cout << *it << endl;
+    }
 
     return 0;
 }
