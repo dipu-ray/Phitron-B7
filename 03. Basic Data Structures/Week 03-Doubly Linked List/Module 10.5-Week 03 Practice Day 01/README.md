@@ -12,3 +12,6 @@
 - <img src="./images/practice_problems4.png" width="500">
 - <img src="./images/practice_problems5.png" width="500">
 - <img src="./images/practice_problems6.png" width="500">
+
+## Practice Instructions
+- Explanation those whole practice problems in this video
