@@ -40,10 +40,19 @@ int main() {
     //     cout << value << endl;
     // }
 
-    // Insert elements at a specific position 2
+    // // Insert elements at a specific position 2
+    // list<int> l = {10, 20, 30, 40, 50};
+    // list<int> l2 = {100, 200, 300};
+    // l.insert(next(l.begin(), 2), l2.begin(), l2.end());
+    // for(int value : l) {
+    //     cout << value << endl;
+    // }
+
+    // Insert elements at a specific position 3 - Using vector
     list<int> l = {10, 20, 30, 40, 50};
     list<int> l2 = {100, 200, 300};
-    l.insert(next(l.begin(), 2), l2.begin(), l2.end());
+    vector<int> v = {1, 2, 3};
+    l.insert(next(l.begin(), 2), v.begin(), v.end());
     for(int value : l) {
         cout << value << endl;
     }
