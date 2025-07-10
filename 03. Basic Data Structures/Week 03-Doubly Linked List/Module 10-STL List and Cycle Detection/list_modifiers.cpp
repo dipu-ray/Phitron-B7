@@ -19,13 +19,19 @@ int main() {
     //     cout << value << endl;
     // }
 
-    // Delete the tail & delete the head
+    // // Delete the tail & delete the head
+    // list<int> l = {10, 20, 30, 40, 50};
+    // l.pop_back();
+    // l.pop_front();
+    // for(int value : l) {
+    //     cout << value << endl;
+    // }
+
+    // Insert elements at a specific position
     list<int> l = {10, 20, 30, 40, 50};
-    l.pop_back();
-    l.pop_front();
-    for(int value : l) {
-        cout << value << endl;
-    }
+    cout << *next(l.begin(), 1) << endl;
+    cout << *next(l.begin(), 2) << endl;
+    cout << *next(l.begin(), 3) << endl;
 
     return 0;
 }
