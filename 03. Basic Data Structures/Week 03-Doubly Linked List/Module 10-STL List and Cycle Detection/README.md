@@ -85,6 +85,7 @@
 ## 10. Reverse Doubly linked list
 - Using `two pointer` techniques.
 - <img src="./images/drawing5.png" width="500">
+- <img src="./images/drawing6.png" width="500">
 
 
 
