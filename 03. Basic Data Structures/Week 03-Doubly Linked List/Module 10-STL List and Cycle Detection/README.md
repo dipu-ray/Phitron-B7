@@ -87,7 +87,6 @@
 - <img src="./images/drawing5.png" width="500">
 - <img src="./images" width="500">
 - There build a logic with draw.
-- First build logic with draw and imagination then you can realize of code or implementation.
 
 
 
