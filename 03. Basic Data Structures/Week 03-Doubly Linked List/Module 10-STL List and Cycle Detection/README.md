@@ -95,3 +95,10 @@
 
 ## Quiz Explanation
 - [Link](https://docs.google.com/document/d/12TDWvvOyXQSB3tkcFv1eMZxhifiwCG0apN7GM1Nrz0Q/edit?usp=sharing)
+#### 1. What is the purpose of a C++ list?
+**a)** To store elements in a sequential order     
+**c)** To store elements in a sorted order     
+**b)** To store elements in a queue-like structure    
+**d)** To store elements in a doubly linked-list data structure ✅  
+> **Explanation:** C++ এর লিস্ট list হল একটি ডেটা স্ট্রাকচার যা ডাবলি লিঙ্কড লিস্ট (Doubly Linked List) ব্যবহার করে তৈরি। এটি এমন একটি স্ট্রাকচার যেখানে প্রতিটি নোডে দুটি লিঙ্ক থাকে - একটি পূর্ববর্তী নোডের জন্য এবং অন্যটি পরবর্তী নোডের জন্য। এটি দ্রুত ইনসারশন এবং ডিলিশনের জন্য উপযোগী।
+---
