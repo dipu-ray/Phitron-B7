@@ -137,6 +137,13 @@
 **d)** reverse()   
 > **Explanation:** sort() ফাংশনটি একটি লিস্টকে এসেন্ডিং অর্ডারে সাজানোর জন্য ব্যবহৃত হয়। এটি একটি ইন-বিল্ট মেথড এবং এটি O(n log n) সময়ে কাজ করে।
 ---
+#### 7. Which function is used to reverse the order of elements in a C++ list?
+**a)** reverse() ✅    
+**c)** sort()    
+**b)** rotate()    
+**d)** shuffle()   
+> **Explanation:** reverse() ফাংশনটি একটি লিস্টের এলিমেন্টগুলোর ক্রম (order) উল্টাতে ব্যবহৃত হয়। এটি O(n) সময়ে কাজ করে।
+---
 
 
 
