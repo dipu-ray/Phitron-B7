@@ -13,9 +13,17 @@ int main() {
     // // Construct a list with N elements and the value will be V
     // list<int> l(10, 3);
     // cout << *l.begin() << endl; // Because iterator l with dereference
+
+    //  // Using iterator loops: Construct a list with N elements and the value will be V
+    // list<int> l(10, 3);
+    // for(auto it = l.begin(); it != l.end(); it++) {
+    //     cout << *it << endl;
+    // }
+
+    // Using range based loops: Construct a list with N elements and the value will be V
     list<int> l(10, 3);
-    for(auto it = l.begin(); it != l.end(); it++) {
-        cout << *it << endl;
+    for(int value : l) {
+        cout << value << endl;
     }
 
     return 0;
