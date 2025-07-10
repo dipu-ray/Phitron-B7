@@ -99,6 +99,9 @@
     }
     ```
 
+## 12. Idea of detecting cycle in linked list
+- 
+
 
 
 
