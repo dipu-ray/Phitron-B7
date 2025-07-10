@@ -27,11 +27,26 @@ int main() {
     //     cout << value << endl;
     // }
 
-    // Insert elements at a specific position
+    // // Access the ith element
+    // list<int> l = {10, 20, 30, 40, 50};
+    // cout << *next(l.begin(), 1) << endl;
+    // cout << *next(l.begin(), 2) << endl;
+    // cout << *next(l.begin(), 3) << endl;
+
+    // // Insert elements at a specific position
+    // list<int> l = {10, 20, 30, 40, 50};
+    // l.insert(next(l.begin(), 2), 100);
+    // for(int value : l) {
+    //     cout << value << endl;
+    // }
+
+    // Insert elements at a specific position 2
     list<int> l = {10, 20, 30, 40, 50};
-    cout << *next(l.begin(), 1) << endl;
-    cout << *next(l.begin(), 2) << endl;
-    cout << *next(l.begin(), 3) << endl;
+    list<int> l2 = {100, 200, 300};
+    l.insert(next(l.begin(), 2), l2.begin(), l2.end());
+    for(int value : l) {
+        cout << value << endl;
+    }
 
     return 0;
 }
