@@ -88,6 +88,7 @@
 - Build logic with draw.
 - Drawing are code make or make a software.
 - Nothing just only push on github.
+- Then github activity are grow up.
 
 
 
