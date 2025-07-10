@@ -16,11 +16,21 @@ int main() {
     //     cout << value << endl;
     // }
 
-    // Replace all the value with replace_value. Not under a list STL
+    // // Replace all the value with replace_value. Not under a list STL
+    // list<int> l = {10, 20, 30, 20, 20, 20, 20, 80};
+    // replace(l.begin(), l.end(), 20, 100);
+    // for(int value : l) {
+    //     cout << value << endl;
+    // }
+
+    // Find the value V. Not under
     list<int> l = {10, 20, 30, 20, 20, 20, 20, 80};
-    replace(l.begin(), l.end(), 20, 100);
-    for(int value : l) {
-        cout << value << endl;
+    auto it = find(l.begin(), l.end(), 200);
+    if(it == l.end()) {
+        cout << "Not found" << endl;
+    }
+    else {
+        cout << "Found" << endl;
     }
 
     return 0;
