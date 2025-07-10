@@ -56,6 +56,7 @@
 - Program: `list_functions.cpp`
 
 ## 7. Idea of reversing singly linked list
+- This idea make will `recursion`
 - <img src="./images/drawing.png" width="500">
 - <img src="./images/drawing2.png" width="500">
 - <img src="./images/drawing3.png" width="500">
