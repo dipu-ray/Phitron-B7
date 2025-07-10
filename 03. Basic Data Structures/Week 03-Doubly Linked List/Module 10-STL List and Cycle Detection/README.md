@@ -116,6 +116,13 @@
 **d)** add()   
 > **Explanation:** push_front() ফাংশনটি একটি এলিমেন্টকে লিস্টের শুরুতে যোগ করার জন্য ব্যবহৃত হয়। এটি O(1) সময়ে কাজ করে কারণ এটি সরাসরি শুরুতে ডাটা যোগ করে।
 ---
+#### 4. Which function is used to remove a value from C++ list using the value only?
+**a)** remove() ✅    
+**c)** delete()    
+**b)** erase()    
+**d)** pop_front()   
+> **Explanation:** remove() ফাংশনটি লিস্টের প্রতিটি নোড স্ক্যান করে এবং নির্দিষ্ট মান পাওয়া গেলে তা মুছে ফেলে। এটি O(n) সময়ে কাজ করে কারণ এটি প্রতিটি নোড চেক করতে হয়।
+---
 
 
 
