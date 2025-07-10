@@ -61,4 +61,7 @@
 - <img src="./images/drawing2.png" width="500">
 - <img src="./images/drawing3.png" width="500">
 - <img src="./images/drawing4.png" width="500">
-- Now, it's perfectly to `reverse` with `recursive function`. 
+- Now, it's perfectly to `reverse` with `recursive function`.
+
+## 8. Reverse singly linked list Implementation
+- 
