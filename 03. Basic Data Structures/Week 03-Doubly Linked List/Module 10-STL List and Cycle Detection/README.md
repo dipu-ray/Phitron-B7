@@ -50,4 +50,4 @@
 - Program: `list_modifiers2.cpp`
 
 ## 5. List operation functions
-- Abc
+- Program: `list_operations.cpp`
