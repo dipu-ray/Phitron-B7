@@ -83,6 +83,7 @@
     ```
 
 ## 10. Reverse Doubly linked list
+- Using `two pointer` techniques.
 - 
 
 
