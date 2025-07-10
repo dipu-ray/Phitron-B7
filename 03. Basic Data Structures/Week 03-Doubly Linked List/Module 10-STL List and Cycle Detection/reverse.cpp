@@ -32,16 +32,17 @@ void print_linked_list(Node* head) {
 }
 
 // Reverse function with recursion
-void reverse_linked_list(Node* &head, Node* tmp) {
+void reverse_linked_list(Node* &head, Node* &tail, Node* tmp) {
     if(tmp->next == NULL) {
         head = tmp; // move to head -> tail
         return;
     }
     // Call to recursion
-    reverse_linked_list(head, tmp->next);
+    reverse_linked_list(head, tail, tmp->next);
     // Code or connections after the recursion
     tmp->next->next = tmp;
     tmp->next = NULL;
+    tail = tmp;
 }
 
 int main() {
@@ -57,7 +58,7 @@ int main() {
         insert_at_tail(head, tail, value);
     }
 
-    reverse_linked_list(head, head);
+    reverse_linked_list(head, tail, head);
     print_linked_list(head);
 
     return 0;
