@@ -23,10 +23,17 @@ int main() {
     //     cout << value << endl;
     // }
 
-    // Deletes the duplicate values from the list. You must sort the list first
-    list<int> l = {10, 20, 30, 40, 50, 20, 30, 10};
-    l.sort();
-    l.unique();
+    // // Deletes the duplicate values from the list. You must sort the list first
+    // list<int> l = {10, 20, 30, 40, 50, 20, 30, 10};
+    // l.sort();
+    // l.unique();
+    // for(int value : l) {
+    //     cout << value << endl;
+    // }
+
+    // Reverse the list
+    list<int> l = {10, 20, 30, 40, 50};
+    l.reverse();
     for(int value : l) {
         cout << value << endl;
     }
