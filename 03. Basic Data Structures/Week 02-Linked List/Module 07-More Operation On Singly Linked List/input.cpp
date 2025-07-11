@@ -4,7 +4,7 @@ using namespace std;
 class Node {
     public:
     int value;
-    Node* next; 
+    Node* next;
 
     Node(int value) {
         this->value = value;
@@ -12,6 +12,7 @@ class Node {
     }
 };
 
+// Insertion head and tail value by this function
 void insert_at_tail(Node* &head, Node* &tail, int value) {
     Node* newNode = new Node(value);
     if (head == NULL) {
@@ -19,8 +20,10 @@ void insert_at_tail(Node* &head, Node* &tail, int value) {
         tail = newNode;
         return;
     }
+
+    // Make connection each other nodes
     tail->next = newNode;
-    tail = tail->next;
+    tail = newNode;
 }
 
 // For printing linked lists
