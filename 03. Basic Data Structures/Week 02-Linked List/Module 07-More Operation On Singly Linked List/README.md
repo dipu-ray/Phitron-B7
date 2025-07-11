@@ -31,3 +31,6 @@
     - <img src="./images/drawing.png" width="500">
     - This drawing for printing or input a singly linked list.
 - Program: `input.cpp`
+
+## 2. Linked list reverse printing
+- Abc
