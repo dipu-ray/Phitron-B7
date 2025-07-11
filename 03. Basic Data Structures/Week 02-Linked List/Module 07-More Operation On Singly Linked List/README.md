@@ -33,4 +33,5 @@
 - Program: `input.cpp`
 
 ## 2. Linked list reverse printing
-- Abc
+- Build logic with drawing:
+    - <img src="./images" width="500">
