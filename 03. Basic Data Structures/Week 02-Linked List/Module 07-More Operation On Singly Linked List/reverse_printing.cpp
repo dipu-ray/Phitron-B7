@@ -35,13 +35,13 @@ void print_linked_list(Node* head) {
     }
 }
 
-void print_reverse(int i, int n) {
+void print_reverse(Node* tmp) {
     // Base case
-    if(i > n) {
+    if(tmp == NULL) {
         return;
     }
-    print_reverse(i+1, n);
-    cout << i << endl;
+    print_reverse(tmp->next);
+    cout << tmp->value << endl;
 }
 
 int main() {
