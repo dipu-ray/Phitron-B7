@@ -35,6 +35,15 @@ void print_linked_list(Node* head) {
     }
 }
 
+void print_reverse(int i, int n) {
+    // Base case
+    if(i > n) {
+        return;
+    }
+    print_reverse(i+1, n);
+    cout << i << endl;
+}
+
 int main() {
     Node* head = NULL;
     Node* tail = NULL;
@@ -48,7 +57,7 @@ int main() {
         insert_at_tail(head, tail, value);
     }
 
-    print_linked_list(head);
+    print_reverse(head);
 
     return 0;
 }
