@@ -27,4 +27,7 @@
 - Understand the `Sorting` operations
 
 ## 1. Input a linked list
+- Build simple logic with drawing:
+    - <img src="./images/drawing.png" width="500">
+    - This drawing for printing or input a linked list.
 - Program: `input.cpp`
