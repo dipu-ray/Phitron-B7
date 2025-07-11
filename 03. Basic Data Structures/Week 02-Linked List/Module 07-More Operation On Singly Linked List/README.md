@@ -34,4 +34,4 @@
 
 ## 2. Linked list reverse printing
 - Build logic with drawing:
-    - <img src="./images" width="500">
+    - <img src="./images/drawing2.png" width="500">
