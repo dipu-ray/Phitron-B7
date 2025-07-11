@@ -29,5 +29,5 @@
 ## 1. Input a linked list
 - Build simple logic with drawing:
     - <img src="./images/drawing.png" width="500">
-    - This drawing for printing or input a linked list.
+    - This drawing for printing or input a singly linked list.
 - Program: `input.cpp`
