@@ -38,4 +38,12 @@
 - Program: `reverse_printing.cpp`
 - Explanation those reverse program:
     ```
+    void print_reverse(Node* tmp) {
+        // Base case
+        if(tmp == NULL) {
+            return;
+        }
+        print_reverse(tmp->next);
+        cout << tmp->value << endl;
+    }
     ```
