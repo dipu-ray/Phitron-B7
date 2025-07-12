@@ -113,3 +113,6 @@
     - <img src="./images/drawing9.png" width="500">
 - Make this program will `selection sorting`
 - Program: `sorting_linked_list.cpp`
+
+## 10. Summary
+- 
