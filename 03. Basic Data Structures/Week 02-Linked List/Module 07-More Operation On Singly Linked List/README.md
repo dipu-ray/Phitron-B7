@@ -130,3 +130,13 @@
 ## Complexity of every operations
 - [Link](https://docs.google.com/document/d/1d4y8Wvrpquz4vnHq348WiXNTQ7W4wk8GVA94NSnOE88/edit?usp=sharing)
     - <img src="./images/time_complexity.png" width="500">
+
+## Quiz Explanation
+- [Quiz Explanation Link:](https://docs.google.com/document/d/1Xs6biChncaiKDSHeAcPXf_9I2JuXM85b597iJmtnuPw/edit?usp=drivesdk)
+#### 1. What is the time complexity of insert at any position in a singly linked list?
+**a)** O(1)     
+**b)** O(N) ✅   
+**c)** O(logN)     
+**d)** O(N*N)   
+> **Explanation:** একটি singly linked list-এ যখন কোনো নির্দিষ্ট পজিশনে ইনসার্ট করতে হয়, তখন প্রথমে সেই পজিশনটি খুঁজে বের করতে হয়। এই কাজের জন্য লিস্টটি head থেকে শুরু করে target position-এর আগের Node এ পৌঁছানো পর্যন্ত traverse করতে হবে। এটি linear traversal হওয়ায় O(N) সময় লাগে, যেখানে N হলো লিস্টের দৈর্ঘ্য।
+---
