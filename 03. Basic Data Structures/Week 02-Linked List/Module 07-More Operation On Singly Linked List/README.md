@@ -54,4 +54,4 @@
     - <img src="./images/drawing4.png" width="500">
     - <img src="./images/drawing5.png" width="500">
     - Now at head node node are delete from singly linked list
-Program: ``
+Program: `delete_head.cpp`
