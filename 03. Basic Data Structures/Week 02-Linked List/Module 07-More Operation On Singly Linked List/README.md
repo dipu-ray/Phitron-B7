@@ -71,3 +71,17 @@
     - <img src="./images/drawing6.png" width="500">
     - <img src="./images/drawing7.png" width="500">
 - Program: `delete_any_position.cpp`
+
+## 6. Delete at Any position Animated
+- Explanation this code:
+    ```
+    void delete_at_any_position(Node* head, int index) {
+        Node* tmp = head;
+        for(int i = 1; i < index; i++) {
+            tmp = tmp->next;
+        }
+        Node* deleteNode = tmp->next;
+        tmp->next = tmp->next->next;
+        delete deleteNode;
+    }
+    ```
