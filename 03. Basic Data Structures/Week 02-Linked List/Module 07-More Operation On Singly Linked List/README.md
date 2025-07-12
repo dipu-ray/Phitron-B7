@@ -107,3 +107,8 @@
         - `backward - O(N)`
     - `Input`
         - `O(N)`
+
+## 9. Sorting a linked list with selection sort
+- Build logic with drawing:
+    - <img src="./images/drawing9.png" width="500">
+Program: `sorting_linked_list.cpp`
