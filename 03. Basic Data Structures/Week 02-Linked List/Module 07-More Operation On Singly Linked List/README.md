@@ -126,3 +126,7 @@
 ## Quiz: Module 07
 - `Total Questions: 10`
 - `Total Marks: 10`
+
+## Complexity of every operations
+- [Link](https://docs.google.com/document/d/1d4y8Wvrpquz4vnHq348WiXNTQ7W4wk8GVA94NSnOE88/edit?usp=sharing)
+    - <img src="./images/time_complexity.png" width="500">
