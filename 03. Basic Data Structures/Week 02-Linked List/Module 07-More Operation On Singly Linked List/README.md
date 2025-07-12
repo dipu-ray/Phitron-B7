@@ -115,4 +115,10 @@
 - Program: `sorting_linked_list.cpp`
 
 ## 10. Summary
-- 
+- Today we will learn `singly linked list operations`.
+- Linked list `insertion`.
+- Linked list `deletion`.
+- Linked list `printing`.
+- Reverse printing with `recursion`
+- Linked list `input` and `sorting`.
+- Sorting will solve this program will `selection sorting`. Then time complexity was `O(N*N)`.
