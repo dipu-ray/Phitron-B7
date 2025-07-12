@@ -122,3 +122,7 @@
 - Reverse printing with `recursion`
 - Linked list `input` and `sorting`.
 - Sorting will solve this program will `selection sorting`. Then time complexity was `O(N*N)`.
+
+## Quiz: Module 07
+- `Total Questions: 10`
+- `Total Marks: 10`
