@@ -47,3 +47,11 @@
         cout << tmp->value << endl;
     }
     ```
+
+## 3. Delete at head
+- Build logic with drawing:
+    - <img src="./images/drawing3.png" width="500">
+    - <img src="./images/drawing4.png" width="500">
+    - <img src="./images/drawing5.png" width="500">
+    - Now at head node node are delete from singly linked list
+Program: ``
