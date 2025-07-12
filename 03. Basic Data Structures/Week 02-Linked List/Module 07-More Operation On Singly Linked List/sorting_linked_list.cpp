@@ -35,11 +35,14 @@ void print_linked_list(Node* head) {
     }
 }
 
-// Functions for delete at head node
-void delete_at_head(Node* &head) {
-    Node* deleteNode = head;
-    head = head->next;
-    delete deleteNode;
+void sort_linked_list(Node* head) {
+    for(Node* i = head; i->next != NULL; i = i->next) {
+        for(Node* j = i->next; j != NULL; j = j->next) {
+            if(i->value > j->value) {
+                swap(i->value, j->value);
+            }
+        }
+    }
 }
 
 int main() {
@@ -55,7 +58,7 @@ int main() {
         insert_at_tail(head, tail, value);
     }
 
-    delete_at_head(head);
+    sort_linked_list(head);
     print_linked_list(head);
 
     return 0;
