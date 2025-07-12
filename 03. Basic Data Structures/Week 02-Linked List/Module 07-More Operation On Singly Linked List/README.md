@@ -78,7 +78,7 @@
 - Also same logic from `delete at any position`
 - Program: `delete_tail.cpp`
 
-## 7 Delete at Any position Animated
+## 7. Delete at Any position Animated
 - Explanation this code:
     ```
     void delete_at_any_position(Node* head, int index) {
@@ -91,3 +91,6 @@
         delete deleteNode;
     }
     ```
+
+## 8. Complexity analysis of every operations
+- 
