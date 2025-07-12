@@ -93,4 +93,17 @@
     ```
 
 ## 8. Complexity analysis of every operations
-- 
+- Operations and complexity:
+    - `Insertion`
+        - `at head - O(1)`
+        - `at tail - O(N)`
+        - `at any position - O(N)`
+    - `Deletion`
+        - `at head - O(1)`
+        - `at tail - O(N)`
+        - `at any position - O(N)`
+    - `Printing`
+        - `forward - O(N)`
+        - `backward - O(N)`
+    - `Input`
+        - `O(N)`
