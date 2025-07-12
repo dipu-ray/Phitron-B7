@@ -73,7 +73,9 @@
 - Program: `delete_any_position.cpp`
 
 ## 6. Delete at tail
-- Abc
+- Build logic with drawing:
+    - <img src="./images/drawing8.png" width="500">
+- Program: `delete_tail.cpp`
 
 ## 7 Delete at Any position Animated
 - Explanation this code:
