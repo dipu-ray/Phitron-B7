@@ -35,6 +35,7 @@ void print_linked_list(Node* head) {
     }
 }
 
+// Functions for delete at head node
 void delete_at_head(Node* &head) {
     Node* deleteNode = head;
     head = head->next;

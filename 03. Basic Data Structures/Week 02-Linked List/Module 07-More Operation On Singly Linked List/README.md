@@ -54,4 +54,14 @@
     - <img src="./images/drawing4.png" width="500">
     - <img src="./images/drawing5.png" width="500">
     - Now at head node node are delete from singly linked list
-Program: `delete_head.cpp`
+- Program: `delete_head.cpp`
+
+## 4. Delete at Head Animated
+- Explanation this code:
+    ```
+    void delete_at_head(Node* &head) {
+        Node* deleteNode = head;
+        head = head->next;
+        delete deleteNode;
+    }
+    ```
