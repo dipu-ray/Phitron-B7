@@ -140,3 +140,31 @@
 **d)** O(N*N)   
 > **Explanation:** একটি singly linked list-এ যখন কোনো নির্দিষ্ট পজিশনে ইনসার্ট করতে হয়, তখন প্রথমে সেই পজিশনটি খুঁজে বের করতে হয়। এই কাজের জন্য লিস্টটি head থেকে শুরু করে target position-এর আগের Node এ পৌঁছানো পর্যন্ত traverse করতে হবে। এটি linear traversal হওয়ায় O(N) সময় লাগে, যেখানে N হলো লিস্টের দৈর্ঘ্য।
 ---
+#### 2. What is the time complexity of insert at head in a singly linked list?
+**a)** O(1) ✅     
+**b)** O(N)    
+**c)** O(logN)     
+**d)** O(N*N)   
+> **Explanation:** Insert at head খুব দ্রুত করা যায় কারণ নতুন node যোগ করার জন্য শুধু head পয়েন্টারটিকে নতুন node-এর দিকে পয়েন্ট করতে হয়।এখানে কোনো traversal লাগবে না। তাই, Time Compleity O(1)।
+---
+#### 3. What is the time complexity of insert at tail in a singly linked list? We have only one pointer(head) for tracking
+**a)** O(1)      
+**b)** O(N) ✅   
+**c)** O(logN)     
+**d)** O(N*N)   
+> **Explanation:** যদি head পয়েন্টার দিয়ে tail-এ node যোগ করতে হয়, তবে tail-এ পৌঁছানো পর্যন্ত linked list-টি traverse করতে হবে। এটি O(N) সময়ে সম্পন্ন হয় কারণ N সংখ্যক nodes-এর মধ্য দিয়ে যেতে হয়।
+---
+#### 4. What is the time complexity of insert at tail in a singly linked list? We have two pointers(head and tail) for tracking
+**a)** O(1) ✅     
+**b)** O(N)    
+**c)** O(logN)     
+**d)** O(N*N)   
+> **Explanation:** যদি tail pointer থাকে, তাহলে tail-এ সরাসরি node যোগ করা সম্ভব। tail->next-এ নতুন node যোগ করা হয় এবং tail-কে নতুন node-এ পয়েন্ট করা হয়। এই কাজটি O(1) সময়ে হয় কারণ কোনো traversal প্রয়োজন হয় না।
+---
+#### 5. What is the time complexity of delete head in a singly linked list?
+**a)** O(1) ✅     
+**b)** O(N)    
+**c)** O(logN)     
+**d)** O(N*N)   
+> **Explanation:** Singly linked list-এ head node delete করা খুব সহজ এবং দ্রুত একটি কাজ। প্রথমে head পয়েন্টারটি বর্তমান head node-এর next node-এর দিকে পয়েন্ট করা হয়। তারপর পুরাতন head node-টিকে delete করা হয়।
+---
