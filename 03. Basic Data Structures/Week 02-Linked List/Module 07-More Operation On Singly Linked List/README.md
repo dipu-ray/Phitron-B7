@@ -219,3 +219,7 @@ delete deleteNode;
 **d)** Delete the head node ✅  
 > **Explanation:** code snippet-টি head node ডিলিট করে। head পয়েন্টারকে head->next-এ সেট করা হয়। তারপর পুরানো head node-কে delete করা হয়। এটি O(1) সময়ে সম্পন্ন হয়।
 ---
+
+## Feedback Form: Module 07
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
