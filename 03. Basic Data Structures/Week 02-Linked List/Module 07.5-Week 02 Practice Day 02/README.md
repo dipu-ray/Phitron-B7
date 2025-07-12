@@ -14,3 +14,12 @@
 - <img src="./images/practice_problem4.png" width="500">
 - <img src="./images/practice_problem5.png" width="500">
 - <img src="./images/practice_problem6.png" width="500">
+
+## 1. Practice Instructions
+- Explanation those whole practice problems `1 to 5`
+
+## 2. Solution of Practice Problem 4
+- Solved this problem 04
+
+## 3. Insert at head Updated
+- adffad
