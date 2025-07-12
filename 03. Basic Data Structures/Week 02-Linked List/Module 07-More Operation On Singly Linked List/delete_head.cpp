@@ -55,6 +55,8 @@ int main() {
     }
 
     delete_at_head(head);
+    // When you one more call then output will 30
+    // When you one more call then output will empty
     print_linked_list(head);
 
     return 0;
