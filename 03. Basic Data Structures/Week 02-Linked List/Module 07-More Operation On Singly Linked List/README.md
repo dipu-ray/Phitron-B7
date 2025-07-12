@@ -65,3 +65,9 @@
         delete deleteNode;
     }
     ```
+
+## 5. Delete at any position
+- Build logic with drawing:
+    - <img src="./images/drawing6.png" width="500">
+    - <img src="./images/drawing7.png" width="500">
+- Program: `delete_any_position.cpp`
