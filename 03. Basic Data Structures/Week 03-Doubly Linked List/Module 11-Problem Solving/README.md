@@ -40,6 +40,28 @@
 - [Problem Link:](https://leetcode.com/problems/reverse-linked-list/)
 - Here is the solution:
     - <img src="./images/solution4.png" width="500">
+    - Code:
+        ```
+        class Solution {
+        public:
+            void reverse(ListNode* &head, ListNode* tmp) {
+                if(tmp->next == NULL) {
+                    head = tmp;
+                    return;
+                }
+                reverse(head, tmp->next);
+                tmp->next->next = tmp;
+                tmp->next = NULL;
+            }
+            ListNode* reverseList(ListNode* head) {
+                if(head == NULL) {
+                    return head;
+                }
+                reverse(head, head);
+                return head;
+            }
+        };
+        ```
 
 ## 5. Palindrome linked list
 - [Problem Link:](https://leetcode.com/problems/palindrome-linked-list/)
