@@ -35,6 +35,27 @@
 - [Problem Link:](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - Here is the solution:
     - <img src="./images/solution3.png" width="500">
+    - Code:
+        ```
+        class Solution {
+        public:
+            ListNode* deleteDuplicates(ListNode* head) {
+                if(head == NULL) {
+                    return head;
+                }
+                ListNode* tmp = head;
+                while(tmp->next != NULL) {
+                    if(tmp->val == tmp->next->val) {
+                        tmp->next = tmp->next->next;
+                    }
+                    else {
+                        tmp = tmp->next;
+                    }
+                }
+                return head;
+            }
+        };
+        ```
 
 ## 4. Reverse linked list
 - [Problem Link:](https://leetcode.com/problems/reverse-linked-list/)
