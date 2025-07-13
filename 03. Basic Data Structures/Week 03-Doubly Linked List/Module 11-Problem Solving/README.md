@@ -198,3 +198,7 @@
             }
         };
         ```
+
+## 7. Summary
+- At first we have learn basics of leetcode
+- Then the problems 1 to 6 problems solve in leetcode
