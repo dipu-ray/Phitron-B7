@@ -19,3 +19,8 @@
 - `CodeChef` & `Codeforces` focused on `Competitive Programming` or `Problem Solving`
 - `LeetCode` focused on `Data Structure Practice` & `Mainly Mainly for Interview Preparations`
 - In this video learn to leetcode basics and how to create an account.
+
+## 1. Middle of the linked list
+- [Problem Link:](https://leetcode.com/problems/middle-of-the-linked-list/)
+- Here is the solution:
+    - <img src="./images/solution.png" width="500">
