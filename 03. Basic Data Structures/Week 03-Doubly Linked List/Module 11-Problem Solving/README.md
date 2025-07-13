@@ -207,3 +207,10 @@
 - You can find out problem with company names. Search on google `leetcode.ca problems_serial_number` - `leetcode.ca 876`. Then go the main website and find the companies name from this problems.
 - We have already done this six problem with `singly linked list`.
 - Resources and learn with leetcode related. Just checkout every point of leetcode. Leetcode, you can use to you high profile or job positions.
+
+## Extra Problems and Problem Links
+- [Extra Problems -](https://docs.google.com/document/d/1686xqYvPYFUsck_9hNRvLV-m6hfIKeNoSxvNWrIZhXQ/edit?usp=sharing)
+    - <img src="./images/extra_problems.png" width="500">
+    - [Problem 1](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+    - [Problem 2](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+    - Phitron’s Leetcode Interview preparation playlist on Linked List - by Mahmud Hossain Pias. Here youtube link (Additional) - [Link](https://www.youtube.com/playlist?list=PLiwblITDIFbjkVx-P10zGnT96brFCAXHr)
