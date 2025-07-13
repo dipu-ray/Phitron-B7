@@ -35,3 +35,8 @@
 - [Problem Link:](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - Here is the solution:
     - <img src="./images/solution3.png" width="500">
+
+## 4. Reverse linked list
+- [Problem Link:](https://leetcode.com/problems/reverse-linked-list/)
+- Here is the solution:
+    - <img src="./images/solution4.png" width="500">
