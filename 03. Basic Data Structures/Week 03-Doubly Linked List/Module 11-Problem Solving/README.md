@@ -24,3 +24,8 @@
 - [Problem Link:](https://leetcode.com/problems/middle-of-the-linked-list/)
 - Here is the solution:
     - <img src="./images/solution.png" width="500">
+
+## 2. Linked list cycle
+- [Problem Link:](https://leetcode.com/problems/linked-list-cycle/)
+- Here is the solution:
+    - <img src="./images/solution2.png" width="500">
