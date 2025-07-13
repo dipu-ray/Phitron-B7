@@ -40,3 +40,8 @@
 - [Problem Link:](https://leetcode.com/problems/reverse-linked-list/)
 - Here is the solution:
     - <img src="./images/solution4.png" width="500">
+
+## 5. Palindrome linked list
+- [Problem Link:](https://leetcode.com/problems/palindrome-linked-list/)
+- Here is the solution:
+    - <img src="./images" width="500">
