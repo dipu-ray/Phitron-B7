@@ -29,3 +29,9 @@
 - [Problem Link:](https://leetcode.com/problems/linked-list-cycle/)
 - Here is the solution:
     - <img src="./images/solution2.png" width="500">
+- More practice in leetcode.
+
+## 3. Remove Duplicate from sorted linked list
+- [Problem Link:](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- Here is the solution:
+    - <img src="./images/solution3.png" width="500">
