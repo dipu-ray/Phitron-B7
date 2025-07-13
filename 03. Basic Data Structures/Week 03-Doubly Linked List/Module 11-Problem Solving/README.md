@@ -209,8 +209,17 @@
 - Resources and learn with leetcode related. Just checkout every point of leetcode. Leetcode, you can use to you high profile or job positions.
 
 ## Extra Problems and Problem Links
-- [Extra Problems -](https://docs.google.com/document/d/1686xqYvPYFUsck_9hNRvLV-m6hfIKeNoSxvNWrIZhXQ/edit?usp=sharing)
+- [Extra Problems Link -](https://docs.google.com/document/d/1686xqYvPYFUsck_9hNRvLV-m6hfIKeNoSxvNWrIZhXQ/edit?usp=sharing)
     - <img src="./images/extra_problems.png" width="500">
     - [Problem 1](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
     - [Problem 2](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
     - Phitron’s Leetcode Interview preparation playlist on Linked List - by Mahmud Hossain Pias. Here youtube link (Additional) - [Link](https://www.youtube.com/playlist?list=PLiwblITDIFbjkVx-P10zGnT96brFCAXHr)
+
+- [Module Problem List Link -](https://docs.google.com/document/d/11-8wWOLJcDZbLLU7UiRCyUZ3nXYPFDpd/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
+    - <img src="./images/module_problems.png" width="500">
+    - [Problem 1](https://leetcode.com/problems/middle-of-the-linked-list/)
+    - [Problem 2](https://leetcode.com/problems/linked-list-cycle/)
+    - [Problem 3](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+    - [Problem 4](https://leetcode.com/problems/reverse-linked-list/)
+    - [Problem 5](https://leetcode.com/problems/palindrome-linked-list/)
+    - [Problem 6](https://leetcode.com/problems/delete-node-in-a-linked-list/)
