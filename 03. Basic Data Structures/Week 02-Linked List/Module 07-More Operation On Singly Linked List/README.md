@@ -111,6 +111,7 @@
 ## 9. Sorting a linked list with selection sort
 - Build logic with drawing:
     - <img src="./images/drawing9.png" width="500">
+    - <img src="./images/drawing10.png" width="500">
 - Make this program will `selection sorting`
 - Program: `sorting_linked_list.cpp`
 
