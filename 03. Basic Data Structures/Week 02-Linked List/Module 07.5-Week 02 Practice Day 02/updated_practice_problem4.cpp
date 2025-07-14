@@ -13,8 +13,15 @@ public:
 };
 
 // Function - Insert at head
-void insert_at_head(Node* &head, int value) {
+void insert_at_head(Node* &head, Node* &tail, int value) {
     Node* newNode = new Node(value);
+
+    // That is the corner case
+    if(head == NULL) {
+        head = newNode;
+        tail = newNode;
+        return;
+    }
     newNode->next = head;
     head = newNode;
 }
@@ -87,7 +94,7 @@ int main() {
             print_linked_list(head);
         }
         else if(idx == 0) {
-            insert_at_head(head, val);
+            insert_at_head(head, tail, val);
             print_linked_list(head);
         }
         else {

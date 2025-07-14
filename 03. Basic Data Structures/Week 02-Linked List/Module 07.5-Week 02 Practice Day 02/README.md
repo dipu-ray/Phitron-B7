@@ -22,4 +22,21 @@
 - Solved this problem 04. Program: `practice_problem4.cpp`
 
 ## 3. Insert at head Updated
-- adffad
+- Program: `practice_problem4.cpp`. This problem have done but also a corner case you can updated.
+    - Updated Program: `updated_practice_problem4.cpp`
+    - That is the corner case:
+        ```
+        void insert_at_head(Node* &head, Node* &tail, int value) {
+            Node* newNode = new Node(value);
+
+            // That is the corner case
+            if(head == NULL) {
+                head = newNode;
+                tail = newNode;
+                return;
+            }
+            newNode->next = head;
+            head = newNode;
+        }
+        ```
+    - We have updated in this `updated_practice_problem4.cpp` program.
