@@ -14,3 +14,6 @@
     - [Problem 4](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
     - [Problem 5](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
     - [Problem 6](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
+## 1 Practice
+- Explanation those whole practice problems in this video.
