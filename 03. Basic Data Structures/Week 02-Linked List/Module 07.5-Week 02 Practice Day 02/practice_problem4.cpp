@@ -2,9 +2,9 @@
 using namespace std;
 
 class Node {
-    public:
+public:
     int value;
-    Node* next; 
+    Node* next;
 
     Node(int value) {
         this->value = value;
@@ -14,9 +14,9 @@ class Node {
 
 // Function - Insert at head
 void insert_at_head(Node* &head, int value) {
-    Node* newNode = new Node(value); // Create a new node
-    newNode->next = head; // Going on next node
-    head = newNode; // Assign to head
+    Node* newNode = new Node(value);
+    newNode->next = head;
+    head = newNode;
 }
 
 // Function - Insert at tail
@@ -24,17 +24,19 @@ void insert_at_tail(Node* &head, Node* &tail, int value) {
     Node* newNode = new Node(value);
     if(head == NULL) {
         head = newNode;
-        return;
+        tail = newNode;
     }
-    tail->next = newNode;
-    tail = tail->next;
+    else {
+        tail->next = newNode;
+        tail = tail->next;
+    }
 }
 
 // Function - Insert at any position
 void insert_at_any_position(Node* &head, int index, int value) {
     Node* newNode = new Node(value);
     Node* tmp = head;
-    for(int i = 0; i < index-1; i++) {
+    for(int i = 0; i < index - 1; i++) {
         tmp = tmp->next;
     }
     newNode->next = tmp->next;
@@ -69,29 +71,26 @@ int main() {
     int value;
     while(true) {
         cin >> value;
-        if(value == -1) {
-            break;
-        }
+        if(value == -1) break;
         insert_at_tail(head, tail, value);
     }
 
-    // Input with checking valid or invalid?
-    int idx, value;
-    while(cin >> idx >> value) {
+    int idx, val;
+    while(cin >> idx >> val) {
         int sz = size_linked_list(head);
         if(idx > sz) {
             cout << "Invalid\n";
         }
         else if(idx == sz) {
-            insert_at_tail(head, tail, value);
+            insert_at_tail(head, tail, val);
             print_linked_list(head);
         }
         else if(idx == 0) {
-            insert_at_head(head, value);
+            insert_at_head(head, val);
             print_linked_list(head);
         }
         else {
-            insert_at_any_position(head, idx, value);
+            insert_at_any_position(head, idx, val);
             print_linked_list(head);
         }
     }
