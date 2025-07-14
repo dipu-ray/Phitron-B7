@@ -26,3 +26,10 @@
     - ৭) এক্সামের মার্ক্স পাওয়ার পর আলহামদুলিল্লাহ এত মার্ক্স পেয়েছে মার্ক্সের স্ক্রিনশট সহ গ্রুপে পোস্ট করে এমন টাইপের পোস্ট করা যাবে না।
     - ৮) এক্সামের মার্ক্স রিলেটেড ডাউট থাকলে সাপোর্ট সেশনে গিয়ে ডাউট ক্লিয়ার করে নিবে, গ্রুপে পোস্ট না করাই উত্তম।
     - ৯) এক্সাম মার্কস রিলেটেড কোন কুয়েরি থাকলে ইমেইল করে দিতে হবে। গ্রুপে পোস্ট করলে ৫ মার্কস কেটে রাখা হবে।
+
+## Quiz Module 08
+- Here is some basic questions of 5/5. Example: deadline, don't use to AI tools etc.
+
+## 1. Assignment 02 Instruction
+- Questions, all with `singly linked list` based.
+- All questions are explanation in this videos.
