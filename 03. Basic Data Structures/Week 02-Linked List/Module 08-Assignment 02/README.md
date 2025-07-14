@@ -33,3 +33,7 @@
 ## 1. Assignment 02 Instruction
 - Questions, all with `singly linked list` based.
 - All questions are explanation in this videos.
+- <img src="./images/problems.png" width="500">
+
+## Assignment 02
+- Here is assignment 02 submissions sections. With `Profile Link` and `Username`.
