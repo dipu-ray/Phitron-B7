@@ -158,19 +158,19 @@
             }
 
             bool isPalindrome(ListNode* head) {
-                ListNode* newhead = NULL;
+                ListNode* newHead = NULL;
                 ListNode* newtail = NULL;
 
                 ListNode* tmp = head;
                 while(tmp != NULL) {
-                    insert_at_tail(newhead, newtail, tmp->val);
+                    insert_at_tail(newHead, newtail, tmp->val);
                     tmp = tmp->next;
                 }
 
-                reverse(newhead, newhead);
+                reverse(newHead, newHead);
 
                 tmp = head;
-                ListNode* tmp2 = newhead;
+                ListNode* tmp2 = newHead;
                 while(tmp != NULL) {
                     if(tmp->val != tmp2->val) {
                         return false;
