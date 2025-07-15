@@ -137,14 +137,14 @@
         class Solution {
         public:
             void insert_at_tail(ListNode* &head, ListNode* &tail, int val) {
-                ListNode* newnode = new ListNode(val);
+                ListNode* newNode = new ListNode(val);
                 if(head == NULL) {
-                    head = newnode;
-                    tail = newnode;
+                    head = newNode;
+                    tail = newNode;
                     return;
                 }
-                tail->next = newnode;
-                tail = newnode;
+                tail->next = newNode;
+                tail = newNode;
             }
 
             void reverse(ListNode* &head, ListNode* tmp) {
