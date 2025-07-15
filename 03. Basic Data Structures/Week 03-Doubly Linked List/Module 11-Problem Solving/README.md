@@ -159,11 +159,11 @@
 
             bool isPalindrome(ListNode* head) {
                 ListNode* newHead = NULL;
-                ListNode* newtail = NULL;
+                ListNode* newTail = NULL;
 
                 ListNode* tmp = head;
                 while(tmp != NULL) {
-                    insert_at_tail(newHead, newtail, tmp->val);
+                    insert_at_tail(newHead, newTail, tmp->val);
                     tmp = tmp->next;
                 }
 
