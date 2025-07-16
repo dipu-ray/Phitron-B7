@@ -32,3 +32,6 @@
 
 ## 1 Mid Term Instructions
 - Explanations Mid Term exam questions, just explain this 5 questions.
+
+## Mid Term Exam
+- Here is submission section with Hackerrank `Profile Link` and `Username`.
