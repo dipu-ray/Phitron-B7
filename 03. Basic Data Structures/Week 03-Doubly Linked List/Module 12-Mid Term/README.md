@@ -29,3 +29,6 @@
 
 ## Quiz Module 12
 - Here some basics question of text instructions, submit, deadline & AI Tools related conditions relations. `5 out of 5 short and simple questions`
+
+## 1 Mid Term Instructions
+- Explanations Mid Term exam questions, just explain this 5 questions.
