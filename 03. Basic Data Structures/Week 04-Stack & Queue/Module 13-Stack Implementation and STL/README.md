@@ -87,3 +87,6 @@
 ## 5. Stack Implementation using Array II
 - Program: `implement_stack_array2.cpp`
 - When you work with dynamic array or vector then you use to `arrow sign ->`. When you work with static array or vector then you use to `dot sign .`.
+
+## 6. Stack Input and Output
+- Program: `implement_stack_array3.cpp`
