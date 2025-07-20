@@ -39,3 +39,10 @@
     - <img src="./images/drawing5.png" width="500">
     - <img src="./images/drawing6.png" width="500">
 - You can `Push()` on top and you can `Pop()` will the top
+
+## 2. Real life application of Stack Animated
+- Real life implementation of STACK
+- Example with a browser. Browser can go to enter a website and back from a website. That's mean forward and backward of a browser.
+- Forward with `Push()` on top and Backward with `Pop()` on top in `STACK`
+- STACK follow the technique is `LIFO technique`
+- STACK help to `Crack The Interview`
