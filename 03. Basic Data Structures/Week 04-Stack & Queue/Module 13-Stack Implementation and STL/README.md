@@ -65,4 +65,21 @@
     - `empty()`
 
 ## 4. Stack Implementation using Array I
-- Abc
+- Make functions in classes. Example or Demo:
+    ```
+    class Stack {
+        public:
+        push();
+        pop();
+        top();
+    };
+
+    int main() {
+        Stack.push();
+        Stack.pop();
+        Stack.top();
+
+        return 0;
+    }
+    ```
+- Program: `implement_stack_array.cpp`
