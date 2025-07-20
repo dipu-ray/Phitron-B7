@@ -93,3 +93,6 @@
 
 ## 7. Stack Implementation using list
 - Program: `implement_stack_stl_list.cpp`
+
+## 8. Stack Implementation using Doubly linked list
+- Program: `implement_stack_doubly_linked_list.cpp`
