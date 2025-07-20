@@ -90,3 +90,6 @@
 
 ## 6. Stack Input and Output
 - Program: `implement_stack_array3.cpp`
+
+## 7. Stack Implementation using list
+- Program: `implement_stack_stl_list.cpp`
