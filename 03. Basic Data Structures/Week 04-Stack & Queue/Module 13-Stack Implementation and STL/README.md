@@ -20,3 +20,10 @@
 ## Stack Build-in Functions
 - [Link-](https://docs.google.com/document/d/1676YNr_Oi_Gylv94ClrpHYu-ac8P0aYQbO0wZw-N2Mw/edit?usp=sharing)
 - <img src="./images/build-in-functions.png" width="500">
+
+## 0. Introduction
+- Exploring Stacks: A Data Structure Deep Dive
+- LIFO - Stacks follow the `Last In, First Out (LIFO)` principle
+- Implementing stacks using `Arrays`
+- Implementing stacks using `STL List`
+- Implementing stacks using `Doubly Linked Lists`
