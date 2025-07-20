@@ -27,3 +27,15 @@
 - Implementing stacks using `Arrays`
 - Implementing stacks using `STL List`
 - Implementing stacks using `Doubly Linked Lists`
+
+## 1. What is Stack Animated
+- Explain this video with animated way `Stack of Plates` & `Stack of Chairs`.
+- `Push()`- Push() value with top:
+    - <img src="./images/drawing.png" width="500">
+    - <img src="./images/drawing2.png" width="500">
+    - <img src="./images/drawing3.png" width="500">
+- `Pop()` - Pop() value with top:
+    - <img src="./images/drawing4.png" width="500">
+    - <img src="./images/drawing5.png" width="500">
+    - <img src="./images/drawing6.png" width="500">
+- You can `Push()` on top and you can `Pop()` will the top
