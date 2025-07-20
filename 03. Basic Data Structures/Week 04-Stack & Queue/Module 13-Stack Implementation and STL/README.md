@@ -16,3 +16,7 @@
 - Quiz: Module 13
 - Extra Practice Problem and Quiz Explanation
 - Feedback Form: Module 13
+
+## Stack Build-in Functions
+- [Link-](https://docs.google.com/document/d/1676YNr_Oi_Gylv94ClrpHYu-ac8P0aYQbO0wZw-N2Mw/edit?usp=sharing)
+- <img src="./images/build-in-functions.png" width="500">
