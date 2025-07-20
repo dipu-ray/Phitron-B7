@@ -46,3 +46,20 @@
 - Forward with `Push()` on top and Backward with `Pop()` on top in `STACK`
 - STACK follow the technique is `LIFO technique`
 - STACK help to `Crack The Interview`
+
+## 3. What is stack
+- Stack:
+    - `Abstract Data Structure`
+    - `Higher level Data Structure`
+- Example with `Stack of Plates`
+- Example with `Stack of Chairs`
+- `LIFO` technique follow that's means that is `Stack`
+- `Stack` implementation with `Arrays` and `Linked List`
+- `Stack` there have don't access to stack middle or stack bottom, they have access to only on the top.
+- `Array` can work with stack, `Linked List` can work with stack, `Vector` can work with stack and `STL` can work with stack.
+- Stack Operations:
+    - `push()`
+    - `pop()`
+    - `top()`
+    - `size()`
+    - `empty()`
