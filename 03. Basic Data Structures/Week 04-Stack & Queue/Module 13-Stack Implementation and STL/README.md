@@ -96,3 +96,6 @@
 
 ## 8. Stack Implementation using Doubly linked list
 - Program: `implement_stack_doubly_linked_list.cpp`
+
+## 9. STL stack
+- Abc
