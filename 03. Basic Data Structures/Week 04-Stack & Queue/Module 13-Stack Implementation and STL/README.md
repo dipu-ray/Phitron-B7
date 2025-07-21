@@ -99,3 +99,11 @@
 
 ## 9. STL stack
 - Program: `stl_stack.cpp`
+
+## 10. Summary
+- Higher level data structure or abstract data structure this is `Stack`
+- Build in STL in stack - uses
+- Stack implement with array - using `vector`
+- Stack implement with STL List - using `list`
+- Stack implement with `doubly linked list`
+- At last stack implement with `STL stack`
