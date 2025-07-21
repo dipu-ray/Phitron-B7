@@ -131,3 +131,17 @@
 **d)** O(N*N)
 > **Explanation:** কিউতে pop() অপারেশন প্রথম এলিমেন্ট সরাতে কেবল কনস্ট্যান্ট সময় নেয়, তাই এর কমপ্লেক্সিটি O(1)।
 ---
+#### 5. What will happen if we copy one queue to another in the order it is removed?
+**a)** We will get a random queue  
+**b)** We will get the same queue ✅  
+**c)** We will get the reverse of that queue  
+**d)** It is not possible
+> **Explanation:** যদি একটি কিউ থেকে এলিমেন্টগুলো সরিয়ে অন্য কিউতে কপি করা হয়, তবে এলিমেন্টের ক্রম অপরিবর্তিত থাকে এবং একই কিউ পুনরায় তৈরি হয়।
+---
+#### 6. What will happen if we copy one stack to another in the order it is removed?
+**a)** We will get a random stack  
+**b)** We will get the same stack  
+**c)** We will get the reverse of that stack ✅  
+**d)** It is not possible
+> **Explanation:** স্ট্যাক "Last In Last Out" পদ্ধতি ব্যবহার করে, তাই এলিমেন্টগুলো সরানোর সময় ক্রম বিপরীত হয়, এবং অন্য স্ট্যাকে কপি করলে এটি উল্টা স্ট্যাক তৈরি করে।
+---
