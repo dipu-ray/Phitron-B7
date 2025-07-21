@@ -145,3 +145,17 @@
 **d)** It is not possible
 > **Explanation:** স্ট্যাক "Last In Last Out" পদ্ধতি ব্যবহার করে, তাই এলিমেন্টগুলো সরানোর সময় ক্রম বিপরীত হয়, এবং অন্য স্ট্যাকে কপি করলে এটি উল্টা স্ট্যাক তৈরি করে।
 ---
+#### 7. What is the main difference between a queue and a stack?
+**a)** Queue is FIFO; stack is LIFO ✅  
+**b)** Queue is LIFO; stack is FIFO  
+**c)** Both are LIFO  
+**d)** Both are FIFO
+> **Explanation:** Queue (সারি) ফলো করে FIFO (প্রথমে প্রবেশ, প্রথমে বাহির), আর Stack (গাদা বা স্তূপ) ফলো করে LIFO (শেষে প্রবেশ, প্রথমে বাহির)।
+---
+#### 8. Which of the following operations is not supported by “std::queue” directly?
+**a)** Accessing the front element   
+**b)** Removing the last element ✅  
+**c)** Removing an element from the front  
+**d)** Inserting an element at the back
+> **Explanation:** pop() ফাংশন ব্যবহার করে কিউ-এর শুরু থেকে উপাদান মুছে ফেলা হয়। কিউ-এর শেষ থেকে উপাদান মুছে ফেলার কোনো উপায় নাই।
+---
