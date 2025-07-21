@@ -122,3 +122,34 @@
 **d)** O(n^2)
 > **Explanation:** ভেক্টরেরে push_back এর মাধ্যমে stack এর push অপারেশন টি ইমপ্লিমেন্ট করা হয়ে থাকে, যার কমপ্লেক্সিটি O(1)।
 ---
+#### 2. Which operation is NOT valid on an empty stack?
+```
+stack<int> s;
+```
+**a)** s.size()   
+**b)** s.top() ✅  
+**c)** s.empty()  
+**d)** s.push(10)
+> **Explanation:** খালি স্ট্যাক-এ top() কল করা undefined behavior অথবা গার্বেজ মান দেখাবে। size() ঠিক ভাবে 0 রিটার্ন করে, empty() ঠিক ভাবে true রিটার্ন করে, push() খালি স্ট্যাক-এ একটি মান যুক্ত করে। তাই, top() অপারেশন ভ্যালিড নয়।
+---
+#### 3. In a linked list implementation of a stack, where does the new element get inserted?
+**a)** At the beginning of the list   
+**b)** At the end of the list ✅  
+**c)** In the middle of the list  
+**d)** It depends on the implementation
+> **Explanation:** মডিউল অনুসারে Linked list এর  tail এ ভ্যালু insertion এর মাধ্যমে stack এ ভ্যালু insert করা হয়ে থাকে।
+---
+#### 4. Which function  is used to insert an element into a stack implemented using an STL list?
+**a)** push_back() ✅  
+**b)** insert()  
+**c)** add()  
+**d)** append()
+> **Explanation:** STL List এর  push_back ফাংশন এর মাধ্যমে stack এর insertion অপারেশন টি ইমপ্লিমেন্ট করা হয়ে থাকে, যার কমপ্লেক্সিটি O(1)।
+---
+#### 5. In a stack implemented using the STL list, which function is used to remove the top element?
+**a)** pop_back() ✅  
+**b)** remove()  
+**c)** delete()  
+**d)** erase()
+> **Explanation:** STL List এর  push_back ফাংশন এর মাধ্যমে এই অপারেশন টি ইমপ্লিমেন্ট করা হয়ে থাকে, যার কমপ্লেক্সিটি O(1)।
+---
