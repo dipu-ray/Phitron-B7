@@ -25,3 +25,12 @@
 <br><br>
 - [Built-in Function -](https://docs.google.com/document/d/1tiYAlnJZWbuamFGwLgR4tGm2TEm_FQe0hxF-rXy-9bU/edit?usp=drivesdk)
 - <img src="./images/build-in-functions.png" width="500">
+
+## 0. Introduction
+- Mastering Queues: Data Structures and Implementations
+- Understanding Queues: The `First-in, First-out(FIFO)` Principle
+- Implementing Queues Using `Singly Linked Lists`
+- Implementing Queues Using `STL Lists`
+- Exploring STL Queues: A Powerful and Efficient Option
+- `Implementing Stacks Using Queues`: An Intriguing Approach
+- `Implementing Queues Using Stacks`: A Reverse Perspective
