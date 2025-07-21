@@ -73,3 +73,6 @@
 
 ## 6. Implement Queue using STL list
 - Program: `implement_queue_using_list.cpp`
+
+## 7. STL Queue
+- Program: `stl_queue.cpp`
