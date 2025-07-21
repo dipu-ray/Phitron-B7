@@ -61,3 +61,6 @@
 - Example with `serial maintaining`.
 - <img src="./images/drawing5.png" width="500">
 - <img src="./images/drawing6.png" width="500">
+
+## 3. Implement Queue using Singly linked list
+- Program: `implement_queue_using_singly.cpp`
