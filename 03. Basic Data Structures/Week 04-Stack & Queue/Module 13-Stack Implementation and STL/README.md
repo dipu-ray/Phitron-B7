@@ -153,3 +153,38 @@ stack<int> s;
 **d)** erase()
 > **Explanation:** STL List এর  push_back ফাংশন এর মাধ্যমে এই অপারেশন টি ইমপ্লিমেন্ট করা হয়ে থাকে, যার কমপ্লেক্সিটি O(1)।
 ---
+#### 6. Which function is used to access the top element of a stack implemented using an STL stack?
+**a)** top() ✅  
+**b)** front()  
+**c)** peek()  
+**d)** get()
+> **Explanation:** STL Stack এর top ফাংশন ব্যবহারের মাধ্যমে stack এর top element এক্সেস করা হয়।
+---
+#### 7. Which operation is used to check if a stack is empty in the STL stack container?
+**a)** is_empty()  
+**b)** empty() ✅  
+**c)** is_stack_empty()  
+**d)** stack_empty()
+> **Explanation:** STL Stack এর empty() function ব্যবহারের মাধ্যমে stack empty কিনা চেক করা হয়ে থাকে।
+---
+#### 8. What is the time complexity of the pop() operation in a stack implemented using a vector?
+**a)** O(1) ✅  
+**b)** O(n)  
+**c)** O(logn)  
+**d)** O(n^2)
+> **Explanation:** ভেক্টরেরে pop_back এর মাধ্যমে stack এর pop অপারেশন টি ইমপ্লিমেন্ট করা হয়ে থাকে, যার কমপ্লেক্সিটি O(1)।
+---
+#### 9. In C++, the stack data structure follows the principle of:
+**a)** First-In-First-Out (FIFO)  
+**b)** First-Come-First-Served (FCFS)  
+**c)** Last-In-First-Out (LIFO) ✅  
+**d)** Last-Come-Last-Served (LCLS)
+> **Explanation:** stack এর ক্ষেত্রে যে ভ্যালুটি সবার পরে stack এ আসে , সে সবার আগে stack থেকে বের হয়ে যায়।
+---
+#### 10. Which operation is used to check the size of a stack implemented using an STL stack?
+**a)** size() ✅  
+**b)** length()  
+**c)** get_size()  
+**d)** stack_size()
+> **Explanation:** STL Stack এর size() function ব্যবহারের মাধ্যমে stack এর সাইজ চেক করা হয়ে থাকে।
+---
