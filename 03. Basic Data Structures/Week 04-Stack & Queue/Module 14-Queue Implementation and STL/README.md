@@ -100,3 +100,13 @@
 ## Quiz: Module 14
 - `Total Questions: 10`
 - `Total Marks: 10`
+
+## Quiz Explanation
+- [Quiz Explanation -](https://docs.google.com/document/d/17cWGow5iNWXsN6oIs8zLuSb1JSASbBcc/edit?usp=drivesdk&ouid=112433310488936743525&rtpof=true&sd=true)
+#### 1. What system does the queue use?
+**a)** Last In First Out   
+**b)** Last In Last Out ✅  
+**c)** First In Last Out  
+**d)** First In Middle Out
+> **Explanation:** কিউ সিস্টেম "First In First Out (FIFO)" পদ্ধতি ব্যবহার করে, যেখানে প্রথমে প্রবেশ করা ডেটা প্রথমেই বের হয়। একইভাবে বলা যায়, কিউ সিস্টেমে সর্বশেষে প্রবেশ করা ডেটা সর্বশেষে বের হয়, এটি "Last In Last Out" পদ্ধতি অনুসরণ করে।
+---
