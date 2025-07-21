@@ -55,3 +55,9 @@
 - Also called on `pop() or dequeue` in Queues
 - <img src="./images/drawing4.png" width="500">
 - `push() on back()` and `pop() on the front()` in `Queues`.
+
+## 2. Real life application of queue
+- Serial maintain in queues
+- Example with `serial maintaining`.
+- <img src="./images/drawing5.png" width="500">
+- <img src="./images/drawing6.png" width="500">
