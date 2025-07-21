@@ -110,3 +110,10 @@
 **d)** First In Middle Out
 > **Explanation:** কিউ সিস্টেম "First In First Out (FIFO)" পদ্ধতি ব্যবহার করে, যেখানে প্রথমে প্রবেশ করা ডেটা প্রথমেই বের হয়। একইভাবে বলা যায়, কিউ সিস্টেমে সর্বশেষে প্রবেশ করা ডেটা সর্বশেষে বের হয়, এটি "Last In Last Out" পদ্ধতি অনুসরণ করে।
 ---
+#### 2. What did we use to implement the queue in the module?
+**a)** Singly Linked List   
+**b)** Doubly Linked List   
+**c)** Array  
+**d)** Both A and B ✅
+> **Explanation:** আমাদের মডিউলে array দিয়ে Queue ইমপ্লিমেন্ট করা হয় নাই। কারণ, array তে front থেকে pop করার কমপ্লেক্সিটি O(N)।
+---
