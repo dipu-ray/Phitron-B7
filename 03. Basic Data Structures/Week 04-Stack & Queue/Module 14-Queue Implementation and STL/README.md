@@ -117,3 +117,17 @@
 **d)** Both A and B ✅
 > **Explanation:** আমাদের মডিউলে array দিয়ে Queue ইমপ্লিমেন্ট করা হয় নাই। কারণ, array তে front থেকে pop করার কমপ্লেক্সিটি O(N)।
 ---
+#### 3. What is the complexity of push() operation in queue?
+**a)** O(1) ✅  
+**b)** O(N)  
+**c)** O(logN)  
+**d)** O(N*N)
+> **Explanation:** কিউতে push() অপারেশন কনস্ট্যান্ট টাইমে সম্পন্ন হয়, তাই এর কমপ্লেক্সিটি হল O(1)।
+---
+#### 4. What is the complexity of pop() operation in queue?
+**a)** O(1) ✅  
+**b)** O(N)  
+**c)** O(logN)  
+**d)** O(N*N)
+> **Explanation:** কিউতে pop() অপারেশন প্রথম এলিমেন্ট সরাতে কেবল কনস্ট্যান্ট সময় নেয়, তাই এর কমপ্লেক্সিটি O(1)।
+---
