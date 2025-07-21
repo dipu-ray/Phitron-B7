@@ -1,0 +1,92 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+// Using doubly linked list
+class Node {
+public:
+    int value;
+    Node* next;
+    Node* prev;
+    Node(int value) {
+        this->value = value;
+        this->next = NULL;
+        this->prev = NULL;
+    }
+};
+
+// Make queue data structure
+class myQueue {
+public:
+    Node* head = NULL;
+    Node* tail = NULL;
+    int sz = 0;
+
+    // Push into Queue
+    void push(int val) {        // O(1)
+        sz++;
+        Node* newNode = new Node(val);
+        if(head == NULL) {
+            head = newNode;
+            tail = newNode;
+            return;
+        }
+        tail->next = newNode;
+        newNode->prev = tail;
+        tail = newNode;
+    }
+
+    // Pop front into Queue
+    void pop() {                // O(1)
+        sz--;
+        Node* deleteNode = head;
+        head = head->next;
+        delete deleteNode;
+        if(head == NULL) {
+            tail = NULL;
+            return;
+        }
+        head->prev = NULL;
+    }
+
+    // Access to front value from Queue
+    int front() {               // O(1)
+        return head->value;
+    }
+
+    // Access to back value from Queue
+    int back() {                // O(1)
+        return tail->value;
+    }
+
+    // Size in Queue
+    int size() {                // O(1)
+        return sz;
+    }
+
+    // Empty in Queue
+    bool empty() {              // O(1)
+        // shortcut conditions
+        return head == NULL;
+    }
+};
+
+int main() {
+    // Make object
+    myQueue q;
+    int n;
+    cin >> n;
+    for(int i = 0; i < n; i++) {
+        int val;
+        cin >> val;
+        q.push(val);
+    }
+
+    // cout << q.front() << " " << q.back() << " " << q.size() << endl;
+    
+    while(!q.empty()) {
+        cout << q.front() << endl;
+        q.pop();
+    }
+
+    return 0;
+}

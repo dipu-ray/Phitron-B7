@@ -67,3 +67,6 @@
 
 ## 4. Queue Input and Output
 - Program: `implement_queue_using_singly2.cpp`
+
+## 5. Implement Queue using Doubly linked list
+- Program: `implement_queue_using_doubly.cpp`
