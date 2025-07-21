@@ -78,4 +78,9 @@
 - Program: `stl_queue.cpp`
 
 ## 8. Implement stack using queues
-- Abc
+- Problems:
+    - <img src="./images/leetcode-problem.png" width="500">
+- Solve:
+    ```
+    Abc
+    ```
