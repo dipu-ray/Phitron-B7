@@ -87,3 +87,12 @@
 
 ## 9. Implement queue using stacks
 - Abc
+
+## 10. Summary
+- Learn to new data structure `Queue`
+- Implement `Queue` with `Doubly Linked List`
+- Implement `Queue` with `STL List`
+- Implement `Queue` with `STL Queue`
+- Solve with two problems:
+    - `Problem 1` - Stack implement with queue
+    - `Problem 2` - Queue implement with stack
