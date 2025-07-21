@@ -107,3 +107,7 @@
 - Stack implement with STL List - using `list`
 - Stack implement with `doubly linked list`
 - At last stack implement with `STL stack`
+
+## Quiz: Module 13
+- `Total Questions: 10`
+- `Total Marks: 10`
