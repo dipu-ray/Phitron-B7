@@ -70,3 +70,6 @@
 
 ## 5. Implement Queue using Doubly linked list
 - Program: `implement_queue_using_doubly.cpp`
+
+## 6. Implement Queue using STL list
+- Program: `implement_queue_using_list.cpp`
