@@ -159,3 +159,19 @@
 **d)** Inserting an element at the back
 > **Explanation:** pop() ফাংশন ব্যবহার করে কিউ-এর শুরু থেকে উপাদান মুছে ফেলা হয়। কিউ-এর শেষ থেকে উপাদান মুছে ফেলার কোনো উপায় নাই।
 ---
+#### 9. Why didn’t we use an array to implement the queue?
+**a)** The first element can’t be removed   
+**b)** Time complexity of removing the first element is bad  
+**c)** If we don’t remove the first element, memory will be wasted  
+**d)** Both B and C ✅
+> **Explanation:** <br> B: অ্যারেতে প্রথম এলিমেন্ট সরাতে সময়ের কমপ্লেক্সিটি খারাপ হয়, কারণ প্রতিটি অপসারণের পর বাকি এলিমেন্টগুলোকে এক ধাপ করে সরাতে হয়। <br>
+C: যদি প্রথম এলিমেন্ট সরানো না হয়, তবে মেমোরি অপচয় হয়, কারণ অ্যারের ব্যবহৃত স্থানটি আর পুনরায় কাজে লাগানো যায় না।
+---
+#### 10. Why didn’t we use an array to implement the queue?
+**a)** The first element can’t be removed   
+**b)** Time complexity of removing the first element is bad  
+**c)** If we don’t remove the first element, memory will be wasted  
+**d)** Both B and C ✅
+> **Explanation:** <br> B: অ্যারেতে প্রথম এলিমেন্ট সরাতে সময়ের কমপ্লেক্সিটি খারাপ হয়, কারণ প্রতিটি অপসারণের পর বাকি এলিমেন্টগুলোকে এক ধাপ করে সরাতে হয়। <br>
+C: যদি প্রথম এলিমেন্ট সরানো না হয়, তবে মেমোরি অপচয় হয়, কারণ অ্যারের ব্যবহৃত স্থানটি আর পুনরায় কাজে লাগানো যায় না।
+---
