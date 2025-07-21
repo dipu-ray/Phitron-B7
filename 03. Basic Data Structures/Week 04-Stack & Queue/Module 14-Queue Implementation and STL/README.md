@@ -76,3 +76,6 @@
 
 ## 7. STL Queue
 - Program: `stl_queue.cpp`
+
+## 8. Implement stack using queues
+- Abc
