@@ -96,3 +96,7 @@
 - Solve with two problems:
     - `Problem 1` - Stack implement with queue
     - `Problem 2` - Queue implement with stack
+
+## Quiz: Module 14
+- `Total Questions: 10`
+- `Total Marks: 10`
