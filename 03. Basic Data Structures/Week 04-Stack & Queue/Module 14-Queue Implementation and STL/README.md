@@ -64,3 +64,6 @@
 
 ## 3. Implement Queue using Singly linked list
 - Program: `implement_queue_using_singly.cpp`
+
+## 4. Queue Input and Output
+- Program: `implement_queue_using_singly2.cpp`
