@@ -11,3 +11,7 @@
 - <img src="./images/practice-problems2.png" width="500">
 - <img src="./images/practice-problems3.png" width="500">
 - <img src="./images/practice-problems4.png" width="500">
+
+## 1 Practice
+- Explanation those whole practice problems in this video.
+- There have four practice problems
