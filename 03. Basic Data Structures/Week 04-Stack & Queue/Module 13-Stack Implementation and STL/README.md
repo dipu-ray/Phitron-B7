@@ -111,3 +111,14 @@
 ## Quiz: Module 13
 - `Total Questions: 10`
 - `Total Marks: 10`
+
+## Extra Practice Problem and Quiz Explanation
+- [Quiz Explanation:](https://docs.google.com/document/d/1KsjaPsAdvVYKMtqvoC31RjF00HfXRa21G-mmI8JmEtM/edit?tab=t.0)
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1Hz4Pmc0tO-vXmgy8-PQcjcx3k4A6492Drgv_vsneD9U/edit?usp=sharing)
+#### 1. What is the time complexity of push() operation in a stack implemented using a vector?
+**a)** O(1) ✅  
+**b)** O(n)  
+**c)** O(logn)  
+**d)** O(n^2)
+> **Explanation:** ভেক্টরেরে push_back এর মাধ্যমে stack এর push অপারেশন টি ইমপ্লিমেন্ট করা হয়ে থাকে, যার কমপ্লেক্সিটি O(1)।
+---
