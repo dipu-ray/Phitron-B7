@@ -34,3 +34,24 @@
 - Exploring STL Queues: A Powerful and Efficient Option
 - `Implementing Stacks Using Queues`: An Intriguing Approach
 - `Implementing Queues Using Stacks`: A Reverse Perspective
+
+## 1. What is Queue
+- Queues:
+    - `Abstract Data Structure`
+    - `Higher Level Data Structure`
+- Queues means `trail` or `Line`
+- Example with `Ticket counter in Lines`. Queues follow to `First-in, First-out (FIFO)` technique.
+- Queue Operation:
+    - `push()`
+    - `pop()`
+    - `front()`
+    - `size()`
+    - `empty()`
+    - `back()`
+- <img src="./images/drawing.png" width="500">
+- <img src="./images/drawing2.png" width="500">
+- <img src="./images/drawing3.png" width="500">
+- Main difference in stacks and queues when it `pop() or remove`
+- Also called on `pop() or dequeue` in Queues
+- <img src="./images/drawing4.png" width="500">
+- `push() on back()` and `pop() on the front()` in `Queues`.
