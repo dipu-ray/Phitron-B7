@@ -167,11 +167,10 @@
 > **Explanation:** <br> B: অ্যারেতে প্রথম এলিমেন্ট সরাতে সময়ের কমপ্লেক্সিটি খারাপ হয়, কারণ প্রতিটি অপসারণের পর বাকি এলিমেন্টগুলোকে এক ধাপ করে সরাতে হয়। <br>
 C: যদি প্রথম এলিমেন্ট সরানো না হয়, তবে মেমোরি অপচয় হয়, কারণ অ্যারের ব্যবহৃত স্থানটি আর পুনরায় কাজে লাগানো যায় না।
 ---
-#### 10. Why didn’t we use an array to implement the queue?
-**a)** The first element can’t be removed   
-**b)** Time complexity of removing the first element is bad  
-**c)** If we don’t remove the first element, memory will be wasted  
-**d)** Both B and C ✅
-> **Explanation:** <br> B: অ্যারেতে প্রথম এলিমেন্ট সরাতে সময়ের কমপ্লেক্সিটি খারাপ হয়, কারণ প্রতিটি অপসারণের পর বাকি এলিমেন্টগুলোকে এক ধাপ করে সরাতে হয়। <br>
-C: যদি প্রথম এলিমেন্ট সরানো না হয়, তবে মেমোরি অপচয় হয়, কারণ অ্যারের ব্যবহৃত স্থানটি আর পুনরায় কাজে লাগানো যায় না।
+#### 10. If we implement a queue using an array where the last element is connected with the first, what would it be called?
+**a)** Special queue   
+**b)** Array queue  
+**c)** Circular queue ✅  
+**d)** Loop queue
+> **Explanation:** যদি একটি কিউ অ্যারে দিয়ে ইমপ্লিমেন্ট করা হয় যেখানে শেষ এলিমেন্টটি প্রথম এলিমেন্টের সাথে সংযুক্ত করতে হয়, তখন সেটিকে সার্কুলার কিউ বলা হয়। এটি মেমোরি অপচয় রোধ করে এবং অ্যারের সীমাবদ্ধ স্থান কার্যকরভাবে ব্যবহার করে।
 ---
