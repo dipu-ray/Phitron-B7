@@ -98,4 +98,4 @@
 - Program: `implement_stack_doubly_linked_list.cpp`
 
 ## 9. STL stack
-- Abc
+- Program: `stl_stack.cpp`
