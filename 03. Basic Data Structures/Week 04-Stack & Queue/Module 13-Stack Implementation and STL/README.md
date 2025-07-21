@@ -114,7 +114,6 @@
 
 ## Extra Practice Problem and Quiz Explanation
 - [Quiz Explanation:](https://docs.google.com/document/d/1KsjaPsAdvVYKMtqvoC31RjF00HfXRa21G-mmI8JmEtM/edit?tab=t.0)
-- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1Hz4Pmc0tO-vXmgy8-PQcjcx3k4A6492Drgv_vsneD9U/edit?usp=sharing)
 #### 1. What is the time complexity of push() operation in a stack implemented using a vector?
 **a)** O(1) ✅  
 **b)** O(n)  
@@ -188,3 +187,9 @@ stack<int> s;
 **d)** stack_size()
 > **Explanation:** STL Stack এর size() function ব্যবহারের মাধ্যমে stack এর সাইজ চেক করা হয়ে থাকে।
 ---
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1Hz4Pmc0tO-vXmgy8-PQcjcx3k4A6492Drgv_vsneD9U/edit?usp=sharing)
+- <img src="./images/extra-practice.png" width="500">
+- [Problem 1](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+- [Problem 2](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)
+- [Problem 3](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/solutions/6975419/stack-beats-100-beginner-friendly-by-pia-9eh6/)
+- [Problem 4](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/solutions/6975472/stack-simple-clear-beginner-friendly-by-ka3iq/)
