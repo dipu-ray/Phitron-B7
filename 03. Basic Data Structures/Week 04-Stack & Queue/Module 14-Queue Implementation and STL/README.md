@@ -173,6 +173,7 @@
         }
     };
     ```
+- <img src="./images/problem-solved2.png" width="500">
 
 ## 10. Summary
 - Learn to new data structure `Queue`
