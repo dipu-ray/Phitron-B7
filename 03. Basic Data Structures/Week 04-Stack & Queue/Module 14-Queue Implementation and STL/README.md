@@ -82,7 +82,7 @@
     - <img src="./images/leetcode-problem.png" width="500">
 - Solve:
     ```
-    Abc
+    
     ```
 
 ## 9. Implement queue using stacks
