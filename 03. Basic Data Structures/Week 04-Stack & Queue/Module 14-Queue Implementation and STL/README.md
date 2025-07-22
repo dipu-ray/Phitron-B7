@@ -78,6 +78,7 @@
 - Program: `stl_queue.cpp`
 
 ## 8. Implement stack using queues
+- [Here is the problem link:-](https://leetcode.com/problems/implement-stack-using-queues/description/)
 - Problems:
     - <img src="./images/leetcode-problem.png" width="500">
 - Solve:
