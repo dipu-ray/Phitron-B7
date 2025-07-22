@@ -123,6 +123,9 @@
 - [Here is the problem link:-](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 - Problems:
     - <img src="./images/leetcode-problem2.png" width="500">
+- Solve:
+    ```
+    ```
 
 ## 10. Summary
 - Learn to new data structure `Queue`
