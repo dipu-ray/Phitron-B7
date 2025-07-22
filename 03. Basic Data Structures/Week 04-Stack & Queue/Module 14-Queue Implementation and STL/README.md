@@ -117,7 +117,7 @@
         }
     };
     ```
-<img src="./images/problem-solved.png" width="500">
+- <img src="./images/problem-solved.png" width="500">
 
 ## 9. Implement queue using stacks
 - 
