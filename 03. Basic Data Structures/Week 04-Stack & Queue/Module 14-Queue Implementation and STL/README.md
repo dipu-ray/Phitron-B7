@@ -120,7 +120,7 @@
 - <img src="./images/problem-solved.png" width="500">
 
 ## 9. Implement queue using stacks
-- 
+- [Here is the problem link:-](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 
 ## 10. Summary
 - Learn to new data structure `Queue`
