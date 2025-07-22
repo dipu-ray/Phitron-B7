@@ -119,7 +119,7 @@
 <img src="./images/problem-solved.png" width="500">
 
 ## 9. Implement queue using stacks
-- Abc
+- 
 
 ## 10. Summary
 - Learn to new data structure `Queue`
