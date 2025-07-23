@@ -41,3 +41,6 @@
 
 ## 4. Maximum equal stack sum
 - Abc
+
+## 5. Reversing a queue
+- Abc
