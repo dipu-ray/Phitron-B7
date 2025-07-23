@@ -14,11 +14,14 @@
 - Feedback Form: Module 15
 
 ## Problem Link
-- [Extra Practice Problem -](https://docs.google.com/document/d/1bjgJn3eVfTFpYyzUbqoUb4SVcNS_LCT4kGXzTihVmRI/edit?usp=sharing)
-- <img src="./images/problems.png" width="500">
-- [Problem 1](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
-    - [Solution Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/solutions/6975541/stack-simple-clean-by-piaaaas-jqwa/)
-- [Problem 2](https://leetcode.com/problems/make-the-string-great/description/)
-    - [Solution Link](https://leetcode.com/problems/make-the-string-great/solutions/6975497/simple-stack-beginner-friendly-by-piaaaa-w319/)
-- [Problem 3](https://leetcode.com/problems/crawler-log-folder/description/)
-    - [Solution Link](https://leetcode.com/problems/crawler-log-folder/solutions/6975509/stack-simple-clean-by-piaaaas-1yz1/)
+- [Extra Practice Problem -](https://docs.google.com/document/d/1fuirtZp8dUD6cCnwjBsSpbFZI_CqOBIw/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
+- <img src="./images/the-problems.png" width="500">
+- [Problem 1](https://leetcode.com/problems/valid-parentheses/)
+    - [Solution Link](https://leetcode.com/problems/valid-parentheses/solutions/6981469/simple-beginner-friendly-stack-beats-100-ogx0/)
+- [Problem 2](https://leetcode.com/problems/backspace-string-compare/description/)
+    - [Solution Link](https://leetcode.com/problems/backspace-string-compare/solutions/6981972/simple-stack-beats-100-by-piaaaas-8wmp/)
+- [Problem 3](https://www.codingninjas.com/studio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166)
+- [Problem 4](https://www.codingninjas.com/studio/problems/maximum-equal-stack-sum_1062571)
+- [Problem 5](https://www.codingninjas.com/studio/problems/reversing-a-queue_982934)
+- [Problem 6](https://leetcode.com/problems/min-stack/description/)
+    - [Solution Link](https://leetcode.com/problems/min-stack/solutions/6981989/beginner-friendly-just-using-another-sta-po6a/)
