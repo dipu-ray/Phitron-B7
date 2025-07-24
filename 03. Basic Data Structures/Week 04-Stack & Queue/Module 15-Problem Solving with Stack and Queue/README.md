@@ -49,4 +49,3 @@
 - Abc
 
 ## 7. Summary
-- Abc
