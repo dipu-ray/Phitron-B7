@@ -43,4 +43,3 @@
 - Abc
 
 ## 5. Reversing a queue
-- Abc
