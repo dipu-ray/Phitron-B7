@@ -40,4 +40,3 @@
 - Abc
 
 ## 4. Maximum equal stack sum
--
