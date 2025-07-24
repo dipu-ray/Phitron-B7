@@ -35,4 +35,3 @@
 
 ## 2. Backspace string compare
 - Abc
-
