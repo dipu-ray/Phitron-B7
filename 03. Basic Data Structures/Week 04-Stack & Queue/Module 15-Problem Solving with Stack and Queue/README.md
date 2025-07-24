@@ -50,5 +50,3 @@
 
 ## 7. Summary
 - Abc
-
-## Extra Problem
