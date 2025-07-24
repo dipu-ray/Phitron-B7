@@ -47,5 +47,3 @@
 
 ## 6. Min stack
 - Abc
-
-## 7. Summary
