@@ -27,4 +27,3 @@
     - [Solution Link](https://leetcode.com/problems/min-stack/solutions/6981989/beginner-friendly-just-using-another-sta-po6a/)
 
 ## 0. Introduction
-- There have six problem
