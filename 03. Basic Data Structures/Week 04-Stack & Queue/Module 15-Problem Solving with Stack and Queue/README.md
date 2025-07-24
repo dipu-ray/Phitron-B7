@@ -44,5 +44,3 @@
 
 ## 5. Reversing a queue
 - Abc
-
-## 6. Min stack
