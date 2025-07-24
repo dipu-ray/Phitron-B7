@@ -33,4 +33,3 @@
 ## 1. Valid parentheses
 - Abc
 
-## 2. Backspace string compare
