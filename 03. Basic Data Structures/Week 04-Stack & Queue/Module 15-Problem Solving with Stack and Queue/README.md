@@ -46,4 +46,3 @@
 - Abc
 
 ## 6. Min stack
-- Abc
