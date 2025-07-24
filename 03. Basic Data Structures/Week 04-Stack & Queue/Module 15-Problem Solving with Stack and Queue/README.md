@@ -30,4 +30,3 @@
 - There have six problem
 - Let's start the problem solving
 
-## 1. Valid
