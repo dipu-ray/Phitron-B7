@@ -36,4 +36,4 @@
 ## 2. Backspace string compare
 - Abc
 
-## 3. Insert an element at its bottom in a given stack
+## 3. Insert an element at
