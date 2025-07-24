@@ -39,4 +39,3 @@
 ## 3. Insert an element at its bottom in a given stack
 - Abc
 
-## 4. Maximum equal stack sum
