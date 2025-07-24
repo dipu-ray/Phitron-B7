@@ -28,4 +28,3 @@
 
 ## 0. Introduction
 - There have six problem
-- Let's start the problem solving
