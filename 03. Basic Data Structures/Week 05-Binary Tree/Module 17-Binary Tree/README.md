@@ -37,3 +37,11 @@
 - `Recursion` needed in tree for printout or others
 - There haven't `STL - Standard Template Library`
 - This is a `non-linear` data structures
+
+## 1. What is Tree Data Structure
+- Example with Tree:
+    - Start to `Root`
+    - End to `Leaf`
+- Tree link to each others like this:
+    - <img src="./images/drawing.png" width="500">
+- 
