@@ -27,4 +27,8 @@
     - [Solution Link](https://leetcode.com/problems/min-stack/solutions/6981989/beginner-friendly-just-using-another-sta-po6a/)
 
 ## 0. Introduction
-- 
+- Those problem are from `big tech` companies and this are also most uses problem in big tech `interview crack`
+- There have six problems:
+    - `3 problems from leetcode`
+    - `3 problem from new online judges`
+    - <img src="./images/the-problems.png" width="500">
