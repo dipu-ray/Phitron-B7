@@ -236,3 +236,6 @@
 ## 7. Summary
 - All problems are `easy levels` and last problem was `medium level`
 - Understand how to logic build up with problem solving with those six problems.
+
+## Extra Problem
+- [Extra Practice Problem -](https://docs.google.com/document/d/1bjgJn3eVfTFpYyzUbqoUb4SVcNS_LCT4kGXzTihVmRI/edit?usp=sharing)
