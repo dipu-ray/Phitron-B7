@@ -199,7 +199,36 @@
 
 ## 6. Min stack
 - [Problem 6](https://leetcode.com/problems/min-stack/description/)
-- <img src="./images" width="500">
+- <img src="./images/problem6.png" width="500">
 - Problem Solution:
     ```
+    class MinStack {
+    public:
+        stack<int> st, min_st;
+        MinStack() {
+            
+        }
+        
+        void push(int val) {
+            st.push(val);
+            if(min_st.empty())
+                min_st.push(val);
+            else if(min_st.top() >= val)
+                min_st.push(val);
+        }
+        
+        void pop() {
+            if(st.top() == min_st.top())
+                min_st.pop();
+            st.pop();
+        }
+        
+        int top() {
+            return st.top();
+        }
+        
+        int getMin() {
+            return min_st.top();
+        }
+    };
     ```
