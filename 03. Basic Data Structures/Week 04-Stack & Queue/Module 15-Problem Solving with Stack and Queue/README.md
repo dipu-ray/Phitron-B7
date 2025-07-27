@@ -131,3 +131,9 @@
         return st;
     }
     ```
+
+## 4. Maximum equal stack sum
+- [Problem 3](https://www.codingninjas.com/studio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166)
+- <img src="./images/problem3.png" width="500">
+- Problem Solution:
+    ```
