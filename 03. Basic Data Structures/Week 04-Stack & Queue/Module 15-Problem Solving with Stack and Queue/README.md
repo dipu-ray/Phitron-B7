@@ -110,4 +110,7 @@
     ```
 
 ## 3. Insert an element at its bottom in a given stack
-- 
+- [Problem 3]()
+- <img src="./images" width="500">
+- Problem Solution:
+    ```
