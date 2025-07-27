@@ -50,3 +50,6 @@
 
 ## 2. Why we need to learn Tree Data Structure
 - <img src="./images/drawing3.png" width="500">
+- This `tree` data structure compare to others data structures, can write `others data structures` for `tree`.
+- Another Example with Tree:
+    - <img src="./images" width="500">
