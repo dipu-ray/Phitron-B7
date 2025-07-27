@@ -57,3 +57,7 @@
 - `They have connect with parent and child`
 - `root node don't have parent node`
 - `leaf node don't have child node`
+
+## 3. Real life application of Tree Animated
+- Real Life Example with This PC:
+    - <img src="./images/drawing6.png" width="500">
