@@ -196,3 +196,10 @@
         return q;
     }
     ```
+
+## 6. Min stack
+- [Problem 6]()
+- <img src="./images" width="500">
+- Problem Solution:
+    ```
+    ```
