@@ -246,3 +246,7 @@
     - [Solution Link:](https://leetcode.com/problems/make-the-string-great/solutions/6975497/simple-stack-beginner-friendly-by-piaaaa-w319/)
 - [Problem 1](https://leetcode.com/problems/crawler-log-folder/description/)
     - [Solution Link:](https://leetcode.com/problems/crawler-log-folder/solutions/6975509/stack-simple-clean-by-piaaaas-1yz1/)
+
+## Feedback Form: Module 15
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
