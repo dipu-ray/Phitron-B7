@@ -39,9 +39,11 @@
 - This is a `non-linear` data structures
 
 ## 1. What is Tree Data Structure
+- `Hierarchy` concept in Tree. Also follow to `Hierarchial` data structures.
 - Example with Tree:
     - Start to `Root`
     - End to `Leaf`
 - Tree link to each others like this:
     - <img src="./images/drawing.png" width="500">
-- 
+- This image data can't store by arrays, linked lists, stacks, queues or others. Only can do it `tree data structures`
+- <img src="./images/drawing2.png" width="500">
