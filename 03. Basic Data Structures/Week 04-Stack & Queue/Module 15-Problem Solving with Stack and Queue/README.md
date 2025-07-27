@@ -176,8 +176,9 @@
     ```
 
 ## 5. Reversing a queue
-- [Problem 5]()
-- <img src="./images" width="500">
+- [Problem 5](https://www.codingninjas.com/studio/problems/reversing-a-queue_982934)
+- <img src="./images/problem5.png" width="500">
 - Problem Solution:
     ```
+    
     ```
