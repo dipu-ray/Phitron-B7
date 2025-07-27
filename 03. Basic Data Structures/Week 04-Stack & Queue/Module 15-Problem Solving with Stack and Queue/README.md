@@ -174,3 +174,10 @@
         return sum1;
     }
     ```
+
+## 5. Reversing a queue
+- [Problem 5]()
+- <img src="./images" width="500">
+- Problem Solution:
+    ```
+    ```
