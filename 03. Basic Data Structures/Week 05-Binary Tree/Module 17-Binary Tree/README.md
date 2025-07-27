@@ -27,4 +27,10 @@
 - <img src="./images/extra_practice.png" width="500">
 
 ## 0. Introduction
+- A guide to tree data structures
+- We will learn to `binary tree` from `tree data structures`.
+- `Tree data structure`: Introduction
+- `The binary tree`: A special case
+- `Creating a binary tree`: step-by-step
+- `Traversal techniques`: Exploring the tree
 - 
