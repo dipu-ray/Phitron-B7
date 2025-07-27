@@ -72,5 +72,5 @@
     };
     ```
 
-## 2. Backspace string compare
+# 2. Backspace string compare
 - 
