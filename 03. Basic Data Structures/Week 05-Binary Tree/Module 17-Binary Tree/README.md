@@ -33,4 +33,7 @@
 - `The binary tree`: A special case
 - `Creating a binary tree`: step-by-step
 - `Traversal techniques`: Exploring the tree
-- 
+- `Conclusion`: Key takeaways
+- `Recursion` needed in tree for printout or others
+- There haven't `STL - Standard Template Library`
+- This is a `non-linear` data structures
