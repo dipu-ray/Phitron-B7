@@ -61,3 +61,6 @@
 ## 3. Real life application of Tree Animated
 - Real Life Example with This PC:
     - <img src="./images/drawing6.png" width="500">
+
+## 4. What is Binary Tree
+- Abc
