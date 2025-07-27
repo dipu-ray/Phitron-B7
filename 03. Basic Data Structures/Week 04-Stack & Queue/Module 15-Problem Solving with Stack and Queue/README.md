@@ -239,3 +239,4 @@
 
 ## Extra Problem
 - [Extra Practice Problem -](https://docs.google.com/document/d/1bjgJn3eVfTFpYyzUbqoUb4SVcNS_LCT4kGXzTihVmRI/edit?usp=sharing)
+- <img src="./images/extra-problems.png" width="500">
