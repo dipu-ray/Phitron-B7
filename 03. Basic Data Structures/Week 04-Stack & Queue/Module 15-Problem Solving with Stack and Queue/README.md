@@ -110,7 +110,8 @@
     ```
 
 ## 3. Insert an element at its bottom in a given stack
-- [Problem 3]()
-- <img src="./images" width="500">
+- [Problem 3](https://www.codingninjas.com/studio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166)
+- <img src="./images/problem3.png" width="500">
 - Problem Solution:
+    ```
     ```
