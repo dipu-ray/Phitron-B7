@@ -52,4 +52,8 @@
 - <img src="./images/drawing3.png" width="500">
 - This `tree` data structure compare to others data structures, can write `others data structures` for `tree`.
 - Another Example with Tree:
-    - <img src="./images" width="500">
+    - <img src="./images/drawing4.png" width="500">
+- <img src="./images/drawing5.png" width="500">
+- `They have connect with parent and child`
+- `root node don't have parent node`
+- `leaf node don't have child node`
