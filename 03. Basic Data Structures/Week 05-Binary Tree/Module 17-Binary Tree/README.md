@@ -49,4 +49,4 @@
 - <img src="./images/drawing2.png" width="500">
 
 ## 2. Why we need to learn Tree Data Structure
-- Abc
+- <img src="./images/drawing3.png" width="500">
