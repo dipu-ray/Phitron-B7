@@ -30,3 +30,11 @@
 ## Quiz Module 16
 - Here is some short questions `5 out 5`.
 - Topics with: `text instructions`, sumit with `profile link and username`, `marks deadlines` and not using any `AI tools`.
+
+## 1 Assignment 03 Instructions
+- Explanation those whole `5 problems` in this video.
+
+## Assignment 03
+- Here is submit section your assignments with:
+    - `Profile Link`
+    - `Username`
