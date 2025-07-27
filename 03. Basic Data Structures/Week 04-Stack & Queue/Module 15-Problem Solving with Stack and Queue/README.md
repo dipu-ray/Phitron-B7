@@ -25,3 +25,6 @@
 - [Problem 5](https://www.codingninjas.com/studio/problems/reversing-a-queue_982934)
 - [Problem 6](https://leetcode.com/problems/min-stack/description/)
     - [Solution Link](https://leetcode.com/problems/min-stack/solutions/6981989/beginner-friendly-just-using-another-sta-po6a/)
+
+## 0. Introduction
+- 
