@@ -32,3 +32,9 @@
     - `3 problems from leetcode`
     - `3 problem from new online judges`
     - <img src="./images/the-problems.png" width="500">
+
+## 1. Valid parentheses
+- [Problem 1](https://leetcode.com/problems/valid-parentheses/)
+- Problem Solution:
+    ```
+    ```
