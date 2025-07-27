@@ -29,8 +29,8 @@
 ## 0. Introduction
 - Those problem are from `big tech` companies and this are also most uses problem in big tech `interview crack`
 - There have six problems:
-    - `2 problems from leetcode`
-    - `4 problem from new online judges`
+    - `3 problems from leetcode`
+    - `3 problem from new online judges`
     - <img src="./images/the-problems.png" width="500">
 
 ## 1. Valid parentheses
@@ -198,7 +198,7 @@
     ```
 
 ## 6. Min stack
-- [Problem 6]()
+- [Problem 6](https://leetcode.com/problems/min-stack/description/)
 - <img src="./images" width="500">
 - Problem Solution:
     ```
