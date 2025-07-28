@@ -131,3 +131,17 @@ Program: `creating_nodes.cpp`
     - <img src="./images/drawing14.png" width="500">
     - <img src="./images/drawing15.png" width="500">
 - Program: `inorder_traversal.cpp`
+
+## 12. Inorder Traversal Animated
+- Explanation those code with animated way in this video:
+    ```
+    // Inorder Traversal: left root right
+    void inorder(Node* root) {
+        if(root == NULL) {
+            return;                 // Base Case
+        }
+        inorder(root->left);       // Go to Left
+        cout << root->val << " ";   // Root
+        inorder(root->right);      // Go to Right
+    }
+    ```
