@@ -180,10 +180,10 @@ Program: `postorder_traversal.cpp`
 
 ## Quiz Explanation
 - [Quiz Explanation Link:](https://docs.google.com/document/d/12AAp8gvjaOv-o4EgPCmWCJVwao8RCO_u/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
-#### 1. What system does the queue use?
-**a)** Last In First Out   
-**b)** Last In Last Out ✅  
-**c)** First In Last Out  
-**d)** First In Middle Out
-> **Explanation:** ।
+#### 1. Which of the following is true about a binary tree?
+**a)** Each node can have more than two children   
+**b)** Each node can have at most two children ✅  
+**c)** Each node must have exactly two children  
+**d)** Each node must have at least two children
+> **Explanation:** বাইনারি ট্রি এমন একটি ডেটা স্ট্রাকচার যেখানে প্রতিটি নোডের সর্বোচ্চ দুটি  Child থাকতে পারে। এই দুটি Child কে সাধারণত বলা হয়: Left Child and Right Child।
 ---
