@@ -187,3 +187,13 @@ Program: `postorder_traversal.cpp`
 **d)** Each node must have at least two children
 > **Explanation:** বাইনারি ট্রি এমন একটি ডেটা স্ট্রাকচার যেখানে প্রতিটি নোডের সর্বোচ্চ দুটি  Child থাকতে পারে। এই দুটি Child কে সাধারণত বলা হয়: Left Child and Right Child।
 ---
+#### 2. Which traversal visits the nodes in the following order: Left subtree, root, right subtree?
+**a)** Preorder traversal   
+**b)** Inorder traversal ✅  
+**c)** Postorder traversal  
+**d)** Level order traversal
+> **Explanation:** Inorder traversal-এ নোডগুলো নিম্নলিখিত ক্রমে ভিজিট করা হয়: <br>
+1.বাম সাবট্রি (Left subtree) ভিজিট করা হয়। <br>
+2.এরপর মূল নোড (Root) ভিজিট করা হয়। <br>
+3.তারপর ডান সাবট্রি (Right subtree) ভিজিট করা হয়।
+---
