@@ -78,3 +78,22 @@
     - <img src="./images/drawing9.png" width="500">
 Program: `creating_nodes.cpp`
 <img src="./images/drawing10.png" width="500">
+
+## 6. Creating Binary Tree Animated
+- Explanation those code with animated way:
+    ```
+    // Create manually nodes
+    Node* root = new Node(10);
+    Node* a = new Node(20);
+    Node* b = new Node(30);
+    Node* c = new Node(40);
+    Node* d = new Node(50);
+    Node* e = new Node(60);
+
+    // Make connection with each other nodes
+    root->left = a;
+    root->right = b;
+    a->left = c;
+    b->left = d;
+    b->right = e;
+    ```
