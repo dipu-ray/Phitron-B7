@@ -14,13 +14,13 @@ public:
     }
 };
 
-void preorder(Node* root) {
+void inorder(Node* root) {
     if(root == NULL) {
-        return;                 // Base case
+        return;                 // Base Case
     }
+    inorder(root->left);       // Go to Left
     cout << root->val << " ";   // Root
-    preorder(root->left);       // Go to Left
-    preorder(root->right);      // Go to right
+    inorder(root->right);      // Go to Right
 }
 
 int main() {
@@ -39,7 +39,7 @@ int main() {
     b->left = d;
     b->right = e;
 
-    preorder(root);
+    inorder(root);
 
     return 0;
 }
