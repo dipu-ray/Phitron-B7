@@ -113,3 +113,16 @@ Program: `creating_nodes.cpp`
 - Preorder Traversal Implementation with `Recursion`
 - <img src="./images/drawing13.png" width="500">
 - Program: `preorder_traversal.cpp`
+
+## 10. Preorder Traversal Animated
+- Explanation those code with animated way in this video:
+    ```
+    void preorder(Node* root) {
+        if(root == NULL) {
+            return;
+        }
+        cout << root->val << " ";
+        preorder(root->left);
+        preorder(root->right);
+    }
+    ```
