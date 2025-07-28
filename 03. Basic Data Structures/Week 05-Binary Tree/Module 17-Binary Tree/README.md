@@ -177,3 +177,13 @@ Program: `postorder_traversal.cpp`
 ## Quiz: Module 17
 - `Total Questions: 10`
 - `Total Marks: 10`
+
+## Quiz Explanation
+- [Quiz Explanation Link:](https://docs.google.com/document/d/12AAp8gvjaOv-o4EgPCmWCJVwao8RCO_u/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
+#### 1. What system does the queue use?
+**a)** Last In First Out   
+**b)** Last In Last Out ✅  
+**c)** First In Last Out  
+**d)** First In Middle Out
+> **Explanation:** ।
+---
