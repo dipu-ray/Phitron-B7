@@ -249,3 +249,19 @@ Non-linear Data Structure - Graph, Tree.
 **d)** A leaf node has both left and right child nodes
 > **Explanation:** বাইনারি ট্রি-তে, একটি লিফ (Leaf) নোড হলো সেই নোড যার কোনো Child নোড নেই। এর অর্থ: Leaf Node এর left and right পয়েন্টার উভয়ই null এবং লিফ নোড সাধারণত ট্রি-এর নিচের স্তরে থাকে।
 ---
+#### 9. Which of the following is level order traversing in a binary tree?
+**a)** Inorder  
+**b)** Preorder  
+**c)** Postorder  
+**d)** None of the above ✅
+> **Explanation:** Order - 1.Depth Wise 2.Level Wise <br>
+1.Depth Wise - Preorder, Inorder, Postorder. <br>
+2.Level Wise - Level order.
+---
+#### 10. Which technique is used for binary tree depth traversing?
+**a)** stack  
+**b)** queue  
+**c)** recursion ✅  
+**d)** loop
+> **Explanation:** বাইনারি ট্রি ডেপথ ট্রাভার্সাল (Depth Traversing)-এ সাধারণত Recursion ব্যবহার করা হয়। Recursion দ্বারা tree এর প্রতিটি শাখার মধ্যে যতটা সম্ভব গভীরভাবে প্রবেশ করা হয়, তারপর আবার পিছনে ফিরে আসা হয়। Recursion দ্বারা, আমরা বাম এবং ডান সাবট্রির জন্য একই ফাংশনকে কল করি, যা tree এর প্রতিটি নোড ভিজিট করে।
+---
