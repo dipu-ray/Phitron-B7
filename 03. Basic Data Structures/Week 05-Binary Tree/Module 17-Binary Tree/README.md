@@ -126,3 +126,6 @@ Program: `creating_nodes.cpp`
         preorder(root->right);
     }
     ```
+
+## 11. Inorder Traversal
+- Abc
