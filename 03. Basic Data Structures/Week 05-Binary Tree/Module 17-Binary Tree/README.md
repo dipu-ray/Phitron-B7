@@ -197,3 +197,23 @@ Program: `postorder_traversal.cpp`
 2.এরপর মূল নোড (Root) ভিজিট করা হয়। <br>
 3.তারপর ডান সাবট্রি (Right subtree) ভিজিট করা হয়।
 ---
+#### 3. Which traversal visits the nodes in the following order: Root, left subtree, right subtree?
+**a)** Preorder traversal ✅  
+**b)** Inorder traversal  
+**c)** Postorder traversal  
+**d)** Level order traversal
+> **Explanation:** Preorder traversal-এ নোডগুলো নিম্নলিখিত ক্রমে ভিজিট করা হয়: <br>
+1.প্রথমে মূল নোড (Root) ভিজিট করা হয়। <br>
+2.এরপর বাম সাবট্রি (Left subtree) ভিজিট করা হয়। <br>
+3.তারপর ডান সাবট্রি (Right subtree) ভিজিট করা হয়।
+---
+#### 4. Which traversal visits the nodes in the following order: Left subtree, right subtree, root?
+**a)** Preorder traversal  
+**b)** Inorder traversal  
+**c)** Postorder traversal ✅  
+**d)** Level order traversal
+> **Explanation:** Postorder traversal-এ নোডগুলো নিম্নলিখিত ক্রমে ভিজিট করা হয়: <br>
+1.প্রথমে বাম সাবট্রি (Left subtree) ভিজিট করা হয়। <br>
+2.তারপর ডান সাবট্রি (Right subtree) ভিজিট করা হয়। <br>
+3.সবশেষে মূল নোড (Root) ভিজিট করা হয়।
+---
