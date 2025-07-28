@@ -77,7 +77,7 @@
 - Pointing to the node:
     - <img src="./images/drawing9.png" width="500">
 Program: `creating_nodes.cpp`
-<img src="./images/drawing10.png" width="500">
+- <img src="./images/drawing10.png" width="500">
 
 ## 6. Creating Binary Tree Animated
 - Explanation those code with animated way:
@@ -97,3 +97,6 @@ Program: `creating_nodes.cpp`
     b->left = d;
     b->right = e;
     ```
+
+## 7. Printing Binary Tree
+- <img src="./images/drawing11.png" width="500">
