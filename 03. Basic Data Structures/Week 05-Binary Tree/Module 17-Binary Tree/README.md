@@ -69,4 +69,12 @@
     - <img src="./images/drawing7.png" width="500">
 - `Not A Binary Tree`:
     - <img src="./images/drawing8.png" width="500">
-- 
+
+## 5. Creating a Binary Tree
+- Two type of Tree:
+    - `Binary Tree` - Max 2 (Child)
+    - `N-ary Tree` - Max n (Child)
+- Pointing to the node:
+    - <img src="./images/drawing9.png" width="500">
+Program: `creating_nodes.cpp`
+<img src="./images/drawing10.png" width="500">
