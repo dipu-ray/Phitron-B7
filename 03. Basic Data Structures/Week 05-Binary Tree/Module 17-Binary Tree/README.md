@@ -165,4 +165,11 @@ Program: `postorder_traversal.cpp`
     ```
 
 ## 15. Summary
+- Learn and explore to `Tree Data Structures` and this is `Non-linear data structures`
+- Learn and explore to `Binary Tree Data Structures` and create binary tree `nodes` and make `connections`. At last print to `Binary Tree`
+- Three types of `Printing Order` or `Traversing Order`
+    - `Preorder`
+    - `Ineorder`
+    - `Postorder`
+- Learn this order and implement this with `Code` or `Recursion`.
 - 
