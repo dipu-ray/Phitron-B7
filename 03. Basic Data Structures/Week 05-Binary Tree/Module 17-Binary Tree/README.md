@@ -100,3 +100,6 @@ Program: `creating_nodes.cpp`
 
 ## 7. Printing Binary Tree
 - <img src="./images/drawing11.png" width="500">
+
+## 8. Preorder Traversal
+- Abc
