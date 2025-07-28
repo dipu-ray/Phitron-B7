@@ -147,4 +147,6 @@ Program: `creating_nodes.cpp`
     ```
 
 ## 13. Postorder Traversal
-- 
+- Learn to explore to `Postorder : left right root`
+    - <img src="./images" width="500">
+    - <img src="./images" width="500">
