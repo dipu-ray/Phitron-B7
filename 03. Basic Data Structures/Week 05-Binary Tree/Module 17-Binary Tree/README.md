@@ -150,3 +150,16 @@ Program: `creating_nodes.cpp`
 - Learn to explore to `Postorder : left right root`
     - <img src="./images/drawing16.png" width="500">
 Program: `postorder_traversal.cpp`
+
+## 14. Postorder Traversal Animated
+- Explanation those code with animated way in this video:
+    ```
+    void postorder(Node* root) {
+        if(root == NULL) {
+            return;                  // Base Case
+        }
+        postorder(root->left);       // Go to Left
+        postorder(root->right);      // Go to Right
+        cout << root->val << " ";    // Root
+    }
+    ```
