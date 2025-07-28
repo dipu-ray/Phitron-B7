@@ -108,3 +108,8 @@ Program: `creating_nodes.cpp`
 - Learn to explore to `Preorder : root left right`
     - <img src="./images/drawing12.png" width="500">
     - `Preorder Traversal = 1, 2, 4, 5, 8, 3, 6, 7, 9, 10`
+
+## 9. Preorder Traversal Implementation
+- Preorder Traversal Implementation with `Recursion`
+- <img src="./images/drawing13.png" width="500">
+- Program: `preorder_traversal.cpp`
