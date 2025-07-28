@@ -217,3 +217,21 @@ Program: `postorder_traversal.cpp`
 2.তারপর ডান সাবট্রি (Right subtree) ভিজিট করা হয়। <br>
 3.সবশেষে মূল নোড (Root) ভিজিট করা হয়।
 ---
+#### 5. Which of the following are linear data structures?
+**a)** array  
+**b)** linked list  
+**c)** stack  
+**d)** all of the above ✅
+> **Explanation:** Linear Data Structure - Array/Vector, Stack, Queue, Linked List. <br>
+Non-linear Data Structure - Graph, Tree.
+---
+#### 6. How many properties a binary tree node class may have according to the module video?
+**a)** 1  
+**b)** 2  
+**c)** 3 ✅  
+**d)** 4
+> **Explanation:** একটি বাইনারি ট্রি নোড ক্লাসে সাধারণত ৩টি বৈশিষ্ট্য থাকে। তা হলো: <br>
+1.Node Value বা Data: নোডটি যে তথ্য বা মান সংরক্ষণ করে। <br>
+2.Left Child Pointer: এটি Left Child নোডের দিকে নির্দেশ করে (যদি left child না থাকে, তাহলে এটি null থাকে)। <br>
+3.Right Child Pointer: এটি Right Child নোডের দিকে নির্দেশ করে (যদি right child না থাকে, তাহলে এটি null থাকে)।
+---
