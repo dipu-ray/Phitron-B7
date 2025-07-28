@@ -63,4 +63,10 @@
     - <img src="./images/drawing6.png" width="500">
 
 ## 4. What is Binary Tree
-- Abc
+- Every node child max are two, then that's is `binary tree`.
+- `0, 1, 2 (Child)`. You don't use that after two max child. Like - `3, 4, 5 (Child) don't use that`.
+- `Binary Tree`:
+    - <img src="./images/drawing7.png" width="500">
+- `Not A Binary Tree`:
+    - <img src="./images/drawing8.png" width="500">
+- 
