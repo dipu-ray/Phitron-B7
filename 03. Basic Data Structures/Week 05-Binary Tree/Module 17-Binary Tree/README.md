@@ -235,3 +235,17 @@ Non-linear Data Structure - Graph, Tree.
 2.Left Child Pointer: এটি Left Child নোডের দিকে নির্দেশ করে (যদি left child না থাকে, তাহলে এটি null থাকে)। <br>
 3.Right Child Pointer: এটি Right Child নোডের দিকে নির্দেশ করে (যদি right child না থাকে, তাহলে এটি null থাকে)।
 ---
+#### 7. In a binary tree, which node is considered as the starting point of the tree?
+**a)** Root node ✅  
+**b)** Leaf node  
+**c)** Uncle node  
+**d)** Sibling node
+> **Explanation:** বাইনারি ট্রি-তে, রুট নোড (Root Node) হলো ট্রি-এর শীর্ষে থাকা নোড এবং এটি ট্রি-এর starting point। এই নোডের কোনো  Parent নেই এবং এখান থেকেই পুরো ট্রি ট্রাভার্স করা হয়।
+---
+#### 8. Which of the following statements is true about a leaf node?
+**a)** A leaf node is the topmost node in a binary tree  
+**b)** A leaf node has exactly one child node  
+**c)** A leaf node does not have any child nodes ✅  
+**d)** A leaf node has both left and right child nodes
+> **Explanation:** বাইনারি ট্রি-তে, একটি লিফ (Leaf) নোড হলো সেই নোড যার কোনো Child নোড নেই। এর অর্থ: Leaf Node এর left and right পয়েন্টার উভয়ই null এবং লিফ নোড সাধারণত ট্রি-এর নিচের স্তরে থাকে।
+---
