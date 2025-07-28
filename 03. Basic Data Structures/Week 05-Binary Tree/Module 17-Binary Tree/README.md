@@ -145,3 +145,6 @@ Program: `creating_nodes.cpp`
         inorder(root->right);      // Go to Right
     }
     ```
+
+## 13. Postorder Traversal
+- 
