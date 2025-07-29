@@ -65,4 +65,5 @@
     ```
 
 ## 4. Binary tree input Theory
+- <img src="./images/drawing4.png" width="500">
 - 
