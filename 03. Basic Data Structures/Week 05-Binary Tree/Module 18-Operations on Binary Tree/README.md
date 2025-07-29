@@ -16,4 +16,10 @@
 - Feedback Form: Module 18
 
 ## 0. Introduction
+- Binary Tree Operations
+- Level Order Traversal
+- Binary Tree Input
+- Counting nodes in Binary Tree - With `Recursive`
+- Counting Leaf Nodes - With `Recursive`
+- Maximum Height of a Binary Tree - With `Recursive`
 - 
