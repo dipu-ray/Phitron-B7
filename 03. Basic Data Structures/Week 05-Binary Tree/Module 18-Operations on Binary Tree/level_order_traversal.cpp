@@ -20,6 +20,7 @@ void level_order(Node* root) {
     while(!q.empty()) {
         // 1. take out - Ber kore ana
         Node* f = q.front();
+        q.pop();
 
         // 2. Working with Node - Oi node niye kaj kora
         cout << f->val << " ";
@@ -31,6 +32,14 @@ void level_order(Node* root) {
         if(f->right != NULL) {
             q.push(f->right);
         }
+
+        // Using shortcut conditions
+        // if(f->left) {    // True
+        //     q.push(f->left);
+        // }
+        // if(f->right) {   // True
+        //     q.push(f->right);
+        // }
     }
 }
 
@@ -49,6 +58,8 @@ int main() {
     a->left = c;
     b->left = d;
     b->right = e;
+
+    level_order(root);
 
     return 0;
 }
