@@ -33,3 +33,6 @@
     - `Children push`
     - <img src="./images/drawing3.png" width="500">
 - `Queue` with non-linear data structure help to level order.
+
+## 2. Level order traversal Implementation
+- Program: `level_order_traversal.cpp`
