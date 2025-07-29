@@ -22,3 +22,6 @@
 - Counting nodes in Binary Tree - With `Recursive`
 - Counting Leaf Nodes - With `Recursive`
 - Maximum Height of a Binary Tree - With `Recursive`
+
+## 1. Level order traversal Theory
+- <img src="./images/drawing.png" width="500">
