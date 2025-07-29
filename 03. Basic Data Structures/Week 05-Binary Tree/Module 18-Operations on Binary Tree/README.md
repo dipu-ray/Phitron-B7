@@ -65,5 +65,7 @@
     ```
 
 ## 4. Binary tree input Theory
-- <img src="./images/drawing4.png" width="500">
-- <img src="./images/drawing5.png" width="500">
+- Example 1:
+    - <img src="./images/drawing4.png" width="500">
+- Example 2:
+    - <img src="./images/drawing5.png" width="500">
