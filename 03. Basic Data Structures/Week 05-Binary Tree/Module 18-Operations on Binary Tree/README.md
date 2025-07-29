@@ -27,3 +27,9 @@
 - Understand `Level order traversal theory` with drawing:
     - <img src="./images/drawing.png" width="500">
     - <img src="./images/drawing2.png" width="500">
+- Rules of `Level order traversal theory`:
+    - `Do it outside`
+    - `This node with work`
+    - `Children push`
+    - <img src="./images/drawing3.png" width="500">
+- `Queue` with non-linear data structure help to level order.
