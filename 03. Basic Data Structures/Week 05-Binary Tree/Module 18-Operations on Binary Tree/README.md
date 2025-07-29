@@ -36,3 +36,30 @@
 
 ## 2. Level order traversal Implementation
 - Program: `level_order_traversal.cpp`
+
+## 3. Level order traversal Animated
+- Explanation those code with animated way:
+    ```
+    void level_order(Node* root) {
+        if(root == NULL) {
+            cout << "No Tree" << endl;
+            return;
+        }
+
+        queue<Node*> q;
+        q.push(root);
+        while(!q.empty()) {
+            Node* f = q.front();
+            q.pop();
+
+            cout << f->val << " ";
+
+            if(f->left != NULL) {
+                q.push(f->left);
+            }
+            if(f->right != NULL) {
+                q.push(f->right);
+            }
+        }
+    }
+    ```
