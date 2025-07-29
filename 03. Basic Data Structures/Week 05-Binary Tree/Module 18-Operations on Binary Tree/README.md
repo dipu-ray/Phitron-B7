@@ -72,3 +72,46 @@
 
 ## 5. Binary tree input Implementation
 - Program: `binary_tree_input.cpp`
+
+## 6. Binary tree input Animated
+- Explanation those code with animated way:
+    ```
+    Node* input_tree() {
+        int val;
+        cin >> val;
+        Node* root;
+
+        if(val == -1) root = NULL;
+        else root = new Node(val);
+        queue<Node*> q;
+
+        if(root) q.push(root);
+        while(!q.empty()) {
+            // 1. Ber kore ana
+            Node* p = q.front();
+            q.pop();
+
+            // 2. Oi node ke niye kaj
+            int l, r;
+            cin >> l >> r;
+            Node *myLeft, *myRight;
+
+            if(l == -1) myLeft = NULL;
+            else myLeft = new Node(l);
+            if(r == -1) myRight = NULL;
+            else myRight = new Node(r);
+
+            p->left = myLeft;
+            p->right = myRight;
+
+            // 3. Children push kora
+            if(p->left) {
+                q.push(p->left);
+            }
+            if(p->right) {
+                q.push(p->right);
+            }
+        }
+        return root;
+    }
+    ```
