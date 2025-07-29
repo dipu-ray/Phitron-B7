@@ -24,4 +24,5 @@
 - Maximum Height of a Binary Tree - With `Recursive`
 
 ## 1. Level order traversal Theory
-- <img src="./images/drawing.png" width="500">
+- Understand `Level order traversal theory` with drawing:
+    - <img src="./images/drawing.png" width="500">
