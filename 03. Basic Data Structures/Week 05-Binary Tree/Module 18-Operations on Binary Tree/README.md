@@ -149,3 +149,10 @@
 ## Extra Practice Problem and Quiz Explanation
 - [Quiz Explanation:](https://docs.google.com/document/d/1ZN-xP1ejpmekpVWW2gida9pU8IsbhBZ4FUhUyoWiUio/edit?usp=sharing)
 - [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1bvnxY4f-Z2NOTm2v0FdYhB5hgdfW6G_FqX_-bd_mQ00/edit?usp=sharing)
+#### 1. What is level order traversal of a binary tree?
+**a)** Visiting nodes in ascending order  
+**b)** Visiting nodes in descending order  
+**c)** Visiting nodes level by level, from left to right ✅  
+**d)** Visiting nodes randomly
+> **Explanation:** Binary Tree-এর Level Order Traversal বলতে বোঝানো হয় একটি ট্রি-র নোডগুলোকে লেভেল বাই লেভেল ভিজিট করা। অর্থাৎ প্রথমে রুট নোড, তারপর দ্বিতীয় লেভেলের সমস্ত নোড (বাম দিক থেকে ডান দিকে), এরপর তৃতীয় লেভেলের নোড, এভাবে একে একে প্রতিটি লেভেল ভিজিট করা হয়।
+---
