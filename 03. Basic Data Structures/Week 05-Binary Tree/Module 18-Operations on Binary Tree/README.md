@@ -177,3 +177,17 @@
 **d)** Level order traversal ✅
 > **Explanation:** Level Order Traversal হল সেই পদ্ধতি যেখানে Queue ডেটা স্ট্রাকচার ব্যবহার করা হয়। এই পদ্ধতিতে ট্রি-এর নোডগুলোকে লেভেল অনুযায়ী ভিজিট করা হয়, অর্থাৎ প্রথমে রুট নোড, তারপর তার চাইল্ড নোড, এরপর তাদের চাইল্ড নোড—এইভাবে লেভেল বাই লেভেল প্রসেস করা হয়।
 ---
+#### 5. In level order traversal, which nodes are visited first at each level?
+**a)** Nodes with the smallest value  
+**b)** Nodes with the largest value  
+**c)** Nodes with the most children  
+**d)** Nodes that appear first in the tree's structure ✅
+> **Explanation:** Level Order Traversal বলতে বোঝানো হয় একটি ট্রি-র নোডগুলোকে লেভেল বাই লেভেল ভিজিট করা। অর্থাৎ প্রথমে রুট নোড, তারপর দ্বিতীয় লেভেলের সমস্ত নোড (বাম দিক থেকে ডান দিকে) এক্ষেত্রে যে Node গুলো আগে আসে তাদের আগে প্রসেস করা হয়ে থাকে , এরপর তৃতীয় লেভেলের নোড, এভাবে একে একে প্রতিটি লেভেল ভিজিট করা হয়।
+---
+#### 6. The space complexity of level order traversal with n nodes is (think deeply):
+**a)** O(1)  
+**b)** O(n) ✅  
+**c)** O(logn)  
+**d)** O(n^2)
+> **Explanation:** Level Order Traversal করতে গেলে Queue ডেটা স্ট্রাকচার ব্যবহার করা হয়। Queue-তে নোডগুলো লেভেল অনুসারে যোগ হয় এবং প্রসেস হওয়ার পর একে একে Queue থেকে বের করা হয়। এক্ষেত্রে একটি certain moment এ Queue তে N থেকে বেশি Node থাকতে পারবে না , যেহেতু tree তে ম্যাক্সিমাম Node আছে N সংখ্যক।
+---
