@@ -141,3 +141,7 @@
         return l + r;
     }
     ```
+
+## Quiz: Module 18
+- `Total Questions: 10`
+- `Total Marks: 10`
