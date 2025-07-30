@@ -25,7 +25,15 @@
 - [Problem 7](https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055)
 
 ## 0. Height and Depth of a binary tree
-- Understand and explore with this draw:
+- Understand and explore to `Binary Tree Height` with this draw:
     - <img src="./images/drawing.png" width="500">
     - <img src="./images/drawing2.png" width="500">
     - <img src="./images/drawing3.png" width="500">
+    - `This way to height count - Drawing...`
+    - `Height are always count with maximum number.`
+- Understand and explore to `Binary Tree Depth` with this draw:
+    - <img src="./images" width="500">
+    - <img src="./images" width="500">
+    - <img src="./images" width="500">
+    - 
+    - 
