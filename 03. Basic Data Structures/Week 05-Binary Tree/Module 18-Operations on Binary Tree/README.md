@@ -117,4 +117,6 @@
     ```
 
 ## 7. Count nodes in a binary tree
-- 
+- <img src="./images/drawing6.png" width="500">
+- Count nodes using with `Recursion`
+- Program: `count_nodes.cpp`
