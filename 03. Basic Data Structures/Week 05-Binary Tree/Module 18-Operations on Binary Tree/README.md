@@ -191,3 +191,17 @@
 **d)** O(n^2)
 > **Explanation:** Level Order Traversal করতে গেলে Queue ডেটা স্ট্রাকচার ব্যবহার করা হয়। Queue-তে নোডগুলো লেভেল অনুসারে যোগ হয় এবং প্রসেস হওয়ার পর একে একে Queue থেকে বের করা হয়। এক্ষেত্রে একটি certain moment এ Queue তে N থেকে বেশি Node থাকতে পারবে না , যেহেতু tree তে ম্যাক্সিমাম Node আছে N সংখ্যক।
 ---
+#### 7. Given a binary tree, how can you determine the number of leaf nodes?
+**a)** Count the nodes with only a left child  
+**b)** Count the nodes with only a right child  
+**c)** Count the nodes with both left and right children  
+**d)** Count the nodes with no children ✅
+> **Explanation:** Binary Tree-তে Leaf Node বলতে বোঝানো হয় সেই নোডগুলোকে যেগুলোর কোনো চাইল্ড নেই। অর্থাৎ, Leaf Node-এর left child এবং right child দুটোই NULL বা শূন্য থাকে। তাহলে, একটি Binary Tree-এর Leaf Node নির্ধারণ করতে হলে সেই নোডগুলো গণনা করতে হবে যেগুলোর left child = NULL এবং right child = NULL।
+---
+#### 8. In the context of binary tree input, what does it mean when the first value is -1?
+**a)** The root node has a value of -1  
+**b)** The tree contains only one node  
+**c)** The tree is empty ✅  
+**d)** The tree has a height of -1
+> **Explanation:** বাইনারি ট্রি ইনপুট নেয়ার সময় প্রথম ভ্যালু -১ হলে এর অর্থ আমাদের বাইনারি ট্রি তে কোনো নোড নেই অথবা ট্রি টি এম্পটি।
+---
