@@ -228,6 +228,11 @@
 ### Extra Practice Problem (Optional):
 - <img src="./images/extra_practice.png" width="500">
 - <img src="./images/extra_practice2.png" width="500">
+- [Problem 1](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+    - [Solution Link](https://leetcode.com/problems/binary-tree-postorder-traversal/solutions/6983185/simple-recursion-runtime-beats-100-memor-1cjt/)
+- [Problem 2](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+    - [Solution Link](https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/6983211/simple-recursion-runtime-memory-beats-10-8s6b/)
+- [Problem 3](https://www.codingninjas.com/studio/problems/level-order-traversal_796002)
 
 ## Feedback Form: Module 18
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
