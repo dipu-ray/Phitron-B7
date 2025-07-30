@@ -23,3 +23,7 @@
     - [Solution Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/7006797/simple-clean-recursion-beats-100-by-piaa-gpiu/)
 - [Problem 6](https://www.codingninjas.com/studio/problems/level-order-traversal_796002)
 - [Problem 7](https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055)
+
+## 0. Height and Depth of a binary tree
+- <img src="./images/drawing.png" width="500">
+- <img src="./images/" width="500">
