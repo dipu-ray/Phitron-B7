@@ -205,3 +205,23 @@
 **d)** The tree has a height of -1
 > **Explanation:** বাইনারি ট্রি ইনপুট নেয়ার সময় প্রথম ভ্যালু -১ হলে এর অর্থ আমাদের বাইনারি ট্রি তে কোনো নোড নেই অথবা ট্রি টি এম্পটি।
 ---
+#### 9. What will be the input values for this binary tree, where 10 is the root and 20 is connected to the left of 10?
+```
+    10
+   /
+  /
+20
+```
+**a)** 10 -1 20 -1 -1  
+**b)** 10 20 -1 -1 -1 ✅  
+**c)** 10 -1 -1 20 -1 -1  
+**d)** 10 20 -1 -1
+> **Explanation:** মডিউলে একটা ট্রি এর ইনপুট কিভাবে নিতে হয় তা দেখানো হয়েছে। (মডিউল ১৮_৪, ১৮_৫ ১৮_৬)।
+---
+#### 10. How many nodes are visited in level order traversal of a binary tree with 7 nodes?
+**a)** 6  
+**b)** 7 ✅  
+**c)** 8  
+**d)** 9
+> **Explanation:** Level Order Traversal এর ক্ষেত্রে সব কয়টি Node ই ভিজিটেড অর্থাৎ প্রসেস হবে।
+---
