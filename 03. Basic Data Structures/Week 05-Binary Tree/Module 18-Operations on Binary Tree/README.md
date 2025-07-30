@@ -163,3 +163,17 @@
 **d)** Linked list
 > **Explanation:** Level Order Traversal সাধারণত Queue ডেটা স্ট্রাকচার ব্যবহার করে ইমপ্লিমেন্ট করা হয়। Queue নোডগুলোকে সঠিক ক্রমানুসারে (লেভেল বাই লেভেল) প্রক্রিয়া করতে সাহায্য করে যা মডিউলে দেখানো হয়েছে।
 ---
+#### 3. In level order traversal, which node is visited first?
+**a)** Root node ✅  
+**b)** Left child of the root  
+**c)** Right child of the root  
+**d)** Node with the smallest value
+> **Explanation:** Level Order Traversal-এ Root Node সর্বপ্রথম ভিজিট করা হয়। এরপরে Root Node-এর left child এবং right child ভিজিট করা হয়, তারপর তাদের child নোডগুলো লেভেল অনুযায়ী প্রসেস করা হয়।
+---
+#### 4. Which traversal technique uses a queue according to the module?
+**a)** Preorder traversal  
+**b)** Inorder traversal  
+**c)** Postorder traversal  
+**d)** Level order traversal ✅
+> **Explanation:** Level Order Traversal হল সেই পদ্ধতি যেখানে Queue ডেটা স্ট্রাকচার ব্যবহার করা হয়। এই পদ্ধতিতে ট্রি-এর নোডগুলোকে লেভেল অনুযায়ী ভিজিট করা হয়, অর্থাৎ প্রথমে রুট নোড, তারপর তার চাইল্ড নোড, এরপর তাদের চাইল্ড নোড—এইভাবে লেভেল বাই লেভেল প্রসেস করা হয়।
+---
