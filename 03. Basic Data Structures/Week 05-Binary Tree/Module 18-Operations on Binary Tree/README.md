@@ -120,3 +120,6 @@
 - <img src="./images/drawing6.png" width="500">
 - Count nodes using with `Recursion`
 - Program: `count_nodes.cpp`
+
+## 8. Count leaf nodes in a binary tree
+- 
