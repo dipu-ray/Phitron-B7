@@ -125,3 +125,19 @@
 - Leaf nodes means they haven't children.
 - <img src="./images/drawing7.png" width="500">
 - Program: `count_leaf_nodes.cpp`
+
+## 9. Count leaf nodes simulation
+- Explanation this code with simulation:
+    ```
+    int count_leaf_nodes(Node* root) {
+        if(root == NULL) {
+            return 0;
+        }
+        if(root->left == NULL && root->right == NULL) {
+            return 1;
+        }
+        int l = count_leaf_nodes(root->left);
+        int r = count_leaf_nodes(root->right);
+        return l + r;
+    }
+    ```
