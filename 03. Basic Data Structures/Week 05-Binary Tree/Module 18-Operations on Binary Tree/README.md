@@ -156,3 +156,10 @@
 **d)** Visiting nodes randomly
 > **Explanation:** Binary Tree-এর Level Order Traversal বলতে বোঝানো হয় একটি ট্রি-র নোডগুলোকে লেভেল বাই লেভেল ভিজিট করা। অর্থাৎ প্রথমে রুট নোড, তারপর দ্বিতীয় লেভেলের সমস্ত নোড (বাম দিক থেকে ডান দিকে), এরপর তৃতীয় লেভেলের নোড, এভাবে একে একে প্রতিটি লেভেল ভিজিট করা হয়।
 ---
+#### 2. Which data structure is typically used to implement level order traversal?
+**a)** Stack  
+**b)** Queue ✅  
+**c)** Array  
+**d)** Linked list
+> **Explanation:** Level Order Traversal সাধারণত Queue ডেটা স্ট্রাকচার ব্যবহার করে ইমপ্লিমেন্ট করা হয়। Queue নোডগুলোকে সঠিক ক্রমানুসারে (লেভেল বাই লেভেল) প্রক্রিয়া করতে সাহায্য করে যা মডিউলে দেখানো হয়েছে।
+---
