@@ -25,5 +25,6 @@
 - [Problem 7](https://www.codingninjas.com/studio/problems/count-leaf-nodes_893055)
 
 ## 0. Height and Depth of a binary tree
-- <img src="./images/drawing.png" width="500">
-- <img src="./images/drawing2.png" width="500">
+- Understand and explore with this draw:
+    - <img src="./images/drawing.png" width="500">
+    - <img src="./images/drawing2.png" width="500">
