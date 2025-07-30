@@ -31,9 +31,10 @@
     - <img src="./images/drawing3.png" width="500">
     - `This way to height count - Drawing...`
     - `Height are always count with maximum number.`
+    - `Height - was leaf nodes are 0 and root node was n numbers`
 - Understand and explore to `Binary Tree Depth` with this draw:
-    - <img src="./images" width="500">
-    - <img src="./images" width="500">
-    - <img src="./images" width="500">
-    - 
-    - 
+    - <img src="./images/drawing4.png" width="500">
+    - <img src="./images/drawing5.png" width="500">
+    - `Depth - was root node are 0 and leaf nodes was n numbers`
+- `Height` and `Depth` in `Binary Tree`:
+    - <img src="./images/drawing6.png" width="500">
