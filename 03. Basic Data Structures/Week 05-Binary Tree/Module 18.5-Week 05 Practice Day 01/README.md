@@ -26,4 +26,4 @@
 
 ## 0. Height and Depth of a binary tree
 - <img src="./images/drawing.png" width="500">
-- <img src="./images/" width="500">
+- <img src="./images/drawing2.png" width="500">
