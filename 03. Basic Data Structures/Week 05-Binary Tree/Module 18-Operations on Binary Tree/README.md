@@ -122,4 +122,6 @@
 - Program: `count_nodes.cpp`
 
 ## 8. Count leaf nodes in a binary tree
-- 
+- Leaf nodes means they haven't children.
+- <img src="./images/drawing7.png" width="500">
+- Program: `count_leaf_nodes.cpp`
