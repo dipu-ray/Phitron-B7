@@ -38,3 +38,5 @@
     - `Depth - was root node are 0 and leaf nodes was n numbers`
 - `Height` and `Depth` in `Binary Tree`:
     - <img src="./images/drawing6.png" width="500">
+
+##
