@@ -40,4 +40,4 @@
     - <img src="./images/drawing6.png" width="500">
 
 ## 1. Get maximum height of a binary tree
-- That whole notes already done. Just fill up the modules notes. Those last whole modules are blanks.
+- That whole notes already done. Just fill up the modules notes. Those last whole
