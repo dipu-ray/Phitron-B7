@@ -23,3 +23,7 @@
 - [Problem 4](https://www.codingninjas.com/studio/problems/diameter-of-the-binary-tree_920552)
 - [Problem 5](https://www.codingninjas.com/studio/problems/special-binary-tree_920502)
 - [Problem 6](https://www.codingninjas.com/studio/problems/reverse-level-order-traversal_764339)
+
+## 0. Introduction
+- There have six problems and trying to solve itself before `Pias Bhai` explain or solved.
+    - <img src="./images/problems.png" width="500">
