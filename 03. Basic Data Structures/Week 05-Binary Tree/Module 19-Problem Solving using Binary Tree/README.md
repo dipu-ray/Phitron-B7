@@ -79,3 +79,6 @@
         }
     }
     ```
+
+## 4. Left View of a Binary Tree
+- Abc
