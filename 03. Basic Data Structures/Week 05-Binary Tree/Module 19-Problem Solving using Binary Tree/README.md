@@ -27,3 +27,18 @@
 ## 0. Introduction
 - There have six problems and trying to solve itself before `Pias Bhai` explain or solved.
     - <img src="./images/problems.png" width="500">
+
+## 1. Is Node Present
+- Let's go to solve `Problem 1`
+- [Problem 1](https://www.codingninjas.com/studio/problems/code-find-a-node_5682)
+- `Solved code`:
+    ```
+    bool isNodePresent(BinaryTreeNode<int> *root, int x) {
+        if(root == NULL) return false;
+        if(root->data == x) return true;
+        bool l = isNodePresent(root->left, x);
+        bool r = isNodePresent(root->right, x);
+        if(l || r) return true;
+        else return false;
+    }
+    ```
