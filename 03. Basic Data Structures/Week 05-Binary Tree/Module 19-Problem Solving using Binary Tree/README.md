@@ -29,7 +29,7 @@
     - <img src="./images/problems.png" width="500">
 
 ## 1. Is Node Present
-- Let's go to solve `Problem 1`
+- Let's go to `Problem 1`
 - [Problem 1](https://www.codingninjas.com/studio/problems/code-find-a-node_5682)
 - `Problem Statement`:
     - <img src="./images/problem1.png" width="500">
@@ -49,3 +49,33 @@
 - Learn and explore to new `STL` - Called to `Pair`
 - Program: `stl_pair.cpp`
 - When two values are combined then we will use to `STL Pair`.
+
+## 3. Node level
+- Let's go to `Problem 2`
+- [Problem 2](https://www.codingninjas.com/studio/problems/node-level_920383)
+- `Problem Statement`:
+    - <img src="./images/problem2a.png" width="500">
+    - <img src="./images/problem2b.png" width="500">
+    - <img src="./images/problem2c.png" width="500">
+- `Solved code`:
+    ```
+    #include <bits/stdc++.h>
+
+    int nodeLevel(TreeNode<int>* root, int searchedValue) {
+        queue<pair<TreeNode<int>*, int>> q;
+        if(root) 
+            q.push({root, 1});
+        while(!q.empty()) {
+            pair<TreeNode<int>*, int> parent = q.front();
+            q.pop();
+            TreeNode<int>* node = parent.first;
+            int level = parent.second;
+            if(node->val == searchedValue)
+                return level;
+            if(node->left)
+                q.push({node->left, level+1});
+            if(node->right)
+                q.push({node->right, level+1});
+        }
+    }
+    ```
