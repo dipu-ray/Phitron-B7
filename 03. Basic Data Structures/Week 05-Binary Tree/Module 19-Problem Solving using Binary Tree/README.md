@@ -31,6 +31,8 @@
 ## 1. Is Node Present
 - Let's go to solve `Problem 1`
 - [Problem 1](https://www.codingninjas.com/studio/problems/code-find-a-node_5682)
+- `Problem Statement`:
+    - <img src="./images/problem1.png" width="500">
 - `Solved code`:
     ```
     bool isNodePresent(BinaryTreeNode<int> *root, int x) {
@@ -42,3 +44,8 @@
         else return false;
     }
     ```
+
+## 2. STL pair
+- Learn and explore to new `STL` - Called to `Pair`
+- Program: `stl_pair.cpp`
+- When two values are combined then we will use to `STL Pair`.
