@@ -44,3 +44,19 @@
     - <img src="./images/drawing7.png" width="500">
     - They are both side `left` and `right` side call with `Recursion` and calculate the `height` - `max(l, r)+1`.
 - Program: `get_max_height.cpp`
+
+## 2. Get maximum height of a binary tree animated
+- Explanation those code in this video with animated way:
+    ```
+    int max_height(Node* root) {
+        if(root == NULL) {
+            return 0;
+        }
+        if(root->left == NULL && root->right == NULL) {
+            return 0;
+        }
+        int l = max_height(root->left);
+        int r = max_height(root->right);
+        return max(l, r) + 1;
+    }
+    ```
