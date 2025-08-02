@@ -40,4 +40,7 @@
     - <img src="./images/drawing6.png" width="500">
 
 ## 1. Get maximum height of a binary tree
-- 
+- Main idea of drawing and building logics:
+    - <img src="./images/drawing7.png" width="500">
+    - They are both side `left` and `right` side call with `Recursion` and calculate the `height` - `max(l, r)+1`.
+- Program: `get_max_height.cpp`
