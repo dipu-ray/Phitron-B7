@@ -60,3 +60,7 @@
         return max(l, r) + 1;
     }
     ```
+
+## 3. Practice Instructions
+- Explanation those whole leetcode practice problems in this video:
+    - <img src="./images/practice_problem2.png" width="500">
