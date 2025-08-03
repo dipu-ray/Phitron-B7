@@ -151,7 +151,9 @@
 - Let's go to `Problem 5`
 - [Problem 5](https://www.codingninjas.com/studio/problems/special-binary-tree_920502)
 - `Problem Statement`:
-    - <img src="./images" width="500">
+    - <img src="./images/problem5a.png" width="500">
+    - <img src="./images/problem5b.png" width="500">
+    - <img src="./images/problem5c.png" width="500">
 - `Solved code`:
     ```
     #include <bits/stdc++.h>
@@ -166,3 +168,51 @@
         return l && r;
     }
     ```
+
+## 7. Reverse Level Order Traversal
+- Let's go to `Problem 6`
+- [Problem 6](https://www.codingninjas.com/studio/problems/reverse-level-order-traversal_764339)
+- `Problem Statement`:
+    - <img src="./images/problem6a.png" width="500">
+    - <img src="./images/problem6b.png" width="500">
+- `Solved code`:
+    ```
+    #include <bits/stdc++.h>
+
+    vector<int> reverseLevelOrder(TreeNode<int> *root){
+        vector<int> v;
+        queue<TreeNode<int> *> q;
+        if(root)
+            q.push(root);
+        while(!q.empty()) {
+            TreeNode<int> * f = q.front();
+            q.pop();
+            v.push_back(f->val);
+            if(f->left)
+                q.push(f->left);
+            if(f->right)
+                q.push(f->right);
+        }
+        reverse(v.begin(), v.end());
+        return v;
+    }
+    ```
+
+## 8. Summary
+- We had `6 (six)` problem solved. There was 3 problem were hard and 3 problem was easy.
+- Learn `STL Pair` with those 6 problem solving.
+- Problem solving was good understanding making as a `Programmer`.
+
+## Extra Practice Problem Link: Module 19
+- [Extra Practice Problem Link](https://docs.google.com/document/d/1QEUDBWXJZyDUk4aVZ1jhR9ux8TWXzdet-TSG9RhTKkk/edit?usp=sharing)
+- <img src="./images/extra_practice_problems.png" width="500">
+- [Problem 1](https://leetcode.com/problems/binary-tree-right-side-view/description/)
+    - [Solution Link](https://leetcode.com/problems/binary-tree-right-side-view/solutions/6979528/simple-clean-tracking-visited-by-piaaaas-dcxm/)
+- [Problem 2](https://leetcode.com/problems/invert-binary-tree/description/)
+    - [Solution Link](https://leetcode.com/problems/invert-binary-tree/solutions/6979505/simple-recursion-swapping-beats-100-by-p-3am1/)
+- [Problem 3](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+    - [Solution Link](https://leetcode.com/problems/diameter-of-binary-tree/solutions/6979539/simple-recursion-by-piaaaas-o3qk/)
+
+## Feedback Form: Module 19
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
