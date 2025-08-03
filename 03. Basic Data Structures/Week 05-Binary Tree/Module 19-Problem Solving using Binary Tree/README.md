@@ -81,4 +81,88 @@
     ```
 
 ## 4. Left View of a Binary Tree
-- Abc
+- Let's go to `Problem 3`
+- [Problem 3](https://www.codingninjas.com/studio/problems/left-view-of-a-binary-tree_920519)
+- `Problem Statement`:
+    - <img src="./images/problem3a.png" width="500">
+    - <img src="./images/problem3b.png" width="500">
+- `Solved code`:
+    ```
+    #include <bits/stdc++.h>
+
+    vector<int> getLeftView(TreeNode<int> *root) {
+        vector<int> ans;
+        bool fre[3005] = {false};
+        queue<pair<TreeNode<int>*, int>> q;
+        if(root)
+            q.push({root, 1});
+        while(!q.empty()) {
+            pair<TreeNode<int>*, int> parent = q.front();
+            q.pop();
+            TreeNode<int>* node = parent.first;
+            int level = parent.second;
+
+            if(fre[level] == false) {
+                ans.push_back(node->data);
+                fre[level] = true;
+            }
+            if(node->left)
+                q.push({node->left, level+1});
+            if(node->right)
+                q.push({node->right, level+1});
+        }
+        return ans;
+    }
+    ```
+
+## 5. Diameter of a Binary Tree
+- The `hardest problem` into six problems.
+- Let's go to `Problem 4`
+- [Problem 4](https://www.codingninjas.com/studio/problems/diameter-of-the-binary-tree_920552)
+- `Problem Statement`:
+    - <img src="./images/problem4a.png" width="500">
+    - <img src="./images/problem4b.png" width="500">
+    - <img src="./images/problem4c.png" width="500">
+    - <img src="./images/problem4d.png" width="500">
+- `Solved code`:
+    ```
+    int mx;
+
+    int max_height(TreeNode<int> *root) {
+        if(root == NULL)
+            return 0;
+        if(root->left == NULL && root->right == NULL)
+            return 1;
+        int l = max_height(root->left);
+        int r = max_height(root->right);
+        int d = l + r;
+        mx = max(mx, d);
+        return max(l, r) + 1;
+    }
+
+    int diameterOfBinaryTree(TreeNode<int> *root) {
+        mx = 0;
+        int h = max_height(root);
+        return mx;
+    }
+    ```
+
+## 6. Special Binary Tree
+- Let's go to `Problem 5`
+- [Problem 5](https://www.codingninjas.com/studio/problems/special-binary-tree_920502)
+- `Problem Statement`:
+    - <img src="./images" width="500">
+- `Solved code`:
+    ```
+    #include <bits/stdc++.h>
+
+    bool isSpecialBinaryTree(BinaryTreeNode<int>* root) {
+        if(root == NULL)
+            return true;
+        if((root->left != NULL && root->right == NULL) || (root->left == NULL && root->right != NULL))
+            return false;
+        bool l = isSpecialBinaryTree(root->left);
+        bool r = isSpecialBinaryTree(root->right);
+        return l && r;
+    }
+    ```
