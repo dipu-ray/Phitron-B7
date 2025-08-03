@@ -36,5 +36,36 @@
     - `all values of left sub-tree < node->val`
     - `all values of right sub-tree > node->val`
 - <img src="./images/drawing.png" width="500">
+- Binary Tree have two child or less than 2. Like - `0, 1, 2` Child's.
 - <img src="./images/drawing2.png" width="500">
 - `BST - Binary Search Tree` - left side child are smaller than root and right side child are bigger than root.
+
+## 2. How to handle duplicate in BST
+- `BST` two conditions are maintain:
+    - `all values of left sub-tree < node->val`
+    - `all values of right sub-tree > node->val`
+    - But if the nodes are both equal then?
+        - `Handle duplicate in BST`
+- <img src="./images/drawing3.png" width="500">
+- <img src="./images/drawing4.png" width="500">
+- `Duplicate value are not insert to node. Just count in root`. Like this:
+    - <img src="./images/drawing5.png" width="500">
+
+## 3. Searching in BST
+- Logic building or idea making with Drawing:
+    - <img src="./images/drawing6.png" width="500">
+    - <img src="./images/drawing7.png" width="500">
+- Program: `search_in_BST.cpp`
+
+## 4. Searching in BST Animated
+- Explanation those code in this video with animated way:
+    ```
+    bool search(Node* root, int val) {
+        if(root == NULL) return false;      // Base case
+        if(root->val == val) return true;
+
+        // Recursion call with condition
+        if(root->val > val) return search(root->left, val);
+        else return search(root->right, val);
+    }
+    ```
