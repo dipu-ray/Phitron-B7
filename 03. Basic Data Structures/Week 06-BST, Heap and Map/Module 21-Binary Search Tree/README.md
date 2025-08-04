@@ -87,4 +87,3 @@
     - <img src="./images/drawing10.png" width="500">
 - Program: `insert_in_BST.cpp`
 - Here add to new file with images
-- Now it's
