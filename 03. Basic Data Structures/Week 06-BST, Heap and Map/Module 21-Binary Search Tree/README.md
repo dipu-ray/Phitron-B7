@@ -81,4 +81,6 @@
 - The Time Complexity:
     - `[Good] => [h =~ O(log n)] (~ Equivalent)`
     - `[Very Bad] => [h =~ O(n)] (~ Equivalent)`
+
+## 6. Insert in BST
 - 
