@@ -83,4 +83,6 @@
     - `[Very Bad] => [h =~ O(n)] (~ Equivalent)`
 
 ## 6. Insert in BST
-- 
+- Implementation logic with drawing:
+    - <img src="./images/drawing10.png" width="500">
+- Program: `insert_in_BST.cpp`
