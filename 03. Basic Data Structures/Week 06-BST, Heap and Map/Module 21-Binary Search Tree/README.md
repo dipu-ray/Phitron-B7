@@ -69,3 +69,16 @@
         else return search(root->right, val);
     }
     ```
+
+## 5. Complexity of searching in BST
+- Binary Search Complexity is `O(log n)`
+- Binary Search Tree Complexity is `O(Log n)`
+- <img src="./images/drawing8.png" width="500">
+- <img src="./images/drawing9.png" width="500">
+- Binary Tree was good then complexity was `O(log n)` and Binary Tree was very bad then complexity was `O(n)`.
+- `Binary Search Tree` going to every node with `height` that's why is complexity called by `O(h)`.
+    - `BST -> O(h)`
+- The Time Complexity:
+    - `[Good] => [h =~ O(log n)] (~ Equivalent)`
+    - `[Very Bad] => [h =~ O(n)] (~ Equivalent)`
+- 
