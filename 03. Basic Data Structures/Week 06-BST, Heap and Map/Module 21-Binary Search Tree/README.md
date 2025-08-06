@@ -86,3 +86,19 @@
 - Implementation logic with drawing:
     - <img src="./images/drawing10.png" width="500">
 - Program: `insert_in_BST.cpp`
+
+## 7. Insert in BST Animated
+- Explanation those program in this video with animated way:
+    ```
+    void insert(Node* &root, int val) {
+        if(root == NULL) root = new Node(val);
+        if(root->val > val) {
+            if(root->left == NULL) root->left = new Node(val);
+            else insert(root->left, val);
+        }
+        else {
+            if(root->right == NULL) root->right = new Node(val);
+            else insert(root->right, val);
+        }
+    }
+    ```
