@@ -89,4 +89,3 @@
 - There have so much notes have not yet note.
 - Because I am a lazy person with my work.
 - Make discipline in life if you gain to shine in your life.
-- Thank you everyone
