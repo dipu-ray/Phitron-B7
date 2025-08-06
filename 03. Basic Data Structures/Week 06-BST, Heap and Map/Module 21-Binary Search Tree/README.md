@@ -165,3 +165,17 @@
 **d)** All nodes are equal
 > **Explanation:** প্রতিটি নোডের বাম সাবট্রিতে ছোট মান এবং ডান সাবট্রিতে বড় মান থাকে। এটাই BST-এর মূল নিয়ম।
 ---
+#### 3. How do you insert a value in a BST?
+**a)** Traverse to the leftmost node and insert the value  
+**b)** Traverse to the rightmost node and insert the value  
+**c)** Compare the value with nodes and insert it in the correct position to maintain BST property ✅  
+**d)** Replace the root node with the new value
+> **Explanation:** BST-এর ডান ও বাম সাবট্রির তুলনা করে উপযুক্ত স্থানে ইনসার্ট করা হয়।
+---
+#### 4. What happens to the left subtree during a BST insertion?
+**a)** It remains unchanged  
+**b)** The new value is inserted only if it's smaller than the current node ✅  
+**c)** The new value is inserted only if it's larger than the current node  
+**d)** The entire tree is restructured
+> **Explanation:** BST-তে কোনো মান ইনসার্ট করার সময়, BST-এর নিয়ম মেনে চলতে হয়। এই নিয়মে প্রতিটি নোডের বাম সাবট্রিতে কেবলমাত্র ছোট মান ইনসার্ট করা হয় এবং ডান সাবট্রিতে বড় মান ইনসার্ট করা হয়।
+---
