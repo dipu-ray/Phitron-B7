@@ -120,3 +120,18 @@
 
 ## 10. Converting array to BST implementation
 - Program: `array_to_BST.cpp`
+
+## 11. Converting array to BST Animated
+- Explanation those program in this video with animated way:
+    ```
+    Node* convert(int a[], int n, int l, int r) {
+        if(l > r) return NULL;
+        int mid = (l + r) / 2;
+        Node* root = new Node(a[mid]);
+        Node* leftRoot = convert(a, n, l, mid-1);
+        Node* rightRoot = convert(a, n, mid+1, r);
+        root->left = leftRoot;
+        root->right = rightRoot;
+        return root;
+    }
+    ```
