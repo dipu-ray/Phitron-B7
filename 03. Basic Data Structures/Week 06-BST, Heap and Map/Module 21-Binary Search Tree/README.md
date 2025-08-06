@@ -102,3 +102,10 @@
         }
     }
     ```
+
+## 8. Complexity of insert in BST
+- Logic build up with drawing:
+    - <img src="./images/drawing11.png" width="500">
+- `Going from root to NULL` then time complexity is `O(h)`
+- Understanding time complexity of BST:
+    - <img src="./images/drawing12.png" width="500">
