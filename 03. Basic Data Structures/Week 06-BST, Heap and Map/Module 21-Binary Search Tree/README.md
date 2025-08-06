@@ -179,3 +179,17 @@
 **d)** The entire tree is restructured
 > **Explanation:** BST-তে কোনো মান ইনসার্ট করার সময়, BST-এর নিয়ম মেনে চলতে হয়। এই নিয়মে প্রতিটি নোডের বাম সাবট্রিতে কেবলমাত্র ছোট মান ইনসার্ট করা হয় এবং ডান সাবট্রিতে বড় মান ইনসার্ট করা হয়।
 ---
+#### 5. If the input array is empty, what should be returned when converting to a BST?
+**a)** An empty tree (nullptr Or NULL) ✅  
+**b)** A root node with value 0  
+**c)** An exception  
+**d)** A tree with all nodes as nullptr
+> **Explanation:** যদি ইনপুট অ্যারে খালি থাকে, তাহলে কোনো নোড তৈরি করার মতো মান থাকবে না। ফলে, ফাংশনকে একটি NULL pointer বা nullptr রিটার্ন করতে হবে, যা একটি খালি tree কে বোঝায়।
+---
+#### 6. In the process of converting a sorted array to a BST, which element is chosen as the root?
+**a)** The smallest element  
+**b)** The largest element  
+**c)** The middle element ✅  
+**d)** Any random element
+> **Explanation:** অ্যারের মাঝখানের উপাদান রুট হিসেবে নির্বাচন করা হয়। এতে অ্যারেটি দুইভাগে বিভক্ত হয়: বাম দিকের অংশটি বাম সাবট্রি হবে এবং ডান দিকের অংশটি ডান সাবট্রি হবে।
+---
