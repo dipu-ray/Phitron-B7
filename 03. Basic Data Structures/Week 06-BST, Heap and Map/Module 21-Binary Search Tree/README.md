@@ -109,3 +109,11 @@
 - `Going from root to NULL` then time complexity is `O(h)`
 - Understanding time complexity of BST:
     - <img src="./images/drawing12.png" width="500">
+
+## 9. Idea of converting array to BST
+- How to an array convert into a BST. Build logic with drawing:
+    - <img src="./images/drawing13.png" width="500">
+    - <img src="./images/drawing14.png" width="500">
+    - <img src="./images/drawing15.png" width="500">
+    - <img src="./images/drawing16.png" width="500">
+- It's totally make or build with `Recursion`.
