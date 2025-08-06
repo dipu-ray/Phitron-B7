@@ -221,3 +221,10 @@
 **d)** O(nlog⁡n)
 > **Explanation:** যখন একটি sorted অ্যারে থেকে BST তৈরি করা হয়, তখন রূপান্তর প্রক্রিয়া সাধারণত O(n) সময় নিবে। এর কারণ হল: অ্যারেটির প্রতিটি উপাদান থেকে একটি নতুন নোড তৈরি করা হয় এবং এটি BST tree এর সাথে যুক্ত করা হয়। যদি অ্যারেটিতে n সংখ্যক উপাদান থাকে তাহলে n সংখ্যক বার নতুন নোড বানাতে হবে এবং তা BST তে যুক্ত করতে হবে।
 ---
+
+### Extra Practice Problem
+- <img src="./images/extra_practice_problem.png" width="500">
+- [Problem 1](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+    - [Solution Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/solutions/7032523/simple-recursion-by-piaaaas-ry11/)
+- [Problem 2](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+    - [Solution Link](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/7032531/simple-traverse-with-recursion-beats-100-d37b/)
