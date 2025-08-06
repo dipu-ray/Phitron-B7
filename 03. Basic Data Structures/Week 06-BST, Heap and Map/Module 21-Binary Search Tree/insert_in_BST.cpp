@@ -44,8 +44,28 @@ Node* input_tree() {
     return root;
 }
 
-void insert(Node* root, int val) {
-    int c;
+void level_order(Node* root) {
+    queue<Node*> q;
+    q.push(root);
+    while(!q.empty()) {
+        Node* f = q.front();
+        q.pop();
+        cout << f->val << " ";
+        if(f->left) q.push(f->left);
+        if(f->right) q.push(f->right);
+    }
+}
+
+void insert(Node* &root, int val) {
+    if(root == NULL) root = new Node(val);
+    if(root->val > val) {
+        if(root->left == NULL) root->left = new Node(val);
+        else insert(root->left, val);
+    }
+    else {
+        if(root->right == NULL) root->right = new Node(val);
+        else insert(root->right, val);
+    }
 }
 
 int main() {
@@ -54,6 +74,9 @@ int main() {
     Node* root = input_tree();
     int val;
     cin >> val;
+
+    insert(root, val);
+    level_order(root);
 
     return 0;
 }
