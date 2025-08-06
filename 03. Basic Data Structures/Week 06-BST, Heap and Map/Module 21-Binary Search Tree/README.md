@@ -193,3 +193,17 @@
 **d)** Any random element
 > **Explanation:** অ্যারের মাঝখানের উপাদান রুট হিসেবে নির্বাচন করা হয়। এতে অ্যারেটি দুইভাগে বিভক্ত হয়: বাম দিকের অংশটি বাম সাবট্রি হবে এবং ডান দিকের অংশটি ডান সাবট্রি হবে।
 ---
+#### 7. What is the average-case time complexity of searching in a BST?
+**a)** O(1)  
+**b)** O(log⁡ n) ✅  
+**c)** O(n)  
+**d)** O(n^2)
+> **Explanation:** BST-তে সার্চ করার গড় টাইম কমপ্লেক্সিটি হল O(log n), যেখানে n হলো tree এর নোড সংখ্যা।
+---
+#### 8. What happens if a value greater than the root is inserted in a BST?
+**a)** It becomes the root  
+**b)** It is inserted in the left subtree  
+**c)** It is inserted in the right subtree ✅  
+**d)** It replaces the smallest value in the tree
+> **Explanation:** এটি BST-এর মূল বৈশিষ্ট্য, যেখানে প্রতি নোডের বাম সাবট্রিতে ছোট মান এবং ডান সাবট্রিতে বড় মান থাকে। যদি আপনি একটি মান ইনসার্ট করতে চান এবং সেই মান রুটের চেয়ে বড় হয়, তবে সেটি ডান সাবট্রিতে ইনসার্ট করা হবে।
+---
