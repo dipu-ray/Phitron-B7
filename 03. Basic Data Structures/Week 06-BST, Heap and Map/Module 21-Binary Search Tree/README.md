@@ -88,4 +88,3 @@
 - Program: `insert_in_BST.cpp`
 - There have so much notes have not yet note.
 - Because I am a lazy person with my work.
-- Make discipline in life
