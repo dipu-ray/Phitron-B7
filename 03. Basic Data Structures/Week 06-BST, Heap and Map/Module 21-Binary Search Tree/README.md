@@ -135,3 +135,11 @@
         return root;
     }
     ```
+
+## 12. Summary
+- Learn and explore new Data Structure `BST - Binary Search Tree` and how they work.
+- Search in `BST - Binary Search Tree`.
+- Insertion in `BST - Binary Search Tree`.
+- Array convert to `BST - Binary Search Tree`.
+- This whole programs build with `Recursion`.
+- Code thinking with draw or drawings and then implementation with code.
