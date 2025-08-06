@@ -86,3 +86,4 @@
 - Implementation logic with drawing:
     - <img src="./images/drawing10.png" width="500">
 - Program: `insert_in_BST.cpp`
+- There have so much notes have not yet note
