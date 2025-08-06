@@ -207,3 +207,17 @@
 **d)** It replaces the smallest value in the tree
 > **Explanation:** এটি BST-এর মূল বৈশিষ্ট্য, যেখানে প্রতি নোডের বাম সাবট্রিতে ছোট মান এবং ডান সাবট্রিতে বড় মান থাকে। যদি আপনি একটি মান ইনসার্ট করতে চান এবং সেই মান রুটের চেয়ে বড় হয়, তবে সেটি ডান সাবট্রিতে ইনসার্ট করা হবে।
 ---
+#### 9. When converting a sorted array to a BST, which property of the array is crucial?
+**a)** The array must be sorted in ascending order ✅  
+**b)** The array must have distinct elements  
+**c)** The array must have at least one element  
+**d)** The array must be sorted in descending order
+> **Explanation:** BST তৈরি করার জন্য, অ্যারেটি ঊর্ধ্বমুখীভাবে সজ্জিত (sorted in ascending order) থাকা অত্যন্ত গুরুত্বপূর্ণ। কারণ, একটি সজ্জিত অ্যারে থেকে মাঝের উপাদানটি (middle element) রুট হিসেবে নির্বাচন করা হয়। যদি অ্যারে সজ্জিত না থাকে, তবে এমন tree তৈরি হবে যা ব্যালেন্সড হবে না, এবং সেক্ষেত্রে সার্চ বা অন্যান্য অপারেশন হবে না।
+---
+#### 10. You are given a sorted array with n elements. You want to build a balanced Binary Search Tree (BST) by using a method where you always choose the middle element as the root, and do this recursively for the left and right halves. What is the time complexity of this conversion?
+**a)** O(n2)  
+**b)** O(n) ✅  
+**c)** O(log⁡n)  
+**d)** O(nlog⁡n)
+> **Explanation:** যখন একটি sorted অ্যারে থেকে BST তৈরি করা হয়, তখন রূপান্তর প্রক্রিয়া সাধারণত O(n) সময় নিবে। এর কারণ হল: অ্যারেটির প্রতিটি উপাদান থেকে একটি নতুন নোড তৈরি করা হয় এবং এটি BST tree এর সাথে যুক্ত করা হয়। যদি অ্যারেটিতে n সংখ্যক উপাদান থাকে তাহলে n সংখ্যক বার নতুন নোড বানাতে হবে এবং তা BST তে যুক্ত করতে হবে।
+---
