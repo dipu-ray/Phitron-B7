@@ -111,9 +111,12 @@
     - <img src="./images/drawing12.png" width="500">
 
 ## 9. Idea of converting array to BST
-- How to an array convert into a BST. Build logic with drawing:
+- How to an array convert into a BST. Build logic or concept understanding with drawing:
     - <img src="./images/drawing13.png" width="500">
     - <img src="./images/drawing14.png" width="500">
     - <img src="./images/drawing15.png" width="500">
     - <img src="./images/drawing16.png" width="500">
 - It's totally make or build with `Recursion`.
+
+## 10. Converting array to BST implementation
+- Program: `array_to_BST.cpp`
