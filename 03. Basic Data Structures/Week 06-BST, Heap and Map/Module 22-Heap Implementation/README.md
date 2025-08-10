@@ -30,3 +30,8 @@
 - Complete Binary Trees have must be a left child
     - <img src="./images/drawing.png" width="500">
 - Complete Binary Tree hight are `h -> O(log n)`
+
+## 2 Array representation of complete binary tree
+- A Complete Binary Tree convert to Arrays:
+    - <img src="./images/drawing2.png" width="500">
+    - <img src="./images/drawing3.png" width="500">
