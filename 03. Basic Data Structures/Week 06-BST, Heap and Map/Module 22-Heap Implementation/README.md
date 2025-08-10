@@ -40,3 +40,6 @@
         - `parentIndex * 2 + 2 = rightIndex`
     - The Formula (Go to child to parent):
         - `(childIndex - 1) / 2 = parentIndex`
+
+## 3 What is heap
+- Abc
