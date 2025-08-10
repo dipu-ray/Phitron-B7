@@ -1,4 +1,3 @@
 # Date: 03 August, 2025 - Sunday
 
 ## Topics:
-- Abc
