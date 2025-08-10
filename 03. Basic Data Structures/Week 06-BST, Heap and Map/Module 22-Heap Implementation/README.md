@@ -16,3 +16,10 @@
 - Quiz: Module 22
 - Extra Practice Problem and Quiz Explanation
 - Feedback Form: Module 22
+
+## 0. Introduction
+- Learn and explore to Complete `Binary Trees` and `Heaps`
+- Complete Binary Trees: `A Primer`
+- Array Representation of Complete Binary Trees
+- Introducing Heaps: A Specialized Binary Tree
+- All programming languages have `Heaps STL`
