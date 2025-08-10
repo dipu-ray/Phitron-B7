@@ -35,3 +35,8 @@
 - A Complete Binary Tree convert to Arrays:
     - <img src="./images/drawing2.png" width="500">
     - <img src="./images/drawing3.png" width="500">
+    - The Formula (Go to parent to child):
+        - `parentIndex * 2 + 1 = leftIndex`
+        - `parentIndex * 2 + 2 = rightIndex`
+    - The Formula (Go to child to parent):
+        - `(childIndex - 1) / 2 = parentIndex`
