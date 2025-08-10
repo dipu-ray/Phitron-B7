@@ -23,3 +23,7 @@
 - Array Representation of Complete Binary Trees
 - Introducing Heaps: A Specialized Binary Tree
 - All programming languages have `Heaps STL`
+- `Insertion` into a Heap
+- `Deletion` from a Heap
+
+## 1. What is Complete Binary Tree
