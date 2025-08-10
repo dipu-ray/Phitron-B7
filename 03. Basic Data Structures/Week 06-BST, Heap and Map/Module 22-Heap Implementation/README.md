@@ -27,3 +27,5 @@
 - `Deletion` from a Heap
 
 ## 1. What is Complete Binary Tree
+- Complete Binary Trees have must be a left child
+    - <img src="./images/drawing.png" width="500">
