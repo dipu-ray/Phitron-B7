@@ -42,4 +42,8 @@
         - `(childIndex - 1) / 2 = parentIndex`
 
 ## 3 What is heap
-- Abc
+- Heap are two types:
+    - `Max Heap`
+        - `Max heap return to a big value`
+    - `Min Heap`
+        - `Min heap return to a small value`
