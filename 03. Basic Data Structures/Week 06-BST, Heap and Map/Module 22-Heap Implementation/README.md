@@ -51,4 +51,3 @@
 - `Min Heap`
     - `Min heap return to a small value`
     - <img src="./images" width="500">
-    - <img src="./images" width="500">
