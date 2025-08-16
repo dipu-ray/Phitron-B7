@@ -48,4 +48,20 @@
 - <img src="./images/drawing6.png" width="500">
 
 ## 2. Types of Graph
-- 
+- `Types of Graph`:
+    - `Direction`:
+        - `a. Directed`
+        - `b. Undirected`
+    - `Weight`:
+        - `a. Weighted`
+        - `b. Unweighted`
+    - `Cycle`:
+        - `a. Cyclic`
+        - `b. Acyclic`
+- `Direction`:
+    - <img src="./images/drawing7.png" width="500">
+- `Weight`:
+    - <img src="./images/drawing8.png" width="500">
+- `Cycle`:
+    - <img src="./images/drawing9.png" width="500">
+- `Directed` cycle make with `2 (two) nodes` but `Undirected` cycle make with `3 (three) nodes` needed.
