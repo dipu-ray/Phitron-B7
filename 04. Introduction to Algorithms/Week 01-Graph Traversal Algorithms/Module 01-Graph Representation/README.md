@@ -34,3 +34,18 @@
     - `Adjacency List`
     - `Edge List`
 - Comparison: `Adjacency Matrix` VS `Adjacency List` VS `Edge List`
+
+## 1. What is Graph
+- `Graph` is a Data Structures and graphs have some algorithms.
+- `Graph` is parent and his child also `Tree`
+    - <img src="./images/drawing.png" width="500">
+- `Graph VS Tree`:
+    - <img src="./images/drawing2.png" width="500">
+    - <img src="./images/drawing3.png" width="500">
+    - <img src="./images/drawing4.png" width="500">
+    - <img src="./images/drawing5.png" width="500">
+- You can make more differences with `Graph` and `Tree` and main differences `Cycle`. You check are every differences are `Cycle`
+- <img src="./images/drawing6.png" width="500">
+
+## 2. Types of Graph
+- 
