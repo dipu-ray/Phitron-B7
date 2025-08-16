@@ -77,3 +77,14 @@
     - `Cycle`:
         - `a. Cyclic`
         - `b. Acyclic`
+
+## 4. Real life example of graph I
+- The real life example of graph is `Google Map`
+- `Google Map` using are `Graph Algorithms`. Those locate area are thinking as a google map all are nodes.
+
+## 5. Real life example of graph II
+- The real life example of graph is `Facebook Friends`
+- They are connected to each other and see the mutual friend.
+
+## 6. Input graph
+- Abc
