@@ -15,3 +15,22 @@
 - Quiz: Module 01
 - Extra Practice Problem and Quiz Explanation
 - Feedback Form
+
+## Course Introduction
+- `Introduction to Algorithms`
+- This is the process of works. That can also follow to steps. There are algorithms we have already done:
+    - `Binary Search`
+    - `Binary - Preorder, Inorder, Postorder`
+- You can called to `Algorithms` of any process. `Some sequence of steps/instructions to solve a problem`
+
+## 0. Introduction
+- `Graph Data Structures`: A Deep Dive
+- What is a Graph?
+- Types of Graphs
+- Understanding `Real-World Applications` of Graphs
+- Graph Input
+- Graph Representations
+    - `Adjacency Matrix`
+    - `Adjacency List`
+    - `Edge List`
+- Comparison: `Adjacency Matrix` VS `Adjacency List` VS `Edge List`
