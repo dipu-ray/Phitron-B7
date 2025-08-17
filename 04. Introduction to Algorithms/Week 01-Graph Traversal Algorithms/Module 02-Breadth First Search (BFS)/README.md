@@ -23,3 +23,4 @@
 
 ## 2. Adjacency List Animated
 - <img src="./images/drawing2.png" width="500">
+- <img src="./images" width="500">
