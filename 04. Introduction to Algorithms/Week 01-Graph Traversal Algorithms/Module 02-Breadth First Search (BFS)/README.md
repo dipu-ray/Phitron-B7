@@ -22,4 +22,4 @@
 - Program: `adjacency_list.cpp`
 
 ## 2. Adjacency List Animated
-- 
+- <img src="./images/drawing2.png" width="500">
