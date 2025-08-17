@@ -17,3 +17,9 @@
 ## 0. Adjacency List
 - `Adjacency List` concept and logic building with drawing:
     - <img src="./images/drawing.png" width="500">
+
+## 1. Adjacency List Implementation
+- Program: `adjacency_list.cpp`
+
+## 2. Adjacency List Animated
+- 
