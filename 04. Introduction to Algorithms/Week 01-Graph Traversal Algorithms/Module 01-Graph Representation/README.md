@@ -101,4 +101,8 @@
     - <img src="./images/drawing13.png" width="500">
 
 ## 8. Adjacency Matrix Implementation
-- Abc
+- Program: `adjacency_matrix.cpp`
+
+## 9. Adjacency Matrix Animated
+- Explanation those logic with animated way in this video:
+    - <img src="./images/drawing14.png" width="500">
