@@ -87,4 +87,18 @@
 - They are connected to each other and see the mutual friend.
 
 ## 6. Input graph
+- How to input in Graph this logic building with drawing:
+    - <img src="./images/drawing10.png" width="500">
+- We can input into store are 3 ways:
+    - `Adjacency Matrix`
+    - `Adjacency List`
+    - `Edge List`
+
+## 7. Adjacency Matrix
+- Graph and input logic build with drawing:
+    - <img src="./images/drawing11.png" width="500">
+    - <img src="./images/drawing12.png" width="500">
+    - <img src="./images/drawing13.png" width="500">
+
+## 8. Adjacency Matrix Implementation
 - Abc
