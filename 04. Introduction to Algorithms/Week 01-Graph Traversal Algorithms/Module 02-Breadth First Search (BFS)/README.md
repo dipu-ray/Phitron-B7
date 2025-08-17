@@ -35,4 +35,22 @@
     - <img src="./images/drawing4.png" width="500">
 
 ## 5. Comparison of 3 graph representations
-- Abc
+- Comparison of 3 graph representations:
+    - `Adjacency Matrix`
+        - <img src="./images/drawing5.png" width="500">
+    - `Adjacency List`
+        - <img src="./images/drawing6.png" width="500">
+    - `Edge List`
+        - <img src="./images/drawing7.png" width="500">
+- Check 2 nodes connected or not:
+    - `Adjacency Matrix O(1)`
+    - `Adjacency List O(n)`
+    - `Edge List O(n)`
+- All the connected nodes from a node:
+    - `Adjacency List O(1)`
+    - `Adjacency Matrix O(n)`
+    - `Edge List O(n)`
+- Need to Edge nodes from a all nodes:
+    - `Edge List O(1)`
+    - `Adjacency List O(n)`
+    - `Adjacency Matrix O(n)`
