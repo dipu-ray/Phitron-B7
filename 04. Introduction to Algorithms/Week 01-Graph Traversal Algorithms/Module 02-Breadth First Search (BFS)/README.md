@@ -22,6 +22,10 @@
 - Program: `adjacency_list.cpp`
 
 ## 2. Adjacency List Animated
-- <img src="./images/drawing2.png" width="500">
-- <img src="./images" width="500">
-- <img src="./images" width="500">
+- Explanation this drawing with animated way in this video:
+    - <img src="./images/drawing2.png" width="500">
+
+## 3. Edge List
+- `Edge List` concept and logic building with drawing:
+    - <img src="./images/drawing3.png" width="500">
+- Program: `edge_list.cpp`
