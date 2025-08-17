@@ -29,3 +29,10 @@
 - `Edge List` concept and logic building with drawing:
     - <img src="./images/drawing3.png" width="500">
 - Program: `edge_list.cpp`
+
+## 4. Edge List Animated
+- Explanation this drawing with animated way in this video:
+    - <img src="./images/drawing4.png" width="500">
+
+## 5. Comparison of 3 graph representations
+- Abc
