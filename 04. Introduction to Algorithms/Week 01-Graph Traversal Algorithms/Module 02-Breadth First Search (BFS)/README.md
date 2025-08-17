@@ -54,3 +54,19 @@
     - `Edge List O(1)`
     - `Adjacency List O(n)`
     - `Adjacency Matrix O(n)`
+
+## 6. Graph Visualization
+- [Go to the link](https://csacademy.com/app/graph_editor/)
+- This link for `Graph Visualization`
+
+## 7. Graph Traversal
+- Two type are Graph Traversal:
+    - `Breadth First Search`
+    - `Depth First Search`
+- `Breadth First Search` done the work with `level order`
+    - <img src="./images/drawing8.png" width="500">
+- `Depth First Search` done the work with `Depth wise`
+    - <img src="./images/drawing9.png" width="500">
+
+## 8. BFS Traversal theory
+- Abc
