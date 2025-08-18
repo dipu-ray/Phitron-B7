@@ -78,3 +78,28 @@
 
 ## 9. BFS traversal implementation
 - Program: `bfs.cpp`
+
+## 10. BFS Traversal Animated
+- Explanation those code in this video with animated way:
+    ```
+    void bfs(int src) {
+        queue<int> q;
+        q.push(src);
+        vis_arr[src] = true;
+
+        while(!q.empty()) {
+            // Ber kore ana
+            int parent = q.front();
+            q.pop();
+            // Oi node ke niye kaj
+            cout << parent << " ";
+            // Children gulo push kora
+            for(int child : adj_list[parent]) {
+                if(vis_arr[child] == false) {
+                    q.push(child);
+                    vis_arr[child] = true;
+                }
+            }
+        }
+    }
+    ```
