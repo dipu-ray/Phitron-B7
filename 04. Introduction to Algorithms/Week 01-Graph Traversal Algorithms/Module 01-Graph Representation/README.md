@@ -107,11 +107,6 @@
 - Explanation those logic with animated way in this video:
     - <img src="./images/drawing14.png" width="500">
 
-
-
-
-
-
 ## Quiz: Module 01
 - `Total Questions: 10`
 - `Total Marks: 10`
