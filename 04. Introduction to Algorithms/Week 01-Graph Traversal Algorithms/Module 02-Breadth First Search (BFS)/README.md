@@ -128,6 +128,35 @@
 **d)** Both Adjacency List and Adjacency Matrix
 > **Explanation:** Adjacency Matrix এর সাহায্যে আমরা খুব সহজেই বের করতে পারি দুটি নোড একে অন্যের সাথে কানেক্টেড আছে কিনা। এটি বের করার টাইম কমপ্লেক্সিটি O(1)।
 ---
+#### 3. Which graph representation is suitable to know how many nodes are connected with a certain node?
+**a)** Adjacency List ✅  
+**b)** Adjacency Matrix  
+**c)** Edge List  
+**d)** Both Adjacency List and Adjacency Matrix
+> **Explanation:** Adjacency List ব্যবহার করলে আমরা খুব সহজেই একটি নোডের সাথে ঠিক কতোগুলো নোড কানেক্টেড তা বের করতে পারি O(1) টাইম কমপ্লেক্সিটিতে। adjacency_list এ প্রত্যেক Node এর সাথে কারা কানেক্টেড তার জন্যে ভেক্টর থাকে। ঐ ভেক্টরের সাইজ-ই বলে দিবে Node টির সাথে কতোগুলো Node কানেক্টেড।
+---
+#### 4. In BFS, when does a node get marked as "visited"?
+**a)** Before it is enqueued  
+**b)** After it is dequeued  
+**c)** Before it is dequeued  
+**d)** After it is enqueued ✅
+> **Explanation:** BFS-এ কোনো নোড Queue তে রাখা (enqueue) পরই "visited" হিসেবে চিহ্নিত করা হয়, যাতে কোনো নোড পুনরায় Queue-তে না যোগ হয় এবং infinity loop এড়ানো যায়।
+---
+#### 5. Which of the following is true about BFS in terms of the order of nodes visited?
+**a)** Siblings are always visited before children  
+**b)** Children are always visited before siblings  
+**c)** Nodes at the same level can be visited in any order depending on implementation ✅  
+**d)** Descendants are visited before ancestors
+> **Explanation:** BFS এ একই স্তরের নোডগুলো আগে visit করে, তবে সেগুলোর ক্রম Queue-এর implementation এর উপর নির্ভর করে যেকোনো হতে পারে।
+---
+#### 6. What will be the bfs traversal of the graph below if the source is 0?
+- <img src="./images/mcq.png" width="300">
+**a)** Siblings are always visited before children  
+**b)** Children are always visited before siblings  
+**c)** Nodes at the same level can be visited in any order depending on implementation ✅  
+**d)** Descendants are visited before ancestors
+> **Explanation:** BFS এ একই স্তরের নোডগুলো আগে visit করে, তবে সেগুলোর ক্রম Queue-এর implementation এর উপর নির্ভর করে যেকোনো হতে পারে।
+---
 
 ## Feedback Form
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
