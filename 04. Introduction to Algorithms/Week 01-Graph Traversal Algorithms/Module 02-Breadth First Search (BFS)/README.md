@@ -69,4 +69,6 @@
     - <img src="./images/drawing9.png" width="500">
 
 ## 8. BFS Traversal theory
-- Abc
+- `BFS Traversal` also similar to `Binary tree level order traversal`
+    - <img src="./images/drawing10.png" width="500">
+    - Tree can't going from children to parent, but Graph can going from children to parent.
