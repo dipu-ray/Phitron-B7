@@ -151,11 +151,26 @@
 ---
 #### 6. What will be the bfs traversal of the graph below if the source is 0?
 - <img src="./images/mcq.png" width="300">
-**a)** Siblings are always visited before children  
-**b)** Children are always visited before siblings  
-**c)** Nodes at the same level can be visited in any order depending on implementation ✅  
-**d)** Descendants are visited before ancestors
-> **Explanation:** BFS এ একই স্তরের নোডগুলো আগে visit করে, তবে সেগুলোর ক্রম Queue-এর implementation এর উপর নির্ভর করে যেকোনো হতে পারে।
+**a)** 0->3->4->5->6->2->1  
+**b)** 0->1->2->3->6->4->5 ✅  
+**c)** 0->1->2->3->4->5->6  
+**d)** 0->1->3->2->6->4->5
+> **Explanation:** প্রথমে root নোড 0 visit করবে। তারপর 0 এর children গুলো  1,2 visit করবে। তারপর 1 এবং 2 এর children 3 ও 6 visit করবে। তারপর 3 এর children 4 ও 5 visit করবে।
+---
+#### 7. What will be the level of node 4, if the source is 0?
+- <img src="./images/mcq2.png" width="300">
+**a)** 3  
+**b)** 0  
+**c)** 1 ✅  
+**d)** 2
+> **Explanation:** BFS এ নোড 0 বা source নোড এর সাথে  সরাসরি সংযুক্ত নোডগুলোর লেভেল 1 হয়। এখানে, নোড 4 সরাসরি নোড 0-এর সাথে যুক্ত, তাই নোড 4-এর লেভেল 1।
+---
+#### 8. In BFS, what is the strategy for selecting the next node to explore?
+**a)** LIFO (Last-In, First-Out)  
+**b)** Random selection  
+**c)** FIFO (First-In, First-Out) ✅  
+**d)** Priority queue
+> **Explanation:** BFS-এ পরবর্তী নোড নির্বাচনের জন্য Queue (FIFO) পদ্ধতি অনুসরণ করা হয়, অর্থাৎ প্রথমে যে নোডটি Queue তে রাখা হয়েছে, সেটি আগে explore হবে।
 ---
 
 ## Feedback Form
