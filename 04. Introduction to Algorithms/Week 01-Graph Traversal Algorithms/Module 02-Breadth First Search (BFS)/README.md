@@ -106,3 +106,29 @@
 
 ## 11. Complexity Analysis of BFS
 - Abc
+
+## Quiz: Module 02
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Extra Practice Problem and Quiz Explanation
+- [Quiz Explanation:](https://docs.google.com/document/d/1OnDcOECydNTe0yOf0BTuAbNRBguysXHu/edit?usp=sharing&ouid=110071013354717279052&rtpof=true&sd=true)
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1yv6zXh9cGeP0owXS71hF_YZlzU8yPAq9fJNcfkC715A/edit?usp=sharing)
+#### 1. What does BFS stand for?
+**a)** Best-First Search  
+**b)** Breadth-First Search ✅  
+**c)** Binary-First Search  
+**d)** Backward-First Search
+> **Explanation:** BFS stands for Breadth First Search।
+---
+#### 2. Which graph representation is suitable to know if a node is connected with another node?
+**a)** Adjacency Matrix ✅  
+**b)** Adjacency List  
+**c)** Edge List  
+**d)** Both Adjacency List and Adjacency Matrix
+> **Explanation:** Adjacency Matrix এর সাহায্যে আমরা খুব সহজেই বের করতে পারি দুটি নোড একে অন্যের সাথে কানেক্টেড আছে কিনা। এটি বের করার টাইম কমপ্লেক্সিটি O(1)।
+---
+
+## Feedback Form
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
