@@ -172,6 +172,22 @@
 **d)** Priority queue
 > **Explanation:** BFS-এ পরবর্তী নোড নির্বাচনের জন্য Queue (FIFO) পদ্ধতি অনুসরণ করা হয়, অর্থাৎ প্রথমে যে নোডটি Queue তে রাখা হয়েছে, সেটি আগে explore হবে।
 ---
+#### 9. What is the time complexity of BFS for an unweighted graph with V vertices and E edges?
+**a)** O(V)  
+**b)** O(E)  
+**c)** O(V + E) ✅  
+**d)** O(log V)
+> **Explanation:** BFS এর time complexity হচ্ছে O(V + E) (মডিউলে ভালোভাবে বুঝানো হয়েছে)।
+---
+#### 10. What is the space complexity of BFS in the worst case scenario?
+**a)** O(logV)  
+**b)** O(V^2)  
+**c)** O(V) ✅  
+**d)** O(V+E)
+> **Explanation:** BFS-এ  worst case এ সকল নোড Queue তে একইসাথে থাকতে পারে, তাই space complexity O(V) হয়।
+---
+### Extra Practice Problem (Optional):
+- <img src="./images/extra_practice.png" width="500">
 
 ## Feedback Form
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
