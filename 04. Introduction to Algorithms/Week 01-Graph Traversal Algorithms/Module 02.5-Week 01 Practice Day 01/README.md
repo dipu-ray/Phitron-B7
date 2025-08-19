@@ -29,4 +29,4 @@
 - Program: `main2.cpp`
 
 ## 2. Path printing theory
-- 
+- Problem: Path printing theory
