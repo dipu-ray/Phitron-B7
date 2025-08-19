@@ -21,4 +21,9 @@
 - [Problem 2](https://cses.fi/problemset/task/1667)
 
 ## 0. Check if a node can be visited or not
-- Abc
+- Problem: Check if a node can be visited or not
+- Program: `main.cpp`
+
+## 1. Single Source Shortest Distance using BFS
+- Problem: Single Source Shortest Distance using BFS
+- Program: `main2.cpp`
