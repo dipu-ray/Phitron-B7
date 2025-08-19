@@ -128,7 +128,8 @@
 - <img src="./images/drawing13.png" width="500">
 - Node have 500 and edge have 2, edge have 1000 and node have 50. That's why `O(N+E)`
 - Node and edge they are different. They are not same. That' why that is `O(N+E)`.
-- BFS Node also called a `vertices` that why we called to time complexity of BFS is `O(V+E)` not `O(N+E)` called.
+- Most of the time Graph Node also called a `vertices` that why we called to time complexity of BFS is `O(V+E)` not `O(N+E)` called.
+- `Space Complexity: O(V)` and `Time Complexity: O(V+E)` This is the BFS time and space complexity.
 
 ## Quiz: Module 02
 - `Total Questions: 10`
