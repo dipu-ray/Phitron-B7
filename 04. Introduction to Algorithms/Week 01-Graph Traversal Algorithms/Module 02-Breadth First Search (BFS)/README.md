@@ -127,6 +127,7 @@
     ```
 - <img src="./images/drawing13.png" width="500">
 - Node have 500 and edge have 2, edge have 1000 and node have 50. That's why `O(N+E)`
+- Node and edge they are different. They are not same. That' why that is `O(N+E)`.
 
 ## Quiz: Module 02
 - `Total Questions: 10`
