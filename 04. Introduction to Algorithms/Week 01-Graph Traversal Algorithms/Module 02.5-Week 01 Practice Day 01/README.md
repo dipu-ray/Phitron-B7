@@ -16,3 +16,9 @@
 - <img src="./images/practice_problem3.png" width="500">
 - <img src="./images/practice_problem4.png" width="500">
 - <img src="./images/practice_problem5.png" width="500">
+- [Problem 1](https://leetcode.com/problems/keys-and-rooms/description/)
+    - [Solution Link](https://leetcode.com/problems/keys-and-rooms/solutions/7080245/simple-bfs-beginner-friendly-beats-100-b-lvt4/)
+- [Problem 2](https://cses.fi/problemset/task/1667)
+
+## 0. Check if a node can be visited or not
+- Abc
