@@ -105,7 +105,28 @@
     ```
 
 ## 11. Complexity Analysis of BFS
-- Abc
+- Find out `Time Complexity` and `Space Complexity` of this code:
+    ```
+    void bfs(int src) {
+        queue<int> q;
+        q.push(src);
+        vis_arr[src] = true;
+
+        while(!q.empty()) {
+            int parent = q.front();
+            q.pop();
+            cout << parent << " ";
+            for(int child : adj_list[parent]) {
+                if(vis_arr[child] == false) {
+                    q.push(child);
+                    vis_arr[child] = true;
+                }
+            }
+        }
+    }
+    ```
+- <img src="./images/drawing13.png" width="500">
+- Node have 500 and edge have 2, edge have 1000 and node have 50. That's why `O(N+E)`
 
 ## Quiz: Module 02
 - `Total Questions: 10`
