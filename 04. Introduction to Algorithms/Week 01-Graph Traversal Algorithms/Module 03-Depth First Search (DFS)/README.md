@@ -15,4 +15,7 @@
 - Feedback Form Module 03
 
 ## 0. Introduction
-- Abc
+- Graph Traversal Algorithms - `Depth First Search (DFS)`
+- Learn and understanding when `BFS` using and when `DFS` using.
+- `Depth First Search (DFS)` on a 2D Grid
+- `Breadth First Search (BFS)` on a 2D Grid
