@@ -30,4 +30,8 @@
 
 ## 2. Path printing theory
 - Problem: Path printing theory
+- Understanding the problem logic and theory.
+
+## 3. Path printing implementation
+- Problem: Path printing theory
 - Program: `main3.cpp`
