@@ -19,3 +19,26 @@
 - Learn and understanding when `BFS` using and when `DFS` using.
 - `Depth First Search (DFS)` on a 2D Grid
 - `Breadth First Search (BFS)` on a 2D Grid
+
+## 1. DFS Traversal
+- You can traversal as your wish:
+    - <img src="./images/drawing.png" width="500">
+    - <img src="./images/drawing2.png" width="500">
+- `DFS` code implement with `Recursion`
+
+## 2. DFS Traversal Implementation
+- Code implementation for this Graph:   
+    - <img src="./images/drawing3.png" width="500">
+- Program: `dfs.cpp`
+
+## 3. DFS Animated
+- Explanation those code in this video with animated way:
+    ```
+    void dfs(int src) {
+        cout << src << " ";
+        vis_arr[src] = true;
+        for(int child : adj_list[src])
+            if(vis_arr[child] == false)
+                dfs(child);
+    }
+    ```
