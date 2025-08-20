@@ -42,3 +42,20 @@
                 dfs(child);
     }
     ```
+
+## 4. What is 2D Grid
+- `2D Grid` make thinking a `Graph`
+    - <img src="./images/drawing4.png" width="500">
+    - <img src="./images/drawing5.png" width="500">
+    - <img src="./images/drawing6.png" width="500">
+    - <img src="./images/drawing7.png" width="500">
+
+## 5. DFS on 2D grid
+- <img src="./images/drawing8.png" width="500">
+- <img src="./images/drawing9.png" width="500">
+- <img src="./images/drawing10.png" width="500">
+- <img src="./images/drawing11.png" width="500">
+- Most of the time `4 types of movements` have to work.
+
+## 6. DFS on 2D grid Implementation I
+- Abc
