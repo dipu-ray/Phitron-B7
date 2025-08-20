@@ -37,4 +37,25 @@
 - Program: `main3.cpp`
 
 ## 4. Path printing using BFS Animated
-- Abc
+- Explanation those code in this video with animated way:
+    ```
+    void bfs(int src) {
+        queue<int> q;
+        q.push(src);
+        vis_arr[src] = true;
+        level[src] = 0;
+
+        while(!q.empty()) {
+            int parent = q.front();
+            q.pop();
+            for(int child : adj_list[parent]) {
+                if(vis_arr[child] == false) {
+                    q.push(child);
+                    vis_arr[child] = true;
+                    level[child] = level[parent] + 1;
+                    parent_arr[child] = parent;
+                }
+            }
+        }
+    }
+    ```
