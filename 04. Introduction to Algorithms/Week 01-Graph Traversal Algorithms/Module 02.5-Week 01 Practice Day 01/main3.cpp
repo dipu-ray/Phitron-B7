@@ -45,10 +45,15 @@ int main() {
     cin >> source >> destination;
     bfs(source);
 
+    vector<int> path;
     int node = destination;
     while(node != -1) {
-        cout << node << " ";
+        path.push_back(node);
         node = parent_arr[node];
+    }
+    reverse(path.begin(), path.end());
+    for(int x : path) {
+        cout << x << " ";
     }
 
     return 0;
