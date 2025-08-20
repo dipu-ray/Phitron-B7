@@ -59,3 +59,7 @@
         }
     }
     ```
+
+## 5. Practice Instructions
+- Explanation those whole practice problems in this video. See the first module.
+- [Practice Problem Link:](https://docs.google.com/document/d/1PyDLefzBJ0s9ob5MxfFxUcTM5RB1UaQF/edit?usp=sharing&ouid=110071013354717279052&rtpof=true&sd=true)
