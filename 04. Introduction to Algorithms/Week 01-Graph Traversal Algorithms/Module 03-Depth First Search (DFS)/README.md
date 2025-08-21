@@ -58,4 +58,7 @@
 - Most of the time `4 types of movements` have to work.
 
 ## 6. DFS on 2D grid Implementation I
-- Abc
+- Program: `dfs_2d_grid.cpp`
+
+## 7. DFS on 2D grid Implementation II
+- Program: `dfs_2d_grid2.cpp`
