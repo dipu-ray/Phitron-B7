@@ -62,4 +62,4 @@
 
 ## 7. DFS on 2D grid Implementation II
 - Program: `dfs_2d_grid2.cpp`
-- This program will not finished.
+- This program will not finished. This module also incomplete. See again this module and practices.
