@@ -65,4 +65,3 @@
 - This program will not finished.
 - Reopen this module video notes and understanding the logics.
 - Reopen this module video notes and understanding the logics.
-- Reopen this module video notes and understanding the logics.
