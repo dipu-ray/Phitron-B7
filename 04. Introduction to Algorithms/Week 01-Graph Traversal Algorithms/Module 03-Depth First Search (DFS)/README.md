@@ -64,4 +64,3 @@
 - Program: `dfs_2d_grid2.cpp`
 - This program will not finished.
 - Reopen this module video notes and understanding the logics.
-- Reopen this module video notes and understanding the logics.
