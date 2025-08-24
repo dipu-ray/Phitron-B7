@@ -65,3 +65,77 @@
 - This program `Time Complexity is`
     - `O(V+E)`
     - Then `v = n*m` and `E->edge` will ignored. `Time Complexity = O(n*m)`
+
+## 8. DFS on 2D grid Animated
+- Explanation this code in this video with animated way:
+    ```
+    void dfs(int si, int sj) {
+        cout << si << " " << sj << endl;
+        vis_arr[si][sj] = true;
+        for(int i = 0; i < 4; i++) {
+            int ci = si + d[i].first;
+            int cj = sj + d[i].second;
+            if(valid(ci, cj) == true && !vis_arr[ci][cj]) {
+                dfs(ci, cj);
+            }
+        }
+    }
+    ```
+
+## Quiz: Module 03
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 03
+- [Quiz Explanation:](https://docs.google.com/document/d/1fMr8VybA5kQWQScUDWWlHxLcBIy2V1Cn/edit?usp=drive_link&ouid=112433310488936743525&rtpof=true&sd=true)
+#### 1. What does DFS stand for?
+**a)** Directed First Search  
+**b)** Delay First Search  
+**c)** Depth Full Search  
+**d)** Depth First Search ✅
+> **Explanation:** DFS means Depth First Search।
+---
+#### 2. How is DFS implemented?
+**a)** By Queue  
+**b)** By Recursion ✅  
+**c)** Both A and B  
+**d)** None of them
+> **Explanation:** DFS সাধারণত Recursion বা Stack ব্যবহার করে ইমপ্লিমেন্ট করা হয়। যদিও Stack ব্যবহার করে DFS করা যায়, তবে Recursion ব্যবহার করাই বেশি প্রচলিত। (Recursion ব্যবহার করে DFS আপনাদের মডিউলে দেখানো হয়েছে)।
+---
+#### 3. For the graph, When source=0, What following sequences of DFS will be?
+- <img src="./images/mcq.png" width="200">
+**a)** 0 -> 1-> 5 -> 2-> 4 -> 3  
+**b)** 0 -> 1 -> 5 -> 3-> 4-> 2  
+**c)** 0 -> 2 -> 4-> 3 -> 1-> 5  
+**d)** All of a, b, and c. ✅
+> **Explanation:** কুইজের a,b,c এই ৩ টা অপশনই সঠিক। (কিভাবে DFS ট্রাভার্স করতে হয় তা মডিউলে বিস্তারিত আলোচনা করা হয়েছে)।
+---
+#### 4. What will be the DFS traversal of the graph below if the source is 0?
+- <img src="./images/mcq2.png" width="200">
+**a)** 0 -> 3 -> 4 -> 5 -> 6 -> 2 -> 1  
+**b)** 0 -> 2-> 6 -> 1 ->  3 -> 4 -> 5 ✅  
+**c)** 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6  
+**d)** 0 -> 1 -> 3 -> 2 -> 6 -> 4 -> 5
+> **Explanation:** কুইজের b নং অপশন সঠিক। (কিভাবে DFS ট্রাভার্স করতে হয় তা মডিউলে বিস্তারিত আলোচনা করা হয়েছে)।
+---
+#### 5. In this 2D grid, we want to move from our source cell to the right. Our source cell i=1 and j=1. How can we do this?
+- <img src="./images/mcq3.png" width="200">
+**a)** By adding -1 to i and 0 to j  
+**b)** By adding 0 to i and  -1 to j  
+**c)** By adding 0 to i and 1 to j ✅  
+**d)** By adding 1 to i and 1 to j
+> **Explanation:** 2D গ্রিডে (i, j) কোঅর্ডিনেট ব্যবহার করে move করা হয়, যেখানে i = সারি (row) সংখ্যা এবং j = কলাম (column) সংখ্যা। ডানে যেতে হলে row পরিবর্তন হবে না তাই i এর সাথে 0 যোগ হবে এবং column এক ধাপ বাড়বে তাই j এর সাথে 1 যোগ হবে। তাই, (i, j) → (i + 0, j + 1) আমাদের ডানে যাওয়ার সঠিক উপায়।
+---
+#### 6. In this 2D grid, we want to move from our source cell to the bottom left adjacent. Our source cell i=1 and j=2. How can we do this?
+- <img src="./images/mcq4.png" width="200">
+**a)** By adding -1 to i and -1 to j  
+**b)** By adding 1 to i and  -1 to j ✅  
+**c)** By adding -1 to i and 1 to j  
+**d)** By adding 1 to i and 1 to j
+> **Explanation:** 2D গ্রিডে (i, j) কোঅর্ডিনেট ব্যবহার করে চলাচল করা হয়, যেখানে i = সারি (row) সংখ্যা এবং j = কলাম (column) সংখ্যা। bottom-left যেতে হলে row এর সাথে 1 যোগ করলে নিচে নামবে এবং left যেতে  column এক ধাপ কমবে তাই j এর সাথে 1 বিয়োগ হবে। 
+তাই, আমাদের bottom-left যাওয়ার সঠিক উপায় (i, j) → (i + 1 ,  j - 1)।
+---
+
+## Feedback Form
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
