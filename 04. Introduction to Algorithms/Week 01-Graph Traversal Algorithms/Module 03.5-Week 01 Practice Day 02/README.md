@@ -15,3 +15,14 @@
 - <img src="./images/practice_problem4.png" width="400">
 - <img src="./images/practice_problem5.png" width="400">
 - <img src="./images/practice_problem6.png" width="400">
+- [Problem 1](https://cses.fi/problemset/task/1192)
+- [Problem 2](https://leetcode.com/problems/flood-fill/)
+- [Problem 3](https://leetcode.com/problems/number-of-closed-islands/)
+
+## 0. BFS on 2D grid
+- Program: `bfs_2d_grid.cpp`
+- Next program `bfs_2d_grid2.cpp` for finding shortest distance to each nodes.
+- Program: `bfs_2d_grid2.cpp`
+
+## 1. Variations of 2D Grid
+- Program: `bfs_2d_grid3.cpp`
