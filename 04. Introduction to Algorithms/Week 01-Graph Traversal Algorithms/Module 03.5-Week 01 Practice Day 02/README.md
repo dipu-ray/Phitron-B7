@@ -9,4 +9,9 @@
 
 ## Practice Problem Set: Module 3.5
 - [Practice Problem Link](https://docs.google.com/document/d/1yoK3HsR21Tr4f1y9O_Fo-IMS19-4ho6q/edit?usp=sharing&ouid=110071013354717279052&rtpof=true&sd=true)
-- <img src="./images/practice_problem.png" width="300">
+- <img src="./images/practice_problem.png" width="400">
+- <img src="./images/practice_problem2.png" width="400">
+- <img src="./images/practice_problem3.png" width="400">
+- <img src="./images/practice_problem4.png" width="400">
+- <img src="./images/practice_problem5.png" width="400">
+- <img src="./images/practice_problem6.png" width="400">
