@@ -26,3 +26,16 @@
 
 ## 1. Variations of 2D Grid
 - Program: `bfs_2d_grid3.cpp`
+
+## 2. Number of Components
+- Build logic with drawing and then implement this logic with code.
+- `Disconnected Graph`:
+    - <img src="./images/drawing.png" width="500">
+- Find the number of `Components` in this `Disconnected Graph`
+    - <img src="./images/drawing2.png" width="500">
+    - <img src="./images/drawing3.png" width="500">
+    - <img src="./images/drawing4.png" width="500">
+Program: `number_of_components.cpp`
+
+## 3. Practice Instructions
+- Explanation those whole practice problems. Check - `Practice Problem Set: Module 3.5`
