@@ -135,6 +135,43 @@
 > **Explanation:** 2D গ্রিডে (i, j) কোঅর্ডিনেট ব্যবহার করে চলাচল করা হয়, যেখানে i = সারি (row) সংখ্যা এবং j = কলাম (column) সংখ্যা। bottom-left যেতে হলে row এর সাথে 1 যোগ করলে নিচে নামবে এবং left যেতে  column এক ধাপ কমবে তাই j এর সাথে 1 বিয়োগ হবে। 
 তাই, আমাদের bottom-left যাওয়ার সঠিক উপায় (i, j) → (i + 1 ,  j - 1)।
 ---
+#### 7. What will be the DFS traversal of the graph below if the source is 3?
+- <img src="./images/mcq5.png" width="230">
+**a)** 3 -> 4 -> 5 -> 6 -> 2 -> 1 -> 0  
+**b)** 3 -> 4 -> 5 -> 1 -> 0 -> 2 -> 6 ✅  
+**c)** 3 -> 1 -> 2 -> 0 -> 4 -> 5 -> 6  
+**d)** 3 -> 1 -> 0 -> 2 -> 4 -> 5 -> 6
+> **Explanation:** কুইজের b নং অপশন সঠিক। (কিভাবে DFS ট্রাভার্স করতে হয় তা মডিউলে বিস্তারিত আলোচনা করা হয়েছে)।
+---
+#### 8. For the graph When source=5; What following sequences of DFS will be?
+- <img src="./images/mcq6.png" width="230">
+**a)** 5 -> 1 -> 0 -> 2 -> 4 -> 3  
+**b)** 5 -> 1 -> 0 -> 3 -> 4 -> 2  
+**c)** Both A and B ✅  
+**d)** None of them
+> **Explanation:** কুইজের A,B এই 2 টা অপশনই সঠিক। (কিভাবে DFS ট্রাভার্স করতে হয় তা মডিউলে বিস্তারিত আলোচনা করা হয়েছে )।
+---
+#### 9. What type of traversal method is there for the DFS graph?
+**a)** Level-wise Traversal  
+**b)** Breadth-wise Traversal  
+**c)** Depth-wise Traversal ✅  
+**d)** Random Traversal
+> **Explanation:** DFS এ সাধারণত Depth-wise traversal পদ্ধতি অনুসরণ করে, যেখানে প্রথমে একটি নোড select করা হয়, তারপর যতদূর সম্ভব Depth এ যায়।
+---
+#### 10. When does DFS backtracking occur?
+**a)** When all adjacent nodes are visited ✅  
+**b)** When a new node is found  
+**c)** When a new edge is discovered  
+**d)** When there is only one node
+> **Explanation:** DFS-এ যখন কোনো নোডের সকল Adjacent নোড ভিসিট করা শেষ হয় এবং নতুন কোনো নোডে যাওয়ার path থাকে না। তখন এটি পূর্বের নোডে ফিরে যায় বা backtracking ঘটে। <br><br>
+ভুল Option গুলোর ব্যাখ্যা: <br>
+❌ B) When a new node is found <br>
+➡️ নতুন নোড পাওয়া গেলে ব্যাকট্র্যাকিং হয় না, বরং DFS সেই নোডে যায় এবং  নোড ভিসিট করে। backtracking তখনই ঘটে যখন কোনো নতুন নোড পাওয়া যায় না। <br> <br>
+❌ C) When a new edge is discovered <br>
+➡️ নতুন কোনো Edge discover হলে DFS সেই edge ধরে নতুন নোডে যায়, ব্যাকট্র্যাকিং তখন হয় না। ব্যাকট্র্যাক তখনই হয় যখন আর কোনো নতুন নোডে যাওয়ার edge or path থাকে না। <br> <br>
+❌ D) When there is only one node <br>
+➡️ যদি গ্রাফে শুধু একটি নোড থাকে, তাহলে ব্যাকট্র্যাক করার প্রয়োজনই নেই কারণ নতুন কোনো নোডে যাওয়ার সুযোগ নেই। DFS শুধুমাত্র একটি নোড ভিজিট করেই শেষ হয়ে যাবে। <br> <br>
+---
 
 ## Feedback Form
 - মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
