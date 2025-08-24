@@ -38,4 +38,4 @@
 Program: `number_of_components.cpp`
 
 ## 3. Practice Instructions
-- Explanation those whole practice problems. Check - `Practice Problem Set: Module 3.5`
+- Explanation those whole practice problems in this video. Check - `Practice Problem Set: Module 3.5`
