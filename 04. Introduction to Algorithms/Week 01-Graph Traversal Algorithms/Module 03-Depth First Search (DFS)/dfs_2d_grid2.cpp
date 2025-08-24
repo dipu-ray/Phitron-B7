@@ -4,6 +4,13 @@ using namespace std;
 char grid[101][101];
 bool vis_arr[101][101];
 vector<pair <int, int>> d = {{-1,0},{1,0},{0,-1},{0,1}};
+int n, m;
+
+bool valid(int i, int j) {
+    if(i < 0 || i >= n || j < 0 || j >= m)
+        return false;
+    return true;
+}
 
 void dfs(int si, int sj) {
     cout << si << " " << sj << endl;
@@ -11,14 +18,13 @@ void dfs(int si, int sj) {
     for(int i = 0; i < 4; i++) {
         int ci = si + d[i].first;
         int cj = sj + d[i].second;
-        if(!vis_arr[ci][cj]) {
+        if(valid(ci, cj) == true && !vis_arr[ci][cj]) {
             dfs(ci, cj);
         }
     }
 }
 
 int main() {
-    int n, m;
     cin >> n >> m;
     for(int i = 0; i < n; i++) {
         for(int j = 0; j < m; j++) {
@@ -33,3 +39,5 @@ int main() {
 
     return 0;
 }
+
+// Time Complexity: O(V+E) -> O(n*m)
