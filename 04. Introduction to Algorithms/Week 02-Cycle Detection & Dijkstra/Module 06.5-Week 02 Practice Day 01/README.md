@@ -38,3 +38,83 @@
         - [Solution Link](https://leetcode.com/problems/number-of-enclaves/solutions/7114305/just-dfs-by-piaaaas-5ifu/)
     - [Problem 14](https://leetcode.com/problems/number-of-provinces/)
         - [Solution Link](https://leetcode.com/problems/number-of-provinces/solutions/7114353/simple-dfs-beats-100-by-piaaaas-o81t/)
+
+## Fashionable Array
+- `Problem Image`:
+    - <img src="./images/fashionable_array.png" width="400">
+- [Problem Link](https://codeforces.com/problemset/problem/2110/A)
+- `Problem Solving Code`:
+    ```
+    #include <bits/stdc++.h>
+    using namespace std;
+
+    int main() {
+        int t;
+        cin >> t;
+        while(t--) {
+            int n;
+            cin >> n;
+            int a[n];
+            for(int i = 0; i < n; i++)
+                cin >> a[i];
+
+            sort(a, a+n);
+            int mn = a[0];
+            int mx = a[n-1];
+            if(mn%2 == mx%2) cout << 0 << endl;
+            else {
+                int i = 0, count1 = 0;
+                while(a[i]%2 != mx%2) {
+                    i++;
+                    count1++;
+                }
+                
+                int j = n-1, count2 = 0;
+                while(a[j]%2 != mn%2) {
+                    j--;
+                    count2++;
+                }
+                
+                cout << min(count1, count2) << endl;
+            }
+        }
+
+        return 0;
+    }
+    ```
+
+## Dr. TC
+- `Problem Image`:
+    - <img src="./images/dr_TC.png" width="400">
+- [Problem Link](https://codeforces.com/problemset/problem/2106/A)
+- `Problem Solving Code`:
+    ```
+    #include <bits/stdc++.h>
+    using namespace std;
+
+    int main() {
+        int t;
+        cin >> t;
+        while(t--) {
+            int n;
+            cin >> n;
+            string s;
+            cin >> s;
+            int count = 0;
+            for(char c : s)
+                if(c == '1')
+                    count++;
+                    
+            int ans = 0;
+            for(char c : s) {
+                if(c == '1')
+                    ans += count - 1;
+                else
+                    ans += count + 1;
+            }
+            cout << ans << endl;
+        }
+
+        return 0;
+    }
+    ```
