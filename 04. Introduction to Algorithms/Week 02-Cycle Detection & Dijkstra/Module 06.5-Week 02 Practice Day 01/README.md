@@ -118,3 +118,9 @@
         return 0;
     }
     ```
+
+## Feedback about Road to XPSC
+- [Form Link](https://forms.gle/mfHZZKqj8SDMhkSb8)
+
+## Practice Instructions
+- Explanation those whole practice problem in this video. `1` to `14` all problem explain in this video without `6` and `7` XPSC problems. Check this playlist - `Practice Problem Set: Module 6.5`.
