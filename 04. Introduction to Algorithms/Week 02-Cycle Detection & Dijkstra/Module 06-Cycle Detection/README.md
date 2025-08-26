@@ -14,4 +14,16 @@
 - Feedback Form Module 06
 
 ## 0. Introduction
-- 
+- We will learn to `Cycle Detection`
+- `Cycle Detection`:
+    - `Undirected`:
+        - `BFS`
+        - `DFS`
+    - `Directed`:
+        - `DFS`
+- <img src="./images/drawing.png" width="400">
+- This `Cycle Graph` also a loop system. This cycle will going around or rotates as a loops.
+- `Undirected Graph have minimum 3(three) nodes`
+    - <img src="./images/drawing2.png" width="400">
+- `Directed Graph make with 2(two) nodes`
+    - <img src="./images/drawing3.png" width="400">
