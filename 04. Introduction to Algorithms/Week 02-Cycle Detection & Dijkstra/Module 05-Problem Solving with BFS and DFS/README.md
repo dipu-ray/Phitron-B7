@@ -35,6 +35,13 @@
 - Today problems are this topics related, also `Week 01`. This six problem you solved then you can realize and understand `BFS and DFS` which time to apply which one.
 
 ## 1. Island Perimeter part I
+- In this video we will discuss this problem
+- Problem Image or Statement:
+    - <img src="./images/island_perimeter.png" width="400">
+    - <img src="./images/island_perimeter2.png" width="400">
+- `Graph` and `Algorithms` question are very hard or medium not a easy questions. `BFS` are using for short distance calculate and `DFS` is easy between `BFS`.
+
+## 2. Island Perimeter part II
 - Problem Image or Statement:
     - <img src="./images/island_perimeter.png" width="400">
     - <img src="./images/island_perimeter2.png" width="400">
