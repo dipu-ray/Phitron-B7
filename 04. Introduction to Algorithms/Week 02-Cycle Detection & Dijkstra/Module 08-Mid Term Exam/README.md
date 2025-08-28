@@ -1,4 +1,5 @@
 # Date: 28 August, 2025 - Thursday
 
 ## Topics:
-- Abc
+- Assignment Instruction: Module 08 [Must Read]
+- 
