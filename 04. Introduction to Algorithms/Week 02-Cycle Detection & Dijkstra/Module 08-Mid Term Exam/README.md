@@ -2,4 +2,5 @@
 
 ## Topics:
 - Assignment Instruction: Module 08 [Must Read]
+- Quiz Module 08
 - 
