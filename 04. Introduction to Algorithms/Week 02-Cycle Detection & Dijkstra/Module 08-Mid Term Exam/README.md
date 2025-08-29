@@ -34,7 +34,7 @@
 - Topics with: `text instructions`, `submit with profile link and username`, `marks deadlines` and not using any `AI tools` related five questions.
 
 ## Mid term exam instructions
-- Abc
+- Explanation Mid Term Exam `4 problems` in this video.
 
 ## Mid Term
 - Abc
