@@ -34,3 +34,6 @@
 
 ## Mid term exam instructions
 - Abc
+
+## Mid Term
+- Abc
