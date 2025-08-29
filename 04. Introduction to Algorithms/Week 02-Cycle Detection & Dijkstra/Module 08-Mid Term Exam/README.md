@@ -38,3 +38,5 @@
 
 ## Mid Term
 - Here is submit section your assignment with:
+    - `Profile Link`
+    - `Username`
