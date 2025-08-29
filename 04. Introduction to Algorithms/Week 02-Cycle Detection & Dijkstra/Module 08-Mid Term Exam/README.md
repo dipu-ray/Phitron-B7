@@ -31,3 +31,6 @@
 
 ## Quiz Module 08
 - Abc
+
+## Mid term exam instructions
+- Abc
