@@ -30,7 +30,7 @@
     - ৯) এক্সাম মার্কস রিলেটেড কোন কুয়েরি থাকলে ইমেইল করে দিতে হবে। গ্রুপে পোস্ট করলে ৫ মার্কস কেটে রাখা হবে।
 
 ## Quiz Module 08
-- Abc
+- Here is some short questions `5 out 5`.
 
 ## Mid term exam instructions
 - Abc
