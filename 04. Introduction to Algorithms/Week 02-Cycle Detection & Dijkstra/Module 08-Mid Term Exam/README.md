@@ -31,6 +31,7 @@
 
 ## Quiz Module 08
 - Here is some short questions `5 out 5`.
+- Topics with: `text instructions`, `submit with profile link and username`, `marks deadlines` and not using any `AI tools` related five questions.
 
 ## Mid term exam instructions
 - Abc
