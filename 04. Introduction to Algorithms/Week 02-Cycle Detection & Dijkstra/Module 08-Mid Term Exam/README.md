@@ -37,4 +37,4 @@
 - Explanation Mid Term Exam `4 problems` in this video.
 
 ## Mid Term
-- Abc
+- Here is submit section your assignment with:
