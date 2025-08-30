@@ -99,7 +99,7 @@
 - `Total Marks: 10`
 
 ## Extra Practice Problem and Quiz Explanation
-- [Quiz Explanation:](https://docs.google.com/document/d/1YBY4n8oYlmbWCooU9SwNQhMHhL8Kcwl69dK8A_m3nBg/edit?usp=drivesdk)
+- [Quiz Explanation Link:](https://docs.google.com/document/d/1YBY4n8oYlmbWCooU9SwNQhMHhL8Kcwl69dK8A_m3nBg/edit?usp=drivesdk)
 #### 1. What is a cycle in a graph?
 **a)** A set of nodes connected by edges  
 **b)** The longest path in the graph  
@@ -168,3 +168,19 @@
 **d)** 1
 > **Explanation:** মিনিমাম দুটি Node এর মাধ্যমে directed graph এ cycle ক্রিয়েট হয়। যেমনঃ 1←→2।
 ---
+### Extra Practice Problem (Optional):
+- [Extra Practice Problem Link:](https://docs.google.com/document/d/1psUz9BHS2knojsMRJoFGPECRHJVPHz3tHKbmqUtScJY/edit?usp=drivesdk)
+- <img src="./images/extra_practice.png" width="400">
+- [Problem 1](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+- [Problem 2](https://leetcode.com/problems/course-schedule/)
+    - [Solution Link](https://leetcode.com/problems/course-schedule/solutions/7117305/no-topo-sort-just-dfs-with-pathvis-by-pi-chdo/)
+- [Problem 3](https://leetcode.com/problems/find-eventual-safe-states/)
+    - [Solution Link](https://leetcode.com/problems/find-eventual-safe-states/solutions/7117313/dfs-cycle-detection-solution-by-piaaaas-vt0f/)
+- [Problem 4](https://leetcode.com/problems/number-of-enclaves/)
+    - [Solution Link](https://leetcode.com/problems/number-of-enclaves/solutions/7114305/just-dfs-by-piaaaas-5ifu/)
+- [Problem 5](https://leetcode.com/problems/number-of-provinces/)
+    - [Solution Link](https://leetcode.com/problems/number-of-provinces/solutions/7114353/simple-dfs-beats-100-by-piaaaas-o81t/)
+
+## Feedback Form Module 06
+- মডিউল রিলেটেড তোমার যে কোন ফিডব্যাক থাকলে এই ফর্মে লিখে দিতে পারো। আমরা তোমার ফিডব্যাক গুরুত্বসহকার দেখব।
+- [Form Links](https://forms.gle/DH5mjuGD1x2EZ4z29)
