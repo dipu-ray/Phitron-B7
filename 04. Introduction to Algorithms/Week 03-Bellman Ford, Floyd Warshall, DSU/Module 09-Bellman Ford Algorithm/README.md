@@ -16,4 +16,20 @@
 - Feedback Form Module 09
 
 ## 0. Introduction
-- 
+- Today will learn a new algorithm called to `Bellman-Ford`.
+- Single Source Shortest Distance:
+    - `BFS`
+    - `Dijkstra`
+    - `Bellman-Ford`
+
+## 1. Limitations of Dijkstra and Why we need Bellman-Ford
+- `Dijkstra Problems`:
+    - When have to two `Cycle` and `Negative Weight` or called to in one sentence `Negative Weighted Cycle` then `Dijkstra` can't done the work. This code fall in to `Infinite Loops`. This problem solve with `Bellman-Ford` algorithm.
+- This work able in `Dijkstra`. Because of, this is not a `Negative Weighted Cycle`:
+    - <img src="./images/graph.png" width="400">
+- This work able in `Bellman-Ford`. Because of, this is a `Negative Weighted Cycle`:
+    - <img src="./images/graph2.png" width="400">
+- `Negative Weighted Cycle` means total weight summation are `-value`. For example: `-6+2+3 = -1`.
+
+## 2. Bellman-Ford concept
+- Abc
