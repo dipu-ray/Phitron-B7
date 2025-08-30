@@ -157,13 +157,11 @@
 > **Explanation:** Cycle সমুহ হলোঃ <br> ১। 1 -> 3 -> 4 -> 1 <br> ২। 3-> 4 -> 2 -> 3 <br> ৩। 1->5 -> 4 -> 1 <br> ৪ । 1->5->4->2->3->4->1।
 ---
 #### 9. Which traversal algorithm did we use to detect cycles in directed graphs according to the module?
-- <img src="./images/mcq2.png" width="300">
 **a)** BFS  
 **b)** DFS ✅
 > **Explanation:** মডিউল ৬-৬ এ DFS এর সাহায্যে directed গ্রাফে কীভাবে cycle detect করতে হয় তা দেখানো হয়েছে।
 ---
 #### 10. What is the minimum number of nodes needed to create a cycle in a directed graph?
-- <img src="./images/mcq2.png" width="300">
 **a)** 2 ✅  
 **b)** 3  
 **c)** 4  
