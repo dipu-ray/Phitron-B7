@@ -40,3 +40,56 @@
 
 ## 2. Detect cycle in undirected graph using BFS
 - Program: `main.cpp`
+
+## 3. Detect cycle in undirected graph using BFS Animated
+- Explanation this code in this video:
+    ```
+    void bfs(int src) {
+        queue<int> q;
+        q.push(src);
+        vis[src] = true;
+        while(!q.empty()) {
+            int par = q.front(); // Make a parent value
+            q.pop();
+            for(int child : adj_list[par]) {
+                if(vis[child] && parent[par] != child)
+                    cycle = true;
+                if(!vis[child]) {
+                    q.push(child);
+                    vis[child] = true;
+                    parent[child] = par;
+                }
+            }
+        }
+    }
+    ```
+
+## 4. Detect cycle in undirected graph using DFS
+- Program: `main2.cpp`
+
+## 5. Detect cycle in directed graph
+- Those concept and logic understand in this video.
+    - This is not a `Cycle`:
+        - <img src="./images/graph.png" width="400">
+    - This is a `Cycle`:
+        - <img src="./images/graph2.png" width="400">
+
+## 6. Detect cycle in directed graph using DFS
+- Program: `main3.cpp`
+
+## 7. Detect cycle in directed graph using DFS Animated
+- Explanation this code in this video:
+    ```
+    void dfs(int src) {
+        vis[src] = true;
+        pathVis[src] = true;
+        for(int child : adj_list[src]) {
+            if(vis[child] && pathVis[child])
+                cycle = true;
+            if(!vis[child]) {
+                dfs(child);
+            }
+        }
+        pathVis[src] = false;
+    }
+    ```

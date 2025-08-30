@@ -1,4 +1,4 @@
-// Detect cycle in undirected graph using BFS
+// Detect cycle in undirected graph using DFS
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -7,21 +7,14 @@ vector<int> adj_list[101];
 int parent[101];
 bool cycle;
 
-void bfs(int src) {
-    queue<int> q;
-    q.push(src);
+void dfs(int src) {
     vis[src] = true;
-    while(!q.empty()) {
-        int par = q.front(); // Make a parent value
-        q.pop();
-        for(int child : adj_list[par]) {
-            if(vis[child] && parent[par] != child)
-                cycle = true;
-            if(!vis[child]) {
-                q.push(child);
-                vis[child] = true;
-                parent[child] = par;
-            }
+    for(int child : adj_list[src]) {
+        if(vis[child] && parent[src] != child)
+            cycle = true;
+        if(!vis[child]) {
+            parent[child] = src;
+            dfs(child);
         }
     }
 }
@@ -41,7 +34,7 @@ int main() {
     cycle = false;
     for(int i = 0; i < n; i++) {
         if(!vis[i])
-            bfs(i);
+            dfs(i);
     }
 
     if(cycle)
