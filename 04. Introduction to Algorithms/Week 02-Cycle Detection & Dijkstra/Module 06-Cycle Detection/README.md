@@ -93,3 +93,80 @@
         pathVis[src] = false;
     }
     ```
+
+## Quiz: Module 06
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Extra Practice Problem and Quiz Explanation
+- [Quiz Explanation:](https://docs.google.com/document/d/1YBY4n8oYlmbWCooU9SwNQhMHhL8Kcwl69dK8A_m3nBg/edit?usp=drivesdk)
+#### 1. What is a cycle in a graph?
+**a)** A set of nodes connected by edges  
+**b)** The longest path in the graph  
+**c)** A path that starts and ends at the same node ✅  
+**d)** None of the above
+> **Explanation:** গ্রাফে কোনো একটি নোড থেকে ট্রাভারস শুরু করে সেই একই নোডে ফিরে আসা হলে তাকে একটি সাইক্লিক (Cyclic)  গ্রাফ বলা হয়ে থাকে।
+---
+#### 2. What is the time complexity of cycle detection using Depth-First Search in an undirected graph with V vertices and E edges?
+**a)** O(V)  
+**b)** O(E)  
+**c)** O(V * E)  
+**d)** O(V + E) ✅
+> **Explanation:** আমরা জানি , Depth First Search(DFS) এর টাইম কমপ্লেক্সিটি O(Vertices + Edges) = O(V+E)।
+---
+#### 3. Does this directed graph have a cycle?
+- <img src="./images/mcq.png" width="300">
+**a)** Yes ✅  
+**b)** No
+> **Explanation:** 1-> 5 -> 0 -> 2 -> 3 -> 1 এই পাথ টি একটি cycle নির্দেশ করে।
+---
+#### 4. What do we use to detect cycles in directed graphs?
+**a)** visitedArray, parentArray.  
+**b)** visitedArray only.  
+**c)** visitedArray, pathVisitedArray. ✅  
+**d)** pathVisitedArray only.
+> **Explanation:** মডিউল ৬ এর ৬ নাম্বার সেকশনে এর বিস্তারিত এক্সপ্লেনেশন রয়েছে।
+---
+#### 5. In an undirected graph, what is the minimum number of edges required to form a cycle in a connected component with V vertices?
+**a)** V - 1  
+**b)** V ✅  
+**c)** V + 1  
+**d)** 2V
+> **Explanation:** V সংখ্যক নোড পরস্পরের সাথে যুক্ত করার জন্য V-1 টি edge এর প্রয়োজন। এর চেয়ে একটি edge বেশি হলে graph টিতে একটি cycle ক্রিয়েট হবে. অর্থাৎ মিনিমাম V টি edge হলে একটি cyclic গ্রাফ তৈরি হবে।
+---
+#### 6. What is the minimum number of nodes needed to create a cycle in an undirected graph?
+**a)** 2  
+**b)** 3 ✅  
+**c)** 4  
+**d)** 1
+> **Explanation:** একটি undirected গ্রাফে দুটি Node পরস্পরের সাথে একটি edge এর মধ্যে যুক্ত থাকলে , তাকে সাধারণত cyclic গ্রাফ বলা হয় না। এক্ষেত্রে minimum ৩ টি Node এর প্রয়োজন।
+---
+#### 7. What do we use to detect cycles in undirected graphs?
+**a)** visitedArray, parentArray. ✅  
+**b)** visitedArray only.  
+**c)** visitedArray, pathVisitedArray.  
+**d)** pathVisitedArray only.
+> **Explanation:** একটি visited array এবং parent array এর মাধ্যমে undirected গ্রাফে cycle detect করা সম্ভব যা ৬-২ - ৬-৪ নাম্বার মডিউলে বিস্তারিত ব্যাখা করা হয়েছে।
+---
+#### 8. How many cycles in this directed graph?
+- <img src="./images/mcq2.png" width="300">
+**a)** 2  
+**b)** 4 ✅  
+**c)** 3  
+**d)** 1
+> **Explanation:** Cycle সমুহ হলোঃ <br> ১। 1 -> 3 -> 4 -> 1 <br> ২। 3-> 4 -> 2 -> 3 <br> ৩। 1->5 -> 4 -> 1 <br> ৪ । 1->5->4->2->3->4->1।
+---
+#### 9. Which traversal algorithm did we use to detect cycles in directed graphs according to the module?
+- <img src="./images/mcq2.png" width="300">
+**a)** BFS  
+**b)** DFS ✅
+> **Explanation:** মডিউল ৬-৬ এ DFS এর সাহায্যে directed গ্রাফে কীভাবে cycle detect করতে হয় তা দেখানো হয়েছে।
+---
+#### 10. What is the minimum number of nodes needed to create a cycle in a directed graph?
+- <img src="./images/mcq2.png" width="300">
+**a)** 2 ✅  
+**b)** 3  
+**c)** 4  
+**d)** 1
+> **Explanation:** মিনিমাম দুটি Node এর মাধ্যমে directed graph এ cycle ক্রিয়েট হয়। যেমনঃ 1←→2।
+---
