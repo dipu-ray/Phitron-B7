@@ -32,4 +32,8 @@
 - `Negative Weighted Cycle` means total weight summation are `-value`. For example: `-6+2+3 = -1`.
 
 ## 2. Bellman-Ford concept
-- Abc
+- `Bellman-Ford` Algorithm invented are two person. Name are `Bellman` and `Ford`.
+- <img src="./images/drawing.png" width="400">
+- <img src="./images/drawing2.png" width="400">
+- <img src="./images" width="400">
+- <img src="./images" width="400">
