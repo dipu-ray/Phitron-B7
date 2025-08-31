@@ -41,4 +41,7 @@
 - <img src="./images/drawing5.png" width="400">
 
 ## 3. Bellman-Ford theory
-- Abc
+- Right now, you are fucking student don't understand don't know when use to `Adjacency Matrix`, `Adjacency List` and `Edge List`.
+- Two node connected checking then use to `Adjacency Matrix`.
+- Build checking logic with drawing:
+    - <img src="./images/drawing6.png" width="400">
