@@ -35,5 +35,7 @@
 - `Bellman-Ford` Algorithm invented are two person. Name are `Bellman` and `Ford`.
 - <img src="./images/drawing.png" width="400">
 - <img src="./images/drawing2.png" width="400">
-- <img src="./images" width="400">
-- <img src="./images" width="400">
+- <img src="./images/drawing3.png" width="400">
+- <img src="./images/drawing4.png" width="400">
+- `Bellman-Ford` have source node find with `n-1`. Because of, 0 sources nodes distance 0 and others source node have infinite.
+- <img src="./images/drawing5.png" width="400">
