@@ -41,5 +41,4 @@
 - <img src="./images/drawing5.png" width="400">
 
 ## 3. Bellman-Ford theory
-- <img src="./images" width="400">
-- <img src="./images" width="400">
+- Abc
