@@ -2,3 +2,4 @@
 
 ## Topics:
 - There is a practice day.
+- There is a practice day.
