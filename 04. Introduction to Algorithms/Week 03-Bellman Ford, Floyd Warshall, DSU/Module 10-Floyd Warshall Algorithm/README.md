@@ -8,10 +8,3 @@
 3. Floyd-Warshall Theory II
 4. Floyd-Warshall Implementation
 5. Floyd-Warshall Animated
-6. Detect negative weighted cycle using Floyd-Warshall
-7. DFS vs BFS vs Dijkstra vs Bellman-Ford vs Floyd-warshall
-8. Shortest Routes II
-9. Summary
-- Quiz: Module 10
-- Quiz Explanation Module 10
-- Feedback Form Module 10
