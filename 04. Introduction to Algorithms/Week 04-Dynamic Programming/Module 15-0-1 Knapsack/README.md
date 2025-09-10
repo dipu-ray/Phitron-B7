@@ -2,4 +2,3 @@
 
 ## Topics:
 - Abc
-- Abc
