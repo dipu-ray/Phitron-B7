@@ -15,4 +15,23 @@
 - Feedback Form Module 07
 
 ## 0. Introduction
+- Dijkstra Algorithm:
+    - `Single sources shortest distance`
+- Dijkstra Algorithm learn with two approach:
+    - `Naive` - Time complexity have bad
+    - `Optimized` - Time complexity have good rather than `Naive`
+
+## 1. Why we need to learn Dijkstra
+- <img src="./images/drawing.png" width="400">
+- <img src="./images/drawing2.png" width="400">
+- <img src="./images/drawing3.png" width="400">
+- `Weighted Graph` have do not work `BFS`. When there was `Unweighted Graph` then `BFS` have work.
+- `Unweighted` - `BFS`
+- `Weighted` - `Dijkstra`
+
+## 2. Path relaxation
+- `Path relaxation` is a short concept of `Dijkstra Algorithm`
+- <img src="./images/drawing4.png" width="400">
+
+## 3. Dijkstra Concept
 - Abc
