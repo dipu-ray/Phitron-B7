@@ -34,4 +34,5 @@
 - <img src="./images/drawing4.png" width="400">
 
 ## 3. Dijkstra Concept
-- Abc
+- <img src="./images/drawing5.png" width="400">
+- <img src="./images/drawing6.png" width="400">
