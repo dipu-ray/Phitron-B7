@@ -43,5 +43,3 @@
 - <img src="./images/drawing9.png" width="400">
 - <img src="./images" width="400">
 - <img src="./images" width="400">
-- <img src="./images" width="400">
-- <img src="./images" width="400">
