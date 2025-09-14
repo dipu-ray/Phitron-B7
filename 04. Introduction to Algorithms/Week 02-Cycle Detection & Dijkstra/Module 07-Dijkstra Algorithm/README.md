@@ -44,4 +44,3 @@
 - <img src="./images/drawing9.png" width="400">
 - There have lot of notes not add notes.
 - There have lot of notes not add notes.
-- There have lot of notes not add notes.
