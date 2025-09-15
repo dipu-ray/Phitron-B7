@@ -1,5 +1,4 @@
-
-- There have lot of notes not add notes.# Date: 26 August, 2025 - Tuesday
+# Date: 26 August, 2025 - Tuesday
 
 ## Topics:
 0. Introduction
