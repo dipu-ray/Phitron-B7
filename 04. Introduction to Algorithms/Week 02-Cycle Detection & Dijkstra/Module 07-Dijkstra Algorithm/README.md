@@ -43,3 +43,4 @@
 - <img src="./images/drawing9.png" width="400">
 - I am so laziest person right now!
 - I can't focus on my work or studies.
+- I can't...
