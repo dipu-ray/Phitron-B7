@@ -45,4 +45,3 @@
 - Two node connected checking then use to `Adjacency Matrix`.
 - Build checking logic with drawing:
     - <img src="./images/drawing6.png" width="400">
-    - After a long time...
