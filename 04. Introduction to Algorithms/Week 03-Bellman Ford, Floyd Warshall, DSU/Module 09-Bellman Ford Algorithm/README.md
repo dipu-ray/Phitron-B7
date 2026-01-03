@@ -46,4 +46,3 @@
 - Build checking logic with drawing:
     - <img src="./images/drawing6.png" width="400">
     - <img src="./images/drawing6.png" width="400">
-    - <img src="./images/drawing6.png" width="400">
