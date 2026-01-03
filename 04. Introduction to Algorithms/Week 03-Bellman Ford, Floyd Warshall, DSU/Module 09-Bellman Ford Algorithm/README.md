@@ -30,6 +30,7 @@
 - This work able in `Bellman-Ford`. Because of, this is a `Negative Weighted Cycle`:
     - <img src="./images/graph2.png" width="400">
 - `Negative Weighted Cycle` means total weight summation are `-value`. For example: `-6+2+3 = -1`.
+- When total `edge` are `- value (-1, -2 or -3)` then `Dijkstra` are not working, `Dijkstra` then fall in `infinite loops`. This time use to `Bellman-Ford`.
 
 ## 2. Bellman-Ford concept
 - `Bellman-Ford` Algorithm invented are two person. Name are `Bellman` and `Ford`.
@@ -45,4 +46,3 @@
 - Two node connected checking then use to `Adjacency Matrix`.
 - Build checking logic with drawing:
     - <img src="./images/drawing6.png" width="400">
-    - Abc...
