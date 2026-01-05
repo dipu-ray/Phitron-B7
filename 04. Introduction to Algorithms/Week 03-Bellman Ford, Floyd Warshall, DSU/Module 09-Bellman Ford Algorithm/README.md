@@ -42,8 +42,23 @@
 - <img src="./images/drawing5.png" width="400">
 
 ## 3. Bellman-Ford theory
-- Right now, you are fucking student don't understand don't know when use to `Adjacency Matrix`, `Adjacency List` and `Edge List`.
+- Right now, you don't understand don't know when use to `Adjacency Matrix`, `Adjacency List` and `Edge List`.
 - Two node connected checking then use to `Adjacency Matrix`.
+- When two node connected not to need then we'll use to `Edge List`.
 - Build checking logic with drawing:
     - <img src="./images/drawing6.png" width="400">
-    - Abc
+- `Infinite value` are define with `INT_MAX`. The value of `INT_MAX` in C++ is typically `2,147,483,647` on most modern systems.
+- Main concept of this module to `Need or make to path relaxation conditions`
+    ```
+        dis[a]+c < dis[b] {
+            dis[b] = dis[a]+c;
+        }
+    ```
+
+## 4. Bellman-Ford Animated
+- <img src="./images/drawing7.png" width="400">
+- <img src="./images/drawing8.png" width="400">
+- <img src="./images/drawing9.png" width="400">
+- <img src="./images/drawing10.png" width="400">`
+- <img src="./images/drawing11.png" width="400">`
+- `1st Iteration` done with `4 Edge`
