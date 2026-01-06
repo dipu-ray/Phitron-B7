@@ -77,4 +77,26 @@
     - <img src="./images/drawing21.png" width="400">
 
 ## 5. Bellman-Ford Implementation
-- Program: `main.cpp`
+- Program: `main.cpp` - Doing Main Function
+- Program: `main2.cpp` - Doing Other Function
+
+## 6. Bellman-Ford Animated
+- Explanation this code in this video:
+    ```
+    void bellman_ford(int n) {
+        // Find out edge and doing relaxation
+        for(int i = 0; i < n-1; i++) {
+            for(auto ed : edge_list) {
+                int a = ed.a;
+                int b = ed.b;
+                int c = ed.c;
+                if(dis[a] != INT_MAX && dis[a]+c < dis[b]) {
+                    dis[b] = dis[a]+c;
+                }
+            }
+        }
+    }
+    ```
+
+## 7. Bellman-Ford complexity analysis
+- Abc
