@@ -118,3 +118,8 @@
     }
     // Total time complexity: O(VE)
     ```
+
+## 8. Detect negative weighted cycle using Bellman-Ford
+- <img src="./images/drawing22.png" width="400">
+- Directed Graph Cost are `- value` then Dijkstra are infinite loops, others side Bellman-Ford this case are easily handle. Bellman-Ford not fall into loops, Bellman-Ford get to final output.
+- Program: `main5.cpp`
