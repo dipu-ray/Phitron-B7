@@ -99,4 +99,22 @@
     ```
 
 ## 7. Bellman-Ford complexity analysis
-- Abc
+- Update main2 file to main3 file:
+    - Program: `main3.cpp` - Directed Graph
+- Program: `main4.cpp` - Undirected Graph
+- Time complexity of this code:
+    ```
+    void bellman_ford(int n) {
+        for(int i = 0; i < n-1; i++) { // O(V)
+            for(auto ed : edge_list) { // O(E)
+                int a = ed.a;
+                int b = ed.b;
+                int c = ed.c;
+                if(dis[a] != INT_MAX && dis[a]+c < dis[b]) {
+                    dis[b] = dis[a]+c;
+                }
+            }
+        }
+    }
+    // Total time complexity: O(VE)
+    ```
