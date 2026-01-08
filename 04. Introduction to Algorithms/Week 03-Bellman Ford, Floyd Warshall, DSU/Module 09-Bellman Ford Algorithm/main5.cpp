@@ -40,7 +40,7 @@ void bellman_ford(int src) {
         if(dis[i] == INT_MAX)
             cout << i << "->INF\n";
         else
-            cout << i << "->" << dis[i] << endl;
+            cout << i << " -> " << dis[i] << endl;
     }
 }
 
