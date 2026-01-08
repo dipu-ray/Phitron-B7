@@ -123,3 +123,11 @@
 - <img src="./images/drawing22.png" width="400">
 - Directed Graph Cost are `- value` then Dijkstra are infinite loops, others side Bellman-Ford this case are easily handle. Bellman-Ford not fall into loops, Bellman-Ford get to final output.
 - Program: `main5.cpp`
+
+## 9. Summary
+- Learned Bellman-Ford algorithm.
+- Dijkstra limitation solve with Bellman-Ford.
+- Bellman-Ford not fall into infinite loops with negative cost.
+- Bellman-Ford complexity analysis.
+- Detect negative weighted cycle with one more loops (n times not n-1 times) into Bellman-Ford.
+- Bellman-Ford detected with negative weighted graph.
