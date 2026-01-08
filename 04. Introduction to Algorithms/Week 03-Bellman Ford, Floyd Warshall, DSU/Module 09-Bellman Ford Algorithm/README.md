@@ -131,3 +131,18 @@
 - Bellman-Ford complexity analysis.
 - Detect negative weighted cycle with one more loops (n times not n-1 times) into Bellman-Ford.
 - Bellman-Ford detected with negative weighted graph.
+
+## Quiz: Module 09
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Extra Practice Problem and Quiz Explanation Module 09
+- [Quiz Explanation:](https://docs.google.com/document/d/13TiEKEyJmDqmPzHg7jW27Dhtvf5R3tw_9aSRaoM-nzg/edit?usp=sharing)
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/133PI7IeqTGlajsBJqnp3XLuGjTG1wSMj2R8I2aP3XuA/edit?usp=sharing)
+#### 1. Bellman Ford algorithm provides solutions for __________ problems.
+**a)** All pair shortest path  
+**b)** Sorting  
+**c)** Network flow  
+**d)** Single source shortest path ✅
+> **Explanation:** Bellman-Ford অ্যালগরিদমটি একটি নির্দিষ্ট source নোড থেকে গ্রাফের সকল নোডের মধ্যে shortest path নির্ণয়ের জন্য ব্যবহৃত হয়। এটি single source shortest path সমস্যার সমাধান করে এবং negative weight cycle থাকলেও কাজ করতে পারে।
+---
