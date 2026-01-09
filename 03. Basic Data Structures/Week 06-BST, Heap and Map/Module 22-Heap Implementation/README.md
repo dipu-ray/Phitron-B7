@@ -51,5 +51,4 @@
 - `Min Heap`
     - `Min heap return to a small value`
     - <img src="./images" width="500">
-    - There make a image.
     - Abc...
