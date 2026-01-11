@@ -47,7 +47,6 @@
     - `Min Heap`
 - `Max Heap`
     - `Max heap return to a big value` and `Max Heap` also better than `sort()`.
-    - <img src="./images/drawing4.png" width="500">
 - `Min Heap`
     - `Min heap return to a small value`
-    - <img src="./images" width="500">
+- <img src="./images/drawing4.png" width="500">
