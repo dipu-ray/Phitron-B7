@@ -50,3 +50,14 @@
 - `Min Heap`
     - `Min heap return to a small value`
 - <img src="./images/drawing4.png" width="500">
+
+## 4. Insert in heap theory
+- <img src="./images/drawing5.png" width="500">
+- Insert in heap in there have two (2) conditions:
+    1. A complete Binary Tree
+    2. Be a Max Heap
+- Heap means array not a tree, we are tree drawing for better understanding.
+- A complete Binary Tree & Be a Max Heap:
+    - <img src="./images/drawing6.png" width="500">
+- Now array's:
+    - <img src="./images/drawing7.png" width="500">
