@@ -107,3 +107,13 @@
 - `n'th value add -> O(NlogN)`
 - `1 sort() -> O(NlogN)`
 - `n'th sort() -> O(N^2logN)` - This thing using heap then `O(NlogN)` and without using heap then `O(N^2logN)`.
+
+## 8. Delete from heap theory
+- <img src="./images/drawing8.png" width="500">
+- Here is `29 root value` you can't delete min in heap. But you can delete min value in heap with this steps:
+    - <img src="./images/drawing9.png" width="500">
+    - <img src="./images/drawing10.png" width="500">
+    - <img src="./images/drawing11.png" width="500">
+    - <img src="./images/drawing12.png" width="500">
+- And Array's:
+    - <img src="./images" width="500">
