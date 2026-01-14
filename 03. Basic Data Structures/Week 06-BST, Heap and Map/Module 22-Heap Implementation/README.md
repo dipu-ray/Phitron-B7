@@ -117,3 +117,45 @@
     - <img src="./images/drawing12.png" width="500">
 - And Array's:
     - <img src="./images/drawing13.png" width="500">
+
+## 9. Delete from heap Implementation
+- Program: `delete_in_max_heap.cpp`
+
+## 10. Delete from heap Animated
+- Explanation this code in this video:
+    ```
+    void delete_heap(vector<int> &v) {
+        cout << v[0] << " Deleted. -> ";
+        v[0] = v.back(); // Or v[v.size() - 1]
+        v.pop_back();
+        int current_idx = 0;
+
+        while(true) {
+            int left_idx = current_idx * 2 + 1;
+            int right_idx = current_idx * 2 + 2;
+            int left_val = INT_MIN, right_val = INT_MIN;
+            if(left_idx < v.size())
+                left_val = v[left_idx];
+            if(right_idx < v.size())
+                right_val = v[right_idx];
+
+            if(left_val > right_val && left_val > v[current_idx]) {
+                swap(v[left_idx], v[current_idx]);
+                current_idx = left_idx;
+            }
+            else if(right_val > left_val && right_val > v[current_idx]) {
+                swap(v[right_idx], v[current_idx]);
+                current_idx = right_idx;
+            }
+            else
+                break;
+        }
+    }
+    ```
+
+## 11. Summary
+- Heap are two part - `Max Heap` and `Min Heap`.
+- Heap are two operation - `Insertion` and `Deletion`
+- Insertion complexity `O(logN)`. Deletion complexity `O(logN)`.
+- Understand the process of `Insertion` and `Deletion`.
+- Understand Heap data structure and complete binary tree. How to delete max heap and min heap.
