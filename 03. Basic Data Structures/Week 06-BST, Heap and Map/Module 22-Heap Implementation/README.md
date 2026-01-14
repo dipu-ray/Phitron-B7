@@ -67,3 +67,43 @@
 - From this image logic and idea convert into this code:
     - Program: `insert_in_max_heap.cpp`
     - Program: `insert_in_min_heap.cpp`
+
+## 6. Insert in heap Animated
+- Explanation in this video with max heap program or this code logics:
+    ```
+    int val;
+    cin >> val;
+    v.push_back(val);
+
+    int current_idx = v.size() - 1;
+    while(current_idx != 0) {
+        int parent_idx = (current_idx - 1) / 2;
+        if(v[parent_idx] < v[current_idx])
+            swap(v[parent_idx], v[current_idx]);
+        else
+            break;
+        current_idx = parent_idx;
+    }
+
+    for(int x : v)
+        cout << x << " ";
+    cout << endl;
+    ```
+
+## 7. Complexity of insert in heap
+- This program loops or complexity analysis:
+    ```
+    while(current_idx != 0) {
+        int parent_idx = (current_idx - 1) / 2;
+        if(v[parent_idx] < v[current_idx])
+            swap(v[parent_idx], v[current_idx]);
+        else
+            break;
+        current_idx = parent_idx;
+    }
+    ```
+    - this is `O(h) equivalent O(logN)` and this is a `Complete Binary Tree`. That why, that time complexity is `O(logN)`.
+- `1 value add -> O(logN)`
+- `n'th value add -> O(NlogN)`
+- `1 sort() -> O(NlogN)`
+- `n'th sort() -> O(N^2logN)` - This thing using heap then `O(NlogN)` and without using heap then `O(N^2logN)`.
