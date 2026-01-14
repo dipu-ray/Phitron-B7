@@ -63,4 +63,7 @@
     - <img src="./images/drawing7.png" width="500">
 
 ## 5. Insert in heap Implementation
-- Abc
+- <img src="./images/drawing6.png" width="500">
+- From this image logic and idea convert into this code:
+    - Program: `insert_in_max_heap.cpp`
+    - Program: `insert_in_min_heap.cpp`
