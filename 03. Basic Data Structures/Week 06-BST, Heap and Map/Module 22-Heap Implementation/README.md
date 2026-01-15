@@ -165,12 +165,12 @@
 - `Total Marks: 10`
 
 ## Extra Practice Problem and Quiz Explanation
-- [Quiz Explanation:]()
-- [Extra Practice Problem (Optional):]()
-#### 1. 
-**a)**   
-**b)**   
-**c)**   
-**d)**  ✅
-> **Explanation:** ।
+- [Quiz Explanation:](https://docs.google.com/document/d/15TUfRxfoLViYyl6BfCawTdfKLWU3UWoycM0Ixd5ulgY/edit?usp=sharing)
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1cWSmpJLZx1df1iPeR-EUyGHRPdJQMFtXli2qnBVGOMg/edit?usp=sharing)
+#### 1. What is a complete binary tree?
+**a)** A binary tree where all nodes have exactly two children.  
+**b)** A binary tree where all levels except possibly the last are completely filled, and all nodes in the last level are as far left as possible. ✅  
+**c)** A binary tree where all leaf nodes are at the same depth.  
+**d)** A binary tree where all nodes have either 0 or 2 children.
+> **Explanation:** Complete Binary Tree হলো এমন একটি বাইনারী ট্রি যেখানে শেষ লেভেল এর আগের লেভেল পুরোপুরি কমপ্লিট থাকতে হবে এবং শেষ লেভেল কমপ্লিট না হলে তবে তা বাম দিকে কমপ্লিট হয়ে আসতে হবে।
 ---
