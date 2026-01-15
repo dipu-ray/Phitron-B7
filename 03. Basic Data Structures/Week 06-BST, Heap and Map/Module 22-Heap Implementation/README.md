@@ -165,8 +165,8 @@
 - `Total Marks: 10`
 
 ## Extra Practice Problem and Quiz Explanation
-- [Quiz Explanation:](https://docs.google.com/document/d/1pu8tzTn3rjJryq_jsOZFxSCNXE6pGE0QqugZXdCx7_4/edit?usp=sharing)
-- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1eqBtMKpZg6j-32nKxeViq51SLK5bBtCdxG8QwVX99XM/edit?usp=sharing)
+- [Quiz Explanation:]()
+- [Extra Practice Problem (Optional):]()
 #### 1. How do we handle duplicates in a BST?
 **a)** Insert duplicates on the right subtree  
 **b)** Insert duplicates on the left subtree  
