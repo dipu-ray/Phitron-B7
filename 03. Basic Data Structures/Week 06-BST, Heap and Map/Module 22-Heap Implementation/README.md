@@ -159,3 +159,18 @@
 - Insertion complexity `O(logN)`. Deletion complexity `O(logN)`.
 - Understand the process of `Insertion` and `Deletion`.
 - Understand Heap data structure and complete binary tree. How to delete max heap and min heap.
+
+## Quiz: Module 22
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Extra Practice Problem and Quiz Explanation
+- [Quiz Explanation:](https://docs.google.com/document/d/1pu8tzTn3rjJryq_jsOZFxSCNXE6pGE0QqugZXdCx7_4/edit?usp=sharing)
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1eqBtMKpZg6j-32nKxeViq51SLK5bBtCdxG8QwVX99XM/edit?usp=sharing)
+#### 1. How do we handle duplicates in a BST?
+**a)** Insert duplicates on the right subtree  
+**b)** Insert duplicates on the left subtree  
+**c)** Do not allow duplicates  
+**d)** Any of the above, depending on implementation ✅
+> **Explanation:** মডিউলে বলা হইছিলো, BST তে ডুপ্লিকেট ভ্যালু নিয়ে সরাসরি কাজ করা হয় না। তবে, ডুপ্লিকেট ভ্যালু ও কাউন্ট ট্রি তে pair হিসেবে রাখা যায়। এর উপর ভিত্তি করে কুইজ করা হয়েছে। তবে, ডুপ্লিকেট ভ্যালু BST-তে বিভিন্নভাবে হ্যান্ডেল করা যায়: ডান সাবট্রিতে, বাম সাবট্রিতে, বা ডুপ্লিকেট এলাউ না করেও।
+---
