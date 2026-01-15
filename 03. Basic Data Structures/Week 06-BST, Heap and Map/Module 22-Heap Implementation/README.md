@@ -195,3 +195,53 @@
 **d)** The element is inserted randomly and adjusted downwards to maintain the heap property.
 > **Explanation:** মডিউল অনুসারে আমরা জেনেছি Max Heap একটি ভ্যালু insert করলে তবে তা তার প্যারেন্ট এর ভ্যালু এর সাথে চেক করে Heap শর্ত অনুযায়ী ভ্যালু swap করে। children এবং parent এর ভ্যালু এর এই swapping প্রসেস টি চলতে থাকে যতক্ষন না হিপের শর্ত পূর্ণ হয়।
 ---
+#### 5. Which traversal technique visits the left subtree, then the root, and finally the right subtree?
+**a)** Preorder traversal  
+**b)** In order traversal ✅  
+**c)** Postorder traversal  
+**d)** Level order traversal
+> **Explanation:** আমরা জানি, <br>
+ Preorder : Root → Left → Right। <br>
+ Postorder : Left → Right → Root। <br>
+ Level order traversal: এখানে নোডগুলো লেভেল অনুযায়ী একে একে ভিজিট করা হয় (উপরে থেকে নিচে)। <br>
+ Inorder: Left → Root → Right।
+---
+#### 6. Which element is at the root of a max-heap?
+**a)** The smallest element  
+**b)** The largest element ✅  
+**c)** Any random element  
+**d)** The middle element
+> **Explanation:** মডিউল অনুসারে , Max heap এর নিয়ম অনুযায়ী root node এর ভ্যালু সবসময় এর left এবং right children এর ভ্যালু থেকে বড় বা সমান হবে । এই হিসেবে Max heap এর root node এ সবসময় heap এর সবচেয়ে বড় ভ্যালুটি থাকবে।
+---
+#### 7. In a min-heap, the parent node is always _______ the child nodes.
+**a)** Greater than  
+**b)** Less than or equal ✅  
+**c)** Exactly equal  
+**d)** Unrelated to
+> **Explanation:** মডিউল অনুসারে , Min heap এর নিয়ম অনুযায়ী root node এর ভ্যালু সবসময় এর left এবং right children এর ভ্যালু থেকে ছোট বা সমান হবে।
+---
+#### 8. Which heap property ensures that for any node i, the value of node i is greater than or equal to the values of its children?
+**a)** Max-heap property ✅  
+**b)** Min-heap property  
+**c)** Balanced property  
+**d)** Complete property
+> **Explanation:** মডিউল অনুসারে , Max heap এর নিয়ম অনুযায়ী root node এর ভ্যালু সবসময় এর left এবং right children এর ভ্যালু থেকে বড় বা সমান হবে।
+---
+#### 9. A max heap is a _____________and______________.
+**a)** complete binary tree  
+**b)** each element is smaller than its children  
+**c)** each element is greater than its children  
+**d)** both a and c ✅
+> **Explanation:** মডিউল হতে , Max heap এর নিয়ম অনুসারে Max heap সবসময় একটি complete binary tree হবে এবং এর  root node এর ভ্যালু সবসময় এর left এবং right children এর ভ্যালু থেকে বড় বা সমান হবে।
+---
+#### 10. Which one of the following array elements represents a min heap?
+**a)** 12 10 8 25 14 17  
+**b)** 8 10 12 25 14 17 ✅  
+**c)** 25 17 14 12 10 8  
+**d)** 14 17 25 10 12 8
+> **Explanation:** মডিউল হতে max heap এর array representation এর ধারনা পাওয়া যায় যার মাধ্যমে খুব সহজে min heap এর array representation ব্যাখা করা সম্ভব।
+---
+- [Extra Practice Problem (Optional):](https://docs.google.com/document/d/1cWSmpJLZx1df1iPeR-EUyGHRPdJQMFtXli2qnBVGOMg/edit?usp=sharing)
+- <img src="./images/practice_problem.png" width="400">
+- [Problem 1](https://www.codingninjas.com/studio/problems/insert-into-a-binary-search-tree_1279913)
+- [Problem 2](https://www.codingninjas.com/studio/problems/fourth-largest-element-in-the-array_1792782)
