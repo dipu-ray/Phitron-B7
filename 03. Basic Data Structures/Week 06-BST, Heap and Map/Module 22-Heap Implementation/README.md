@@ -174,3 +174,24 @@
 **d)** A binary tree where all nodes have either 0 or 2 children.
 > **Explanation:** Complete Binary Tree হলো এমন একটি বাইনারী ট্রি যেখানে শেষ লেভেল এর আগের লেভেল পুরোপুরি কমপ্লিট থাকতে হবে এবং শেষ লেভেল কমপ্লিট না হলে তবে তা বাম দিকে কমপ্লিট হয়ে আসতে হবে।
 ---
+#### 2. What is the time complexity of inserting an element to heap?
+**a)** O(log n) ✅  
+**b)** O(n*n)  
+**c)** O(n log n)  
+**d)** O(1)
+> **Explanation:** মডিউল অনুসারে আমরা জেনেছি Max Heap একটি ভ্যালু insert করলে তবে তা তার প্যারেন্ট এর ভ্যালু এর সাথে চেক করে Heap শর্ত অনুযায়ী ভ্যালু swap করে। children এবং parent এর ভ্যালু এর এই swapping প্রসেস টি চলতে থাকে যতক্ষন না হিপের শর্ত পূর্ণ হয়। এর জন্য ভ্যালু থেকে নিয়ে রুট পর্যন্ত ম্যাক্সিমাম তার হাইটের সমান অপারেশন করতে হয়। যেহেতু Heap একটি complete binary tree তাই তার ম্যাক্সিমাম height log(n)।
+---
+#### 3. What is the time complexity of deleting n elements from a heap?
+**a)** O(log n)  
+**b)** O(n*n)  
+**c)** O(n log n) ✅  
+**d)** O(1)
+> **Explanation:** Heap হতে একটি ভ্যালু deletion এর টাইম কমপ্লেক্সিটি O(logn) . সুতারাং n টি ভ্যালু deletion এর টাইম কমপ্লেক্সিটি  O( n * logn)।
+---
+#### 4. In a Max Heap, what happens when you insert a new element?
+**a)** The element is always added as the new root.  
+**b)** The element is inserted at the last position and adjusted upwards to maintain the heap property. ✅  
+**c)** The element replaces the smallest element directly.  
+**d)** The element is inserted randomly and adjusted downwards to maintain the heap property.
+> **Explanation:** মডিউল অনুসারে আমরা জেনেছি Max Heap একটি ভ্যালু insert করলে তবে তা তার প্যারেন্ট এর ভ্যালু এর সাথে চেক করে Heap শর্ত অনুযায়ী ভ্যালু swap করে। children এবং parent এর ভ্যালু এর এই swapping প্রসেস টি চলতে থাকে যতক্ষন না হিপের শর্ত পূর্ণ হয়।
+---
