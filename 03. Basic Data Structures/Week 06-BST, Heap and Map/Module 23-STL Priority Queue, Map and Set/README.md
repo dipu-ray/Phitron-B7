@@ -14,3 +14,8 @@
 - Quiz: Module 23
 - Extra Practice Problem and Quiz Explanation
 - Feedback Form: Module 23
+
+## 0. Introduction
+- Explore STL priority queue
+- Known to STL map
+- Learn to STL set
