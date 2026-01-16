@@ -23,3 +23,7 @@
 ## 1. What is Priority Queue
 - In priority queue bigger value are always first.
 - <img src="./images/drawing.png" width="300">
+
+## 2. Difference between array and priority queue
+- Let's see difference between array and priority queue:
+- <img src="./images/drawing2.png" width="300">
