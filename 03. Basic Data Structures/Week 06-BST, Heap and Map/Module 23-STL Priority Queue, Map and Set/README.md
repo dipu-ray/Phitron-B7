@@ -19,3 +19,7 @@
 - Explore STL priority queue
 - Known to STL map
 - Learn to STL set
+
+## 1. What is Priority Queue
+- In priority queue bigger value are always first.
+- <img src="./images/drawing.png" width="300">
