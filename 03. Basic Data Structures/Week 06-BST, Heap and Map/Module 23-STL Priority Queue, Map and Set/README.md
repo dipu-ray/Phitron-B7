@@ -27,3 +27,6 @@
 ## 2. Difference between array and priority queue
 - Let's see difference between array and priority queue:
 - <img src="./images/drawing2.png" width="300">
+
+## 3. STL priority queue
+- 
