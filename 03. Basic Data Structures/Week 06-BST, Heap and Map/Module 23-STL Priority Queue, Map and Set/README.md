@@ -32,4 +32,4 @@
 - Program: `priority_queue.cpp`
 
 ## 4. Custom compare class
-- 
+- Program: `custom_compare_class.cpp`
