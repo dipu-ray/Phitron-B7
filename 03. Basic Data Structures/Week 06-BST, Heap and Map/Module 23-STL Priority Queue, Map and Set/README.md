@@ -29,4 +29,4 @@
 - <img src="./images/drawing2.png" width="300">
 
 ## 3. STL priority queue
-- 
+- Program: `priority_queue.cpp`
