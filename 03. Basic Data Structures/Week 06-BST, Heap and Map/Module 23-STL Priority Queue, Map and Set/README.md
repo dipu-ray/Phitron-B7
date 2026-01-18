@@ -30,3 +30,6 @@
 
 ## 3. STL priority queue
 - Program: `priority_queue.cpp`
+
+## 4. Custom compare class
+- 
