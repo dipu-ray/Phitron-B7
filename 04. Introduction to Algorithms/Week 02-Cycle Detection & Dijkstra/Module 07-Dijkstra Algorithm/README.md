@@ -36,9 +36,3 @@
 ## 3. Dijkstra Concept
 - <img src="./images/drawing5.png" width="400">
 - <img src="./images/drawing6.png" width="400">
-
-## 4. Dijkstra Naive Approach
-- <img src="./images/drawing7.png" width="400">
-- <img src="./images/drawing8.png" width="400">
-- <img src="./images/drawing9.png" width="400">
-- Abc...
