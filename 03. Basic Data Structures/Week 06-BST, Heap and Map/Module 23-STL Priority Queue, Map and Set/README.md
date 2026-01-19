@@ -43,3 +43,6 @@
 
 ## 6. STL Map
 - Program: `map.cpp`
+
+## 7. Count words using map
+- Program: `count_words.cpp`
