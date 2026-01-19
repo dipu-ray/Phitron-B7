@@ -33,3 +33,10 @@
 
 ## 4. Custom compare class
 - Program: `custom_compare_class.cpp`
+
+## 5. Limitations of frequency array
+- Here is some problems or limitations of Frequency Array:
+    - `Only int`
+    - `Index (0 - 10^6)`
+    - `Memory waste`
+- These 3 problem solve with `STL Map`.
