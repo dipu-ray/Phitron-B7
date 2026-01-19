@@ -40,3 +40,6 @@
     - `Index (0 - 10^6)`
     - `Memory waste`
 - These 3 problem solve with `STL Map`.
+
+## 6. STL Map
+- Program: `map.cpp`
