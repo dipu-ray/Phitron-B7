@@ -46,4 +46,22 @@
 ## 3. Floyd-Warshall Theory II
 - <img src="./images/drawing2.png" width="300">
 
-## 
+## 4. Floyd-Warshall Implementation
+- Program: `floyd_warshall.cpp`
+
+## 5. Floyd-Warshall Animated
+- Explanation this code in this video:
+    ```
+    for(int k = 0; k < n; k++) {
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                if(adj_mat[i][k] != INT_MAX && adj_mat[k][j] != INT_MAX && adj_mat[i][k] + adj_mat[k][j] < adj_mat[i][j]) {
+                    adj_mat[i][j] = adj_mat[i][k] + adj_mat[k][j];
+                }
+            }
+        }
+    }
+    ```
+
+## 6. Detect negative weighted cycle using Floyd-Warshall
+- Program: `detect_nwc.cpp`
