@@ -65,3 +65,5 @@
 
 ## 6. Detect negative weighted cycle using Floyd-Warshall
 - Program: `detect_nwc.cpp`
+
+## 7. DFS vs BFS vs Dijkstra vs Bellman-Ford vs Floyd-warshall
