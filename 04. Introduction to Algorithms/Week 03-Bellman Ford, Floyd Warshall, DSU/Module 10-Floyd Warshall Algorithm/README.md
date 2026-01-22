@@ -74,3 +74,8 @@
 - `Bellman-Ford - O(VE) -> Negative Weighted + Cycle`
 - `Floyd-Warshall - O(V^3) -> For Multiple Sources`
 - Think and work with better time complexity.
+
+## 8. Shortest Routes II
+- <img src="./images/problem.png" width="250">
+- [Shortest Routes II - Problem Link](https://cses.fi/problemset/task/1672/)
+- Solved Program: `shortest_routes_2.cpp`
