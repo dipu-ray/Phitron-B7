@@ -79,3 +79,8 @@
 - <img src="./images/problem.png" width="250">
 - [Shortest Routes II - Problem Link](https://cses.fi/problemset/task/1672/)
 - Solved Program: `shortest_routes_2.cpp`
+
+## 9. Summary
+- Learn and explore to Floyd-Warshall Algorithm.
+- Find the Shortest Routes with Floyd-Warshall Algorithm.
+- We learn when to use which algorithms.
