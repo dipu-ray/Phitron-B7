@@ -16,3 +16,7 @@
 - Quiz: Module 11
 - Quiz Explanation Module 11
 - Feedback Form Module 11
+
+## 0. Introduction
+- This module will learn about `Union-Find` Algorithm.
+- This algorithm basically `Graph Connected Component`, `Graph Cycle` and `Minimum Spanning Tree (MST)` problem will solve. 
