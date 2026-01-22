@@ -67,4 +67,10 @@
 - Program: `detect_nwc.cpp`
 
 ## 7. DFS vs BFS vs Dijkstra vs Bellman-Ford vs Floyd-warshall
-- Abc
+- `Algorithms - Time Complexity -> Uses of cases`
+- `DFS - O(V+E) -> For Traverse`
+- `BFS - O(V+E) -> For Fixed Source`
+- `Dijkstra - O(ElogV) -> Weighted Fixed Source`
+- `Bellman-Ford - O(VE) -> Negative Weighted + Cycle`
+- `Floyd-Warshall - O(V^3) -> For Multiple Sources`
+- Think and work with better time complexity.
