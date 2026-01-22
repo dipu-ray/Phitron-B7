@@ -19,4 +19,7 @@
 
 ## 0. Introduction
 - This module will learn about `Union-Find` Algorithm.
-- This algorithm basically `Graph Connected Component`, `Graph Cycle` and `Minimum Spanning Tree (MST)` problem will solve. 
+- This algorithm basically `Graph Connected Component`, `Graph Cycle` and `Minimum Spanning Tree (MST)` problem will solve.
+
+## 1. What is DSU
+- <img src="./images/drawing.png" width="300">
