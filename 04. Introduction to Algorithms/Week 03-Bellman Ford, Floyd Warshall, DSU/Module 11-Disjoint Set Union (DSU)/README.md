@@ -23,3 +23,6 @@
 
 ## 1. What is DSU
 - <img src="./images/drawing.png" width="300">
+
+## 2. How find operation works
+- 
