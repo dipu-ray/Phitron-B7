@@ -27,3 +27,6 @@
 ## 2. How find operation works
 - DSU define make a algorithm `Union-Find Algorithm`.
 - <img src="./images/drawing2.png" width="300">
+
+## 3. Find operation implementation
+- Program: `find_using_loop.cpp`
