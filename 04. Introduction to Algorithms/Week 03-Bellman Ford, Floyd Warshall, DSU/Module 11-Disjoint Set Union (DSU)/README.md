@@ -31,3 +31,6 @@
 ## 3. Find operation implementation
 - Program: `find_using_loop.cpp`
 - Program: `find_using_recursion.cpp`
+
+## 4. Find operation optimized
+- Program: `find_optimized.cpp`
