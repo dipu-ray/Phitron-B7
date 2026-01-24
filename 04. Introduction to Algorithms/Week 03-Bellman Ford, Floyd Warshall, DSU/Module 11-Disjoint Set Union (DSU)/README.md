@@ -34,3 +34,15 @@
 
 ## 4. Find operation optimized
 - Program: `find_optimized.cpp`
+
+## 5. Find operation Animated
+- Explanation this code in this video:
+    ```
+    int find(int node) { // O(logN)
+        if(par[node] == -1)
+            return node;
+        int leader = find(par[node]);
+        par[node] = leader; // Optimized code
+        return leader;
+    }
+    ```
