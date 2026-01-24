@@ -26,4 +26,4 @@
 
 ## 2. How find operation works
 - DSU define make a algorithm `Union-Find Algorithm`.
-- <img src="./images" width="300">
+- <img src="./images/drawing2.png" width="300">
