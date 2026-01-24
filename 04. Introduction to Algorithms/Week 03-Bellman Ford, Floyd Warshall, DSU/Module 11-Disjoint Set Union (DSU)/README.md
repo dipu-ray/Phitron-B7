@@ -30,3 +30,4 @@
 
 ## 3. Find operation implementation
 - Program: `find_using_loop.cpp`
+- Program: `find_using_recursion.cpp`
