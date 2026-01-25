@@ -52,3 +52,6 @@
 
 ## 7. Union operation implementation
 - Program: `union.cpp`
+
+## 8. Union operation Animated
+- 
