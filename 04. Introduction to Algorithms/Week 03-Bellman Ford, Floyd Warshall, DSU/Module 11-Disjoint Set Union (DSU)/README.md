@@ -82,3 +82,10 @@
     - `Union Operation`
 - Explore `Find Operation`
 - Explore `Union Operation`
+
+## Quiz: Module 11
+- `Total Questions: 08`
+- `Total Marks: 08`
+
+## Quiz Explanation Module 11
+- [Quiz Explanation:](https://docs.google.com/document/d/1ujbl0vw6_HmHYbYnV6_NJ4ACiHNuJ9RRptJkdNoNgco/edit?usp=sharing)
