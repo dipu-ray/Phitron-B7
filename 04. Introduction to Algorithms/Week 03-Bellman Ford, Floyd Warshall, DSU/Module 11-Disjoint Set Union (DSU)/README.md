@@ -54,4 +54,31 @@
 - Program: `union.cpp`
 
 ## 8. Union operation Animated
-- 
+- Explanation this code in this video:
+    ```
+    void dsu_union(int node1, int node2) {
+        int leader1 = find(node1);
+        int leader2 = find(node2);
+        if(group_size[leader1] >= group_size[leader2]) {
+            par[leader2] = leader1;
+            group_size[leader1] += group_size[leader2];
+        }
+        else {
+            par[leader1] = leader2;
+            group_size[leader2] += group_size[leader1];
+        }
+    }
+    ```
+
+## 9. Detect cycle in undirected graph using DSU
+- <img src="./images/drawing4.png" width="300">
+
+## 10. Detect cycle in undirected graph using DSU implementation
+- Program: `dcug_using_dsu.cpp`
+
+## 11. Summary
+- Learn and explore to Disjoint Set Union (DSU). DSU have two operations:
+    - `Find Operation`
+    - `Union Operation`
+- Explore `Find Operation`
+- Explore `Union Operation`
