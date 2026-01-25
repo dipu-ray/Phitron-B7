@@ -46,3 +46,6 @@
         return leader;
     }
     ```
+
+## 6. How union operation works
+- <img src="./images/drawing3.png" width="300">
