@@ -27,3 +27,17 @@
     - `Bottom Up`
 - `Dynamic Programming` mainly work on recursion optimization.
 - `Recursion` must be exert for in `Dynamic Programming`.
+
+## 1. What is Dynamic Programming
+- `Dynamic Programming` means `recursion + optimization`.
+- When recursive solution have to duplicate or repeat to call then make to optimized recursion, that also call to `Dynamic Programming`.
+- `Dynamic Programming` have two types of approach:
+    - `Top Down -> Using with Recursion`
+    - `Bottom Up -> Using with Loop`
+
+## 2. Recursion recap
+- Program: `recursion.cpp`
+
+## 3. Factorial with recursion
+- <img src="./images/drawing.png" width="250">
+- Program: `factorial.cpp`
