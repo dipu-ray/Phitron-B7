@@ -8,7 +8,7 @@
 3. Factorial with recursion
 4. Fibonacci with recursion
 5. Recursive call visualizer
-6. Optimising Fibonacci
+6. Optimizing Fibonacci
 7. Fibonacci with DP
 8. Fibonacci bottom up
 9. LeetCode Climbing Stairs
@@ -41,3 +41,12 @@
 ## 3. Factorial with recursion
 - <img src="./images/drawing.png" width="250">
 - Program: `factorial.cpp`
+
+## 4. Fibonacci with recursion
+- <img src="./images/drawing2.png" width="250">
+- Program: `fibonacci.cpp`
+- This program will optimized in next next module.
+
+## 5. Recursive call visualizer
+- [Recursion Tree Visualizer Link:](https://quanticdev.com/tools/recursion-visualization/)
+- <img src="./images/drawing3.png" width="250">
