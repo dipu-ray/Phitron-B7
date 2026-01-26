@@ -45,8 +45,18 @@
 ## 4. Fibonacci with recursion
 - <img src="./images/drawing2.png" width="250">
 - Program: `fibonacci.cpp`
-- This program will optimized in next next module.
+- This program will optimized in `7. Fibonacci with DP`.
 
 ## 5. Recursive call visualizer
 - [Recursion Tree Visualizer Link:](https://quanticdev.com/tools/recursion-visualization/)
 - <img src="./images/drawing3.png" width="250">
+
+## 6. Optimizing Fibonacci
+- <img src="./images/drawing4.png" width="250">
+
+## 7. Fibonacci with DP
+- Program: `fibonacci_memoization.cpp`
+
+## 8. Fibonacci bottom up
+- <img src="./images/drawing5.png" width="250">
+- Program: `fibonacci_bottom_up.cpp`
