@@ -60,3 +60,37 @@
 ## 8. Fibonacci bottom up
 - <img src="./images/drawing5.png" width="250">
 - Program: `fibonacci_bottom_up.cpp`
+
+## 9. LeetCode Climbing Stairs
+- [Problem Link:](https://leetcode.com/problems/climbing-stairs/description/)
+- Solved Program:
+    ```
+    class Solution {
+    public:
+        int dp[50];
+        int fibo(int n)
+        {
+            if(n<3) return n;
+            if(dp[n] != -1) return dp[n];
+            return dp[n] = fibo(n-1) + fibo(n-2);
+        }
+        int climbStairs(int n) {
+            memset(dp,-1,sizeof(dp));
+            return fibo(n);
+        }
+    };
+    ```
+
+## 10. Summary
+- Today we'll learn `Dynamic Programming (DP)` and DP basics
+- `Dynamic Programming` mainly using for `Recursion`.
+- Solved and make programs factorial and fibonacci using recursion
+- Using `Memoization` technique and solved fibonacci.
+- And lastly using `Bottom-Up or loops` for fibonacci.
+
+## Quiz: Module 14
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## Quiz Explanation Module 14
+- [Quiz Explanation Link:](https://docs.google.com/document/d/126cvj8uI3XPsBIxKKJYPtnlIHt_hKWUv7YfS61xCUT0/edit?usp=sharing)
