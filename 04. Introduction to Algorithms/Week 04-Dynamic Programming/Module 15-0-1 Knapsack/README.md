@@ -18,4 +18,11 @@
 - [Problem Link:](https://docs.google.com/document/d/1JTCbAZ4kUPpGgsvmGMAF2qxBc1eSAwnAexCH97IohgY/edit?usp=sharing)
 
 ## 0. Introduction
-- Abc
+- `Dynamic Programming` have classy problem and famous problem name is `0-1 KnapSack`.
+- This total module we will learn about `0-1 KnapSack`.
+- `0-1 KnapSack`:
+    - `0-1` - `Choice`
+    - `KnapSack` - `Bag`
+
+## 1. What is 0-1 KnapSack
+- <img src="./images/drawing.png" width="300">
