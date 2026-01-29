@@ -25,3 +25,8 @@
 
 ## 2. Subset sum implementation
 - Program: `subset_sum.cpp`
+- This program time complexity was `O(2^N)`
+
+## 3. Subset sum using dp
+- Time complexity was `O(2^N)` that why we will use to `Dynamic Programming (DP)`.
+- Program: `subset_sum_dp.cpp`
