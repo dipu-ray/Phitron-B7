@@ -19,3 +19,6 @@
     - Subset Sum
     - Subset Sum Variation
     - Unbounded KnapSack
+
+## 1. Subset sum Idea
+- <img src="./images/drawing.png" width="300">
