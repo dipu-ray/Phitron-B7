@@ -22,3 +22,6 @@
 
 ## 1. Subset sum Idea
 - <img src="./images/drawing.png" width="300">
+
+## 2. Subset sum implementation
+- Program: `subset_sum.cpp`
