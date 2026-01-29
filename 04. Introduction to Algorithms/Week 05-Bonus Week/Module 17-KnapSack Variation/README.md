@@ -30,3 +30,7 @@
 ## 3. Subset sum using dp
 - Time complexity was `O(2^N)` that why we will use to `Dynamic Programming (DP)`.
 - Program: `subset_sum_dp.cpp`
+
+## 4. Count of subset sum
+- <img src="./images/drawing2.png" width="300">
+- Program: `count_subset_sum.cpp`
