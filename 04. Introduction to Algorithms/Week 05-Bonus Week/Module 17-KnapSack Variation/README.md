@@ -38,3 +38,6 @@
 ## 5. Equal sum
 - <img src="./images/drawing3.png" width="300">
 - Program: `equal_sum.cpp`
+
+## 6. Unbounded knapsack
+- 
