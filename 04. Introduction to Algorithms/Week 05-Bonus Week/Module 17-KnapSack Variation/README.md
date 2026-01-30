@@ -34,3 +34,7 @@
 ## 4. Count of subset sum
 - <img src="./images/drawing2.png" width="300">
 - Program: `count_subset_sum.cpp`
+
+## 5. Equal sum
+- <img src="./images/drawing3.png" width="300">
+- Program: `equal_sum.cpp`
