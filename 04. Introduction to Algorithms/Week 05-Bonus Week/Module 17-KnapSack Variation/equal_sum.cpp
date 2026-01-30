@@ -27,19 +27,24 @@ bool subset_sum(int i, int sum) {
 int main() {
     int n;
     cin >> n;
-    for(int i = 0; i < n; i++)
+    int sum = 0;
+    for(int i = 0; i < n; i++) {
         cin >> val[i];
+        sum += val[i];
+    }
 
-    int sum;
-    cin >> sum;
-    for(int i = 0; i <= n; i++)
+    if(sum % 2 == 1) {
+        cout << "No!\n";
+    }
+    else {
+        for(int i = 0; i <= n; i++)
         for(int j = 0; j <= sum; j++)
             dp[i][j] = -1;
-
-    if(subset_sum(n-1, sum))
-        cout << "Yes!\n";
-    else
-        cout << "No!\n";
+        if(subset_sum(n-1, sum/2))
+            cout << "Yes!\n";
+        else
+            cout << "No!\n";
+    }
 
     return 0;
 }
