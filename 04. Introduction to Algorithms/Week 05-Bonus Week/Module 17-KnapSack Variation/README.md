@@ -80,4 +80,9 @@
     ```
 
 ## 9. Summary
-- Abc
+- Learn and explore `KnapSack Variations`.
+    - `Subset Sum`
+    - `Subset Sum Count`
+    - `Subset Sum Equal`
+    - `Unbounded KnapSack`
+- `Unbounded KnapSack` using with leetcode problem solving name `Coin Change`.
