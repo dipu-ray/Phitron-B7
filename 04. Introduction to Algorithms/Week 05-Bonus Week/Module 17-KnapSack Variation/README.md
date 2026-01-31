@@ -40,7 +40,7 @@
 - Program: `equal_sum.cpp`
 
 ## 6. Unbounded knapsack
-- Abc
+- <img src="./images/drawing4.png" width="300">
 
 ## 7. Unbounded knapsack implementation
 - Abc
