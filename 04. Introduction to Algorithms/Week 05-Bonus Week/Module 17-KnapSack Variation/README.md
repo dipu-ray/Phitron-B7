@@ -43,7 +43,7 @@
 - <img src="./images/drawing4.png" width="300">
 
 ## 7. Unbounded knapsack implementation
-- Abc
+- Program: `unbounded_knapsack.cpp`
 
 ## 8. LeetCode coin change
 - Abc
