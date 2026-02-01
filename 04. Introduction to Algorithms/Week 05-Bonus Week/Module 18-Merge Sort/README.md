@@ -23,4 +23,12 @@
     - `Divide & Conquer`: Divide an array every part has sorted and then all every single parts combined and make will an sorted array.
 
 ## 2. Conquer Theory
-- <img src="./images/drawing.png" width="300">
+- There have two sorted array's and then make a single sorted array with this two array's combination.
+    - <img src="./images/drawing.png" width="300">
+
+## 3. Conquer Animated
+- Explain this theory in this video with animated way:
+    - <img src="./images/drawing.png" width="300">
+
+## 4. Conquer Implementation
+- Program: `conquer.cpp`
