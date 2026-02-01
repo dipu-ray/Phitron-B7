@@ -32,3 +32,52 @@
 
 ## 4. Conquer Implementation
 - Program: `conquer.cpp`
+
+## 5. Divide theory
+- <img src="./images/drawing2.png" width="250">
+
+## 6. Divide Implementation
+- Program: `divide.cpp`
+
+## 7. Merge sort using Divide & Conquer
+- Program: `merge_sort.cpp`
+
+## 8. Merge Sort Animated
+- Explain this code in this video:
+    ```
+    void divide(int a[], int l, int r) {
+        if(l >= r)
+            return;
+        int mid = (l + r) / 2;
+        divide(a, l, mid);
+        divide(a, mid+1, r);
+        conquer(a, l, mid, r);
+    }
+    ```
+- This code was very complicated and not to easy.
+
+## 9. Complexity of Merge sort
+- How this work with `O(NlogN)`?
+    ```
+    void divide(int a[], int l, int r) {
+        if(l >= r)
+            return;
+        int mid = (l + r) / 2;
+        divide(a, l, mid); // O(logN)
+        divide(a, mid+1, r);
+        conquer(a, l, mid, r); // O(NlogN)
+    }
+    ```
+
+## 10. Summary
+- From this module we was learned new algorithms `Merge Sort` and learn also two concept `Divide and Conquer`.
+- `Conquer` - There have two sorted array's and then this two array combined make a new single sorted array.
+- `Divide` - There have an array and divide until this array will not sorted.
+- `Divide and Conquer` = `Merge Sort`
+
+## 11. Quiz: Module 18
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## 12. Quiz Explanation Module 18
+- [Quiz Explanation:](https://docs.google.com/document/d/1Vv59rkgY2QbvNHxOkXR8rIKBEQFzCgDsHWg9g_VeW08/edit?usp=sharing)
