@@ -21,3 +21,6 @@
 ## 1. How Merge sort works
 - `Merge Sort`:
     - `Divide & Conquer`: Divide an array every part has sorted and then all every single parts combined and make will an sorted array.
+
+## 2. Conquer Theory
+- <img src="./images/drawing.png" width="300">
