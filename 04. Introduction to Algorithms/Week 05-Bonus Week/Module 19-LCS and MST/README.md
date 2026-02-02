@@ -21,4 +21,4 @@
 - <img src="./images/drawing2.png" width="300">
 
 ## 3. How to calculate LCS
-- 
+- <img src="./images/drawing3.png" width="300">
