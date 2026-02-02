@@ -22,3 +22,6 @@
 
 ## 3. How to calculate LCS
 - <img src="./images/drawing3.png" width="300">
+
+## 4. Recursive call of LCS
+- <img src="./images/drawing4.png" width="300">
