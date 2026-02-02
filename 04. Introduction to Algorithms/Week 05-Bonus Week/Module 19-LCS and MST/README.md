@@ -19,3 +19,6 @@
 
 ## 2. What is LCS
 - <img src="./images/drawing2.png" width="300">
+
+## 3. How to calculate LCS
+- 
