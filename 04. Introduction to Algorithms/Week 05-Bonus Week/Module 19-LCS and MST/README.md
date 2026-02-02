@@ -16,3 +16,6 @@
 - Learn this first topic name is `LCS - Longest Common Subsequence`. Before learn one more thing `Subsequence`.
 - `Subsequence` have to many concepts - `subsequence, substring, subarray, subset`.
 - <img src="./images/drawing.png" width="300">
+
+## 2. What is LCS
+- <img src="./images/drawing2.png" width="300">
