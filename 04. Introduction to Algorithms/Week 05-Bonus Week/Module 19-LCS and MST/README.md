@@ -13,4 +13,6 @@
 12. Quiz Explanation Module 19
 
 ## 1. What is subsequence
-- Abc
+- Learn this first topic name is `LCS - Longest Common Subsequence`. Before learn one more thing `Subsequence`.
+- `Subsequence` have to many concepts - `subsequence, substring, subarray, subset`.
+- <img src="./images/drawing.png" width="300">
