@@ -25,3 +25,7 @@
 
 ## 4. Recursive call of LCS
 - <img src="./images/drawing4.png" width="300">
+- <img src="./images/drawing5.png" width="300">
+
+## 5. LCS implementation
+- Program: `lcs_implementation.cpp`
