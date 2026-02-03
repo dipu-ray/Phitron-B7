@@ -31,4 +31,4 @@
 - Program: `lcs_implementation.cpp`
 
 ## 6. What is MST
-- 
+- <img src="./images/drawing6.png" width="300">
