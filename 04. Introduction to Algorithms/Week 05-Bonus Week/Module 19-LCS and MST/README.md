@@ -32,3 +32,6 @@
 
 ## 6. What is MST
 - <img src="./images/drawing6.png" width="300">
+
+## 7. Kruskals algorithm
+- Abc
