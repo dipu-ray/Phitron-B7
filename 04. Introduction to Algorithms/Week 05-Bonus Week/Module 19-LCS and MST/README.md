@@ -35,3 +35,9 @@
 
 ## 7. Kruskals algorithm
 - Abc
+
+## 8. Kruskals algorithm implementation I
+- Abc
+
+## 9. Kruskals algorithm implementation II
+- Abc
