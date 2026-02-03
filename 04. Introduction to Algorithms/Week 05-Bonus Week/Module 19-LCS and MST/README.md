@@ -29,3 +29,6 @@
 
 ## 5. LCS implementation
 - Program: `lcs_implementation.cpp`
+
+## 6. What is MST
+- 
