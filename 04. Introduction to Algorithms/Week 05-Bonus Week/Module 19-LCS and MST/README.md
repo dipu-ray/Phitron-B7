@@ -35,3 +35,6 @@
 
 ## 7. Kruskals algorithm
 - <img src="./images/drawing7.png" width="300">
+
+## 8. Kruskals algorithm implementation I
+- Program: `mst.cpp`
