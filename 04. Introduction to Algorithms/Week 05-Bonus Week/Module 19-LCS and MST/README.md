@@ -34,10 +34,4 @@
 - <img src="./images/drawing6.png" width="300">
 
 ## 7. Kruskals algorithm
-- Abc
-
-## 8. Kruskals algorithm implementation I
-- Abc
-
-## 9. Kruskals algorithm implementation II
-- Abc
+- <img src="./images/drawing7.png" width="300">
