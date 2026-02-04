@@ -40,4 +40,16 @@
 - Program: `mst.cpp`
 
 ## 9. Kruskals algorithm implementation II
-- Abc
+- Program: `mst2.cpp`
+
+## 10. Summary
+- Learned `LCS - Longest Common Subsequence` and `MST - Minimum Spanning Tree`.
+- Learn and explore to first `Subsequence` and then go to `LCS`.
+- Find and solve `MST - Minimum Spanning Tree` with `Kruskal's Algorithm`.
+
+## 11. Quiz: Module 19
+- `Total Questions: 10`
+- `Total Marks: 10`
+
+## 12. Quiz Explanation Module 19
+- [Quiz Explanation-](https://docs.google.com/document/d/1yXo1uwLz7OqdW8PIckzlsOJIOnW6KsZg/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true)
