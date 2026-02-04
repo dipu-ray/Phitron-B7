@@ -40,5 +40,3 @@
 - Program: `mst.cpp`
 ## 8. Kruskals algorithm implementation I
 - Program: `mst.cpp`
-## 8. Kruskals algorithm implementation I
-- Program: `mst.cpp`
