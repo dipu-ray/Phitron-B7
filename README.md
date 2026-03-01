@@ -6,8 +6,3 @@
 
 - All the main subjects of Computer Science, 500+ problem solving, programming contests, unlimited support, software engineering career, you can solve any problem related to the course live by screen sharing on Google Meet three times a day. What else do you need?
 <hr>
-
-
-
-<p align="center">Date of Purchase: 18 March, 2025</p>
-<p align="center">Class Start: 05 April, 2025</p>
